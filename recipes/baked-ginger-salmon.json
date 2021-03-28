@@ -1,0 +1,45 @@
+{
+  "title": "Baked Ginger Salmon",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
+  "slug": "baked-ginger-salmon",
+  "image": "../images/baked-ginger-salmon.jpg",
+  "rating": 7,
+  "notes": [
+    ""
+  ],
+  "source": "https://www.budgetbytes.com/ginger-salmon/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 tsp grated fresh ginger",
+        "1 clove  garlic, minced",
+        "2 Tbsp brown sugar",
+        "1 tsp soy sauce",
+        "1/4 tsp toasted sesame oil",
+        "1 lb. fresh salmon"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425ºF. Grate about 1 tsp fresh ginger. Combine the ginger, garlic, brown sugar, soy sauce, and toasted sesame oil in a bowl.",
+    "Cut the salmon into four equal portions. Place the portioned salmon on a baking sheet lined with parchment or foil, skin side down.",
+    "Spread the prepared ginger glaze over the top of each piece of salmon.",
+    "Bake the salmon for about 20 minutes (15 minutes for thin fillets), or until the internal temperature reaches 145ºF. Serve immediately."
+  ],
+  "createdDate": "3/28/2021"
+}

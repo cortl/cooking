@@ -1,0 +1,47 @@
+{
+  "title": "Slow Cooker Chili Rubbed Pulled Pork",
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": " minutes"
+    },
+    {
+      "label": "Total",
+      "units": "10 minutes"
+    }
+  ],
+  "slug": "slow-cooker-chili-rubbed-pulled-pork",
+  "image": "../images/slow-cooker-chili-rubbed-pulled-pork.jpg",
+  "rating": 8,
+  "notes": [
+    ""
+  ],
+  "source": "https://www.budgetbytes.com/chili-rubbed-pulled-pork/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 lbs. boneless pork butt or shoulder",
+        "2 Tbsp chili powder*",
+        "1 Tbsp smoked paprika",
+        "1/4 tsp cayenne pepper",
+        "1/2 tsp garlic powder",
+        "1/2 tsp onion powder",
+        "1 tsp salt",
+        "1/4 tsp Freshly cracked black pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine the chili powder, smoked paprika, cayenne pepper, garlic powder, onion powder, salt, and some freshly cracked pepper in a bowl. ",
+    "Cut the pork butt into 2-3 inch cubes. Place the pork cubes in a large bowl, sprinkle the prepared spice mix over top, then stir to coat the meat in the spices.",
+    "Place the seasoned meat in a slow cooker, place the lid on top, and cook on high for 4-5 hours, or low for 8-9 hours.",
+    "After cooking, stir the meat with a fork to shred the meat. If it's not tender enough to fall apart when stirred, return the lid and cook for an additional 30 minutes adn try again. After shredding the meat, it is ready to serve, or portion and refrigerate or freeze until ready to use. Keep the shredded meat in the juices from the slow cooker until ready to serve for the best flavor."
+  ],
+  "createdDate": "3/28/2021"
+}

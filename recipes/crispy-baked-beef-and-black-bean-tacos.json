@@ -1,0 +1,69 @@
+{
+  "title": "Crispy Baked Beef and Black Bean Tacos",
+  "servings": 5,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "35 minutes"
+    }
+  ],
+  "slug": "crispy-baked-beef-and-black-bean-tacos",
+  "image": "../images/crispy-baked-beef-and-black-bean-tacos.jpg",
+  "rating": 7,
+  "notes": [
+    ""
+  ],
+  "source": "https://www.budgetbytes.com/baked-beef-black-bean-tacos/",
+  "ingredients": [
+    {
+      "category": "TACO SEASONING",
+      "items": [
+        "1 Tbsp chili powder",
+        "1 tsp smoked paprika",
+        "1 tsp ground cumin",
+        "1/2 tsp dried oregano",
+        "1/4 tsp cayenne pepper",
+        "1/2 tsp salt",
+        " Freshly cracked black pepper"
+      ]
+    },
+    {
+      "category": "TACOS",
+      "items": [
+        "1 Tbsp cooking oil",
+        "1 yellow onion",
+        "2 cloves garlic",
+        "1/2 lb. lean ground beef (93% lean or higher)*",
+        "1 15oz. can black beans",
+        "1 box hard taco shells (10 shells)",
+        "1 cup shredded cheddar (4oz.) "
+      ]
+    },
+    {
+      "category": "OPTIONAL TOPPINGS",
+      "items": [
+        "1 tomato",
+        "1 jalapeño",
+        "1 handful fresh cilantro",
+        "1/4 cup sour cream"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the ingredients for the taco seasoning, then set the seasoning aside (or use one envelope of store-bought taco seasoning). Preheat the oven to 400ºF.",
+    "Dice the onion and mince the garlic. Add the onion, garlic, and cooking oil to a large skillet. Sauté the onion and garlic over medium heat until the onion is soft and translucent (about 5 minutes). Add the ground beef and prepared taco seasoning and continue to sauté until the beef is cooked through (another 5 minutes). ",
+    "Arrange the taco shells in a casserole dish so they are all standing upright. If you do not have a dish that fits them snuggly enough to hold them up, use balled up aluminum foil to act as \"book ends\" to help hold the line of tacos upright.",
+    "Drain the can of black beans well, but do not rinse them. A little sauciness helps keep the beef mixture moist.Stir the beans into the seasoned beef and allow them to heat through.",
+    "Fill the tacos with the beef and bean mixture. Sprinkle the shredded cheese over top. Bake the tacos in the preheated oven for 7-10 minutes, or until the cheese is melted and the taco shells are golden brown on the edges.",
+    "While the tacos are baking, dice the tomato, slice the jalapeño, and roughly chop the cilantro leaves. Sprinkle the diced tomato, jalapeño, and cilantro over the tacos, and add a dollop of sour cream just before serving."
+  ],
+  "createdDate": "3/28/2021"
+}

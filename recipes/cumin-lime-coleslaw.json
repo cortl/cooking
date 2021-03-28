@@ -1,0 +1,47 @@
+{
+  "title": "Cumin Lime Coleslaw",
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "30 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": " minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
+  "slug": "cumin-lime-coleslaw",
+  "image": "../images/cumin-lime-coleslaw.jpg",
+  "rating": 7,
+  "notes": [
+    "I hate coleslaw and this was 🔥"
+  ],
+  "source": "https://www.budgetbytes.com/cumin-lime-coleslaw/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2 cup mayonnaise",
+        "2 Tbsp fresh lime juice (about 1/2 lime)",
+        "1 tsp ground cumin",
+        "1/2 tsp salt",
+        "1/8  tsp cayenne pepper",
+        "1 tsp sugar",
+        "1/2 head green cabbage (about 6 cups shredded)",
+        "2 carrots",
+        "4 green onions"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare the coleslaw dressing by stirring together the mayonnaise, lime juice, cumin, salt, sugar, and a pinch of cayenne pepper. Refrigerate the dressing until ready to use.",
+    "Remove the core from the cabbage and then finely shred. Peel the carrots, then use a large holed cheese grater to shred the carrots. Thinly slice the green onions.",
+    "Combine the shredded cabbage, carrots, and green onions in a large bowl. Pour the dressing over top, then stir until everything is well coated in dressing. Serve immediately or refrigerate until ready to serve. After refrigerating, make sure to stir the slaw well before serving."
+  ],
+  "createdDate": "3/28/2021"
+}

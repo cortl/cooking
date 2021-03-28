@@ -1,0 +1,46 @@
+{
+  "title": "Sesame Roasted Green Beans",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
+  "slug": "sesame-roasted-green-beans",
+  "image": "../images/sesame-roasted-green-beans.jpg",
+  "rating": 7,
+  "notes": [
+    "Messed up the recipe and was still good so might want to retry eventually"
+  ],
+  "source": "https://www.budgetbytes.com/sesame-roasted-green-beans/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 lb. green beans",
+        "1 Tbsp cooking oil",
+        "1 Tbsp soy sauce",
+        "2 cloves garlic",
+        "1 Tbsp toasted sesame oil",
+        "1 tsp sesame seeds"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425ºF. Wash the green beans and break off the stems. Mince the garlic.",
+    "Line a large baking sheet with parchment paper for easy cleanup, if desired. Add the green beans, minced garlic, cooking oil, and soy sauce to the baking sheet, then toss the beans until they are evenly coated in oil, soy sauce, and minced garlic. Spread the beans out evenly on the baking sheet.",
+    "Roast the green beans in the fully preheated oven for 15 minutes. ",
+    "After 15 minutes take them out of the oven, drizzle 1 Tbsp toasted sesame oil and sprinkle 1 teaspoon sesame seeds over top. Give everything a good stir.",
+    "Return the green beans to the oven and roast for an additional 5 minutes, or until the beans are slightly browned and blistered. Serve immediately."
+  ],
+  "createdDate": "3/28/2021"
+}
