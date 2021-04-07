@@ -1,0 +1,57 @@
+{
+  "title": "Crunchy Cabbage Salad",
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": " minutes"
+    },
+    {
+      "label": "Total",
+      "units": "20 minutes"
+    }
+  ],
+  "slug": "crunchy-cabbage-salad",
+  "image": "../images/crunchy-cabbage-salad.jpg",
+  "rating": 7,
+  "notes": [
+    "Decent side, salad dressing could be a little tangier. Maybe increase the amount of rice vinegar"
+  ],
+  "source": "https://www.budgetbytes.com/crunchy-asian-salad/",
+  "ingredients": [
+    {
+      "category": "Salad",
+      "items": [
+        "4 cups shredded purple cabbage",
+        "2 carrots ",
+        "4 green onions ",
+        "1/2 bunch fresh cilantro ",
+        "½ cup peanuts "
+      ]
+    },
+    {
+      "category": "Sesame Ginger Dressing",
+      "items": [
+        "¼  cup neutral salad oil*",
+        "2 Tbsp rice vinegar",
+        "1 Tbsp soy sauce",
+        "1.5 Tbsp honey",
+        "1/2 Tbsp tahini",
+        "1/4 tsp toasted sesame oil",
+        "1 clove garlic, minced",
+        "1/2 Tbsp grated fresh ginger"
+      ]
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage as finely as possible. Grate the carrots and slice the green onion. Pull the cilantro leaves from the stems",
+    "Add the shredded cabbage, carrots, green onion, cilantro, and peanuts to a large bowl. Toss to combine.",
+    "To make the dressing, add the salad oil, rice vinegar, soy sauce, honey, tahini, toasted sesame oil, garlic, and ginger to a blender. Blend until the dressing is smooth and creamy.",
+    "When you're ready to eat, drizzle the dressing over the salad and toss until coated. Serve immediately"
+  ],
+  "createdDate": "4/7/2021"
+}
