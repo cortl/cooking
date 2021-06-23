@@ -1,8 +1,6 @@
-const fs = require("fs");
-const assert = require('assert');
-const path = require('path');
-const {type} = require("os");
-const {testing} = require("googleapis/build/src/apis/testing");
+import fs from 'fs';
+import assert from 'assert';
+import path from 'path';
 
 const fieldIsA = (name, field, type) => {
     assert.strictEqual(typeof (field), type, `❌ ${name} isn\'t a ${type}`)
