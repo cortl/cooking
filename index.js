@@ -9,6 +9,15 @@ const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
 const SHEET_ID = '1KbyRcGUIBg-QxLXPuMHUaDtIZn1Uxju-zscQ-Olh3Qg';
 
 let sitesNeeded = {};
+let existingSites = {};
+
+fs.readdirSync('recipes').forEach(item => {
+    const recipe = JSON.parse(fs.readFileSync(`recipes/${item}`));
+
+    existingSites[recipe.source] = recipe.title
+});
+
+const doesRecipeExist = (url) => existingSites.hasOwnProperty(url);
 
 const createRecipe = ({url, notes, rating}) => {
     const parser = getParserForSite(url)
@@ -17,8 +26,9 @@ const createRecipe = ({url, notes, rating}) => {
         return parser(url, notes, rating)
             .then(recipe => {
                 const location = `recipes/${recipe.slug}.json`
-                if (fs.existsSync(location)) {
-                    console.log(`file exists: ${location}`)
+
+                if (doesRecipeExist(url)) {
+                    console.log(`Old recipe exists under ${existingSites[url]}`)
                     const oldRecipe = JSON.parse(fs.readFileSync(location));
                     recipe = {
                         ...oldRecipe,
@@ -28,7 +38,9 @@ const createRecipe = ({url, notes, rating}) => {
                 } else {
                     console.log(`recipe cached: ${location}`);
                 }
+
                 fs.writeFileSync(location, JSON.stringify(recipe, null, 2));
+
                 return recipe;
             })
             .catch(e => {
