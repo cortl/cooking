@@ -1,0 +1,58 @@
+{
+  "title": "Balsamic Roasted Vegetables",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "40 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "55 minutes"
+    }
+  ],
+  "slug": "balsamic-roasted-vegetables",
+  "image": "../images/balsamic-roasted-vegetables.jpg",
+  "rating": 7,
+  "notes": [
+    "Split it up into two sheet pans for maximum C R I S P. Cut the middle out of parsnips 🤦‍♂️"
+  ],
+  "source": "https://www.budgetbytes.com/balsamic-roasted-vegetables/",
+  "ingredients": [
+    {
+      "category": "Balsamic Marinade",
+      "items": [
+        "3 Tbsp olive oil",
+        "3 Tbsp balsamic vinegar",
+        "2 Tbsp brown sugar",
+        "2 Tbsp soy sauce",
+        "1/2 Tbsp Dijon mustard",
+        "1/2 tsp dried basil",
+        " freshly cracked black pepper"
+      ]
+    },
+    {
+      "category": "Vegetables",
+      "items": [
+        "8 oz. mushrooms (baby bellas or button mushrooms)",
+        "1 red onion",
+        "1/2 lb. carrots",
+        "1/2 lb. parsnips",
+        "1 bunch radishes",
+        "1/4 bunch parsley (for garnish)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. In a small bowl, combine the olive oil, balsamic vinegar, brown sugar, soy sauce, Dijon mustard, dried basil, and pepper. Set the marinade aside.",
+    "Scrub or peel the carrots and parsnips, then slice them into 1-inch pieces. Wash the mushrooms and cut them in half. Peel the onion and slice it into 1-inch wide wedges. Wash the radishes, cut off their stems and roots, then slice each one in half.",
+    "Spread the prepared vegetables out over a large baking sheet, making sure they're in a single layer and no piled on top one another. Pour the balsamic marinade over top, then toss the vegetables until they're all well coated.",
+    "Transfer the baking sheet to the oven and roast for 20 minutes. Carefully remove the baking sheet from the oven, give the vegetables a good stir, then return them to the oven and roast for an additional 15-20 minutes, or until the vegetables are tender and have browned on the edges. Don't be alarmed if the marinade blackens on the baking sheet, that part will not be scooped up with the vegetables.",
+    "While the vegetables are roasting, finely chop a handful of fresh parsley. Transfer the roasted vegetables to a bowl or serving platter and sprinkle the chopped parsley over top just before serving."
+  ],
+  "createdDate": "6/22/2021"
+}

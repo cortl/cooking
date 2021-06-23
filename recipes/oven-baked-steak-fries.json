@@ -1,0 +1,43 @@
+{
+  "title": "Oven Baked Steak Fries",
+  "servings": 2,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "35 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "45 minutes"
+    }
+  ],
+  "slug": "oven-baked-steak-fries",
+  "image": "../images/oven-baked-steak-fries.jpg",
+  "rating": 7,
+  "notes": [
+    "Cook them a little less than 40 mins + maybe thicker slices"
+  ],
+  "source": "https://www.budgetbytes.com/oven-baked-steak-fries/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 lb. russet potatoes",
+        "1 Tbsp cooking oil",
+        "1/2 Tbsp paprika",
+        "1/2 Tbsp steak seasoning"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425ºF. Wash the potatoes well. Cut each potato into wedges, approximately 12 wedges per potato.  (Quarter the potato lengthwise, then slice each quarter into three wedges.)",
+    "Add the potato wedges to a bowl with the cooking oil, paprika, and steak seasoning. Toss the potato wedges until they are well coated.",
+    "Spread the seasoned potato wedges out over a parchment lined baking sheet, making sure they're in a single layer. Transfer to the preheated oven and bake for 35 minutes, or until they are well browned and crispy. Flip the steak fries once, after about 20 minutes of baking.",
+    "Serve immediately."
+  ],
+  "createdDate": "6/22/2021"
+}
