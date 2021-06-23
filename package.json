@@ -26,11 +26,11 @@
   "type": "module",
   "homepage": "https://github.com/cortl/recipes#readme",
   "dependencies": {
-    "axios": "^0.19.2",
-    "cheerio": "^1.0.0-rc.3",
-    "google-auth-library": "^5.10.1",
-    "googleapis": "^46.0.0",
-    "url-parse": "^1.4.7"
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "google-auth-library": "^7.1.2",
+    "googleapis": "^78.0.0",
+    "url-parse": "^1.5.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"

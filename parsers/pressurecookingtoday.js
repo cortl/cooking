@@ -1,4 +1,4 @@
-import Cheerio from 'cheerio';
+import * as Cheerio from 'cheerio';
 
 import * as Util from './util';
 
@@ -8,11 +8,11 @@ const parse = async (source, notes, rating) => {
 
     let select;
     const instructionBlock = $('.mv-create-instructions');
-    select = Cheerio.load(Cheerio.html($(instructionBlock)));
+    select = Cheerio.load($(instructionBlock).html());
     const instructions = select('li').map((_, element) => $(element).text()).get();
 
     const ingredientBlock = $('.mv-create-ingredients');
-    select = Cheerio.load(Cheerio.html($(ingredientBlock)));
+    select = Cheerio.load($(ingredientBlock).html());
     const ingredients = select('li')
         .map((_, element) => $(element).text()).get()
         .map(ingredient => ingredient.split(' ').filter(Boolean).join(' '))

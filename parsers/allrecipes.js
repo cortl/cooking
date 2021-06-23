@@ -1,10 +1,10 @@
-import Cheerio from 'cheerio';
+import * as Cheerio from 'cheerio';
 
 import * as Util from './util';
 
 const getMetaInfo = ($, header) => $('.recipe-info-section').find('.recipe-meta-item')
     .map((_, element) => {
-        const select = Cheerio.load(Cheerio.html($(element)));
+        const select = Cheerio.load($(element).html());
         const header = select('.recipe-meta-item-header').text().trim();
         const body = select('.recipe-meta-item-body').text().trim();
         return {
@@ -24,7 +24,7 @@ const parse = async (source, notes, rating) => {
 
     const instructions = $('li.instructions-section-item')
         .map((_, element) => {
-            const select = Cheerio.load(Cheerio.html($(element)))
+            const select = Cheerio.load($(element).html())
             return select('.paragraph').text();
         }).get()
         .map(instruction => instruction.trim())
@@ -34,7 +34,7 @@ const parse = async (source, notes, rating) => {
 
     const time = $('.two-subcol-content-wrapper').first()
         .find('.recipe-meta-item').map((_, element) => {
-            const select = Cheerio.load(Cheerio.html($(element)));
+            const select = Cheerio.load($(element).html());
             const label = select('.recipe-meta-item-header').text().trim().replace(':', '');
             const units = select('.recipe-meta-item-body').text().trim();
             return {

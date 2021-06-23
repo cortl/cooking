@@ -8,7 +8,7 @@ const parse = async (source, notes, rating) => {
 
     const grabIngredientsUnderneath = (groupSelect) => groupSelect('.wprm-recipe-ingredient')
         .map((_, element) => {
-            const select = Cheerio.load(Cheerio.html($(element)));
+            const select = Cheerio.load($(element).html());
 
             const name = select('.wprm-recipe-ingredient-name').text();
             const unit = select('.wprm-recipe-ingredient-unit').text();
@@ -22,7 +22,7 @@ const parse = async (source, notes, rating) => {
 
     const ingredients = isGrouped
         ? $('.wprm-recipe-ingredient-group').map((_, element) => {
-            const groupSelect = Cheerio.load(Cheerio.html($(element)));
+            const groupSelect = Cheerio.load($(element).html());
 
             let section = {
                 category: groupSelect('.wprm-recipe-ingredient-group-name').text(),
