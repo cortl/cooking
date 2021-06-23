@@ -1,10 +1,10 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-const util = require('./util');
+import Cheerio from 'cheerio';
+
+import * as Util from './util';
 
 const getMetaInfo = ($, header) => $('.recipe-info-section').find('.recipe-meta-item')
     .map((_, element) => {
-        const select = cheerio.load(cheerio.html($(element)));
+        const select = Cheerio.load(Cheerio.html($(element)));
         const header = select('.recipe-meta-item-header').text().trim();
         const body = select('.recipe-meta-item-body').text().trim();
         return {
@@ -15,9 +15,8 @@ const getMetaInfo = ($, header) => $('.recipe-info-section').find('.recipe-meta-
     .find(section => section.header.toLowerCase().includes(header.toLowerCase()))
 
 const parse = async (source, notes, rating) => {
-    const $ = await axios.get(source)
-        .then(res => res.data)
-        .then(data => cheerio.load(data));
+    const page = await Util.getPage(source);
+    const $ = Cheerio.load(page);
 
     const ingredients = $('span.ingredients-item-name')
         .map((_, element) => $(element).text()).get()
@@ -25,7 +24,7 @@ const parse = async (source, notes, rating) => {
 
     const instructions = $('li.instructions-section-item')
         .map((_, element) => {
-            const select = cheerio.load(cheerio.html($(element)))
+            const select = Cheerio.load(Cheerio.html($(element)))
             return select('.paragraph').text();
         }).get()
         .map(instruction => instruction.trim())
@@ -35,7 +34,7 @@ const parse = async (source, notes, rating) => {
 
     const time = $('.two-subcol-content-wrapper').first()
         .find('.recipe-meta-item').map((_, element) => {
-            const select = cheerio.load(cheerio.html($(element)));
+            const select = Cheerio.load(Cheerio.html($(element)));
             const label = select('.recipe-meta-item-header').text().trim().replace(':', '');
             const units = select('.recipe-meta-item-body').text().trim();
             return {
@@ -48,7 +47,7 @@ const parse = async (source, notes, rating) => {
         title,
         servings: parseInt(servings),
         time,
-        slug: util.createSlug(title),
+        slug: Util.createSlug(title),
         rating,
         notes: [notes],
         source: source,
@@ -60,6 +59,6 @@ const parse = async (source, notes, rating) => {
     };
 }
 
-module.exports = {
+export {
     parse
 }
