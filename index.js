@@ -1,34 +1,18 @@
-const URL = require('url-parse');
-const { google } = require('googleapis');
-const { GoogleAuth } = require('google-auth-library');
-const fs = require('fs');
+import {google} from 'googleapis';
+import {GoogleAuth} from 'google-auth-library';
+import URL from 'url-parse';
+import fs from 'fs';
 
-const budgetbytes = require('./parsers/budgetbytes');
-const seriouseats = require('./parsers/seriouseats');
-const allrecipes = require('./parsers/allrecipes');
-const pressurecookingtoday = require('./parsers/pressurecookingtoday');
-
-const PARSERS = {
-    'www.budgetbytes.com': budgetbytes.parse,
-    'www.seriouseats.com': seriouseats.parse,
-    'allrecipes.com': allrecipes.parse,
-    'www.allrecipes.com': allrecipes.parse,
-    'www.pressurecookingtoday.com': pressurecookingtoday.parse
-};
+import {getParserForSite} from './parsers';
 
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
 const SHEET_ID = '1KbyRcGUIBg-QxLXPuMHUaDtIZn1Uxju-zscQ-Olh3Qg';
 
 let sitesNeeded = {};
 
-const getParser = (url) => {
-    const hostname = URL(url).hostname;
-    const parser = PARSERS[hostname];
-    return parser;
-}
+const createRecipe = ({url, notes, rating}) => {
+    const parser = getParserForSite(url)
 
-const createRecipe = ({ url, notes, rating }) => {
-    const parser = getParser(url)
     if (parser) {
         return parser(url, notes, rating)
             .then(recipe => {
@@ -79,9 +63,9 @@ const createRecipeFromSheet = auth =>
             skip: row[4]
         }
     })
-        .filter(({ rating }) => Boolean(rating))
-        .filter(({ url }) => Boolean(url))
-        .filter(({ skip }) => skip !== 'TRUE')
+        .filter(({rating}) => Boolean(rating))
+        .filter(({url}) => Boolean(url))
+        .filter(({skip}) => skip !== 'TRUE')
         .map(recipe => {
             console.log(`Found ${recipe.title} in spreadsheet`)
             return recipe;
@@ -89,7 +73,7 @@ const createRecipeFromSheet = auth =>
         .map(createRecipe)));
 
 const updateMarkdown = recipes => {
-    const toMarkdownLink = ({ title, slug }) => `    - [${title}](recipes/${slug}.json)`;
+    const toMarkdownLink = ({title, slug}) => `    - [${title}](recipes/${slug}.json)`;
     const template = fs.readFileSync('TEMPLATE.md');
     const write = `${template}\n${recipes.map(toMarkdownLink).join('\n')}`
     fs.writeFileSync('README.md', write);

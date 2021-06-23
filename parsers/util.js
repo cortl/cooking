@@ -1,21 +1,23 @@
-const axios = require('axios');
-const Path = require('path');
-const fs = require('fs');
+import Axios from 'axios';
+import fs from 'fs';
 
 const createSlug = title => title.toLowerCase().replace(/[^\w\s]/gi, '').replace(/\s/g, '-');
 const downloadImage = async (slug, url) => {
     const split = url.split('.');
-    const imageName = `${slug}.${split[split.length -1]}`;
-    await axios({
+    const imageName = `${slug}.${split[split.length - 1]}`;
+    await Axios({
         method: "get",
         url,
         responseType: "stream"
-    }).then(function (response) {
+    }).then((response) => {
         response.data.pipe(fs.createWriteStream(`images/${imageName}`));
     });
     return `../images/${imageName}`
 };
-module.exports = {
+const getPage = async (url) => Axios.get(url).then(res => res.data);
+
+export {
     createSlug,
-    downloadImage
+    downloadImage,
+    getPage
 }

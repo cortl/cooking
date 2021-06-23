@@ -4,10 +4,10 @@
   "description": "Collection of my recipes scraped and archived from the web",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node --experimental-specifier-resolution=node index.js",
     "test": "node test.js",
     "migrate": "node migrate.js",
-    "local": "node parsers/local.js",
+    "local": "node --experimental-specifier-resolution=node parsers/local.js",
     "dev": "nodemon --watch parsers --exec 'npm run local'"
   },
   "repository": {
@@ -23,6 +23,7 @@
     "images",
     "recipes"
   ],
+  "type": "module",
   "homepage": "https://github.com/cortl/recipes#readme",
   "dependencies": {
     "axios": "^0.19.2",

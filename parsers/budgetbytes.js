@@ -1,17 +1,14 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-const util = require('./util');
+import Cheerio from 'cheerio';
 
-const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+import * as Util from './util';
 
 const parse = async (source, notes, rating) => {
-    const $ = await axios.get(source)
-        .then(res => res.data)
-        .then(data => cheerio.load(data));
+    const page = await Util.getPage(source);
+    const $ = Cheerio.load(page);
 
     const grabIngredientsUnderneath = (groupSelect) => groupSelect('.wprm-recipe-ingredient')
         .map((_, element) => {
-            const select = cheerio.load(cheerio.html($(element)));
+            const select = Cheerio.load(Cheerio.html($(element)));
 
             const name = select('.wprm-recipe-ingredient-name').text();
             const unit = select('.wprm-recipe-ingredient-unit').text();
@@ -25,7 +22,7 @@ const parse = async (source, notes, rating) => {
 
     const ingredients = isGrouped
         ? $('.wprm-recipe-ingredient-group').map((_, element) => {
-            const groupSelect = cheerio.load(cheerio.html($(element)));
+            const groupSelect = Cheerio.load(Cheerio.html($(element)));
 
             let section = {
                 category: groupSelect('.wprm-recipe-ingredient-group-name').text(),
@@ -40,7 +37,7 @@ const parse = async (source, notes, rating) => {
 
     const instructions = $('.wprm-recipe-instruction-text').map((_, element) => $(element).text()).get();
     const title = $('h1').text();
-    const slug = util.createSlug(title);
+    const slug = Util.createSlug(title);
 
     let imageUrl = $('#content').find('img')
         .map((_, element) => $(element).attr('data-lazy-src'))
@@ -59,7 +56,7 @@ const parse = async (source, notes, rating) => {
     }
 
     const image = imageUrl
-        ? await util.downloadImage(slug, imageUrl).catch(e => console.error(e.message, e.stack))
+        ? await Util.downloadImage(slug, imageUrl).catch(e => console.error(e.message, e.stack))
         : "";
 
 
@@ -95,6 +92,6 @@ const parse = async (source, notes, rating) => {
     };
 }
 
-module.exports = {
+export {
     parse
 }
