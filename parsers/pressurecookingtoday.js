@@ -1,27 +1,26 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-const util = require('./util');
+import Cheerio from 'cheerio';
+
+import * as Util from './util';
 
 const parse = async (source, notes, rating) => {
-    const $ = await axios.get(source)
-        .then(res => res.data)
-        .then(data => cheerio.load(data));
+    const page = await Util.getPage(source);
+    const $ = Cheerio.load(page);
 
     let select;
     const instructionBlock = $('.mv-create-instructions');
-    select = cheerio.load(cheerio.html($(instructionBlock)));
+    select = Cheerio.load(Cheerio.html($(instructionBlock)));
     const instructions = select('li').map((_, element) => $(element).text()).get();
 
     const ingredientBlock = $('.mv-create-ingredients');
-    select = cheerio.load(cheerio.html($(ingredientBlock)));
+    select = Cheerio.load(Cheerio.html($(ingredientBlock)));
     const ingredients = select('li')
         .map((_, element) => $(element).text()).get()
         .map(ingredient => ingredient.split(' ').filter(Boolean).join(' '))
-        .map(str => str.replace(/[\t\n\r]/gm,''));
+        .map(str => str.replace(/[\t\n\r]/gm, ''));
     const title = $('h1').text();
-    const slug = util.createSlug(title);
+    const slug = Util.createSlug(title);
     const imageUrl = $('img').map((_, element) => $(element).attr('data-lazy-src')).get()[0]
-    const image = await util.downloadImage(slug, imageUrl);
+    const image = await Util.downloadImage(slug, imageUrl);
     const servings = $('.mv-create-yield').text()
         .split(' ')
         .map(word => parseInt(word))
@@ -51,6 +50,6 @@ const parse = async (source, notes, rating) => {
     };
 }
 
-module.exports = {
+export {
     parse
 }
