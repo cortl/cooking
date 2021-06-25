@@ -1,0 +1,9 @@
+{
+    "verbose": true,
+    "testMatch": [
+        "<rootDir>/test/**/*.spec.js"
+    ],
+    "setupFilesAfterEnv": [
+        "<rootDir>/test/setup.js"
+    ]
+}
