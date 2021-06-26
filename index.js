@@ -1,12 +1,10 @@
-import {google} from 'googleapis';
-import {GoogleAuth} from 'google-auth-library';
 import URL from 'url-parse';
 import fs from 'fs';
 
 import {getParserForSite} from './parsers';
-
-const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
-const SHEET_ID = '1KbyRcGUIBg-QxLXPuMHUaDtIZn1Uxju-zscQ-Olh3Qg';
+import {getSpreadsheet} from './src/spreadsheet';
+import {mapDataToRecipeType, mapWithLog} from './src/mapper';
+import {byRecipeHasRating, byRecipeHasURL, byRecipeShouldBeSkipped} from './src/filters';
 
 let sitesNeeded = {};
 let existingSites = {};
@@ -59,30 +57,14 @@ const reportMissing = () => {
     });
 }
 
-const createRecipeFromSheet = auth =>
-    google.sheets({
-        version: 'v4',
-        auth
-    }).spreadsheets.values.get({
-        spreadsheetId: SHEET_ID,
-        range: 'Recipes!A2:E1000',
-    }).then(res => Promise.all(res.data.values.map(row => {
-        return {
-            title: row[0],
-            rating: parseInt(row[1], 10),
-            notes: row[2],
-            url: row[3],
-            skip: row[4]
-        }
-    })
-        .filter(({rating}) => Boolean(rating))
-        .filter(({url}) => Boolean(url))
-        .filter(({skip}) => skip !== 'TRUE')
-        .map(recipe => {
-            console.log(`Found ${recipe.title} in spreadsheet`)
-            return recipe;
-        })
-        .map(createRecipe)));
+const createRecipeFromSheet = data => {
+    return Promise.all(data.map(mapDataToRecipeType)
+        .filter(byRecipeHasRating)
+        .filter(byRecipeHasURL)
+        .filter(byRecipeShouldBeSkipped)
+        .map(mapWithLog(({title}) => `Found ${title} in spreadsheet`))
+        .map(createRecipe));
+}
 
 const updateMarkdown = recipes => {
     const toMarkdownLink = ({title, slug}) => `    - [${title}](recipes/${slug}.json)`;
@@ -92,12 +74,10 @@ const updateMarkdown = recipes => {
     console.log('updated table of contents');
 }
 
-const main = () => {
-    const auth = new GoogleAuth({
-        scopes: SCOPES
-    });
-    auth.getClient()
-        .then(createRecipeFromSheet)
+const main = async () => {
+    const data = await getSpreadsheet();
+
+    createRecipeFromSheet(data)
         .then(recipes => recipes.filter(Boolean))
         .then(updateMarkdown)
         .then(reportMissing)
