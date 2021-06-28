@@ -57,17 +57,19 @@ const createRecipeFromSheet = data => {
         .filter(byRecipeHasURL)
         .filter(byRecipeShouldBeSkipped)
         .map(mapWithLog(({title}) => `Found ${title} in spreadsheet`))
-        .map(createRecipe));
+        .map(createRecipe).filter(Boolean));
 }
 
 const main = async () => {
-    const data = await getSpreadsheet();
+    try {
+        const data = await getSpreadsheet();
+        const recipes = await createRecipeFromSheet(data);
 
-    createRecipeFromSheet(data)
-        .then(recipes => recipes.filter(Boolean))
-        .then(updateMarkdown)
-        .then(reportMissing)
-        .catch(console.error);
+        updateMarkdown(recipes);
+        reportMissing();
+    } catch (error) {
+        console.error(error);
+    }
 }
 
 main();
