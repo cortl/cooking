@@ -5,17 +5,10 @@ import {getParserForSite} from './parsers';
 import {getSpreadsheet} from './src/spreadsheet';
 import {mapDataToRecipeType, mapWithLog} from './src/mapper';
 import {byRecipeHasRating, byRecipeHasURL, byRecipeShouldBeSkipped} from './src/filters';
+import {updateMarkdown} from './src/table-of-contents';
+import {getExistingRecipe} from './src/files';
 
 let sitesNeeded = {};
-let existingSites = {};
-
-fs.readdirSync('recipes').forEach(item => {
-    const recipe = JSON.parse(fs.readFileSync(`recipes/${item}`));
-
-    existingSites[recipe.source] = recipe.title
-});
-
-const doesRecipeExist = (url) => existingSites.hasOwnProperty(url);
 
 const createRecipe = ({url, notes, rating}) => {
     const parser = getParserForSite(url)
@@ -24,9 +17,10 @@ const createRecipe = ({url, notes, rating}) => {
         return parser(url, notes, rating)
             .then(recipe => {
                 const location = `recipes/${recipe.slug}.json`
+                const existingRecipe = getExistingRecipe(url);
 
-                if (doesRecipeExist(url)) {
-                    console.log(`Old recipe exists under ${existingSites[url]}`)
+                if (existingRecipe) {
+                    console.log(`Old recipe exists under ${existingRecipe}`)
                     const oldRecipe = JSON.parse(fs.readFileSync(location));
                     recipe = {
                         ...oldRecipe,
@@ -64,14 +58,6 @@ const createRecipeFromSheet = data => {
         .filter(byRecipeShouldBeSkipped)
         .map(mapWithLog(({title}) => `Found ${title} in spreadsheet`))
         .map(createRecipe));
-}
-
-const updateMarkdown = recipes => {
-    const toMarkdownLink = ({title, slug}) => `    - [${title}](recipes/${slug}.json)`;
-    const template = fs.readFileSync('TEMPLATE.md');
-    const write = `${template}\n${recipes.map(toMarkdownLink).join('\n')}`
-    fs.writeFileSync('README.md', write);
-    console.log('updated table of contents');
 }
 
 const main = async () => {
