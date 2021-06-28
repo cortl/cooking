@@ -1,7 +1,7 @@
 import URL from 'url-parse';
 import fs from 'fs';
 
-import {getParserForSite} from './parsers';
+import {getParserForSite} from './src/parsers';
 import {getSpreadsheet} from './src/spreadsheet';
 import {mapDataToRecipeType, mapWithLog} from './src/mapper';
 import {byRecipeHasRating, byRecipeHasURL, byRecipeShouldBeSkipped} from './src/filters';
