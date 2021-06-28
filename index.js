@@ -1,72 +1,64 @@
-import URL from 'url-parse';
 import fs from 'fs';
 
-import {getParserForSite} from './src/parsers';
+import {getParserForSite, reportMissingParsers} from './src/parsers';
 import {getSpreadsheet} from './src/spreadsheet';
 import {mapDataToRecipeType, mapWithLog} from './src/mapper';
 import {byRecipeHasRating, byRecipeHasURL, byRecipeShouldBeSkipped} from './src/filters';
 import {updateMarkdown} from './src/table-of-contents';
 import {getExistingRecipe} from './src/files';
 
-let sitesNeeded = {};
-
-const createRecipe = ({url, notes, rating}) => {
+const downloadRecipe = async ({url, notes, rating}) => {
     const parser = getParserForSite(url)
 
-    if (parser) {
-        return parser(url, notes, rating)
-            .then(recipe => {
-                const location = `recipes/${recipe.slug}.json`
-                const existingRecipe = getExistingRecipe(url);
+    try {
+        const recipe = await parser(url, notes, rating);
+        const location = `recipes/${recipe.slug}.json`
+        const existingRecipe = getExistingRecipe(url);
 
-                if (existingRecipe) {
-                    console.log(`Old recipe exists under ${existingRecipe}`)
-                    const oldRecipe = JSON.parse(fs.readFileSync(location));
-                    recipe = {
-                        ...oldRecipe,
-                        rating,
-                        notes: [notes]
-                    };
-                } else {
-                    console.log(`recipe cached: ${location}`);
-                }
+        let recipeToWrite;
 
-                fs.writeFileSync(location, JSON.stringify(recipe, null, 2));
+        if (existingRecipe) {
+            console.log(`Old recipe exists under ${existingRecipe}`)
+            const oldRecipe = JSON.parse(fs.readFileSync(location));
+            recipeToWrite = {
+                ...oldRecipe,
+                rating,
+                notes: [notes]
+            };
+        } else {
+            console.log(`recipe cached: ${location}`);
+        }
 
-                return recipe;
-            })
-            .catch(e => {
-                console.error(url, e)
-            });
-    } else {
-        const site = URL(url).hostname;
-        sitesNeeded[site] = (sitesNeeded[site] || 0) + 1;
-        console.log(`Parser does not exist for ${site}`);
+        fs.writeFileSync(location, JSON.stringify(recipeToWrite, null, 2));
+
+        return recipeToWrite;
+
+    } catch (error) {
+        console.error(`Error: ${error.message}`);
     };
 }
 
-const reportMissing = () => {
-    Object.keys(sitesNeeded).forEach(site => {
-        console.log(`Missing ${sitesNeeded[site]} total for ${site}`);
-    });
-}
-
-const createRecipeFromSheet = data => {
-    return Promise.all(data.map(mapDataToRecipeType)
+const createRecipesFromSheet = async (data) => {
+    const recipesToDownload = data
+        .map(mapDataToRecipeType)
         .filter(byRecipeHasRating)
         .filter(byRecipeHasURL)
         .filter(byRecipeShouldBeSkipped)
-        .map(mapWithLog(({title}) => `Found ${title} in spreadsheet`))
-        .map(createRecipe).filter(Boolean));
+        .map(mapWithLog(({title}) => `Found ${title} in spreadsheet`));
+
+    const recipes = await Promise.all(recipesToDownload.map(downloadRecipe));
+
+    return recipes.filter(Boolean);
 }
 
 const main = async () => {
     try {
         const data = await getSpreadsheet();
-        const recipes = await createRecipeFromSheet(data);
+        const recipes = await createRecipesFromSheet(data);
 
         updateMarkdown(recipes);
-        reportMissing();
+
+        reportMissingParsers();
     } catch (error) {
         console.error(error);
     }

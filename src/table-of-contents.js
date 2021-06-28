@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 const updateMarkdown = recipes => {
-    const toMarkdownLink = ({title, slug}) => `    - [${title}](recipes/${slug}.json)`;
+    const toMarkdownLink = ({title, slug}) => `\t- [${title}](recipes/${slug}.json)`;
     const template = fs.readFileSync('TEMPLATE.md');
     const write = `${template}\n${recipes.map(toMarkdownLink).join('\n')}`
 
