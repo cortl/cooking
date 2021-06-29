@@ -6,7 +6,7 @@ const downloadImage = async (slug, url) => {
     const split = url.split('.');
     const imageName = `${slug}.${split[split.length - 1]}`;
 
-    const imageAlreadyExists = fs.readFileSync(`images/${imageName}`);
+    const imageAlreadyExists = fs.existsSync(`images/${imageName}`);
 
     if (imageAlreadyExists) {
         return `../images/${imageName}`;
