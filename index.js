@@ -15,26 +15,28 @@ const downloadRecipe = async ({url, notes, rating}) => {
         const location = `recipes/${recipe.slug}.json`
         const existingRecipe = getExistingRecipe(url);
 
-        let recipeToWrite;
-
         if (existingRecipe) {
-            console.log(`Old recipe exists under ${existingRecipe}`)
+            console.log(`Old recipe exists under ${existingRecipe}`);
+
             const oldRecipe = JSON.parse(fs.readFileSync(location));
-            recipeToWrite = {
+            const recipeToWrite = {
                 ...oldRecipe,
                 rating,
                 notes: [notes]
             };
-        } else {
-            console.log(`recipe cached: ${location}`);
+
+            fs.writeFileSync(location, JSON.stringify(recipeToWrite, null, 2));
+
+            return recipeToWrite;
         }
 
-        fs.writeFileSync(location, JSON.stringify(recipeToWrite, null, 2));
+        console.log(`recipe cached: ${location}`);
+        fs.writeFileSync(location, JSON.stringify(recipe, null, 2));
 
-        return recipeToWrite;
+        return recipe;
 
     } catch (error) {
-        console.error(`Error: ${error.message}`);
+        console.error(`Error: ${error.message}${error.stack ? ` ${error.stack}` : ''}`);
     };
 }
 
