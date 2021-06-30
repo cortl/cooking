@@ -1,0 +1,50 @@
+{
+  "title": "BBQ Cheddar Baked Chicken",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "23 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "33 minutes"
+    }
+  ],
+  "slug": "bbq-cheddar-baked-chicken",
+  "image": "../images/bbq-cheddar-baked-chicken.jpg",
+  "rating": 7,
+  "notes": [
+    ""
+  ],
+  "source": "https://www.budgetbytes.com/bbq-cheddar-baked-chicken/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 boneless, skinless chicken breasts (about 1.3 pounds total)",
+        "1 tsp smoked paprika",
+        "1/2 tsp garlic powder",
+        "1/4 tsp salt",
+        "1/4 tsp freshly cracked black pepper",
+        "1/4 cup BBQ sauce",
+        "1 cup shredded cheddar",
+        "1/4 cup diced red onion",
+        "1/4 cup chopped cilantro"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. If your chicken breasts are very thick or uneven in thickness, use a mallet or rolling pin to first pound them out to a more even thickness. Slice the chicken breasts in half, so you have four pieces. ",
+    "Combine the smoked paprika, garlic powder, salt, and pepper. Pat the chicken dry with paper towel, then sprinkle the seasoning mix over both sides of each piece of chicken. ",
+    "Place the seasoned chicken pieces in a baking dish, then spoon 1 Tbsp BBQ sauce over top of each piece, spreading it from edge to edge to cover the chicken.",
+    "Bake the chicken in the preheated 400ºF oven for about 18 minutes (less for smaller or thinner pieces).",
+    "Remove the chicken from the oven and top each piece with shredded cheddar. Return the chicken to the oven and continue baking for five minutes, or until the chicken reaches an internal temperature of 165ºF.",
+    "After baking the chicken, let the chicken rest for five minutes, then top with diced red onion and chopped cilantro just before serving. "
+  ],
+  "createdDate": "6/30/2021"
+}

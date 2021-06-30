@@ -134,3 +134,7 @@
 	- [Chicken Tikka Masala](recipes/chicken-tikka-masala.json)
 	- [Glazed Meatloaf I](recipes/glazed-meatloaf-i.json)
 	- [Cheeseburger Pasta Skillet](recipes/cheeseburger-pasta-skillet.json)
+	- [Green Chile Mac and Cheese](recipes/green-chile-mac-and-cheese.json)
+	- [Cowboy Caviar](recipes/cowboy-caviar.json)
+	- [BBQ Cheddar Baked Chicken](recipes/bbq-cheddar-baked-chicken.json)
+	- [One Pot Beef and Mushroom Stroganoff](recipes/one-pot-beef-and-mushroom-stroganoff.json)

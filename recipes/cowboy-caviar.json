@@ -1,0 +1,57 @@
+{
+  "title": "Cowboy Caviar",
+  "servings": 10,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": " minutes"
+    },
+    {
+      "label": "Total",
+      "units": "15 minutes"
+    }
+  ],
+  "slug": "cowboy-caviar",
+  "image": "../images/cowboy-caviar.jpg",
+  "rating": 7,
+  "notes": [
+    "Added corn"
+  ],
+  "source": "https://www.budgetbytes.com/cowboy-caviar/",
+  "ingredients": [
+    {
+      "category": "",
+      "items": [
+        "1 15oz. can black beans",
+        "1 15oz. can black eyed peas ",
+        "1 bell pepper (any color)",
+        "2 Roma tomatoes ",
+        "1 jalapeño ",
+        "1/4 red onion ",
+        "1/4 bunch fresh cilantro "
+      ]
+    },
+    {
+      "category": "DRESSING",
+      "items": [
+        "2 Tbsp olive oil",
+        "1 fresh lime (2 Tbsp juice)",
+        "1/2 Tbsp balsamic vinegar ",
+        "1/2 tsp chili powder* ",
+        "1 tsp ground cumin ",
+        "1/2 tsp salt ",
+        "1/2 tsp sugar "
+      ]
+    }
+  ],
+  "instructions": [
+    "Rinse and drain both cans of beans in a colander. Let the excess water drain as you prepare the vegetables.",
+    "Finely dice the bell pepper, tomatoes, jalapeño, and red onion. Try to dice the vegetables into pieces that are roughly the same size as the beans. For a less spicy salad, scrape the seeds out of the jalapeño before dicing. Roughly chop the cilantro. Place the drained beans, bell pepper, tomatoes, jalapeño, onion, and cilantro in a large bowl.",
+    "In a small bowl, whisk together the olive oil, 2 Tbsp of juice from the lime, balsamic vinegar, chili powder, cumin, salt, and sugar. Pour the dressing over the salad, then stir until everything is well coated. Serve immediately, or refrigerate until ready to eat."
+  ],
+  "createdDate": "6/30/2021"
+}

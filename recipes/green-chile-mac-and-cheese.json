@@ -1,0 +1,50 @@
+{
+  "title": "Green Chile Mac and Cheese",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": " minutes"
+    },
+    {
+      "label": "Total",
+      "units": "20 minutes"
+    }
+  ],
+  "slug": "green-chile-mac-and-cheese",
+  "image": "../images/green-chile-mac-and-cheese.jpg",
+  "rating": 7,
+  "notes": [
+    "Broke the bechemel, but could use the JKLA method"
+  ],
+  "source": "https://www.budgetbytes.com/green-chile-mac-and-cheese/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2 lb. macaroni",
+        "2 Tbsp butter",
+        "2 Tbsp all-purpose flour",
+        "2 cups whole milk",
+        "8 oz. Monterey Jack cheese, shredded",
+        "2 4oz. cans diced green chiles",
+        "1/2 tsp ground cumin",
+        "1/8 tsp crushed red pepper",
+        "1/4 tsp salt"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil for the macaroni. Once boiling, add the macaroni and continue to boil until tender (7-10 minutes). Drain the macaroni in a colander.",
+    "While the macaroni is cooking, prepare the green chile cheese sauce. Add the butter and flour to a saucepot and cook over medium heat while stirring for about 2 minutes. ",
+    "Whisk the milk into the cooked butter and flour mixture. Continue to whisk and cook over medium heat until the milk begins to simmer, at which point it will thicken to a cream-like consistency.",
+    "Turn the heat off. Begin stirring in the shredded Monterey Jack cheese, one handful at a time, until fully melted into the sauce. ",
+    "Drain the canned green chiles and stir them into the cheese sauce along with the cumin, crushed red pepper, and salt. Taste and adjust the seasoning to your liking. Make sure it is heavily seasoned as the flavor will dilute slightly when mixed with the pasta.",
+    "Finally, combine the cooked and drained pasta with the green chile cheese sauce. Serve hot."
+  ],
+  "createdDate": "6/30/2021"
+}
