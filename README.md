@@ -138,3 +138,5 @@
 	- [Cowboy Caviar](recipes/cowboy-caviar.json)
 	- [BBQ Cheddar Baked Chicken](recipes/bbq-cheddar-baked-chicken.json)
 	- [One Pot Beef and Mushroom Stroganoff](recipes/one-pot-beef-and-mushroom-stroganoff.json)
+	- [Easy Sweet Chili Sauce](recipes/easy-sweet-chili-sauce.json)
+	- [Coconut Chicken Strips with Sweet Chili Sauce](recipes/coconut-chicken-strips-with-sweet-chili-sauce.json)
