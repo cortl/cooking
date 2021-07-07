@@ -1,0 +1,53 @@
+{
+  "title": "Easy Pesto Chicken and Vegetables",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
+  "slug": "easy-pesto-chicken-and-vegetables",
+  "image": "../images/easy-pesto-chicken-and-vegetables.jpg",
+  "rating": 6,
+  "notes": [
+    "Could be better. Cook the chicken breasts whole then take them out and start the vegetables. Add the red onion in with the squash. Serve with Banza instead of rice"
+  ],
+  "source": "https://www.budgetbytes.com/easy-pesto-chicken-and-vegetables/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 red bell pepper",
+        "1 zucchini",
+        "1 yellow squash",
+        "1/2 red onion",
+        "1.3 lbs. boneless, skinless chicken breast",
+        "2 Tbsp cooking oil",
+        "1 cup frozen green beans",
+        "1/3 cup pesto*",
+        "1/8 tsp salt*",
+        "1/8 tsp freshly cracked pepper*",
+        "1 Tbsp grated Parmesan*"
+      ]
+    }
+  ],
+  "instructions": [
+    "Chop the bell pepper, yellow squash, and zucchini, and slice the red onion. I like to make different shapes for each vegetable, but aim to make the pieces all around the same size.",
+    "Cube the chicken breasts into ½-inch pieces.",
+    "Add the cooking oil to a large skillet and heat over medium-high. Once the skillet and oil are very hot, add the chicken and sauté until the chicken pieces are opaque (3-5 minutes – the chicken will continue to cook as you add vegetables).",
+    "Add the green beans to the skillet and sauté for 1-2 minutes more, or just until thawed.",
+    "Add the bell pepper and red onion to the skillet. Sauté for 1-2 minutes more. If water is beginning to pool in the skillet, turn the heat up slightly. It should be hot enough that the water released from the vegetables evaporates quickly.",
+    "Add the yellow squash and zucchini to the skillet and continue to sauté 2-3 minutes more, or just until the squash softens slightly.",
+    "Turn the heat off, add the pesto to the skillet, and stir until everything is coated. Give the vegetables a taste and add salt, pepper, or more pesto if desired. Top with a light sprinkle of Parmesan just before serving. "
+  ],
+  "createdDate": "7/7/2021"
+}
