@@ -132,7 +132,6 @@
 	- [Stuffed Mexican Peppers](recipes/stuffed-mexican-peppers.json)
 	- [Sticky Ginger Chicken Wings](recipes/sticky-ginger-chicken-wings.json)
 	- [Chicken Tikka Masala](recipes/chicken-tikka-masala.json)
-	- [Glazed Meatloaf I](recipes/glazed-meatloaf-i.json)
 	- [Cheeseburger Pasta Skillet](recipes/cheeseburger-pasta-skillet.json)
 	- [Green Chile Mac and Cheese](recipes/green-chile-mac-and-cheese.json)
 	- [Cowboy Caviar](recipes/cowboy-caviar.json)
