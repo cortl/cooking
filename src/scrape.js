@@ -1,11 +1,11 @@
 import fs from 'fs';
 
-import {getParserForSite, reportMissingParsers} from './src/parsers';
-import {getSpreadsheet} from './src/spreadsheet';
-import {mapDataToRecipeType, mapWithLog} from './src/mapper';
-import {byRecipeHasRating, byRecipeHasURL, byRecipeShouldBeSkipped} from './src/filters';
-import {updateMarkdown} from './src/table-of-contents';
-import {getExistingRecipe} from './src/files';
+import {getParserForSite, reportMissingParsers} from './parsers';
+import {getSpreadsheet} from './spreadsheet';
+import {mapDataToRecipeType, mapWithLog} from './mapper';
+import {byRecipeHasRating, byRecipeHasURL, byRecipeShouldBeSkipped} from './filters';
+import {updateMarkdown} from './table-of-contents';
+import {getExistingRecipe} from './files';
 
 const downloadRecipe = async ({url, notes, rating}) => {
     const parser = getParserForSite(url)
