@@ -6,7 +6,7 @@ const Joi = joi.extend(
     {
         type: 'file',
         validate: (value) => {
-            const imagePath = path.normalize(`recipes/${value}`);
+            const imagePath = path.normalize(`lib/${value}`);
             const exists = fs.existsSync(imagePath)
 
             return exists

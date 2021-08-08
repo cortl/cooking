@@ -20,7 +20,7 @@
   },
   "files": [
     "images",
-    "recipes"
+    "lib"
   ],
   "type": "module",
   "homepage": "https://github.com/cortl/recipes#readme",

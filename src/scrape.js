@@ -12,7 +12,7 @@ const downloadRecipe = async ({url, notes, rating}) => {
 
     try {
         const recipe = await parser(url, notes, rating);
-        const location = `recipes/${recipe.slug}.json`
+        const location = `lib/${recipe.slug}.json`
         const existingRecipe = getExistingRecipe(url);
 
         if (existingRecipe) {

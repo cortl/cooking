@@ -3,9 +3,9 @@ import path from 'path';
 
 let existingSites = {};
 
-fs.readdirSync(path.normalize('recipes')).forEach(item => {
+fs.readdirSync(path.normalize('lib')).forEach(item => {
     console.log(item);
-    const filePath = path.normalize(`recipes/${item}`);
+    const filePath = path.normalize(`lib/${item}`);
 
     console.log(filePath);
     const recipe = JSON.parse(fs.readFileSync(filePath));
