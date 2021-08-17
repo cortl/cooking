@@ -1,0 +1,49 @@
+{
+  "title": "Chicken Salad with Apples",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": " minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "15 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "15 minutes"
+    }
+  ],
+  "slug": "chicken-salad-with-apples",
+  "image": "../images/chicken-salad-with-apples.jpg",
+  "rating": 6,
+  "notes": [
+    "Decent, gotta dice that stuff super small next time"
+  ],
+  "source": "https://www.budgetbytes.com/chicken-n-apple-salad/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 cups chopped cooked chicken",
+        "1 apple (1.5 cups chopped)",
+        "1/4 cup diced red onion",
+        "1/4 cup dried cranberries",
+        "1/3 cup mayonnaise",
+        "1/3 cup plain yogurt",
+        "1 Tbsp Dijon mustard",
+        "1 Tbsp red wine vinegar",
+        "1/4 tsp salt",
+        "1/4 tsp freshly cracked black pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Chop the cooked chicken and the apple into small pieces. Finely dice the red onion.",
+    "Place the chicken, apple, onion, and dried cranberries in a large bowl.",
+    "Combine the mayonnaise, yogurt, Dijon, red wine vinegar, salt, and pepper in a bowl. Stir until smooth.",
+    "Pour the dressing over the salad ingredients in the bowl and stir until everything is coated. Serve immediately or refrigerate until ready to eat. "
+  ],
+  "createdDate": "8/17/2021"
+}
