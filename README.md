@@ -143,3 +143,4 @@
 	- [Easy Pesto Chicken and Vegetables](lib/easy-pesto-chicken-and-vegetables.json)
 	- [Chipotle Lime Chicken and Rice](lib/chipotle-lime-chicken-and-rice.json)
 	- [Chicken Salad with Apples](lib/chicken-salad-with-apples.json)
+	- [Homemade Chicken Yakisoba](lib/homemade-chicken-yakisoba.json)
