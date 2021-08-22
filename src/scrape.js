@@ -13,19 +13,20 @@ const downloadRecipe = async ({url, notes, rating}) => {
     try {
         const recipe = await parser(url, notes, rating);
         const location = `lib/${recipe.slug}.json`
-        const existingRecipe = getExistingRecipe(url);
+        const {title: existingTitle, slug: existingSlug} = getExistingRecipe(url);
 
-        if (existingRecipe) {
-            console.log(`Old recipe exists under ${existingRecipe}`);
+        if (existingTitle) {
+            const existingLocation = `lib/${existingSlug}.json`
+            console.log(`Old recipe exists under ${existingTitle}`);
 
-            const oldRecipe = JSON.parse(fs.readFileSync(location));
+            const oldRecipe = JSON.parse(fs.readFileSync(existingLocation));
             const recipeToWrite = {
                 ...oldRecipe,
                 rating,
                 notes: [notes]
             };
 
-            fs.writeFileSync(location, JSON.stringify(recipeToWrite, null, 2));
+            fs.writeFileSync(existingLocation, JSON.stringify(recipeToWrite, null, 2));
 
             return recipeToWrite;
         }

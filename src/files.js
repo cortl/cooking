@@ -10,7 +10,10 @@ fs.readdirSync(path.normalize('lib')).forEach(item => {
     console.log(filePath);
     const recipe = JSON.parse(fs.readFileSync(filePath));
 
-    existingSites[recipe.source] = recipe.title
+    existingSites[recipe.source] = {
+        title: recipe.title,
+        slug: recipe.slug
+    };
 });
 
 const getExistingRecipe = (url) => existingSites.hasOwnProperty(url)

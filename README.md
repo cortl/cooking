@@ -7,7 +7,7 @@
     - [Steak Kabobs](lib/steak-kabobs.json)
     - [Garlic Butter Steak and Potatoes Skillet](lib/garlic-butter-steak-and-potatoes-skillet.json)
     - [Homemade Pita Bread](lib/json)
-	- [Pork Gyoza](lib/pork-gyoza.json)
+	- [Pork Gyoza (Potstickers)](lib/pork-gyoza-potstickers.json)
 	- [Easy Homemade Cornbread](lib/easy-homemade-cornbread.json)
 	- [Cajun Chicken Pasta](lib/cajun-chicken-pasta.json)
 	- [Easy Homemade Orange Chicken](lib/easy-homemade-orange-chicken.json)
