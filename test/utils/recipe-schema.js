@@ -6,6 +6,9 @@ const Joi = joi.extend(
     {
         type: 'file',
         validate: (value) => {
+            if (value === "") {
+                return {value, errors: [new Error(`image field was empty`)]}
+            }
             const imagePath = path.normalize(`lib/${value}`);
             const exists = fs.existsSync(imagePath)
 
@@ -36,7 +39,7 @@ const schema = Joi.object({
         label: Joi.string(),
         units: Joi.string()
     }),
-    image: Joi.file().optional()
+    image: Joi.file()
 })
 
 module.exports = {

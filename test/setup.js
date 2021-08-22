@@ -18,7 +18,7 @@ expect.extend({
         if (error) {
             return {
                 pass: false,
-                message: `${title}: ${error.message}`
+                message: () => `${title}: ${error.message}`
             }
         }
 
