@@ -27,12 +27,12 @@
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",
-    "google-auth-library": "^7.1.2",
-    "url-parse": "^1.5.1"
+    "google-auth-library": "^7.6.2",
+    "url-parse": "^1.5.3"
   },
   "devDependencies": {
-    "jest": "^27.0.5",
-    "joi": "^17.4.0",
-    "nodemon": "^2.0.6"
+    "jest": "^27.0.6",
+    "joi": "^17.4.2",
+    "nodemon": "^2.0.12"
   }
 }
