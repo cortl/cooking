@@ -121,6 +121,7 @@
 	- [Spicy Dragon Noodles](lib/spicy-dragon-noodles.json)
 	- [Garlic Chicken with Orzo Noodles](lib/garlic-chicken-with-orzo-noodles.json)
 	- [Perfect Ten Baked Cod](lib/perfect-ten-baked-cod.json)
+	- [Pressure Cooker Chicken Shawarma](lib/pressure-cooker-chicken-shawarma.json)
 	- [Creamy Salsa Chicken Skillet](lib/creamy-salsa-chicken-skillet.json)
 	- [Sweet Chili Chicken Stir Fry Bowls](lib/sweet-chili-chicken-stir-fry-bowls.json)
 	- [Oven Roasted Frozen Broccoli](lib/oven-roasted-frozen-broccoli.json)
