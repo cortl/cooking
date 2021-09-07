@@ -144,3 +144,5 @@
 	- [Chipotle Lime Chicken and Rice](lib/chipotle-lime-chicken-and-rice.json)
 	- [Chicken Salad with Apples](lib/chicken-salad-with-apples.json)
 	- [Homemade Chicken Yakisoba](lib/homemade-chicken-yakisoba.json)
+	- [Spicy Sweet Potato Fries](lib/spicy-sweet-potato-fries.json)
+	- [Teriyaki Meatball Bowls](lib/teriyaki-meatball-bowls.json)

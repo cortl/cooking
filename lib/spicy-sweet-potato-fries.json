@@ -1,0 +1,42 @@
+{
+  "title": "Spicy Sweet Potato Fries",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "45 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "55 minutes"
+    }
+  ],
+  "slug": "spicy-sweet-potato-fries",
+  "image": "../images/spicy-sweet-potato-fries.jpg",
+  "rating": 8,
+  "notes": [
+    "Not crispy but pretty good!"
+  ],
+  "source": "https://www.budgetbytes.com/spicy-sweet-potato-fries/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 large sweet potatoes (about 2 lbs. total)",
+        "2 Tbsp cooking oil of choice",
+        "1 tsp Creole seasoning or spicy seasoning salt*"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. Line a large baking sheet with parchment paper.",
+    "Peel and slice the sweet potatoes into 1/4-1/2 inch wide fries. Place the cut fries on the prepared baking sheet and drizzle with cooking oil. Toss the fries until they are well coated in oil. Spread the sweet potatoes back out over the baking sheet so they're in a single layer.",
+    "Transfer the baking sheet to the fully preheated oven and bake for about 45 minutes, stirring every 20 minutes or so, or until the the sweet potatoes are browned and blistered.",
+    "After the sweet potato fries have baked, season to your liking with Creole seasoning or spicy seasoning salt. Serve immediately."
+  ],
+  "createdDate": "9/5/2021"
+}
