@@ -1,0 +1,49 @@
+{
+  "title": "Lemon Parsley Pasta",
+  "servings": 4,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "10 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "20 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
+  "slug": "lemon-parsley-pasta",
+  "image": "../images/lemon-parsley-pasta.jpg",
+  "rating": 7,
+  "notes": [
+    ""
+  ],
+  "source": "https://www.budgetbytes.com/lemon-parsley-pasta/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "8 oz. thin spaghetti",
+        "1 fresh lemon",
+        "2 cloves garlic, minced",
+        "1/2 cup chopped fresh parsley",
+        "1/8 tsp freshly cracked black pepper",
+        "1 Tbsp olive oil",
+        "2 Tbsp butter",
+        "2 Tbsp grated Parmesan",
+        "1/4 tsp salt"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil for the pasta. Once boiling, add the pasta and boil until tender (about 7-8 minutes). Drain the pasta in a colander.",
+    "While the pasta is cooking, zest the lemon (you'll need about 1 Tbsp). Chop the parsley and combine it with the Parmesan, lemon zest, and pepper in a bowl. Set the bowl aside.",
+    "While the pasta is draining, add the olive oil and minced garlic to the pot used to cook the pasta. Sauté the garlic in the oil over medium heat for 1-2 minutes, or just until it becomes fragrant. ",
+    "Remove the pot from the heat and add the drained pasta and butter to the pot with the garlic. Toss the pasta until the residual heat has melted the butter and the pasta is coated in garlic and butter.  ",
+    "Add the parsley Parmesan mixture to the pot and toss to coat again. Squeeze about 1 Tbsp of the lemon juice over the pasta and season with salt (about ¼ tsp). Toss to combine, then taste, and adjust the salt, pepper, or Parmesan to your liking. Serve warm. "
+  ],
+  "createdDate": "9/8/2021"
+}

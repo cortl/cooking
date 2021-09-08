@@ -146,3 +146,4 @@
 	- [Homemade Chicken Yakisoba](lib/homemade-chicken-yakisoba.json)
 	- [Spicy Sweet Potato Fries](lib/spicy-sweet-potato-fries.json)
 	- [Teriyaki Meatball Bowls](lib/teriyaki-meatball-bowls.json)
+	- [Lemon Parsley Pasta](lib/lemon-parsley-pasta.json)
