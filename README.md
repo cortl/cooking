@@ -125,6 +125,7 @@
 	- [Creamy Salsa Chicken Skillet](lib/creamy-salsa-chicken-skillet.json)
 	- [Sweet Chili Chicken Stir Fry Bowls](lib/sweet-chili-chicken-stir-fry-bowls.json)
 	- [Oven Roasted Frozen Broccoli](lib/oven-roasted-frozen-broccoli.json)
+	- [Smoky Roasted Sausage and Vegetables](lib/smoky-roasted-sausage-and-vegetables.json)
 	- [Chili Cornbread Skillet](lib/chili-cornbread-skillet.json)
 	- [One Pot Bacon Broccoli Mac and Cheese](lib/one-pot-bacon-broccoli-mac-and-cheese.json)
 	- [Chef John's Stuffed Peppers](lib/chef-johns-stuffed-peppers.json)

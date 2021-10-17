@@ -17,7 +17,7 @@ const parse = async (source, notes, rating) => {
 
     const imageUrl = $('.primary-image').attr('src');
     const image = imageUrl
-        ? await Util.downloadImage(slug, imageUrl)
+        ? await Util.downloadImage(slug, source, imageUrl)
         : "";
     const servings = $('.project-meta__results-container').text().split(' ')
         .map(word => parseInt(word))

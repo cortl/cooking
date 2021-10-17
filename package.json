@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node --experimental-specifier-resolution=node src/scrape.js",
     "test": "jest",
-    "local": "node --experimental-specifier-resolution=node parsers/local.js",
+    "local": "node --experimental-specifier-resolution=node src/parsers/local.js",
     "dev": "nodemon --watch parsers --exec 'npm run local'"
   },
   "repository": {

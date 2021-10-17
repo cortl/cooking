@@ -20,7 +20,7 @@ const parse = async (source, notes, rating) => {
     const title = $('h1').text();
     const slug = Util.createSlug(title);
     const imageUrl = $('img').map((_, element) => $(element).attr('data-lazy-src')).get()[0]
-    const image = await Util.downloadImage(slug, imageUrl);
+    const image = await Util.downloadImage(slug, source, imageUrl);
     const servings = $('.mv-create-yield').text()
         .split(' ')
         .map(word => parseInt(word))

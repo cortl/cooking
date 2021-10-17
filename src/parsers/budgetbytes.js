@@ -56,7 +56,7 @@ const parse = async (source, notes, rating) => {
     }
 
     const image = imageUrl
-        ? await Util.downloadImage(slug, imageUrl).catch(e => console.error(e.message, e.stack))
+        ? await Util.downloadImage(slug, source, imageUrl).catch(e => console.error(e.message, e.stack))
         : "";
 
 
