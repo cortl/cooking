@@ -154,3 +154,4 @@
 	- [Garlic Parmesan Oven Fries](lib/garlic-parmesan-oven-fries.json)
 	- [Classic Homemade Meatloaf](lib/classic-homemade-meatloaf.json)
 	- [Crunchy Kale and Chicken Salad](lib/crunchy-kale-and-chicken-salad.json)
+	- [Cajun Sausage and Rice Skillet](lib/cajun-sausage-and-rice-skillet.json)
