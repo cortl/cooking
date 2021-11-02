@@ -1,0 +1,59 @@
+{
+    "title": "Dinner Rolls",
+    "rating": 8,
+    "slug": "dinner-rolls",
+    "servings": 20,
+    "time": [
+        {
+            "label": "Mix",
+            "units": "15 minutes"
+        },
+        {
+            "label": "Bulk Fermentation",
+            "units": "90 minutes"
+        },
+        {
+            "label": "Shaping",
+            "units": "25 minutes"
+        },
+        {
+            "label": "Proof",
+            "units": "60 minutes"
+        },
+        {
+            "label": "Bake",
+            "units": "20 minutes"
+        }
+    ],
+    "notes": [],
+    "createdDate": "11/01/2021",
+    "source": "https://delightbaking.com/little-fluffy-dinner-rolls/",
+    "image": "../images/dinner-rolls.jpg",
+    "ingredients": [
+        {
+            "category": "All",
+            "items": [
+                "640g All-purpose flour",
+                "15g Salt",
+                "35g White sugar",
+                "30g Fresh yeast OR 15g active dry yeast",
+                "350g Whole milk",
+                "75g Butter",
+                "2x Eggs (medium)"
+            ]
+        }
+    ],
+    "instructions": [
+        "Heat the milk to 112F and dissolve the sugar and yeast to activate. Then add the eggs",
+        "Mix together the flour and salt. Put into a stand mixer bowl with the liquid. Once it comes together (3-5 minutes on speed 1) add the butter. Mix the butter into it for 5 minutes on speed two.",
+        "Transfer the dough to a lightly greased bowl and start the bulk fermentation for 90 minutes at temp (68-72F)",
+        "Lightly grease a baking plate with butter and set aside",
+        "Punch the dough down to de-gas the dough. Divide the dough into 20 balls -- each one equalling 61g",
+        "Flatten the dough ball, pull the edges into the middle, and roll the ball to create a little sphere",
+        "Place the ball into the baking sheet into 4 rows and 5 dough balls per row",
+        "Cover the rolls with a towel and proof them for 1 hour at 68-72F",
+        "Preheat the oven to 375F",
+        "Bake for 15-20 minutes",
+        "Coat them with butter and then cool for at least 15 minutes"
+    ]
+}
