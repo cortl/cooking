@@ -1,0 +1,48 @@
+{
+  "title": "Spinach Rice with Feta",
+  "servings": 6,
+  "time": [
+    {
+      "label": "Prep",
+      "units": "5 minutes"
+    },
+    {
+      "label": "Cook",
+      "units": "25 minutes"
+    },
+    {
+      "label": "Total",
+      "units": "30 minutes"
+    }
+  ],
+  "slug": "spinach-rice-with-feta",
+  "image": "../images/spinach-rice-with-feta.jpg",
+  "rating": 7,
+  "notes": [
+    ""
+  ],
+  "source": "https://www.budgetbytes.com/spinach-rice-with-feta/",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2  lb. frozen chopped spinach",
+        "2 cloves garlic, minced",
+        "2 Tbsp butter",
+        "1.5 cups long grain white rice",
+        "3/4 tsp salt",
+        "2.5 cups water",
+        "1 Tbsp lemon juice",
+        "2 oz. feta, crumbled"
+      ]
+    }
+  ],
+  "instructions": [
+    "Thaw the spinach by either letting it sit out at room temperature for an hour, or by microwaving for 1-2 minutes. Squeeze the excess moisture out of the spinach (it doesn't have to be extremely dry for this recipe, just make sure it's not pooling water).",
+    "Add the minced garlic and butter to a medium sauce pot. Sauté the garlic in the butter over medium heat for 1-2 minutes.",
+    "Add the spinach, rice, salt, lemon juice, and 2.5 cups water to the sauce pot. Stir briefly to combine.",
+    "Place a lid on the pot, turn the heat up to medium-high, and allow the water to come up to a boil. Once it reaches a full boil, turn the heat down to low, and let the rice simmer for 15 minutes. After 15 minutes, turn the heat off and let the pot rest, without removing the lid, for an additional five minutes.",
+    "Fluff the rice with a fork, gently folding the spinach back into the rice (it tends to float to the top during cooking). Finall, sprinkle the feta over top and fold to combine again. Serve hot!"
+  ],
+  "createdDate": "11/3/2021"
+}
