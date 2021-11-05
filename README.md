@@ -33,6 +33,7 @@
 	- [Pork and Peanut Dragon Noodles](lib/pork-and-peanut-dragon-noodles.json)
 	- [Chorizo Breakfast Hash](lib/chorizo-breakfast-hash.json)
 	- [Sheet Pan BBQ Meatloaf Dinner](lib/sheet-pan-bbq-meatloaf-dinner.json)
+	- [French Dip Sandwiches](lib/french-dip-sandwiches.json)
 	- [Easiest Burrito Bowl Meal Prep](lib/easiest-burrito-bowl-meal-prep.json)
 	- [Apple Spice Pork Chops](lib/apple-spice-pork-chops.json)
 	- [Lemon Basil Grilled Chicken](lib/lemon-basil-grilled-chicken.json)
