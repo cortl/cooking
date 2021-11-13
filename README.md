@@ -156,3 +156,4 @@
 	- [Crunchy Kale and Chicken Salad](lib/crunchy-kale-and-chicken-salad.json)
 	- [Cajun Sausage and Rice Skillet](lib/cajun-sausage-and-rice-skillet.json)
 	- [Spinach Rice with Feta](lib/spinach-rice-with-feta.json)
+	- [Wild Rice Pilaf](lib/wild-rice-pilaf.json)
