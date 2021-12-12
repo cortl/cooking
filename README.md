@@ -160,3 +160,4 @@
 	- [Baked Spicy Chicken Sandwiches and My Stonyfield Organic Experience](lib/baked-spicy-chicken-sandwiches-and-my-stonyfield-organic-experience.json)
 	- [Chicken Stew](lib/chicken-stew.json)
 	- [Thai Coconut Curry Carrot Soup](lib/thai-coconut-curry-carrot-soup.json)
+	- [Balsamic Roasted Mushrooms with Herby Kale Mashed Potatoes](lib/balsamic-roasted-mushrooms-with-herby-kale-mashed-potatoes.json)
