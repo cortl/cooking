@@ -1,7 +1,7 @@
 {
   "time": [
     {
-      "label": "Active time",
+      "label": "Active",
       "units": [
         {
           "measurement": 40,
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "label": "Cooling",
+      "label": "Inactive",
       "units": [
         {
           "measurement": 2,

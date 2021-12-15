@@ -1,7 +1,7 @@
 {
   "time": [
     {
-      "label": "Cook Time",
+      "label": "Cook",
       "units": [
         {
           "measurement": 25,
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "label": "Total Time",
+      "label": "Total",
       "units": [
         {
           "measurement": 25,

@@ -1,7 +1,7 @@
 {
   "time": [
     {
-      "label": "Prep time",
+      "label": "Prep",
       "units": [
         {
           "measurement": 10,
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "label": "Caremelize time",
+      "label": "Caramelize",
       "units": [
         {
           "measurement": 2,
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "label": "Cooking time",
+      "label": "Cook",
       "units": [
         {
           "measurement": 40,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "label": "Broil time",
+      "label": "Broil",
       "units": [
         {
           "measurement": 3,
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "label": "Total time",
+      "label": "Total",
       "units": [
         {
           "measurement": 3,

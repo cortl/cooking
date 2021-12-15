@@ -1,7 +1,7 @@
 {
   "time": [
     {
-      "label": "Prep Time",
+      "label": "Prep",
       "units": [
         {
           "measurement": 5,
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "label": "Cook Time",
+      "label": "Cook",
       "units": [
         {
           "measurement": 10,

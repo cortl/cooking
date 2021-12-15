@@ -1,7 +1,7 @@
 {
   "time": [
     {
-      "label": "Mix",
+      "label": "Active",
       "units": [
         {
           "measurement": 15,
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "label": "Bulk Fermentation",
+      "label": "Bulk Ferment",
       "units": [
         {
           "measurement": 90,
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "label": "Shaping",
+      "label": "Active",
       "units": [
         {
           "measurement": 25,
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "label": "Bake",
+      "label": "Cook",
       "units": [
         {
           "measurement": 20,

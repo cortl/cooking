@@ -1,7 +1,7 @@
 {
   "time": [
     {
-      "label": "Active time",
+      "label": "Active",
       "units": [
         {
           "measurement": 15,
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "label": "Total time",
+      "label": "Total",
       "units": [
         {
           "measurement": 45,
