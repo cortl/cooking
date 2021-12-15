@@ -1,7 +1,7 @@
 {
   "time": [
     {
-      "label": "Making Tea",
+      "label": "Cook",
       "units": [
         {
           "measurement": 2,
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "label": "Fermenting",
+      "label": "Inactive",
       "units": [
         {
           "measurement": 10,
