@@ -1,26 +1,41 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "jerk-chicken-meal-prep-bowls",
   "title": "Jerk Chicken Meal Prep Bowls",
   "rating": 7,
-  "slug": "jerk-chicken-meal-prep-bowls",
   "notes": [
     "used this rice recipe, https://www.allrecipes.com/recipe/237593/cindys-yellow-rice/"
   ],
   "source": "https://www.foodlovinfamily.com/jerk-chicken-meal-prep-bowls/",
   "image": "../images/jerk-chicken-meal-prep.jpg",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

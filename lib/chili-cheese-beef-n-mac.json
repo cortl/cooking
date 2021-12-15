@@ -1,6 +1,35 @@
 {
-  "title": "Chili Cheese Beef n’ Mac",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "chili-cheese-beef-n-mac",
+  "title": "Chili Cheese Beef n’ Mac",
   "image": "../images/chili-cheese-beef-n-mac.jpg",
   "rating": 6,
   "notes": [
@@ -33,19 +62,5 @@
     "Add the dry pasta, place a lid on top, and allow it to come up to a simmer. Once it reaches a simmer, reduce the heat to low, and let simmer for about 15 minutes or until the pasta is soft and has absorbed all of the liquid. Stir every few minutes to make sure it’s not sticking on the bottom of the pot. If it gets dry before the pasta has fully softened, add a touch of water.",
     "Once the pasta has finished cooking, turn the heat off and stir in the shredded cheese. Serve hot."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "35 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "45 minutes"
-    }
-  ]
+  "servings": 6
 }

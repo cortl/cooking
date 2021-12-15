@@ -1,26 +1,41 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "slug": "kevins-chili",
   "title": "Kevin's Chili",
   "rating": 7,
-  "slug": "kevins-chili",
   "notes": [
     "Really need a food processor to blend the peppers really well.  Tried using a blender and the chicken stock and it didn't blend the peppers enough and left unchewable chunks"
   ],
   "source": "https://www.bingingwithbabish.com/recipes/2017/1/18/kevinschili",
   "image": "../images/kevins-famous-chili.jpg",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "2-3 hours"
-    },
-    {
-      "label": "Total",
-      "units": "2+ hours"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

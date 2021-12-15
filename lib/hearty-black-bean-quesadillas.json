@@ -1,6 +1,35 @@
 {
-  "title": "Hearty Black Bean Quesadillas",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "hearty-black-bean-quesadillas",
+  "title": "Hearty Black Bean Quesadillas",
   "image": "../images/hearty-black-bean-quesadillas.jpg",
   "rating": 8,
   "notes": [
@@ -28,19 +57,5 @@
     "Place a half cup of the filling on one side of each tortilla and fold over. Cook in a skillet on both sides over medium heat until brown and crispy and the cheesy filling has melted.",
     "To freeze the quesadillas, simply fill each one and place on a baking sheet lined with parchment paper. Place in the freezer for one hour to solidify the quesadillas and then transfer to a freezer bag. To reheat either microwave (for a soft quesadilla) or cook in a skillet on low heat (make sure to use low heat so that the filling has time to thaw and melt before the outside burns)."
   ],
-  "servings": 10,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "15 minutes"
-    }
-  ]
+  "servings": 10
 }

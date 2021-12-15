@@ -1,6 +1,26 @@
 {
-  "title": "Easy Alfredo Sauce I",
+  "time": [
+    {
+      "label": "cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "easy-alfredo-sauce-i",
+  "title": "Easy Alfredo Sauce I",
   "rating": 6,
   "notes": [
     "heavy, but dank"
@@ -19,15 +39,5 @@
   "instructions": [
     "In a medium saucepan combine whipping cream, butter or margarine, and grated Parmesan cheese. Cook over medium low heat until smooth. Remove from heat. Sauce will thicken upon standing.                            "
   ],
-  "servings": 8,
-  "time": [
-    {
-      "label": "cook",
-      "units": "15 mins"
-    },
-    {
-      "label": "total",
-      "units": "15 mins"
-    }
-  ]
+  "servings": 8
 }

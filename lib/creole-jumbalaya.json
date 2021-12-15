@@ -1,7 +1,36 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "slug": "creole-jumbalaya",
   "title": "Jumbalaya (Creole)",
   "rating": 7,
-  "slug": "creole-jumbalaya",
   "image": "../images/creole-jumbalaya.jpg",
   "notes": [
     "used creole seasoning from https://www.allrecipes.com/recipe/38214/creole-seasoning-blend/",
@@ -9,20 +38,6 @@
   ],
   "createdDate": "04/21/2020",
   "source": "https://cafedelites.com/jambalaya/",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "45 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "1 hour"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

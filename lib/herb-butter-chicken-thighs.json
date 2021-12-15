@@ -1,6 +1,35 @@
 {
-  "title": "Herb Butter Chicken Thighs",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "herb-butter-chicken-thighs",
+  "title": "Herb Butter Chicken Thighs",
   "image": "../images/herb-butter-chicken-thighs.jpg",
   "rating": 6,
   "notes": [
@@ -29,19 +58,5 @@
     "Pour in the chicken broth and stir, dissolving all the browned bits off the bottom of the skillet. Let the broth simmer (still over medium heat) for about 5 minutes, or until it has reduced by half.",
     "Once the broth has reduced, add the butter and stir until it has melted into the sauce. Add the chicken pieces back to the skillet with the sauce and spoon the sauce over each piece. Garnish with a sprinkle of chopped parsley, if desired. Serve while hot."
   ],
-  "servings": 5,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ]
+  "servings": 5
 }

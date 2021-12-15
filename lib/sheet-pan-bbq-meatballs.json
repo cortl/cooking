@@ -1,21 +1,36 @@
 {
-  "title": "Sheet Pan BBQ Meatballs",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "20 minutes"
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "25 minutes"
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "sheet-pan-bbq-meatballs",
+  "title": "Sheet Pan BBQ Meatballs",
+  "servings": 4,
   "image": "../images/sheet-pan-bbq-meatballs.jpg",
   "rating": 6,
   "notes": [

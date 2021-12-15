@@ -1,6 +1,35 @@
 {
-  "title": "Beef Burrito Casserole",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "beef-burrito-casserole",
+  "title": "Beef Burrito Casserole",
   "image": "../images/beef-burrito-casserole.jpg",
   "rating": 7,
   "notes": [
@@ -31,19 +60,5 @@
     "Coat a 3 quart casserole dish with non-stick spray. Spread half of the rice and beef mixture into the bottom of the casserole dish. Add small dollops of the cream cheese evenly across the surface, then cover with the remaining rice and beef mixture.",
     "Cover the dish with foil to prevent the rice from drying out while baking, and bake for 25 minutes in the preheated oven. After 25 minutes, remove the foil and top with the shredded cheddar cheese. Bake for an additional 5-10 minutes, or until the cheese is melted. Top with the remaining sliced green onions just before serving."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "40 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "50 minutes"
-    }
-  ]
+  "servings": 6
 }

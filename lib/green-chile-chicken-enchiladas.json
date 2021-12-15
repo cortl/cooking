@@ -1,6 +1,35 @@
 {
-  "title": "Green Chile Chicken Enchiladas",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "green-chile-chicken-enchiladas",
+  "title": "Green Chile Chicken Enchiladas",
   "image": "../images/green-chile-chicken-enchiladas.jpg",
   "rating": 7,
   "notes": [
@@ -48,19 +77,5 @@
     "Pour the prepared green chile enchilada sauce over the enchiladas, then top with the remaining shredded pepper jack cheese. Bake in the preheated oven for 30 minutes, or until the sauce is bubbling around the edges. Serve hot."
   ],
   "createdDate": "7/11/2020",
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "45 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "10 minutes"
-    }
-  ]
+  "servings": 6
 }

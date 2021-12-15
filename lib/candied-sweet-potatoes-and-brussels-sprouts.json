@@ -1,53 +1,68 @@
 {
-    "title": "Candied Sweet Potatoes and Roasted Brussels Sprouts",
-    "rating": 7,
-    "slug": "candied-sweet-potatoes-and-roasted-brussels-sprouts",
-    "servings": 2,
-    "time": [
+  "time": [
+    {
+      "label": "Prep Time",
+      "units": [
         {
-            "label": "Prep Time",
-            "units": "10 mins"
-        },
-        {
-            "label": "Cook Time",
-            "units": "40 mins"
-        },
-        {
-            "label": "Total Time",
-            "units": "50 mins"
+          "measurement": 10,
+          "label": "minutes"
         }
-    ],
-    "notes": [],
-    "createdDate": "11/25/2021",
-    "source": "https://www.budgetbytes.com/wprm_print/recipe/59268",
-    "image": "../images/candied-sweet-potatoes-and-brussels-sprouts.jpg",
-    "ingredients": [
+      ]
+    },
+    {
+      "label": "Cook Time",
+      "units": [
         {
-            "category": "Candied Sweet Potatoes",
-            "items": [
-                "3/4 lb. sweet potato",
-                "1.5 Tbsp butter",
-                "1 Tbsp brown sugar",
-                "1/4 tsp cinnamon",
-                "1/8 tsp ground cloves",
-                "1/8 tsp salt"
-            ]
-        },
-        {
-            "category": "Roasted Brussels Sprouts",
-            "items": [
-                "1/2 lb. Brussels sprouts",
-                "1 Tbsp olive oil",
-                "1/8 tsp each salt and pepper"
-            ]
+          "measurement": 40,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "Preheat the oven to 350F",
-        "Peel and slice the sweet potatoes into ½-inch thick rounds. Place the sliced sweet potatoes in a bowl.",
-        "Melt the butter and then stir in the brown sugar, cinnamon, cloves, and salt. Pour the sweet butter over the sliced sweet potatoes and stir to combine.",
-        "Cut off any dry ends from the Brussels sprouts, then slice them in half. Drizzle with olive oil, salt, and pepper, then toss to coat.",
-        "Line a baking sheet with parchment paper then lay the butter-coated sweet potatoes out over half of the baking sheet. Try to get as much of the butter mixture out of the bowl onto the sweet potatoes as possible. Spread the Brussels sprouts over the other half of the baking sheet.",
-        "Transfer the baking sheet to the oven, placing it on the rack below the turkey. Roast the sweet potatoes and Brussels sprouts in the oven for about 40 minutes, or until browned and tender, flipping once halfway through."
-    ]
+      ]
+    },
+    {
+      "label": "Total Time",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "candied-sweet-potatoes-and-roasted-brussels-sprouts",
+  "title": "Candied Sweet Potatoes and Roasted Brussels Sprouts",
+  "rating": 7,
+  "servings": 2,
+  "notes": [],
+  "createdDate": "11/25/2021",
+  "source": "https://www.budgetbytes.com/wprm_print/recipe/59268",
+  "image": "../images/candied-sweet-potatoes-and-brussels-sprouts.jpg",
+  "ingredients": [
+    {
+      "category": "Candied Sweet Potatoes",
+      "items": [
+        "3/4 lb. sweet potato",
+        "1.5 Tbsp butter",
+        "1 Tbsp brown sugar",
+        "1/4 tsp cinnamon",
+        "1/8 tsp ground cloves",
+        "1/8 tsp salt"
+      ]
+    },
+    {
+      "category": "Roasted Brussels Sprouts",
+      "items": [
+        "1/2 lb. Brussels sprouts",
+        "1 Tbsp olive oil",
+        "1/8 tsp each salt and pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350F",
+    "Peel and slice the sweet potatoes into ½-inch thick rounds. Place the sliced sweet potatoes in a bowl.",
+    "Melt the butter and then stir in the brown sugar, cinnamon, cloves, and salt. Pour the sweet butter over the sliced sweet potatoes and stir to combine.",
+    "Cut off any dry ends from the Brussels sprouts, then slice them in half. Drizzle with olive oil, salt, and pepper, then toss to coat.",
+    "Line a baking sheet with parchment paper then lay the butter-coated sweet potatoes out over half of the baking sheet. Try to get as much of the butter mixture out of the bowl onto the sweet potatoes as possible. Spread the Brussels sprouts over the other half of the baking sheet.",
+    "Transfer the baking sheet to the oven, placing it on the rack below the turkey. Roast the sweet potatoes and Brussels sprouts in the oven for about 40 minutes, or until browned and tender, flipping once halfway through."
+  ]
 }

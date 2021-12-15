@@ -1,17 +1,27 @@
 {
-  "title": "Ultra-Smashed Cheeseburgers Recipe",
-  "servings": 1,
   "time": [
     {
       "label": "Active time",
-      "units": "5 minutes"
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total time",
-      "units": "5 minutes"
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "ultrasmashed-cheeseburgers-recipe",
+  "title": "Ultra-Smashed Cheeseburgers Recipe",
+  "servings": 1,
   "image": "../images/ultrasmashed-cheeseburgers-recipe.jpg",
   "rating": 10,
   "notes": [

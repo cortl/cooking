@@ -1,6 +1,35 @@
 {
-  "title": "Sweet Chili Chicken Stir Fry Bowls",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "sweet-chili-chicken-stir-fry-bowls",
+  "title": "Sweet Chili Chicken Stir Fry Bowls",
   "image": "../images/sweet-chili-chicken-stir-fry-bowls.jpg",
   "rating": 5,
   "notes": [
@@ -32,19 +61,5 @@
     "Drain the can of pineapple, then add the pineapple to the skillet along with the sweet chili sauce. Stir and heat the sauce and pineapple through (about 2 minutes). ",
     "To serve, place about 1 cup rice in each bowl, add 1/4 of the sweet chili chicken mixture, and 1/3 of the broccoli. Enjoy immediately, or refrigerate until ready to serve. Lasts about 4 days in the refrigerator."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ]
+  "servings": 4
 }

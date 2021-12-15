@@ -1,6 +1,35 @@
 {
-  "title": "Beef Kofta Meatballs with Roasted Vegetables",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "beef-kofta-meatballs-with-roasted-vegetables",
+  "title": "Beef Kofta Meatballs with Roasted Vegetables",
   "image": "../images/beef-kofta-meatballs-with-roasted-vegetables.jpg",
   "rating": 7,
   "notes": [
@@ -53,19 +82,5 @@
     "Heat a large non-stick or cast iron skillet over medium heat. Once hot, 1 Tbsp cooking oil and swirl to coat the surface of the skillet. Add half of the meatballs and cook on each side until well browned (about 7 minutes total). Be careful as you turn the meatballs, as they can be quite delicate. If it's easier, you can flatten them into mini patty shapes. Transfer the cooked meatballs to a clean plate, add more oil to the skillet, and cook the second batch in the same manner.",
     "Once the meatballs are cooked and the vegetables have finished roasting, it's time to assemble the meal. Place about 1 cup cooked rice on each plate or container, add 1/4 of the roasted vegetables, then top with four of the beef kofta meatballs. Top with a little more chopped parsley and enjoy!"
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "40 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "55 minutes"
-    }
-  ]
+  "servings": 4
 }

@@ -1,26 +1,41 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 6,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 9,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "slug": "reddit-beef-barbacoa",
   "title": "Reddit Beef Barbacoa",
   "rating": 6,
-  "slug": "reddit-beef-barbacoa",
   "notes": [
     "works great with pico"
   ],
   "source": "https://www.reddit.com/r/slowcooking/comments/88mpyr/i_made_slow_cooker_barbacoa_tastes_exactly_like/",
   "image": "../images/reddit-beef-barbacoa.jpg",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "6-9 hours"
-    },
-    {
-      "label": "Total",
-      "units": "9 hours"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

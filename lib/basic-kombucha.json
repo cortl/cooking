@@ -1,39 +1,49 @@
 {
-    "title": "Basic Kombucha",
-    "rating": 6,
-    "slug": "basic-kombucha",
-    "servings": 4,
-    "time": [
+  "time": [
+    {
+      "label": "Making Tea",
+      "units": [
         {
-            "label": "Making Tea",
-            "units": "2-3 hours"
-        },
-        {
-            "label": "Fermenting",
-            "units": "10-14 days"
+          "measurement": 2,
+          "label": "hours"
         }
-    ],
-    "notes": [],
-    "createdDate": "4/22/2020",
-    "source": "https://www.youtube.com/watch?v=sDpK0gl14fk&list=PLO5DT10UM-ctucnH2RQ-RqD6tSicb5jBt&index=6&t=0s",
-    "image": "../images/basic-kombucha.jpg",
-    "ingredients": [
+      ]
+    },
+    {
+      "label": "Fermenting",
+      "units": [
         {
-            "category": "All",
-            "items": [
-                "2700ml Water",
-                "228g Granulated Sugar",
-                "8x Black Teabags"
-            ]
+          "measurement": 10,
+          "label": "days"
         }
-    ],
-    "instructions": [
-        "Bring water to almost boil (do not boil it)",
-        "Dissolve sugar into the water",
-        "Take water off of heat and add in the teabags and brew for 4 minutes",
-        "After 4 minutes, take the teabags out but do not squeeze them as it will leave a bitter taste to the tea.",
-        "wait for the tea to cool down to room temperature",
-        "Add two cups of your prior starter (or a bottle of GT's original), the scoby, and your tea into a clean 1 gallon jar",
-        "Let sit covered with a tea towel (NOT cheesecloth as gnats can get through it) for 5+ days, tasting every day for how acidic you like it."
-    ]
+      ]
+    }
+  ],
+  "slug": "basic-kombucha",
+  "title": "Basic Kombucha",
+  "rating": 6,
+  "servings": 4,
+  "notes": [],
+  "createdDate": "4/22/2020",
+  "source": "https://www.youtube.com/watch?v=sDpK0gl14fk&list=PLO5DT10UM-ctucnH2RQ-RqD6tSicb5jBt&index=6&t=0s",
+  "image": "../images/basic-kombucha.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2700ml Water",
+        "228g Granulated Sugar",
+        "8x Black Teabags"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bring water to almost boil (do not boil it)",
+    "Dissolve sugar into the water",
+    "Take water off of heat and add in the teabags and brew for 4 minutes",
+    "After 4 minutes, take the teabags out but do not squeeze them as it will leave a bitter taste to the tea.",
+    "wait for the tea to cool down to room temperature",
+    "Add two cups of your prior starter (or a bottle of GT's original), the scoby, and your tea into a clean 1 gallon jar",
+    "Let sit covered with a tea towel (NOT cheesecloth as gnats can get through it) for 5+ days, tasting every day for how acidic you like it."
+  ]
 }

@@ -1,6 +1,48 @@
 {
-  "title": "Serious Eats' Halal Cart-Style Chicken and Rice With White Sauce",
+  "time": [
+    {
+      "label": "Marinade",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "serious-eats-halal-cartstyle-chicken-and-rice-with-white-sauce",
+  "title": "Serious Eats' Halal Cart-Style Chicken and Rice With White Sauce",
   "image": "../images/serious-eats-halal-cartstyle-chicken-and-rice-with-white-sauce.jpg",
   "rating": 8,
   "notes": [
@@ -8,24 +50,6 @@
   ],
   "createdDate": "04/20/2019",
   "source": "https://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html",
-  "time": [
-    {
-      "label": "Marinade",
-      "units": "1 hour"
-    },
-    {
-      "label": "Prep",
-      "units": "30 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "1 hour 45 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "Chicken",

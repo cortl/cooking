@@ -1,6 +1,26 @@
 {
-  "title": "The World's Easiest Cranberry Sauce Recipe",
+  "time": [
+    {
+      "label": "Active time",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total time",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "the-worlds-easiest-cranberry-sauce-recipe",
+  "title": "The World's Easiest Cranberry Sauce Recipe",
   "rating": 7,
   "notes": [
     "Simple, easy, it's cranberry sauce"
@@ -23,15 +43,5 @@
   "instructions": [
     "Combine all ingredients in a medium saucepan. Bring to a boil over medium-high heat, then reduce to a simmer. Cook, stirring occasionally, until berries start to pop. Press berries against side of pan with a wooden spoon and continue to cook, stirring occasionally, until berries are completely broken down and achieve a jam-like consistency, about 10 minutes total. Remove from heat and allow to cool about 30 minutes. Stir in water in 1-tablespoon increments to adjust to desired consistency. Cranberry sauce can be served immediately or stored in the refrigerator for several months."
   ],
-  "servings": 8,
-  "time": [
-    {
-      "label": "Active time",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total time",
-      "units": "45 minutes"
-    }
-  ]
+  "servings": 8
 }

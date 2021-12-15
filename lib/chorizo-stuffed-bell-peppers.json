@@ -1,6 +1,35 @@
 {
-  "title": "Chorizo Stuffed Bell Peppers",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "chorizo-stuffed-bell-peppers",
+  "title": "Chorizo Stuffed Bell Peppers",
   "image": "../images/chorizo-stuffed-bell-peppers.jpg",
   "rating": 6,
   "notes": [
@@ -31,19 +60,5 @@
     "Once all the peppers are filled, add about 1/2 inch of water to the dish to help the peppers steam and soften. Cover the dish tightly with foil, then bake for 30 minutes.",
     "After 30 minutes, remove the foil and top the peppers with the remaining shredded cheese. Bake for another 10 minutes, or until the cheese is melted and bubbly on the edges. Top the peppers with the remaining sliced green onion just before serving."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "55 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "5 minutes"
-    }
-  ]
+  "servings": 6
 }

@@ -1,59 +1,74 @@
 {
-    "title": "Beef and Broccoli",
-    "rating": 8,
-    "slug": "beef-and-broccoli",
-    "servings": 4,
-    "time": [
+  "time": [
+    {
+      "label": "Prep Time",
+      "units": [
         {
-            "label": "Prep Time",
-            "units": "10 mins"
-        },
-        {
-            "label": "Cook Time",
-            "units": "10 mins"
-        },
-        {
-            "label": "Total Time",
-            "units": "20 mins"
+          "measurement": 10,
+          "label": "minutes"
         }
-    ],
-    "notes": [],
-    "createdDate": "12/03/2020",
-    "source": "https://kitchenswagger.com/beef-and-broccoli-recipe/",
-    "image": "../images/beef-and-broccoli.jpg",
-    "ingredients": [
+      ]
+    },
+    {
+      "label": "Cook Time",
+      "units": [
         {
-            "category": "Sauce",
-            "items": [
-                "1/2 cup warm/hot water",
-                "1/4 cup low sodium soy sauce",
-                "3 tablespoons packed light brown sugar",
-                "2 garlic cloves, minced",
-                "rounded tablespoon corn starch",
-                "1 tablespoon sesame oil",
-                "1/2 teaspoon sriracha",
-                "1/2 teaspoon ground ginger (or 1 teaspoon freshly grated ginger)"
-            ]
-        },
-        {
-            "category": "Main",
-            "items": [
-                "1 pound flank or skirt steak, thinly sliced against grain",
-                "4 cups small broccoli florets (about 1 head",
-                "1 1/2 cups jasmine or white rice",
-                "1 chopped green onion",
-                "1–2 tablespoons canola/vegetable",
-                "1 tablespoon sesame seeds for garnish",
-                "ground pepper, to taste"
-            ]
+          "measurement": 10,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "Combine all sauce ingredients in a small bowl starting with the water and sugar first. Whisk to combine. Set aside. Sauce can be made ahead and stored in the fridge.",
-        "Thinly slice flank steak into 1/4 inch thick strips against the grain. This part is very important for tenderness. Cut strips into 2-inch bite-sized pieces.",
-        "Cook rice according to the directions on the package.",
-        "Meanwhile, bring skillet to medium heat. Add 1/2 cup water and broccoli. Cook broccoli, tossing occasionally until just starting to tenderize, about 5 minutes. The water helps steam the broccoli and prevents burning. If the water evaporates, add a splash more. Broccoli should not be raw but still a little snappy.",
-        "Transfer broccoli to a bowl and add oil to the skillet. Add steak in a single layer and season liberally with pepper. Cook for about 1-2 minutes per side or until no longer pink.",
-        "Add sauce to the skillet and bring to a simmer. As soon as it bubbles, reduce heat to low and let thicken, about 1-2 minutes. Add broccoli and toss with the steak until everything is coated. if sauce gets too thick add a little warm water. Top with green onion and sesame seeds. Serve over white rice."
-    ]
+      ]
+    },
+    {
+      "label": "Total Time",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "beef-and-broccoli",
+  "title": "Beef and Broccoli",
+  "rating": 8,
+  "servings": 4,
+  "notes": [],
+  "createdDate": "12/03/2020",
+  "source": "https://kitchenswagger.com/beef-and-broccoli-recipe/",
+  "image": "../images/beef-and-broccoli.jpg",
+  "ingredients": [
+    {
+      "category": "Sauce",
+      "items": [
+        "1/2 cup warm/hot water",
+        "1/4 cup low sodium soy sauce",
+        "3 tablespoons packed light brown sugar",
+        "2 garlic cloves, minced",
+        "rounded tablespoon corn starch",
+        "1 tablespoon sesame oil",
+        "1/2 teaspoon sriracha",
+        "1/2 teaspoon ground ginger (or 1 teaspoon freshly grated ginger)"
+      ]
+    },
+    {
+      "category": "Main",
+      "items": [
+        "1 pound flank or skirt steak, thinly sliced against grain",
+        "4 cups small broccoli florets (about 1 head",
+        "1 1/2 cups jasmine or white rice",
+        "1 chopped green onion",
+        "1–2 tablespoons canola/vegetable",
+        "1 tablespoon sesame seeds for garnish",
+        "ground pepper, to taste"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine all sauce ingredients in a small bowl starting with the water and sugar first. Whisk to combine. Set aside. Sauce can be made ahead and stored in the fridge.",
+    "Thinly slice flank steak into 1/4 inch thick strips against the grain. This part is very important for tenderness. Cut strips into 2-inch bite-sized pieces.",
+    "Cook rice according to the directions on the package.",
+    "Meanwhile, bring skillet to medium heat. Add 1/2 cup water and broccoli. Cook broccoli, tossing occasionally until just starting to tenderize, about 5 minutes. The water helps steam the broccoli and prevents burning. If the water evaporates, add a splash more. Broccoli should not be raw but still a little snappy.",
+    "Transfer broccoli to a bowl and add oil to the skillet. Add steak in a single layer and season liberally with pepper. Cook for about 1-2 minutes per side or until no longer pink.",
+    "Add sauce to the skillet and bring to a simmer. As soon as it bubbles, reduce heat to low and let thicken, about 1-2 minutes. Add broccoli and toss with the steak until everything is coated. if sauce gets too thick add a little warm water. Top with green onion and sesame seeds. Serve over white rice."
+  ]
 }

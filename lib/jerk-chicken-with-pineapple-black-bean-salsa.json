@@ -1,6 +1,35 @@
 {
-  "title": "Jerk Chicken with Pineapple Black Bean Salsa",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "jerk-chicken-with-pineapple-black-bean-salsa",
+  "title": "Jerk Chicken with Pineapple Black Bean Salsa",
   "image": "../images/jerk-chicken-with-pineapple-black-bean-salsa.jpg",
   "rating": 8,
   "notes": [
@@ -34,19 +63,5 @@
     "Transfer the cooked chicken to a clean cutting board and let it rest for five minutes. After five minutes, slice the chicken into 1/2-wide strips.",
     "To serve, place about a cup of cooked rice on a plate, or in your meal prep container, top with about a cup of the pineapple black bean salsa, and a few strips of the jerk chicken. Slice the remaining lime into wedges and squeeze fresh juice over the chicken just before eating."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "40 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "45 minutes"
-    }
-  ]
+  "servings": 4
 }

@@ -1,26 +1,41 @@
 {
-  "title": "Vegan West African Peanut Stew",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "vegan-west-african-peanut-stew",
+  "title": "Vegan West African Peanut Stew",
   "image": "../images/vegan-west-african-peanut-stew.jpg",
   "rating": 5,
   "notes": [
     "1-2 bowls is good, not great as leftovers"
   ],
   "source": "https://www.budgetbytes.com/2014/08/african-peanut-stew-vegan/",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "45 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "55 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

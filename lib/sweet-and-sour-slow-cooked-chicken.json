@@ -1,26 +1,45 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        },
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "sweet-and-sour-slow-cooked-chicken",
   "title": "Sweet and Sour Slow Cooked Chicken",
   "rating": 1,
-  "slug": "sweet-and-sour-slow-cooked-chicken",
   "notes": [
     "too much liquid and can't add too much more corn starch otherwise it gets really jello-y"
   ],
   "source": "https://www.bodybuilding.com/recipes/sweet-and-sour-slow-cooked-chicken",
   "image": "../images/sweet-and-sour-slow-cooked-chicken.jpg",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "2 hours"
-    },
-    {
-      "label": "Total",
-      "units": "2 hours 20 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

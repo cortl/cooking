@@ -1,41 +1,51 @@
 {
-    "title": "Mushroom Herb Gravy",
-    "rating": 7,
-    "slug": "mushroom-herb-gravy",
-    "servings": 3,
-    "time": [
+  "time": [
+    {
+      "label": "Prep Time",
+      "units": [
         {
-            "label": "Prep Time",
-            "units": "5 mins"
-        },
-        {
-            "label": "Cook Time",
-            "units": "10 mins"
+          "measurement": 5,
+          "label": "minutes"
         }
-    ],
-    "notes": [],
-    "createdDate": "11/25/2021",
-    "source": "https://www.budgetbytes.com/wprm_print/recipe/59346",
-    "image": "../images/mushroom-herb-gravy.jpg",
-    "ingredients": [
+      ]
+    },
+    {
+      "label": "Cook Time",
+      "units": [
         {
-            "category": "All",
-            "items": [
-                "4 oz. mushrooms",
-                "1 clove garlic",
-                "1.5 Tbsp butter",
-                "1.5 Tbsp all-purpose flour",
-                "1 cup vegetable broth",
-                "1/4 tsp rubbed sage",
-                "1/8 tsp dried thyme (or one sprig fresh)",
-                "1/8 tsp pepper"
-            ]
+          "measurement": 10,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "Slice the mushrooms and mince the garlic. Add the mushrooms, garlic, and butter to a small skillet and sauté over medium heat until the mushrooms have released all of their water and the water has completely evaporated off the bottom of the skillet.",
-        "When there is no more water pooling on the bottom of the skillet, add the flour and continue to stir and cook for about one minute more.",
-        "Add the vegetable broth and whisk well until all of the flour has dissolved off the bottom of the skillet. Also add the sage, thyme, and pepper. Allow the broth to come up to a simmer, stirring occasionally, at which point it will thicken to a gravy.",
-        "Taste the gravy and add salt if needed. Serve immediately."
-    ]
+      ]
+    }
+  ],
+  "slug": "mushroom-herb-gravy",
+  "title": "Mushroom Herb Gravy",
+  "rating": 7,
+  "servings": 3,
+  "notes": [],
+  "createdDate": "11/25/2021",
+  "source": "https://www.budgetbytes.com/wprm_print/recipe/59346",
+  "image": "../images/mushroom-herb-gravy.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "4 oz. mushrooms",
+        "1 clove garlic",
+        "1.5 Tbsp butter",
+        "1.5 Tbsp all-purpose flour",
+        "1 cup vegetable broth",
+        "1/4 tsp rubbed sage",
+        "1/8 tsp dried thyme (or one sprig fresh)",
+        "1/8 tsp pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Slice the mushrooms and mince the garlic. Add the mushrooms, garlic, and butter to a small skillet and sauté over medium heat until the mushrooms have released all of their water and the water has completely evaporated off the bottom of the skillet.",
+    "When there is no more water pooling on the bottom of the skillet, add the flour and continue to stir and cook for about one minute more.",
+    "Add the vegetable broth and whisk well until all of the flour has dissolved off the bottom of the skillet. Also add the sage, thyme, and pepper. Allow the broth to come up to a simmer, stirring occasionally, at which point it will thicken to a gravy.",
+    "Taste the gravy and add salt if needed. Serve immediately."
+  ]
 }

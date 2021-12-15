@@ -1,6 +1,35 @@
 {
-  "title": "Good Old Fashioned Pancakes",
+  "time": [
+    {
+      "label": "prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "good-old-fashioned-pancakes",
+  "title": "Good Old Fashioned Pancakes",
   "rating": 6,
   "notes": [
     "not sweet pancakes, but good"
@@ -25,19 +54,5 @@
     "In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.                            ",
     "Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.                            "
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "prep",
-      "units": "5 mins"
-    },
-    {
-      "label": "cook",
-      "units": "15 mins"
-    },
-    {
-      "label": "total",
-      "units": "20 mins"
-    }
-  ]
+  "servings": 4
 }

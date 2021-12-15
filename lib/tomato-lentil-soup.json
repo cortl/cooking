@@ -1,21 +1,36 @@
 {
-  "title": "Tomato Lentil Soup",
-  "servings": 6,
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "50 minutes"
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "1 hour"
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
     }
   ],
   "slug": "tomato-lentil-soup",
+  "title": "Tomato Lentil Soup",
+  "servings": 6,
   "image": "../images/tomato-lentil-soup.jpg",
   "rating": 7,
   "notes": [

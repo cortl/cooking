@@ -1,6 +1,39 @@
 {
-  "title": "Brown Turkey Stock Recipe",
+  "time": [
+    {
+      "label": "Active time",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "hours"
+        },
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cooling",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
   "slug": "brown-turkey-stock-recipe",
+  "title": "Brown Turkey Stock Recipe",
   "image": "../images/brown-turkey-stock-recipe.jpg",
   "rating": 7,
   "notes": [
@@ -33,19 +66,5 @@
     "Add enough water to just barely cover all the solids in the pot, set over medium-high heat, and bring to a bare simmer. Lower heat to maintain a bare simmer and cook, occasionally skimming fat and scum from surface, until stock has reduced slightly and is deep and rich, 2 to 3 hours.",
     "Strain stock through a fine-mesh strainer, let cool, then transfer to containers and refrigerate until completely chilled, about 6 hours; discard solids. Skim off and remove any fat and scum on the surface of the stock. Refrigerate for up to 5 days or freeze for up to 6 months."
   ],
-  "servings": 3,
-  "time": [
-    {
-      "label": "Active time",
-      "units": "40 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "3 hours 40 minutes"
-    },
-    {
-      "label": "Cooling",
-      "units": "2 hours"
-    }
-  ]
+  "servings": 3
 }

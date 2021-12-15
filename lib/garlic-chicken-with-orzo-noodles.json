@@ -1,6 +1,35 @@
 {
-  "title": "Garlic Chicken with Orzo Noodles",
+  "time": [
+    {
+      "label": "prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "garlic-chicken-with-orzo-noodles",
+  "title": "Garlic Chicken with Orzo Noodles",
   "rating": 5,
   "notes": [
     "nothing too special"
@@ -26,19 +55,5 @@
     "Bring a large pot of lightly salted water to a boil. Add orzo pasta, cook for 8 to 10 minutes, until al dente, and drain.",
     "Heat the oil in a skillet over medium-high heat, and cook the garlic and red pepper 1 minute, until garlic is golden brown. Stir in chicken, season with salt, and cook 2 to 5 minutes, until lightly browned and juices run clear. Reduce heat to medium, and mix in the parsley and cooked orzo. Place spinach in the skillet. Continue cooking 5 minutes, stirring occasionally, until spinach is wilted. Serve topped with Parmesan cheese."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "prep",
-      "units": "15 mins"
-    },
-    {
-      "label": "cook",
-      "units": "15 mins"
-    },
-    {
-      "label": "total",
-      "units": "30 mins"
-    }
-  ]
+  "servings": 4
 }

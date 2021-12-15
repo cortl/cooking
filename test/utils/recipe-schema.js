@@ -36,8 +36,11 @@ const schema = Joi.object({
         items: Joi.array().items(Joi.string())
     }),
     time: Joi.array().items({
-        label: Joi.string(),
-        units: Joi.string()
+        label: Joi.string().valid('Prep', 'Cook', 'Active', 'Total'),
+        units: Joi.array().items({
+            measurement: Joi.number().greater(0),
+            label: Joi.string().valid('day', 'days', 'hour', 'hours', 'minute', 'minutes')
+        })
     }),
     image: Joi.file()
 })

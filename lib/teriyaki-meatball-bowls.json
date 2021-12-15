@@ -1,21 +1,36 @@
 {
-  "title": "Teriyaki Meatball Bowls",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "20 minutes"
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "20 minutes"
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "40 minutes"
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "teriyaki-meatball-bowls",
+  "title": "Teriyaki Meatball Bowls",
+  "servings": 4,
   "image": "../images/teriyaki-meatball-bowls.jpg",
   "rating": 8,
   "notes": [

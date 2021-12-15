@@ -1,17 +1,27 @@
 {
-  "title": "BraveTart: One-Bowl, Overnight Cinnamon Rolls Recipe",
-  "servings": 12,
   "time": [
     {
       "label": "Active time",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total time",
-      "units": "10 hours"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "hours"
+        }
+      ]
     }
   ],
   "slug": "bravetart-onebowl-overnight-cinnamon-rolls-recipe",
+  "title": "BraveTart: One-Bowl, Overnight Cinnamon Rolls Recipe",
+  "servings": 12,
   "image": "../images/one-bowl-overnight-cinnamon-rolls.jpg",
   "rating": 9,
   "notes": [

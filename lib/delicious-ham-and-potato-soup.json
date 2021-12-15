@@ -1,6 +1,35 @@
 {
-  "title": "Delicious Ham and Potato Soup",
+  "time": [
+    {
+      "label": "prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "delicious-ham-and-potato-soup",
+  "title": "Delicious Ham and Potato Soup",
   "rating": 6,
   "notes": [
     ""
@@ -29,19 +58,5 @@
     "In a separate saucepan, melt butter over medium-low heat. Whisk in flour with a fork, and cook, stirring constantly until thick, about 1 minute. Slowly stir in milk as not to allow lumps to form until all of the milk has been added. Continue stirring over medium-low heat until thick, 4 to 5 minutes.                            ",
     "Stir the milk mixture into the stockpot, and cook soup until heated through. Serve immediately.                            "
   ],
-  "servings": 8,
-  "time": [
-    {
-      "label": "prep",
-      "units": "20 mins"
-    },
-    {
-      "label": "cook",
-      "units": "25 mins"
-    },
-    {
-      "label": "total",
-      "units": "45 mins"
-    }
-  ]
+  "servings": 8
 }

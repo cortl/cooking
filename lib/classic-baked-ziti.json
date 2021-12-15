@@ -1,6 +1,35 @@
 {
-  "title": "Classic Baked Ziti",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "classic-baked-ziti",
+  "title": "Classic Baked Ziti",
   "image": "../images/classic-baked-ziti.jpg",
   "rating": 7,
   "notes": [
@@ -39,19 +68,5 @@
     "Cover the baking dish with foil, making sure it's slightly tented so that it doesn't touch or stick to the melted cheese. Transfer the covered casserole to the oven and bake for 20 minutes. ",
     "After baking for 20 minutes, remove the foil, and turn the oven on to broil (keep the casserole on the middle rack, about 10-12 inches from the broiler). Broil for 5 minutes, or just until the cheese is slightly browned. Keep a close eye on the baked ziti as it broils, because broilers can vary in intensity. Top with chopped parsley, if desired, then serve."
   ],
-  "servings": 8,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "55 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "5 minutes"
-    }
-  ]
+  "servings": 8
 }

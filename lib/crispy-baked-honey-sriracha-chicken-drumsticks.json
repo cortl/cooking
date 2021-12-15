@@ -1,6 +1,35 @@
 {
-  "title": "Crispy Baked Honey Sriracha Chicken Drumsticks",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "crispy-baked-honey-sriracha-chicken-drumsticks",
+  "title": "Crispy Baked Honey Sriracha Chicken Drumsticks",
   "image": "../images/crispy-baked-honey-sriracha-chicken-drumsticks.jpg",
   "rating": 6,
   "notes": [
@@ -27,19 +56,5 @@
     "While the chicken is in the oven, combine the sriracha, butter, and honey in a small sauce pot. Heat over a low flame until the butter is melted and the sauce is smooth. Set the sauce aside.",
     "When the chicken comes out of the oven, brush the sauce liberally over the surface of the chicken, then serve."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "50 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "55 minutes"
-    }
-  ]
+  "servings": 6
 }

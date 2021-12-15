@@ -1,6 +1,35 @@
 {
-  "title": "Beef Taco Skillet",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "beef-taco-skillet",
+  "title": "Beef Taco Skillet",
   "image": "../images/beef-taco-skillet.jpg",
   "rating": 6,
   "notes": [
@@ -42,19 +71,5 @@
     "Top the skillet with the shredded cheese, place a lid on top, and let it heat for 1-2 minutes, or just until the cheese is melted. Sprinkle the sliced green onions over top just before serving."
   ],
   "createdDate": "9/15/2020",
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "25 minutes"
-    }
-  ]
+  "servings": 4
 }

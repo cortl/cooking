@@ -1,17 +1,27 @@
 {
-  "title": "The Ultimate Beef Stroganoff Recipe",
-  "servings": 4,
   "time": [
     {
       "label": "Active time",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total time",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "the-ultimate-beef-stroganoff-recipe",
+  "title": "The Ultimate Beef Stroganoff Recipe",
+  "servings": 4,
   "image": "../images/the-ultimate-beef-stroganoff-recipe.jpg",
   "rating": 8,
   "notes": [

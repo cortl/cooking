@@ -1,21 +1,36 @@
 {
-  "title": "BBQ Cheddar Baked Chicken",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "23 minutes"
+      "units": [
+        {
+          "measurement": 23,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "33 minutes"
+      "units": [
+        {
+          "measurement": 33,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "bbq-cheddar-baked-chicken",
+  "title": "BBQ Cheddar Baked Chicken",
+  "servings": 4,
   "image": "../images/bbq-cheddar-baked-chicken.jpg",
   "rating": 7,
   "notes": [

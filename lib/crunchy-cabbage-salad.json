@@ -1,21 +1,27 @@
 {
-  "title": "Crunchy Cabbage Salad",
-  "servings": 6,
   "time": [
     {
       "label": "Prep",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "0 minutes"
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "20 minutes"
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "crunchy-cabbage-salad",
+  "title": "Crunchy Cabbage Salad",
+  "servings": 6,
   "image": "../images/crunchy-cabbage-salad.jpg",
   "rating": 7,
   "notes": [

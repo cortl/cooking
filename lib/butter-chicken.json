@@ -1,15 +1,20 @@
 {
-  "title": "Butter Chicken",
-  "rating": 9,
-  "slug": "butter-chicken",
-  "notes": [
-    "Try marinating the chicken in yogurt first too"
-  ],
   "time": [
     {
       "label": "Total",
-      "units": "1 hour"
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
     }
+  ],
+  "slug": "butter-chicken",
+  "title": "Butter Chicken",
+  "rating": 9,
+  "notes": [
+    "Try marinating the chicken in yogurt first too"
   ],
   "image": "../images/butter-chicken.jpg",
   "createdDate": "01/01/2019",

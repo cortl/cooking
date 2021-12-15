@@ -1,6 +1,26 @@
 {
-  "title": "Quick and Easy Pressure Cooker Chicken and Black Bean Stew Recipe",
+  "time": [
+    {
+      "label": "Active time",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total time",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
   "slug": "quick-and-easy-pressure-cooker-chicken-and-black-bean-stew-recipe",
+  "title": "Quick and Easy Pressure Cooker Chicken and Black Bean Stew Recipe",
   "image": "../images/quick-and-easy-pressure-cooker-chicken-and-black-bean-stew-recipe.jpg",
   "rating": 5,
   "notes": [
@@ -31,15 +51,5 @@
     "Seal pressure cooker and bring to high pressure. Cook for 40 minutes. Cool pressure cooker under a cold running tap (if using an electric cooker, use the quick release valve), and open. Using tongs, transfer chicken pieces to a bowl. Discard cilantro stems. Return beans to high heat and continue cooking, stirring, until reduced to a thick, stew-like consistency, about 5 minutes. Meanwhile, shred chicken from bones and discard skin.",
     "Stir chicken into beans, season to taste with salt and pepper, stir in half of chopped cilantro, and serve, passing sour cream, lime wedges, and remaining cilantro at the table."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Active time",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total time",
-      "units": "1 hour"
-    }
-  ]
+  "servings": 4
 }

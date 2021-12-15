@@ -1,15 +1,20 @@
 {
-  "title": "Alton Brown Royal Icing",
-  "slug": "alton-brown-royal-icing",
-  "rating": 8,
-  "notes": [
-    "a little high effort because you have to pasteurize egg yolks but worth the effort"
-  ],
   "time": [
     {
       "label": "Prep",
-      "units": "7 min"
+      "units": [
+        {
+          "measurement": 7,
+          "label": "minutes"
+        }
+      ]
     }
+  ],
+  "slug": "alton-brown-royal-icing",
+  "title": "Alton Brown Royal Icing",
+  "rating": 8,
+  "notes": [
+    "a little high effort because you have to pasteurize egg yolks but worth the effort"
   ],
   "createdDate": "12/18/2019",
   "source": "https://www.foodnetwork.com/recipes/alton-brown/royal-icing-recipe-1941917",

@@ -1,6 +1,35 @@
 {
-  "title": "King Ranch Chicken Casserole",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "king-ranch-chicken-casserole",
+  "title": "King Ranch Chicken Casserole",
   "image": "../images/king-ranch-chicken-casserole.jpg",
   "rating": 6,
   "notes": [
@@ -40,19 +69,5 @@
     "Layer a few handfuls of the tortilla chip strips into the bottom of a 9x13-inch or 3 quart casserole dish. Spoon half of the chicken mixture on top of the chips. Layer more tortilla chip strips on top (about half as much as before), then spoon the remaining chicken mixture on top. Finally, add the remaining 1.5 cups of shredded cheddar.",
     "Bake the casserole in the preheated 375ºF oven for 15 minutes or until the cheese is melted and the casserole bubbles around the edges. Sprinkle sliced green onions on top after baking, then serve hot."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "35 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "45 minutes"
-    }
-  ]
+  "servings": 6
 }

@@ -1,17 +1,27 @@
 {
-  "title": "Bacon, Egg, and Cheese Breakfast Burrito Recipe",
-  "servings": 2,
   "time": [
     {
       "label": "Active time",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total time",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "bacon-egg-and-cheese-breakfast-burrito-recipe",
+  "title": "Bacon, Egg, and Cheese Breakfast Burrito Recipe",
+  "servings": 2,
   "image": "../images/bacon-egg-and-cheese-breakfast-burrito-recipe.jpg",
   "rating": 7,
   "notes": [

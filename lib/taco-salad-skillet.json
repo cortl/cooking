@@ -1,6 +1,35 @@
 {
-  "title": "Taco Salad Skillet",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "taco-salad-skillet",
+  "title": "Taco Salad Skillet",
   "image": "../images/taco-salad-skillet.jpg",
   "rating": 6,
   "notes": [
@@ -37,19 +66,5 @@
     "Meanwhile, dice the tomato, slice the green onions, and shred the lettuce.",
     "Once the cheese is melted, turn off the heat. Top the skillet with the broken tortilla chips, lettuce, tomato, and green onion. Scoop the layered salad into each of four bowls, then add a dollop of sour cream to each serving."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "25 minutes"
-    }
-  ]
+  "servings": 4
 }

@@ -1,6 +1,35 @@
 {
-  "title": "Oven Roasted Frozen Broccoli",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "oven-roasted-frozen-broccoli",
+  "title": "Oven Roasted Frozen Broccoli",
   "image": "../images/oven-roasted-frozen-broccoli.jpg",
   "rating": 5,
   "notes": [
@@ -22,19 +51,5 @@
     "Drizzle the olive oil over the florets, then sprinkle the Montreal steak seasoning over top. Toss the florets in the oil and seasoning until everything is evenly distributed (it's okay if a lot of it falls onto the baking sheet, it will be stirred and redistributed again later).",
     "Transfer the baking sheet to the oven and roast for 20 minutes. Take the baking sheet out and use a spatula to stir the broccoli and redistribute the oil and spices. Return the baking sheet to the oven and roast for another 10 minutes, or until the broccoli develops the amount of brownness desired. Serve hot."
   ],
-  "servings": 2,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "30 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "35 minutes"
-    }
-  ]
+  "servings": 2
 }

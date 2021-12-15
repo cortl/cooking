@@ -1,6 +1,26 @@
 {
-  "title": "Slow-Cooker Sticky Thai Meatballs Recipe",
+  "time": [
+    {
+      "label": "Active time",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total time",
+      "units": [
+        {
+          "measurement": 9,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
   "slug": "slowcooker-sticky-thai-meatballs-recipe",
+  "title": "Slow-Cooker Sticky Thai Meatballs Recipe",
   "image": "../images/slowcooker-sticky-thai-meatballs-recipe.jpg",
   "rating": 6,
   "notes": [
@@ -45,15 +65,5 @@
     "In a small bowl, combine remaining scallion, cilantro, chopped peanuts, and lime juice.",
     "Once the cooking time is up, switch the slow cooker to the “warm” setting. Right before serving, sprinkle approximately 3/4 of the peanut mixture over the meatballs and stir. Top with the remaining peanut mixture and serve."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Active time",
-      "units": "1 hour"
-    },
-    {
-      "label": "Total time",
-      "units": "9 hours"
-    }
-  ]
+  "servings": 4
 }

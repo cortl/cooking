@@ -1,6 +1,44 @@
 {
-  "title": "Pressure Cooker Beef and Broccoli",
+  "time": [
+    {
+      "label": "Prep Time",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook Time",
+      "units": [
+        {
+          "measurement": 12,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Additional Time",
+      "units": [
+        {
+          "measurement": 8,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total Time",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "pressure-cooker-beef-and-broccoli",
+  "title": "Pressure Cooker Beef and Broccoli",
   "rating": 7,
   "image": "../images/pressure-cooker-beef-and-broccoli.jpg",
   "notes": [
@@ -39,23 +77,5 @@
     "In a small bowl, combine cornstarch and water and stir until smooth. Select Simmer/Saute and add to the pressure cooking pot. Stir well to combine, and continue stirring until the sauce comes to a boil and thickens. Add the steamed broccoli.",
     "Serve over hot, cooked rice and garnish with sesame seeds."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep Time",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook Time",
-      "units": "12 minutes"
-    },
-    {
-      "label": "Additional Time",
-      "units": "8 minutes"
-    },
-    {
-      "label": "Total Time",
-      "units": "30 minutes"
-    }
-  ]
+  "servings": 6
 }

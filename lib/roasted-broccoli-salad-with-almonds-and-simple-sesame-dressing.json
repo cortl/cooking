@@ -1,21 +1,36 @@
 {
-  "title": "Roasted Broccoli Salad with Almonds and Simple Sesame Dressing",
-  "servings": 2,
   "time": [
     {
       "label": "Prep",
-      "units": "15 minutes"
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "30 minutes"
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "roasted-broccoli-salad-with-almonds-and-simple-sesame-dressing",
+  "title": "Roasted Broccoli Salad with Almonds and Simple Sesame Dressing",
+  "servings": 2,
   "image": "../images/roasted-broccoli-salad-with-almonds-and-simple-sesame-dressing.jpg",
   "rating": 6,
   "notes": [

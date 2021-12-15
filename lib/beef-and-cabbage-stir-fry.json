@@ -1,6 +1,35 @@
 {
-  "title": "Beef and Cabbage Stir Fry",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "beef-and-cabbage-stir-fry",
+  "title": "Beef and Cabbage Stir Fry",
   "image": "../images/beef-and-cabbage-stir-fry.jpg",
   "rating": 5,
   "notes": [
@@ -34,19 +63,5 @@
     "Heat a large skillet over medium heat. Once hot add the cooking oil, ground beef, garlic, ginger, and a pinch of salt and pepper. Cook the beef until browned (about five minutes).",
     "Add the cabbage and carrots to the skillet and continue to stir and cook until the cabbage is slightly wilted (or fully wilted, if you prefer). Stir in the prepared sauce and the green onions. Top with a sprinkle of sesame seeds and a drizzle of sriracha, then serve."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ]
+  "servings": 4
 }

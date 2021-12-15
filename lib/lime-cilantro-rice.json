@@ -1,27 +1,42 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "lime-cilantro-rice",
   "title": "Lime Cilantro Rice",
   "rating": 5,
-  "slug": "lime-cilantro-rice",
   "notes": [
     "Not the best, but its a change of pace.",
     "Does not reheat well due to fresh cilantro"
   ],
   "source": "https://www.allrecipes.com/recipe/146000/lime-cilantro-rice/",
   "image": "../images/lime-cilantro-rice.jpg",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

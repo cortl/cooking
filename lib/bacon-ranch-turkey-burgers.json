@@ -1,21 +1,36 @@
 {
-  "title": "Bacon Ranch Turkey Burgers",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "15 minutes"
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "35 minutes"
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "50 minutes"
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "bacon-ranch-turkey-burgers",
+  "title": "Bacon Ranch Turkey Burgers",
+  "servings": 4,
   "image": "../images/bacon-ranch-turkey-burgers.jpg",
   "rating": 7,
   "notes": [

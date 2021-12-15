@@ -1,21 +1,36 @@
 {
-  "title": "Easy Roasted Brussels Sprouts",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "25 minutes"
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "35 minutes"
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "easy-roasted-brussels-sprouts",
+  "title": "Easy Roasted Brussels Sprouts",
+  "servings": 4,
   "image": "../images/easy-roasted-brussels-sprouts.jpg",
   "rating": 7,
   "notes": [

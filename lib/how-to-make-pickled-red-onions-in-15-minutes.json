@@ -1,6 +1,35 @@
 {
-  "title": "How to Make Pickled Red Onions in 15 minutes",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "how-to-make-pickled-red-onions-in-15-minutes",
+  "title": "How to Make Pickled Red Onions in 15 minutes",
   "image": "../images/how-to-make-pickled-red-onions-in-15-minutes.jpg",
   "rating": 7,
   "notes": [
@@ -27,19 +56,5 @@
     "Once boiling, pour the vinegar over the sliced onion and garlic*. Press the onion down so all the pieces are submerged, then let the mixture cool to room temperature.",
     "Once cool, use the onions immediately or transfer the onions and all the brine to a lidded non-reactive container (glass, ceramic, or plastic) for storage in the refrigerator. The onions can be stored in the refrigerator for 3-4 weeks."
   ],
-  "servings": 0,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "15 minutes"
-    }
-  ]
+  "servings": 0
 }

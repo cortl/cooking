@@ -1,21 +1,36 @@
 {
-  "title": "Oven Baked Steak Fries",
-  "servings": 2,
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "35 minutes"
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "oven-baked-steak-fries",
+  "title": "Oven Baked Steak Fries",
+  "servings": 2,
   "image": "../images/oven-baked-steak-fries.jpg",
   "rating": 7,
   "notes": [

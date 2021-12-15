@@ -1,55 +1,55 @@
 {
-    "title": "Beef Braciole",
-    "rating": 5,
-    "slug": "fmk-beef-braciole",
-    "servings": 4,
-    "time": [],
-    "notes": [
-        "Not that great for how much effort it is."
-    ],
-    "createdDate": "03/31/2021",
-    "source": "https://fitmencook.com/beef-braciole-recipe/",
-    "image": "../images/beef-braciole.jpg",
-    "ingredients": [
-        {
-            "category": "All",
-            "items": [
-                "1 1/2 lb lean top sirloin, thinly sliced",
-                "1 medium white onion, diced",
-                "4 garlic cloves, minced",
-                "generous pinch of sea salt & pepper",
-                "2/3 cup red wine",
-                "56oz (~4 cans 13.5oz) whole crushed tomatoes in can"
-            ]
-        },
-        {
-            "category": "Stuffing",
-            "items": [
-                "3/4 cup (gluten-free) panko",
-                "1/2 cup grated parmesan",
-                "1/3 cup finely chopped parsley",
-                "2 tablespoons olive oil",
-                "2 tablespoons pine nuts (OPTIONAL)",
-                "2 tablespoons olive oil"
-            ]
-        },
-        {
-            "category": "Veggies",
-            "items": [
-                "3 zucchini, sliced",
-                "3 yellow squash, sliced",
-                "Spray olive oil",
-                "2 tablespoons The Fit Cook Land seasonings",
-                "Pinch of sea salt & pepper"
-            ]
-        }
-    ],
-    "instructions": [
-        "Thinly slice top sirloin into 6 pieces.  Place them between 2 sheets of parchment paper and lightly hammer them until thin (note: make sure there are no holes).",
-        "Mix together the stuffing in a bowl, then add 1 -2 tablespoons in the middle of each thinly sliced beef.  Fold in the sides, then roll it up.  Use butcher’s twine to tie up each piece and set aside.",
-        "Set a heavy pot on medium-high heat.  Once hot, add the olive oil and then the pieces of beef.  Sear on at least 2 sides for 2 – 3 minutes per side, or until sear marks appear.  Allow the meat to sear long enough that it lifts off the pot, but no worries if some pieces stick to the pot.  Remove the pieces of beef from the pot using tongs.  Set aside.",
-        "Reduce the heat to medium and add the garlic and onions.  Stir immediately so not to burn the garlic or onion.  Continue cooking for another 3 minutes and add a pinch of salt as it cooks.",
-        "Once the onions have softened, pour in red wine and reduce the liquid by half.  Scrape the bottom of the pot using a wooden spatula in order to remove pieces of beef.  Pour in the cans of whole crushed tomatoes.  Reduce the heat to a gentle simmer, then cover and cook for at least 20 minutes, or until the whole tomatoes have softened and can be easily crushed with the spatula to create paste.",
-        "After 20 minutes, crush the whole tomatoes in the skillet using a spatula to create a thicker tomato sauce.  Nestle the beef into the sauce, then partially cover and cook for at least 30 minutes."
-    ]
+  "time": [],
+  "slug": "fmk-beef-braciole",
+  "title": "Beef Braciole",
+  "rating": 5,
+  "servings": 4,
+  "notes": [
+    "Not that great for how much effort it is."
+  ],
+  "createdDate": "03/31/2021",
+  "source": "https://fitmencook.com/beef-braciole-recipe/",
+  "image": "../images/beef-braciole.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 1/2 lb lean top sirloin, thinly sliced",
+        "1 medium white onion, diced",
+        "4 garlic cloves, minced",
+        "generous pinch of sea salt & pepper",
+        "2/3 cup red wine",
+        "56oz (~4 cans 13.5oz) whole crushed tomatoes in can"
+      ]
+    },
+    {
+      "category": "Stuffing",
+      "items": [
+        "3/4 cup (gluten-free) panko",
+        "1/2 cup grated parmesan",
+        "1/3 cup finely chopped parsley",
+        "2 tablespoons olive oil",
+        "2 tablespoons pine nuts (OPTIONAL)",
+        "2 tablespoons olive oil"
+      ]
+    },
+    {
+      "category": "Veggies",
+      "items": [
+        "3 zucchini, sliced",
+        "3 yellow squash, sliced",
+        "Spray olive oil",
+        "2 tablespoons The Fit Cook Land seasonings",
+        "Pinch of sea salt & pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Thinly slice top sirloin into 6 pieces.  Place them between 2 sheets of parchment paper and lightly hammer them until thin (note: make sure there are no holes).",
+    "Mix together the stuffing in a bowl, then add 1 -2 tablespoons in the middle of each thinly sliced beef.  Fold in the sides, then roll it up.  Use butcher’s twine to tie up each piece and set aside.",
+    "Set a heavy pot on medium-high heat.  Once hot, add the olive oil and then the pieces of beef.  Sear on at least 2 sides for 2 – 3 minutes per side, or until sear marks appear.  Allow the meat to sear long enough that it lifts off the pot, but no worries if some pieces stick to the pot.  Remove the pieces of beef from the pot using tongs.  Set aside.",
+    "Reduce the heat to medium and add the garlic and onions.  Stir immediately so not to burn the garlic or onion.  Continue cooking for another 3 minutes and add a pinch of salt as it cooks.",
+    "Once the onions have softened, pour in red wine and reduce the liquid by half.  Scrape the bottom of the pot using a wooden spatula in order to remove pieces of beef.  Pour in the cans of whole crushed tomatoes.  Reduce the heat to a gentle simmer, then cover and cook for at least 20 minutes, or until the whole tomatoes have softened and can be easily crushed with the spatula to create paste.",
+    "After 20 minutes, crush the whole tomatoes in the skillet using a spatula to create a thicker tomato sauce.  Nestle the beef into the sauce, then partially cover and cook for at least 30 minutes."
+  ]
 }

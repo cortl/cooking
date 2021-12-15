@@ -1,26 +1,41 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "easy-keto-chicken-parmesan",
   "title": "Easy Keto Chicken Parmesan",
   "rating": 7,
-  "slug": "easy-keto-chicken-parmesan",
   "notes": [
     "Worked great to sear in skillet and finish in oven"
   ],
   "source": "https://www.brokefoodies.com/easy-keto-chicken-parmesan/",
   "image": "../images/easy-keto-chicken-parm.jpg",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

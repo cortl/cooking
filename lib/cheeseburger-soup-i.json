@@ -1,6 +1,35 @@
 {
-  "title": "Cheeseburger Soup I",
+  "time": [
+    {
+      "label": "prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "cheeseburger-soup-i",
+  "title": "Cheeseburger Soup I",
   "rating": 6,
   "notes": [
     "It's potato soup with cheese and ground beef, bulking food for sure"
@@ -32,19 +61,5 @@
     "Melt the remainder of butter and stir in flour. Add the milk, stirring until smooth.                            ",
     "Gradually add milk mixture to the soup, stirring constantly. Bring to a boil and reduce heat to simmer. Stir in cheese. When cheese is melted, add sour cream and heat through. Do not boil.                            "
   ],
-  "servings": 8,
-  "time": [
-    {
-      "label": "prep",
-      "units": "20 mins"
-    },
-    {
-      "label": "cook",
-      "units": "30 mins"
-    },
-    {
-      "label": "total",
-      "units": "50 mins"
-    }
-  ]
+  "servings": 8
 }

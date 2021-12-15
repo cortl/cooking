@@ -1,27 +1,42 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "simple-beef-basil-orzo-skillet",
   "title": "Simple Beef, Basil, and Orzo Skillet",
   "rating": 6,
-  "slug": "simple-beef-basil-orzo-skillet",
   "notes": [
     "Would be better with fresh basil and lemon, mushrooms never re-heat well in a microwave"
   ],
   "createdDate": "01/02/2019",
   "source": "https://www.reddit.com/r/recipes/comments/a76phm/simple_beef_basil_and_orzo_skillet/",
   "image": "../images/simple-beef-basil-orzo-skillet.jpg",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

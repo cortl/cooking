@@ -1,17 +1,31 @@
 {
-  "title": "Classic Butternut Squash Soup Recipe",
-  "servings": 2,
   "time": [
     {
       "label": "Active time",
-      "units": "30 minutes"
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total time",
-      "units": "1 hour 45 minutes"
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "classic-butternut-squash-soup-recipe",
+  "title": "Classic Butternut Squash Soup Recipe",
+  "servings": 2,
   "image": "../images/classic-butternut-squash-soup-recipe.jpg",
   "rating": 8,
   "notes": [

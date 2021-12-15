@@ -1,19 +1,24 @@
 {
+  "time": [
+    {
+      "label": "Total time",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "fmk-korean-beef-and-rice",
   "title": "Korean Beef and Rice",
   "rating": 7,
-  "slug": "fmk-korean-beef-and-rice",
   "notes": [
     "Healthier than the other recipe on this site"
   ],
   "createdDate": "06/13/2020",
   "source": "https://fitmencook.com/korean-beef-and-rice/",
   "image": "../images/fmk-korean-ground-beef.jpg",
-  "time": [
-    {
-      "label": "Total time",
-      "units": "20 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

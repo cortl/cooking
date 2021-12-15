@@ -1,6 +1,35 @@
 {
-  "title": "Pork Gyoza (Potstickers)",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
   "slug": "pork-gyoza-potstickers",
+  "title": "Pork Gyoza (Potstickers)",
   "image": "../images/pork-gyoza-potstickers.jpg",
   "rating": 10,
   "notes": [
@@ -29,19 +58,5 @@
     "Spoon about one teaspoon of the pork mixture into the center of a wrapper. Dip a finger in water and wet the outer rim of the wrapper. Fold the wrapper over the filling and pinch the edges to close (here is a video demonstrating different folding styles).",
     "When ready to cook the gyoza, heat 1 Tbsp canola or vegetable oil in a non-stick skillet over medium heat. Working in batches, add the gyoza with the seam side up, and fry until the bottom is golden brown and crispy. Using the lid as a shield, pour about 1/4 to 1/3 cup water into the skillet and quickly place the lid on top to contain the steam and splatter. Let the gyoza steam in the skillet for 1-2 minutes, or until most of the liquid has boiled away. Remove the lid and let the gyoza cook for a minute more, or until the bottom is crispy again. Serve hot."
   ],
-  "servings": 50,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "45 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "1 hour"
-    }
-  ]
+  "servings": 50
 }

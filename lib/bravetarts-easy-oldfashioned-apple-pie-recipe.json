@@ -1,17 +1,27 @@
 {
-  "title": "BraveTart's Easy, Old-Fashioned Apple Pie Recipe",
-  "servings": 1,
   "time": [
     {
       "label": "Active time",
-      "units": "1 hour"
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
     },
     {
       "label": "Total time",
-      "units": "5 hours"
+      "units": [
+        {
+          "measurement": 5,
+          "label": "hours"
+        }
+      ]
     }
   ],
   "slug": "bravetarts-easy-oldfashioned-apple-pie-recipe",
+  "title": "BraveTart's Easy, Old-Fashioned Apple Pie Recipe",
+  "servings": 1,
   "image": "../images/bravetarts-easy-oldfashioned-apple-pie-recipe.jpg",
   "rating": 7,
   "notes": [

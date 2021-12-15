@@ -1,6 +1,44 @@
 {
-  "title": "Lemon Basil Grilled Chicken",
+  "time": [
+    {
+      "label": "prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "cook",
+      "units": [
+        {
+          "measurement": 12,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "additional",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "total",
+      "units": [
+        {
+          "measurement": 47,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "lemon-basil-grilled-chicken",
+  "title": "Lemon Basil Grilled Chicken",
   "image": "../images/lemon-basil-grilled-chicken.jpg",
   "rating": 7,
   "notes": [
@@ -30,23 +68,5 @@
     "Grill for 4 to 6 minutes per side or until cooked through.",
     "Transfer to serving plate and garnish with additional basil, if desired."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "prep",
-      "units": "20 mins"
-    },
-    {
-      "label": "cook",
-      "units": "12 mins"
-    },
-    {
-      "label": "additional",
-      "units": "15 mins"
-    },
-    {
-      "label": "total",
-      "units": "47 mins"
-    }
-  ]
+  "servings": 6
 }

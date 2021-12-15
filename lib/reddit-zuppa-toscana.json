@@ -1,4 +1,34 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "reddit-zuppa-toscana",
   "title": "Reddit Zuppa Toscana",
   "rating": 8,
   "notes": [
@@ -7,21 +37,6 @@
   "createdDate": "12/11/2019",
   "source": "https://www.reddit.com/r/recipes/comments/9idkpg/zuppa_toscana_soup_aka_better_than_olive_gardens/",
   "image": "../images/reddit-zuppa-toscana.jpg",
-  "slug": "reddit-zuppa-toscana",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "45 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

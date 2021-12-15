@@ -1,6 +1,35 @@
 {
-  "title": "Cheddar Cheeseburger Meatloaf",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "cheddar-cheeseburger-meatloaf",
+  "title": "Cheddar Cheeseburger Meatloaf",
   "image": "../images/cheddar-cheeseburger-meatloaf.jpg",
   "rating": 7,
   "notes": [
@@ -35,19 +64,5 @@
     "To make the glaze, stir together the ketchup, brown sugar, mustard, and Worcestershire sauce. Spread the glaze over the unbaked meatloaf.",
     "Bake the meatloaf in the preheated oven for 50-55 minutes, or until the internal temperature reaches 160ºF. Remove the meatloaf from the oven, let it sit for 5-10 minutes, then slice into eight pieces and serve."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "50 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "5 minutes"
-    }
-  ]
+  "servings": 4
 }

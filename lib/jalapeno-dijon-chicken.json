@@ -1,28 +1,48 @@
 {
+  "time": [
+    {
+      "label": "Marinate",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "slug": "jalapeno-dijon-chicken",
   "title": "Jalapeño Dijon Chicken",
   "rating": 7,
   "notes": [],
   "source": "https://civilizedcaveman.com/recipes/poultry/jalapeno-dijon-grilled-chicken/",
   "image": "../images/jalapeno-dijon-chicken.jpg",
-  "slug": "jalapeno-dijon-chicken",
-  "time": [
-    {
-      "label": "Marinate",
-      "units": "1-24 hours"
-    },
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "1+ hours"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

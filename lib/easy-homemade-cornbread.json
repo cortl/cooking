@@ -1,6 +1,35 @@
 {
-  "title": "Easy Homemade Cornbread",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "easy-homemade-cornbread",
+  "title": "Easy Homemade Cornbread",
   "image": "../images/easy-homemade-cornbread.jpg",
   "rating": 8,
   "notes": [
@@ -29,19 +58,5 @@
     "Pour the bowl of wet ingredients into the bowl of dry ingredients and stir just until everything is moist. Avoid over stirring. It's okay if there are a few lumps.",
     "Pour the batter into the prepared dish and bake for about 20 minutes, or until the top and edges are golden brown. Cut into 8 pieces and serve."
   ],
-  "servings": 8,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ]
+  "servings": 8
 }

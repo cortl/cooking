@@ -1,17 +1,27 @@
 {
-  "title": "The Best Spinach Lasagna Recipe",
-  "servings": 8,
   "time": [
     {
       "label": "Active time",
-      "units": "1 hour"
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
     },
     {
       "label": "Total time",
-      "units": "2 hours"
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
     }
   ],
   "slug": "the-best-spinach-lasagna-recipe",
+  "title": "The Best Spinach Lasagna Recipe",
+  "servings": 8,
   "image": "../images/the-best-spinach-lasagna-recipe.jpg",
   "rating": 7,
   "notes": [

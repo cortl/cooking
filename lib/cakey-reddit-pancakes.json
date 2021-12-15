@@ -1,19 +1,29 @@
 {
-  "title": "Cakey Reddit Pancakes",
-  "rating": 8,
-  "slug": "cakey-reddit-pancakes",
-  "notes": [
-    "Recipe looks strange with 12g of baking powder, but very good!"
-  ],
   "time": [
     {
       "label": "Prep",
-      "units": "5 minutes"
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     }
+  ],
+  "slug": "cakey-reddit-pancakes",
+  "title": "Cakey Reddit Pancakes",
+  "rating": 8,
+  "notes": [
+    "Recipe looks strange with 12g of baking powder, but very good!"
   ],
   "source": "https://www.reddit.com/r/recipes/comments/g9mp4f/best_pancake_recipe_ever/",
   "image": "../images/cakey-reddit-pancakes.jpg",

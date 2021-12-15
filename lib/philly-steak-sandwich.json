@@ -1,6 +1,35 @@
 {
-  "title": "Philly Steak Sandwich",
+  "time": [
+    {
+      "label": "prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "philly-steak-sandwich",
+  "title": "Philly Steak Sandwich",
   "rating": 7,
   "notes": [
     "Broil for like 2 seconds yo"
@@ -35,19 +64,5 @@
     "Preheat oven on broiler setting.                            ",
     "Divide the meat between the bottoms of 4 rolls, layer with onion and green pepper, then top with sliced cheese. Place on cookie sheet, and broil until cheese is melted. Cover with tops of rolls, and serve.                            "
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "prep",
-      "units": "15 mins"
-    },
-    {
-      "label": "cook",
-      "units": "25 mins"
-    },
-    {
-      "label": "total",
-      "units": "40 mins"
-    }
-  ]
+  "servings": 4
 }

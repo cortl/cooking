@@ -1,7 +1,26 @@
 {
-  "skip": true,
-  "title": "Foolproof Pan Pizza Recipe",
+  "time": [
+    {
+      "label": "Active time",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 26,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
   "slug": "foolproof-pan-pizza-recipe",
+  "title": "Foolproof Pan Pizza Recipe",
   "image": "../images/foolproof-pan-pizza.jpg",
   "rating": 10,
   "notes": [
@@ -35,15 +54,5 @@
     "Transfer pan to oven and bake until top is golden brown and bubbly and bottom is golden brown and crisp when you lift it with a thin spatula, 12 to 15 minutes. Immediately sprinkle with grated Parmesan or Pecorino Romano cheese, if using. Using a thin spatula, loosen pizza and peek underneath. If bottom is not as crisp as desired, place pan over a burner and cook on medium heat, moving the pan around to cook evenly until it is crisp, 1 to 3 minutes. Remove the pizzas and transfer to a cutting board. Cut each pizza into 6 slices and serve immediately."
   ],
   "createdDate": "9/14/2020",
-  "servings": 10,
-  "time": [
-    {
-      "label": "Active time",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "26 hours"
-    }
-  ]
+  "servings": 10
 }

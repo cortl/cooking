@@ -1,6 +1,35 @@
 {
-  "title": "Spinach and Feta Turkey Meatballs",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "spinach-and-feta-turkey-meatballs",
+  "title": "Spinach and Feta Turkey Meatballs",
   "image": "../images/spinach-and-feta-turkey-meatballs.jpg",
   "rating": 7,
   "notes": [
@@ -30,19 +59,5 @@
     "Wipe out the skillet used for the spinach, add another tablespoon of oil, and heat the skillet once again over medium. Once hot, swirl the oil in the skillet to make sure the surface is coated, then add half of the meatballs. Cook the meatballs for about a minute to a minute and a half on each side, or until the meatballs are well browned and cooked through (about 6-8 minutes total). Remove the cooked meatballs to a clean bowl and repeat with the second batch.",
     "Serve your cooked meatballs with your favorite sauce, over pasta, rice, or roasted vegetables."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ]
+  "servings": 4
 }

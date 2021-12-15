@@ -1,6 +1,35 @@
 {
-  "title": "Cajun Chicken Pasta",
+  "time": [
+    {
+      "label": "prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "cajun-chicken-pasta",
+  "title": "Cajun Chicken Pasta",
   "rating": 8,
   "notes": [
     "do not reheat"
@@ -35,19 +64,5 @@
     "Add the red bell pepper, green bell pepper, mushrooms and green onion. Saute and stir for 2 to 3 minutes. Reduce heat.",
     "Add the cream, basil, lemon pepper, salt, garlic powder and ground black pepper. Heat through. Add the cooked linguine, toss and heat through. Sprinkle with grated Parmesan cheese and serve."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "prep",
-      "units": "20 mins"
-    },
-    {
-      "label": "cook",
-      "units": "20 mins"
-    },
-    {
-      "label": "total",
-      "units": "40 mins"
-    }
-  ]
+  "servings": 4
 }

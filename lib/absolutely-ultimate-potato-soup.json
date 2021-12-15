@@ -1,6 +1,35 @@
 {
-  "title": "Absolutely Ultimate Potato Soup",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "absolutely-ultimate-potato-soup",
+  "title": "Absolutely Ultimate Potato Soup",
   "rating": 6,
   "notes": [
     "It's potato soup"
@@ -30,19 +59,5 @@
     "Cook celery and onion in reserved bacon drippings until onion is translucent, about 5 minutes. Stir in garlic, and continue cooking for 1 to 2 minutes. Add cubed potatoes, and toss to coat. Saute for 3 to 4 minutes. Return bacon to the pan, and add enough chicken stock to just cover the potatoes. Cover, and simmer until potatoes are tender.                            ",
     "In a separate pan, melt butter over medium heat. Whisk in flour. Cook, stirring constantly, for 1 to 2 minutes. Whisk in the heavy cream, tarragon, and cilantro. Bring the cream mixture to a boil, and cook, stirring constantly, until thickened. Stir the cream mixture into the potato mixture. Puree about 1/2 the soup, and return to the pan. Adjust seasonings to taste.                            "
   ],
-  "servings": 8,
-  "time": [
-    {
-      "label": "prep",
-      "units": "20 mins"
-    },
-    {
-      "label": "cook",
-      "units": "30 mins"
-    },
-    {
-      "label": "total",
-      "units": "50 mins"
-    }
-  ]
+  "servings": 8
 }

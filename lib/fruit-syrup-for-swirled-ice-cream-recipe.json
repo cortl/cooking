@@ -1,17 +1,27 @@
 {
-  "title": "Fruit Syrup for Swirled Ice Cream Recipe",
-  "servings": 1,
   "time": [
     {
       "label": "Active time",
-      "units": "15 minutes"
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total time",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "fruit-syrup-for-swirled-ice-cream-recipe",
+  "title": "Fruit Syrup for Swirled Ice Cream Recipe",
+  "servings": 1,
   "image": "../images/fruit-syrup-for-swirled-ice-cream-recipe.jpg",
   "rating": 9,
   "notes": [

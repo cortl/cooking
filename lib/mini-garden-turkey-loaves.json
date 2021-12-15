@@ -1,6 +1,35 @@
 {
-  "title": "Mini Garden Turkey Loaves",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
   "slug": "mini-garden-turkey-loaves",
+  "title": "Mini Garden Turkey Loaves",
   "image": "../images/mini-garden-turkey-loaves.jpg",
   "rating": 6,
   "notes": [
@@ -39,19 +68,5 @@
     "While the loaves are baking, mix the tomato glaze. Combine the ketchup, brown sugar, and apple cider vinegar in a small bowl and stir until smooth. Once the loaves have baked for 15 minutes, spoon the glaze over the muffins and let them bake with the glaze for the remaining 15 minutes.",
     "Allow the loaves to rest for 5 to 10 minutes before carefully running a knife around their outer edges and lifting out of the tin with a fork. The rest time will help solidify the loaves and keep them in one piece."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "45 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "1 hour"
-    }
-  ]
+  "servings": 6
 }

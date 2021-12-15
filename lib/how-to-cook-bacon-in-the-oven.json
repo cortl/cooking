@@ -1,6 +1,35 @@
 {
-  "title": "How to Cook Bacon in the Oven",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "how-to-cook-bacon-in-the-oven",
+  "title": "How to Cook Bacon in the Oven",
   "image": "../images/how-to-cook-bacon-in-the-oven.jpg",
   "rating": 7,
   "notes": [
@@ -13,20 +42,6 @@
       "items": [
         "12 oz. thick cut bacon"
       ]
-    }
-  ],
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Total",
-    "units": "30 minutes"
     }
   ],
   "instructions": [

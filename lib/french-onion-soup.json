@@ -1,70 +1,95 @@
 {
-    "title": "Easy Homemade French Onion Soup",
-    "rating": 10,
-    "slug": "easy-homemade-french-onion-soup",
-    "servings": 4,
-    "time": [
+  "time": [
+    {
+      "label": "Prep time",
+      "units": [
         {
-            "label": "Prep time",
-            "units": "10 mins"
-        },
-        {
-            "label": "Caremelize time",
-            "units": "2 hrs"
-        },
-        {
-            "label": "Cooking time",
-            "units": "40 mins"
-        },
-        {
-            "label": "Broil time",
-            "units": "3-5 mins"
-        },
-        {
-            "label": "Total time",
-            "units": "3 hrs"
+          "measurement": 10,
+          "label": "minutes"
         }
-    ],
-    "notes": [],
-    "createdDate": "12/4/2020",
-    "source": "https://www.youtube.com/watch?v=LIy6Bhg7nH8",
-    "image": "../images/easy-homemade-french-onion-soup.jpg",
-    "ingredients": [
+      ]
+    },
+    {
+      "label": "Caremelize time",
+      "units": [
         {
-            "category": "Soup",
-            "items": [
-                "3 tablespoons (42g) unsalted butter",
-                "1 tablespoon (14g) extra virgin olive oil ",
-                "3.5 lb (1.5kg) sweet onions/vidalia onions (about 5-6 large)",
-                "salt to taste",
-                "2 tablespoons (30ml) bourbon ",
-                "1 1/4 cup (295ml) white wine",
-                "1.5 quarts (1.4 liters) good beef stock",
-                "1 bunch thyme",
-                "3 tablespoons (44ml) dry sherry *optional*"
-            ]
-        },
-        {
-            "category": "To Serve",
-            "items": [
-                "2 tablespoons (28g)  unsalted butter",
-                "2 oz gruyere",
-                "2 oz gouda",
-                "baguette slices or bread slices"
-            ]
+          "measurement": 2,
+          "label": "hours"
         }
-    ],
-    "instructions": [
-        "Cut both ends of the onion off and slice into halves. Slice thinly perpendicular to the rings of the onion.",
-        "Bring a large pot or enameled dutch oven to medium heat and add the 3Tbsp of butter + the 1Tbsp of olive oil. Once the butter begins to bubble, add the onions and season with salt to draw out the moisture from the onions.",
-        "Stir gently but frequently as to not burn or mash the onions as they carmelize. Optionally add a small pinch of sugar to aid in the caramelization process. They should reach a solid brown color before they're done.",
-        "De-glaze the pot with 2Tbsps of bourbon and wait until it reduces until there is barely any left - about 2 minutes",
-        "Then add 1 1/4 white wine and wait until it reduces by about 70% - around 5 minutes",
-        "Add 1.5 quarts of GOOD beef stock, season with salt and bring to a simmer, add the thyme and simmer for 20-30 minutes",
-        "(Optionally) Add the dry sherry on top and let it simmer off the alcohol for 1-2 minutes",
-        "Discard the thyme and add 2Tbsp of butter until fully melted. Add salt and pepper to taste.",
-        "Grate the gouda and gruyere, mix on a plate",
-        "Brush 1/2 inch slice baguette with olive oil and toast in a 425 degree oven until crisp but not brown - ~5 minutes.",
-        "Ladel soup into oven safe bowls, top with two slices of toasted baguette, and a generous helping of cheese. Broil for 2-3 minutes."
-    ]
+      ]
+    },
+    {
+      "label": "Cooking time",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Broil time",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total time",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "slug": "easy-homemade-french-onion-soup",
+  "title": "Easy Homemade French Onion Soup",
+  "rating": 10,
+  "servings": 4,
+  "notes": [],
+  "createdDate": "12/4/2020",
+  "source": "https://www.youtube.com/watch?v=LIy6Bhg7nH8",
+  "image": "../images/easy-homemade-french-onion-soup.jpg",
+  "ingredients": [
+    {
+      "category": "Soup",
+      "items": [
+        "3 tablespoons (42g) unsalted butter",
+        "1 tablespoon (14g) extra virgin olive oil ",
+        "3.5 lb (1.5kg) sweet onions/vidalia onions (about 5-6 large)",
+        "salt to taste",
+        "2 tablespoons (30ml) bourbon ",
+        "1 1/4 cup (295ml) white wine",
+        "1.5 quarts (1.4 liters) good beef stock",
+        "1 bunch thyme",
+        "3 tablespoons (44ml) dry sherry *optional*"
+      ]
+    },
+    {
+      "category": "To Serve",
+      "items": [
+        "2 tablespoons (28g)  unsalted butter",
+        "2 oz gruyere",
+        "2 oz gouda",
+        "baguette slices or bread slices"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cut both ends of the onion off and slice into halves. Slice thinly perpendicular to the rings of the onion.",
+    "Bring a large pot or enameled dutch oven to medium heat and add the 3Tbsp of butter + the 1Tbsp of olive oil. Once the butter begins to bubble, add the onions and season with salt to draw out the moisture from the onions.",
+    "Stir gently but frequently as to not burn or mash the onions as they carmelize. Optionally add a small pinch of sugar to aid in the caramelization process. They should reach a solid brown color before they're done.",
+    "De-glaze the pot with 2Tbsps of bourbon and wait until it reduces until there is barely any left - about 2 minutes",
+    "Then add 1 1/4 white wine and wait until it reduces by about 70% - around 5 minutes",
+    "Add 1.5 quarts of GOOD beef stock, season with salt and bring to a simmer, add the thyme and simmer for 20-30 minutes",
+    "(Optionally) Add the dry sherry on top and let it simmer off the alcohol for 1-2 minutes",
+    "Discard the thyme and add 2Tbsp of butter until fully melted. Add salt and pepper to taste.",
+    "Grate the gouda and gruyere, mix on a plate",
+    "Brush 1/2 inch slice baguette with olive oil and toast in a 425 degree oven until crisp but not brown - ~5 minutes.",
+    "Ladel soup into oven safe bowls, top with two slices of toasted baguette, and a generous helping of cheese. Broil for 2-3 minutes."
+  ]
 }

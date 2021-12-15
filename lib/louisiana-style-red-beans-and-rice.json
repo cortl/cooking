@@ -1,6 +1,43 @@
 {
-  "title": "Louisiana Style Red Beans & Rice",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 8,
+          "label": "hours"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "hours"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "louisiana-style-red-beans-and-rice",
+  "title": "Louisiana Style Red Beans & Rice",
   "image": "../images/louisiana-style-red-beans-and-rice.jpg",
   "rating": 6,
   "notes": [
@@ -48,19 +85,5 @@
     "Once the red beans have thickened, add the cooked sausage back to the pot along with 1/4 cup chopped fresh parsley. Stir to combine. Taste the red beans and add salt to your liking. Start with 1 tsp and add more as needed. I used 1 Tbsp total (3 tsp). ",
     "Serve the red beans in a bowl topped with a scoop of rice and a sprinkle of sliced green onions."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "8 hours 15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "2 hours"
-    },
-    {
-      "label": "Total",
-      "units": "10 hours 15 minutes"
-    }
-  ]
+  "servings": 6
 }

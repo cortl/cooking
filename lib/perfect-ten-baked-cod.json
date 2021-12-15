@@ -1,6 +1,35 @@
 {
-  "title": "Perfect Ten Baked Cod",
+  "time": [
+    {
+      "label": "prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "perfect-ten-baked-cod",
+  "title": "Perfect Ten Baked Cod",
   "rating": 5,
   "notes": [
     "frozen fish way danker"
@@ -30,19 +59,5 @@
     "Bake cod in the preheated oven for 10 minutes. Remove from oven; top with lemon juice, wine, and cracker mixture. Place back in oven and bake until fish is opaque and flakes easily with a fork, about 10 more minutes.                            ",
     "Garnish baked cod with parsley and green onion. Serve with lemon wedges.                            "
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "prep",
-      "units": "10 mins"
-    },
-    {
-      "label": "cook",
-      "units": "25 mins"
-    },
-    {
-      "label": "total",
-      "units": "35 mins"
-    }
-  ]
+  "servings": 4
 }

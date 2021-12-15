@@ -1,6 +1,44 @@
 {
-  "title": "Shortcut Instant Pot / Pressure Cooker Boneless Pork Chops",
+  "time": [
+    {
+      "label": "Prep Time",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook Time",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Additional Time",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total Time",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "shortcut-instant-pot--pressure-cooker-boneless-pork-chops",
+  "title": "Shortcut Instant Pot / Pressure Cooker Boneless Pork Chops",
   "rating": 7,
   "image": "../images/shortcut-instant-pot--pressure-cooker-boneless-pork-chops.jpg",
   "notes": [
@@ -33,23 +71,5 @@
     "Salt and pepper the gravy to taste.",
     "Pour gravy over the pork chops in the serving bowl. Serve pork chops over prepared rice or mashed potatoes."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep Time",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook Time",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Additional Time",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Total Time",
-      "units": "45 minutes"
-    }
-  ]
+  "servings": 4
 }

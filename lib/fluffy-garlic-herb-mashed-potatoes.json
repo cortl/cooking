@@ -1,6 +1,35 @@
 {
-  "title": "Fluffy Garlic Herb Mashed Potatoes",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "fluffy-garlic-herb-mashed-potatoes",
+  "title": "Fluffy Garlic Herb Mashed Potatoes",
   "image": "../images/fluffy-garlic-herb-mashed-potatoes.jpg",
   "rating": 6,
   "notes": [
@@ -33,19 +62,5 @@
     "Add the butter, milk, and garlic herb seasoning o the pot used to boil the potatoes. Stir and heat over low until the butter has melted and the milk is hot.",
     "Once the milk is hot, add the potatoes back to the pot, turn off the heat and mash with a potato masher. Once the potatoes are mostly mashed, use a hand mixer to briefly whip the potatoes until they are light and fluffy. Taste the potatoes and add salt to taste, if needed, then serve."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "35 minutes"
-    }
-  ]
+  "servings": 6
 }
