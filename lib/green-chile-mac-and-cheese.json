@@ -4,15 +4,15 @@
   "time": [
     {
       "label": "Prep",
-      "units": "20 minutes"
+      "units": "10 minutes"
     },
     {
       "label": "Cook",
-      "units": " minutes"
+      "units": "15 minutes"
     },
     {
       "label": "Total",
-      "units": "20 minutes"
+      "units": "35 minutes"
     }
   ],
   "slug": "green-chile-mac-and-cheese",

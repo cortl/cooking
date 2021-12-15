@@ -1,11 +1,12 @@
 {
-  "title": "Louisiana Style Red Beans and Rice",
+  "title": "Louisiana Style Red Beans & Rice",
   "slug": "louisiana-style-red-beans-and-rice",
   "image": "../images/louisiana-style-red-beans-and-rice.jpg",
   "rating": 6,
   "notes": [
     "Re-made this and turned out pretty good, do this with cornbread next time"
   ],
+  "createdDate": "08/10/2015",
   "source": "https://www.budgetbytes.com/2010/03/louisiana-red-beans-rice/",
   "ingredients": [
     {
@@ -51,15 +52,15 @@
   "time": [
     {
       "label": "Prep",
-      "units": "15 minutes"
+      "units": "8 hours 15 minutes"
     },
     {
       "label": "Cook",
-      "units": " minutes"
+      "units": "2 hours"
     },
     {
       "label": "Total",
-      "units": "15 minutes"
+      "units": "10 hours 15 minutes"
     }
   ]
 }

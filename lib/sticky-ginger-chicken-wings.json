@@ -8,11 +8,11 @@
     },
     {
       "label": "Cook",
-      "units": " minutes"
+      "units": "1 hour"
     },
     {
       "label": "Total",
-      "units": "5 minutes"
+      "units": "1 hour 5 minutes"
     }
   ],
   "slug": "sticky-ginger-chicken-wings",

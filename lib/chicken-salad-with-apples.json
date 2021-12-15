@@ -4,7 +4,7 @@
   "time": [
     {
       "label": "Prep",
-      "units": " minutes"
+      "units": "15 minutes"
     },
     {
       "label": "Cook",
@@ -12,7 +12,7 @@
     },
     {
       "label": "Total",
-      "units": "15 minutes"
+      "units": "30 minutes"
     }
   ],
   "slug": "chicken-salad-with-apples",

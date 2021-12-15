@@ -32,7 +32,7 @@
   "time": [
     {
       "label": "Prep",
-      "units": " minutes"
+      "units": "5 minutes"
     },
     {
       "label": "Cook",
@@ -40,7 +40,7 @@
     },
     {
       "label": "Total",
-      "units": "20 minutes"
+      "units": "25 minutes"
     }
   ]
 }

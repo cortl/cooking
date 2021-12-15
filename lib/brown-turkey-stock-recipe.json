@@ -40,8 +40,12 @@
       "units": "40 minutes"
     },
     {
-      "label": "Total time",
-      "units": "3 hours 40 minutes, plus chilling time"
+      "label": "Cook",
+      "units": "3 hours 40 minutes"
+    },
+    {
+      "label": "Cooling",
+      "units": "2 hours"
     }
   ]
 }

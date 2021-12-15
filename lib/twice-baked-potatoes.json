@@ -6,15 +6,15 @@
     "time": [
         {
             "label": "Prep",
-            "units": "30min"
+            "units": "30 min"
         },
         {
             "label": "Cook",
-            "units": "1hr 20min"
+            "units": "1 hr 20 min"
         },
         {
             "label": "Total",
-            "units": "2hr"
+            "units": "2 hrs"
         }
     ],
     "notes": [],

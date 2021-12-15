@@ -4,11 +4,11 @@
   "time": [
     {
       "label": "Active time",
-      "units": "20 minutes (50 minutes if making pasta from scratch)"
+      "units": "20 minutes"
     },
     {
       "label": "Total time",
-      "units": "20 minutes (50 minutes if making pasta from scratch)"
+      "units": "20 minutes"
     }
   ],
   "slug": "ricotta-gnocchi-with-asparagus-and-prosciutto-recipe",

@@ -9,7 +9,7 @@
   "source": "https://www.budgetbytes.com/turkey-chili-smothered-sweet-potatoes/",
   "ingredients": [
     {
-      "category": "CHILI",
+      "category": "Chili",
       "items": [
         "1 Tbsp olive oil",
         "1/2 lb. ground turkey ",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "category": "POTATOES AND TOPPINGS",
+      "category": "Potatoes & Toppings",
       "items": [
         "4 small sweet potatoes (3/4 lb. each)",
         "1/2 cup shredded cheddar cheese ",
@@ -49,7 +49,7 @@
     },
     {
       "label": "Cook",
-      "units": " minutes"
+      "units": "1 hour"
     },
     {
       "label": "Total",

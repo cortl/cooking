@@ -51,11 +51,11 @@
     },
     {
       "label": "Cook",
-      "units": " minutes"
+      "units": "4 hours"
     },
     {
       "label": "Total",
-      "units": "10 minutes"
+      "units": "4 hours 10 minutes"
     }
   ]
 }
