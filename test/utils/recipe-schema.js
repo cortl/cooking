@@ -52,6 +52,8 @@ const TAGS = [
   "Grilling",
 ];
 
+const FORBIDDEN_TITLE_WORDS = ['bravetart', 'best', 'recipe', 'delicious'].map(word => word.toUpperCase())
+
 const Joi = joi.extend({
   type: "file",
   validate: (value) => {
@@ -68,10 +70,29 @@ const Joi = joi.extend({
         errors: [new Error(`${imagePath} does note exist`)],
       };
   },
-});
+})
+  .extend({
+    type: "title",
+    validate: (value) => {
+      if (typeof value !== 'string') {
+        return {
+          value, errors: [new Error('Recipe title must be a string')]
+        }
+      }
+
+      const matches = value.split(' ').filter(word => FORBIDDEN_TITLE_WORDS.includes(word.toUpperCase()));
+      if (matches.length) {
+        return {
+          value, errors: [new Error(`Recipe contains forbidden word(s): ${matches.join(', ')}`)]
+        }
+      }
+
+      return {value, errors: []}
+    }
+  });
 
 const schema = Joi.object({
-  title: Joi.string().required(),
+  title: Joi.title().required(),
   servings: Joi.number().required(),
   rating: Joi.number().required(),
   slug: Joi.string().required(),

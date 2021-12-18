@@ -1,0 +1,73 @@
+{
+  "createdDate": "10/14/2020",
+  "image": "../images/classic-butternut-squash-soup.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 (2 1/2–pound; 1kg) butternut squash, peeled, seeded, and cut into 1-inch cubes",
+        "1 large (8-ounce; 215g) carrot, peeled and cut into 1-inch chunks",
+        "2 tablespoons (30ml) extra-virgin olive oil",
+        "7 tablespoons (100g) unsalted butter, divided (see note)",
+        "1 large (8-ounce; 215g) yellow onion, thinly sliced",
+        "4 medium cloves garlic, thinly sliced",
+        "4 cups (1L) homemade or store-bought low-sodium chicken or vegetable stock, plus more as needed",
+        "2 sprigs fresh thyme",
+        "1 bay leaf",
+        "Kosher salt and freshly ground black pepper",
+        "3/4 cup (180ml) heavy whipping cream",
+        "1/4 cup (60ml) sour cream",
+        "Pinch ground cinnamon",
+        "Pinch nutmeg",
+        "20 fresh sage leaves (optional; see note)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (230°C). Toss squash and carrot with olive oil and arrange on 2 rimmed baking sheets, being sure not to overcrowd the sheets. Roast until squash and carrot are very well browned on a couple of sides, about 40 minutes; use a thin metal spatula to turn pieces 2 or 3 times during cooking. Set aside.",
+    "In a large saucepan, cook 2 tablespoons butter over medium-high heat until just starting to brown. Add onion and garlic, lower heat to medium, and cook, stirring, until soft and lightly golden, about 10 minutes; lower heat as necessary to prevent burning.",
+    "Add squash and carrot to saucepan and remove from heat. Pour 1/2 cup (120ml) stock into each baking sheet and scrape up any browned bits, then pour into saucepan. Add remaining stock, thyme sprigs, and bay leaf and return to medium-high heat. Bring to a simmer, then lower heat and simmer until vegetables are very soft, about 10 minutes. Discard thyme sprigs and bay leaf.",
+    "Using a high-powered blender, standard countertop blender or immersion blender, blend soup until completely smooth. Season with salt and pepper. Return soup to saucepan and thin, if necessary, with additional stock until desired consistency is reached. Keep warm.",
+    "Meanwhile, in a stand mixer, or using a handheld mixer or whisk, beat cream and sour cream with cinnamon, nutmeg, and a pinch of salt, until stiff. Set aside.",
+    "If making frizzled sage leaves, melt remaining 5 tablespoons butter in a small skillet over medium-high heat, swirling gently, until foamy and just beginning to brown. Add sage leaves, swirling to submerge, and cook until frizzled, about 15 seconds. Using a slotted spoon, transfer sage to a paper towel to drain. Sprinkle very lightly with salt.",
+    "Ladle soup into warmed bowls, spoon dollops of spiced whipped cream into each one, and top with frizzled sage, if using. Serve right away."
+  ],
+  "notes": [],
+  "rating": 8,
+  "servings": 2,
+  "slug": "classic-butternut-squash-soup",
+  "source": "https://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html",
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Soup",
+    "Dinner",
+    "Stovetop",
+    "Roasting"
+  ],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Classic Butternut Squash Soup"
+}

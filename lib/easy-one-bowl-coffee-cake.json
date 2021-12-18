@@ -1,0 +1,71 @@
+{
+  "createdDate": "9/12/2020",
+  "image": "../images/easy-one-bowl-coffee-cake.jpg",
+  "ingredients": [
+    {
+      "category": "For the Topping:",
+      "items": [
+        "4 ounces light brown sugar (about 1/2 cup, packed; 115g)",
+        "2 1/2 ounces whole wheat flour (about 1/2 cup, spooned; 70g)",
+        "1 tablespoon (5g) ground cinnamon",
+        "1/4 teaspoon (1g) Diamond Crystal kosher salt; for table salt, use half as much by volume or use the same weight",
+        "Shy 1/4 teaspoon ground cardamom",
+        "2 ounces unsalted butter (about 4 tablespoons; 55g), soft, about 70°F (21°C)"
+      ]
+    },
+    {
+      "category": "For the Coffee Cake:",
+      "items": [
+        "14 ounces plain or quick-toasted sugar (2 cups; 395g)",
+        "6 ounces unsalted butter (about 12 tablespoons; 170g), about 65°F (18°C)",
+        "4 teaspoons baking powder",
+        "1 teaspoon (4g) Diamond Crystal kosher salt; for table salt, use half as much by volume or use the same weight",
+        "1/2 ounce vanilla extract (1 tablespoon; 15g)",
+        "3 large eggs, brought to about 65°F (about 5 1/4 ounces; 150g), see note",
+        "12 ounces all-purpose flour, such as Gold Medal (about 2 2/3 cups, spooned; 340g)",
+        "14 ounces plain Greek yogurt (about 1 3/4 cup; 395g), any percentage will do, brought to about 65°F (see note)"
+      ]
+    }
+  ],
+  "instructions": [
+    "For the Topping: In the bowl of a stand mixer fitted with a paddle attachment, combine brown sugar, whole wheat flour, cinnamon, salt, cardamom, and butter. Mix on low speed until sandy and well combined. Scrape onto a large plate or sheet of parchment. Alternatively, the crumb topping can be transferred to an airtight container and refrigerated for up to one week, or frozen for six months. Wipe bowl and paddle with a paper towel and proceed to the next step—no need to wash!",
+    "For the Coffee Cake: Adjust oven rack to lower-middle position and preheat to 350°F (180°C). In the bowl of a stand mixer fitted with a paddle attachment, combine sugar, butter, baking powder, salt, and vanilla. Mix on low to moisten, then increase speed to medium and cream until soft and light, about 10 minutes. Pause to scrape bowl and beater with a flexible spatula, then resume mixing on medium speed. Add eggs one at a time, allowing each to fully incorporate before adding the next.",
+    "Scrape bowl and beater with a flexible spatula, then resume mixing on low. Sprinkle in about 1/3 of flour, then add 1/3 of Greek yogurt. Repeat with remaining flour and yogurt, working in thirds as before. Fold batter once or twice with a flexible spatula, then scrape into a parchment-lined 9- by 13- by 2-inch anodized-aluminum baking pan. Spread in an even layer, then cover with prepared topping, a handful at a time, squeezing each addition in your palm to help form streusel nuggets.",
+    "Bake until coffee cake is puffed and firm, about 40 minutes (a toothpick inserted into the center should emerge with a few moist crumbs). Cool cake directly in pan about 30 minutes before serving, as it will be soft and gummy until its crumb has had a chance to set. Cut into squares with a butter knife and lift parchment to help fit an angled spatula under the first slice. To keep coffee cake as fresh as possible, cut only as much as you plan to serve at one time. With plastic wrap or wax paper pressed against cut surface, and top of pan covered with a sheet of aluminum foil, leftovers will keep up to 3 days at room temperature."
+  ],
+  "notes": [],
+  "rating": 8,
+  "servings": 12,
+  "slug": "easy-one-bowl-coffee-cake",
+  "source": "https://www.seriouseats.com/recipes/2017/05/easy-coffee-cake-recipe.html",
+  "tags": [
+    "Vegetarian",
+    "Dessert",
+    "Baking"
+  ],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Easy One-Bowl Coffee Cake"
+}

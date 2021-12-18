@@ -1,6 +1,6 @@
 {
   "createdDate": "2/14/2021",
-  "image": "../images/ricotta-gnocchi-with-asparagus-and-prosciutto-recipe.jpg",
+  "image": "../images/ricotta-gnocchi-with-asparagus-and-prosciutto.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -27,7 +27,7 @@
   "notes": [],
   "rating": 10,
   "servings": 3,
-  "slug": "ricotta-gnocchi-with-asparagus-and-prosciutto-recipe",
+  "slug": "ricotta-gnocchi-with-asparagus-and-prosciutto",
   "source": "https://www.seriouseats.com/recipes/2015/05/ricotta-gnocchi-asparagus-prosciutto.html",
   "tags": [
     "Pork",
@@ -55,5 +55,5 @@
       ]
     }
   ],
-  "title": "Ricotta Gnocchi With Asparagus and Prosciutto Recipe"
+  "title": "Ricotta Gnocchi With Asparagus and Prosciutto"
 }

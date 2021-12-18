@@ -1,0 +1,56 @@
+{
+  "createdDate": "2/14/2021",
+  "image": "../images/fruit-syrup-for-swirled-ice-cream.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "8 ounces prepared fresh fruit, such as pitted cherries, peeled and cored pineapple, trimmed strawberries, or other berries; see note (volume will vary; about 225g)",
+        "1 ounce lemon juice, or other acid, see note (about 2 tablespoons; 30g)",
+        "6 ounces plain or lightly toasted sugar, or semi-refined sugar (about 3/4 cup plus 2 tablespoons; 170g)",
+        "1/4 teaspoon (1g) Diamond Crystal kosher salt; for table salt, use about half as much by volume or the same weight",
+        "1/2 teaspoon orange blossom water, or other aromatics; see note"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine prepared fruit, lemon juice, sugar, and salt in a 2-quart stainless steel saucier. Make note of the filled saucier's weight at this stage so the reduction can be tracked on the scale; otherwise a digital thermometer will be required. Purée thick skinned or fibrous fruit with an immersion blender, or mash tender fruit with a fork or metal spatula until swimming in juice.",
+    "Place over medium heat and bring to a boil, continuously stirring and scraping along the bottom and sides of the saucier with a flexible, heat-resistant spatula. This should take no longer than 5 minutes; if it seems to be moving too slowly, simply increase the heat.",
+    "Once the mixture begins to boil, continue cooking until reduced by 4 ounces (mixture should be 220°F) for a thin, saucy ribbon or 5 ounces (224°F) for a thick, gooey ribbon. This phase should take about 6 minutes; while it's natural for the timing to vary from one stovetop to the next, a significant delay may indicate the heat is too low, or that there's a problem with the thermometer (such as shallow or unsteady placement of the probe; also very common if tilting the pot to get a reading). When in doubt, weight measurements will provide a more reliable indication of the reduction's progress.",
+    "Strain the syrup into a heat-safe container and stir in the orange blossom water (or other aromatics; see note). If desired, season with an additional pinch of salt, bearing in mind the syrup will seem less sweet when frozen. Cover and refrigerate until no warmer than 40°F (4°C). Meanwhile, take note that most ice creams will benefit from an extra pinch of salt in the base to account for the added sweetness of a fruit swirl.",
+    "Stir the syrup until viscous, then transfer to a disposable piping bag or use a spoon to drizzle. Layer the thick syrup into a chilled container with freshly churned ice cream, using as much or as little as you like. Freeze the ice cream according to the recipe directions. Any remaining syrup can be used as a sauce, or combined with club soda for a fizzy drink."
+  ],
+  "notes": [],
+  "rating": 9,
+  "servings": 1,
+  "slug": "fruit-syrup-for-swirled-ice-cream",
+  "source": "https://www.seriouseats.com/recipes/2018/08/fruit-syrup-for-swirled-ice-cream.html",
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Topping",
+    "Dessert",
+    "Stovetop"
+  ],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Fruit Syrup for Swirled Ice Cream"
+}

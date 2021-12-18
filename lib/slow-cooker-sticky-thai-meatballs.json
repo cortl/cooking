@@ -1,0 +1,74 @@
+{
+  "createdDate": "05/26/2019",
+  "image": "../images/slow-cooker-sticky-thai-meatballs.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "4 stalks lemongrass, roughly chopped",
+        "3 medium shallots, roughly chopped",
+        "6 medium cloves garlic",
+        "3 medium jalapeños, seeded and minced",
+        "1 (3-inch) knob fresh ginger, peeled and cut into 1/2-inch (1.25-cm) pieces",
+        "3 tablespoons (45ml) Asian fish sauce",
+        "2 teaspoons (10ml) vegetable oil",
+        "1 cup (240ml) Thai chili sauce (see note)",
+        "2/3 cup light brown sugar (160ml; 130g)",
+        "2/3 cup (160ml) soy sauce",
+        "1/2 cup (120ml) rice vinegar ",
+        "1 cup (240ml) water",
+        "2 pounds (1kg) ground chicken ",
+        "1 cup (240ml) panko bread crumbs, plus more if necessary",
+        "1 large egg",
+        "1/2 cup (120ml) thinly sliced scallion, white and light green parts only, divided",
+        "Kosher salt and freshly ground black pepper",
+        "1/4 cup (60ml) chopped cilantro leaves and tender stems",
+        "1/2 cup (120ml) chopped unsalted peanuts",
+        "2 tablespoons (30ml) fresh juice from 1 lime"
+      ]
+    }
+  ],
+  "instructions": [
+    "In the bowl of a food processor, combine lemongrass, shallot, garlic, jalapeño, ginger, and fish sauce. Process until the mixture forms a paste.",
+    "Heat oil in a large skillet over medium heat. Add half of the aromatic paste, reserving the rest for the meatballs. Cook, stirring, until fragrant, about 2 minutes. Stir in Thai chili sauce, brown sugar, soy sauce, and rice vinegar and cook for 1 minute.",
+    "Stir in water and bring to a boil, stirring constantly. Reduce to a simmer and cook, stirring occasionally, until reduced by half. Transfer the mixture to aslow cooker, cover, and set to low for at least 5 and up to 8 hours.",
+    "Preheat broiler and set oven rack in upper position. Line a rimmed baking sheet with aluminum foil. In a large bowl, combine reserved aromatic paste with ground chicken, panko, egg, and half of the sliced scallion. Season with salt and pepper. Using wet hands to prevent sticking, roll the ground chicken into golf ball–sized balls. If the mixture is too wet to form meatballs, add 1 tablespoon (15ml) of additional panko at a time until it is easier to shape.",
+    "Broil meatballs until browned on top, about 7 minutes. (Browning times can vary dramatically depending on oven broiler strength.) Transfer meatballs to a plate, cover with plastic wrap, and refrigerate until ready to use; pour any juices from baking sheet into sauce in slow cooker.",
+    "Add meatballs to slow cooker for last 30 minutes of cooking, stirring to coat.",
+    "In a small bowl, combine remaining scallion, cilantro, chopped peanuts, and lime juice.",
+    "Once the cooking time is up, switch the slow cooker to the “warm” setting. Right before serving, sprinkle approximately 3/4 of the peanut mixture over the meatballs and stir. Top with the remaining peanut mixture and serve."
+  ],
+  "notes": [
+    "good ish, could have gone with less ginger and not forgotten about adding the water :P.  Meatballs under broiler is genius"
+  ],
+  "rating": 6,
+  "servings": 4,
+  "slug": "slow-cooker-sticky-thai-meatballs",
+  "source": "https://www.seriouseats.com/recipes/2016/01/slow-cooker-thai-chicken-meatball-recipe.html",
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Slow Cooker"
+  ],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 9,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "Slow-Cooker Sticky Thai Meatballs"
+}
