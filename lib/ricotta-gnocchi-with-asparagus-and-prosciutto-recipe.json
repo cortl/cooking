@@ -24,7 +24,9 @@
     "Add heavy cream and half of Parmesan. Cook, stirring, until cream thickens and coats the asparagus pieces, about 4 minutes. Season to taste with salt and pepper.",
     "Add gnocchi to now-boiling pot of water, stir gently, and cook until gnocchi float for 30 seconds, about 3 minutes total. Drain gnocchi, reserving 1/4 cup of pasta cooking water. Add gnocchi, lemon juice, half of lemon zest, chives, and 2 tablespoons of cooking water to saucepan with sauce and bring to a hard boil, stirring gently. Add more pasta water to thin sauce to desired consistency. Serve immediately, topped with lemon zest and additional Parmesan cheese."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 10,
   "servings": 3,
   "slug": "ricotta-gnocchi-with-asparagus-and-prosciutto-recipe",
@@ -48,6 +50,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Pork",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Ricotta Gnocchi With Asparagus and Prosciutto Recipe"
 }

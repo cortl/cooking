@@ -37,7 +37,9 @@
     "Remove the green beans from the pot, pour out the water, and place the beans back in the pot without the steaming basket. Add 1 Tbsp butter and allow the residual heat from the beans to melt the butter. Stir to coat, then season with a pinch of salt and pepper.",
     "Slice the chicken breasts into strips. Divide the sweet potato halves, green beans, and chicken between four containers or plates. Serve immediately or refrigerate and reheat later."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep",
@@ -70,6 +72,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep",
+    "Roasting"
   ],
   "title": "Smoky Chicken and Cinnamon Roasted Sweet Potato Meal Prep"
 }

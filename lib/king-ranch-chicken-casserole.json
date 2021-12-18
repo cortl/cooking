@@ -33,7 +33,9 @@
     "Layer a few handfuls of the tortilla chip strips into the bottom of a 9x13-inch or 3 quart casserole dish. Spoon half of the chicken mixture on top of the chips. Layer more tortilla chip strips on top (about half as much as before), then spoon the remaining chicken mixture on top. Finally, add the remaining 1.5 cups of shredded cheddar.",
     "Bake the casserole in the preheated 375ºF oven for 15 minutes or until the cheese is melted and the casserole bubbles around the edges. Sprinkle sliced green onions on top after baking, then serve hot."
   ],
-  "notes": ["Good, reheats well"],
+  "notes": [
+    "Good, reheats well"
+  ],
   "rating": 6,
   "servings": 6,
   "slug": "king-ranch-chicken-casserole",
@@ -66,6 +68,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Baking",
+    "Stovetop"
   ],
   "title": "King Ranch Chicken Casserole"
 }

@@ -26,7 +26,9 @@
     "Salt and pepper the gravy to taste.",
     "Pour gravy over the pork chops in the serving bowl. Serve pork chops over prepared rice or mashed potatoes."
   ],
-  "notes": ["decent pork chop meal"],
+  "notes": [
+    "decent pork chop meal"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "shortcut-instant-pot--pressure-cooker-boneless-pork-chops",
@@ -68,6 +70,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Pork",
+    "Dinner",
+    "Pressure Cooker"
   ],
   "title": "Shortcut Instant Pot / Pressure Cooker Boneless Pork Chops"
 }

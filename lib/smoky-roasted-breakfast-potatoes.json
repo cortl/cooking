@@ -21,7 +21,9 @@
     "Roast the potatoes for 40-60 minutes, stirring every 20 minutes, until they are brown and crispy. Total cooking time will depend on the size of your potato pieces and your personal preference for how brown and crispy you like your potatoes. Taste, and add additional salt if needed.",
     "Serve hot, with ketchup if desired."
   ],
-  "notes": ["test"],
+  "notes": [
+    "test"
+  ],
   "rating": 1,
   "servings": 4,
   "slug": "smoky-roasted-breakfast-potatoes",
@@ -54,6 +56,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Appetizer",
+    "Roasting"
   ],
   "title": "Smoky Roasted Breakfast Potatoes"
 }

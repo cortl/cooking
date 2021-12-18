@@ -21,7 +21,9 @@
     "Whisk flour into sausage drippings and cook, stirring constantly, until mixture turns light brown, about 1 minute. Slowly whisk in milk and bring to a boil. Reduce to a simmer and cook until slightly thickened, about 4 minutes, stirring occasionally.",
     "Stir in sausage, sage (if using), and crushed red pepper (if using). Remove from heat and season with salt and pepper to taste. Use immediately."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 8,
   "servings": 3,
   "slug": "sausage-gravy-recipe",
@@ -45,6 +47,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Pork",
+    "Breakfast",
+    "Quick",
+    "Stovetop"
   ],
   "title": "Sausage Gravy Recipe"
 }

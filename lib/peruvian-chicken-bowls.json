@@ -50,7 +50,10 @@
     },
     {
       "category": "For Serving",
-      "items": ["Aji verde sauce", "Minced cilantro"]
+      "items": [
+        "Aji verde sauce",
+        "Minced cilantro"
+      ]
     }
   ],
   "instructions": [
@@ -110,6 +113,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep",
+    "Stovetop",
+    "Roasting"
   ],
   "title": "Peruvian Chicken Bowls"
 }
