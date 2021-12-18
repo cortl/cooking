@@ -16,20 +16,12 @@
   "instructions": [
     "Combine all ingredients in a medium saucepan. Bring to a boil over medium-high heat, then reduce to a simmer. Cook, stirring occasionally, until berries start to pop. Press berries against side of pan with a wooden spoon and continue to cook, stirring occasionally, until berries are completely broken down and achieve a jam-like consistency, about 10 minutes total. Remove from heat and allow to cool about 30 minutes. Stir in water in 1-tablespoon increments to adjust to desired consistency. Cranberry sauce can be served immediately or stored in the refrigerator for several months."
   ],
-  "notes": [
-    "Simple, easy, it's cranberry sauce"
-  ],
+  "notes": ["Simple, easy, it's cranberry sauce"],
   "rating": 7,
   "servings": 8,
   "slug": "cranberry-sauce",
   "source": "https://www.seriouseats.com/recipes/2010/11/the-food-lab-thanksgiving-special-the-worlds-easiest-cranberry-sauce.html",
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Topping",
-    "Thanksgiving",
-    "Stovetop"
-  ],
+  "tags": ["Vegan", "Vegetarian", "Topping", "Thanksgiving", "Stovetop"],
   "time": [
     {
       "label": "Active",

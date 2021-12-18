@@ -31,10 +31,7 @@
     },
     {
       "category": "Sides",
-      "items": [
-        "4 cups cooked rice",
-        "2 Tbsp  parsley, chopped, for garnish"
-      ]
+      "items": ["4 cups cooked rice", "2 Tbsp  parsley, chopped, for garnish"]
     }
   ],
   "instructions": [
@@ -51,13 +48,7 @@
   "servings": 4,
   "slug": "beef-kofta-meatballs-with-roasted-vegetables",
   "source": "https://www.budgetbytes.com/beef-kofta-meatballs-with-roasted-vegetables/",
-  "tags": [
-    "Beef",
-    "Meal Prep",
-    "Dinner",
-    "Baking",
-    "Roasting"
-  ],
+  "tags": ["Beef", "Meal Prep", "Dinner", "Baking", "Roasting"],
   "time": [
     {
       "label": "Prep",

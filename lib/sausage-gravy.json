@@ -26,12 +26,7 @@
   "servings": 3,
   "slug": "sausage-gravy",
   "source": "https://www.seriouseats.com/recipes/2012/11/sausage-gravy-recipe.html",
-  "tags": [
-    "Pork",
-    "Breakfast",
-    "Quick",
-    "Stovetop"
-  ],
+  "tags": ["Pork", "Breakfast", "Quick", "Stovetop"],
   "time": [
     {
       "label": "Active",

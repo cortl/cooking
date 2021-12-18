@@ -3,9 +3,7 @@
   "ingredients": [
     {
       "category": "All",
-      "items": [
-        "12 oz. thick cut bacon"
-      ]
+      "items": ["12 oz. thick cut bacon"]
     }
   ],
   "instructions": [
@@ -20,12 +18,7 @@
   "servings": 12,
   "slug": "how-to-cook-bacon-in-the-oven",
   "source": "https://www.budgetbytes.com/how-to-cook-bacon-in-the-oven/",
-  "tags": [
-    "Pork",
-    "Baking",
-    "Breakfast",
-    "Dinner"
-  ],
+  "tags": ["Pork", "Baking", "Breakfast", "Dinner"],
   "time": [
     {
       "label": "Prep",

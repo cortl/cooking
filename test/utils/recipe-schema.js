@@ -52,43 +52,54 @@ const TAGS = [
   "Grilling",
 ];
 
-const FORBIDDEN_TITLE_WORDS = ['bravetart', 'best', 'recipe', 'delicious'].map(word => word.toUpperCase())
+const FORBIDDEN_TITLE_WORDS = ["bravetart", "best", "recipe", "delicious"].map(
+  (word) => word.toUpperCase()
+);
 
-const Joi = joi.extend({
-  type: "file",
-  validate: (value) => {
-    if (value === "") {
-      return {value, errors: [new Error(`image field was empty`)]};
-    }
-    const imagePath = path.normalize(`lib/${value}`);
-    const exists = fs.existsSync(imagePath);
+const Joi = joi
+  .extend({
+    type: "file",
+    validate: (value) => {
+      if (value === "") {
+        return { value, errors: [new Error(`image field was empty`)] };
+      }
+      const imagePath = path.normalize(`lib/${value}`);
+      const exists = fs.existsSync(imagePath);
 
-    return exists
-      ? {value, errors: []}
-      : {
-        value,
-        errors: [new Error(`${imagePath} does note exist`)],
-      };
-  },
-})
+      return exists
+        ? { value, errors: [] }
+        : {
+            value,
+            errors: [new Error(`${imagePath} does note exist`)],
+          };
+    },
+  })
   .extend({
     type: "title",
     validate: (value) => {
-      if (typeof value !== 'string') {
+      if (typeof value !== "string") {
         return {
-          value, errors: [new Error('Recipe title must be a string')]
-        }
+          value,
+          errors: [new Error("Recipe title must be a string")],
+        };
       }
 
-      const matches = value.split(' ').filter(word => FORBIDDEN_TITLE_WORDS.includes(word.toUpperCase()));
+      const matches = value
+        .split(" ")
+        .filter((word) => FORBIDDEN_TITLE_WORDS.includes(word.toUpperCase()));
       if (matches.length) {
         return {
-          value, errors: [new Error(`Recipe contains forbidden word(s): ${matches.join(', ')}`)]
-        }
+          value,
+          errors: [
+            new Error(
+              `Recipe contains forbidden word(s): ${matches.join(", ")}`
+            ),
+          ],
+        };
       }
 
-      return {value, errors: []}
-    }
+      return { value, errors: [] };
+    },
   });
 
 const schema = Joi.object({

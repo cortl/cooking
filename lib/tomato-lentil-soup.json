@@ -34,13 +34,7 @@
   "servings": 6,
   "slug": "tomato-lentil-soup",
   "source": "https://www.budgetbytes.com/tomato-lentil-soup/",
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Soup",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Vegan", "Vegetarian", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

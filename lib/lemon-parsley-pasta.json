@@ -29,12 +29,7 @@
   "servings": 4,
   "slug": "lemon-parsley-pasta",
   "source": "https://www.budgetbytes.com/lemon-parsley-pasta/",
-  "tags": [
-    "Vegetarian",
-    "Pasta",
-    "Appetizer",
-    "Stovetop"
-  ],
+  "tags": ["Vegetarian", "Pasta", "Appetizer", "Stovetop"],
   "time": [
     {
       "label": "Prep",

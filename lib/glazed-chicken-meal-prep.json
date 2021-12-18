@@ -28,9 +28,7 @@
     },
     {
       "category": "Vegetables",
-      "items": [
-        "1lb green beans"
-      ]
+      "items": ["1lb green beans"]
     }
   ],
   "instructions": [
@@ -47,13 +45,7 @@
   "servings": 4,
   "slug": "glazed-chicken-meal-prep",
   "source": "https://www.budgetbytes.com/glazed-chicken-meal-prep/",
-  "tags": [
-    "Poultry",
-    "Meal Prep",
-    "Dinner",
-    "Stovetop",
-    "Roasting"
-  ],
+  "tags": ["Poultry", "Meal Prep", "Dinner", "Stovetop", "Roasting"],
   "time": [
     {
       "label": "Prep",
