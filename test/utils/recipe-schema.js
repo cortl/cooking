@@ -77,12 +77,16 @@ const schema = Joi.object({
   slug: Joi.string(),
   source: Joi.string(),
   createdDate: Joi.date(),
-  instructions: Joi.array().items(Joi.string()),
+  instructions: Joi.array().items(Joi.string())
+    .min(1)
+    .required(),
   notes: Joi.array().items(Joi.string().allow("")),
   ingredients: Joi.array().items({
     category: Joi.string().allow(""),
     items: Joi.array().items(Joi.string()),
-  }),
+  })
+    .min(1)
+    .required(),
   tags: Joi.array()
     .items(Joi.string().valid(...TAGS))
     .required(),
