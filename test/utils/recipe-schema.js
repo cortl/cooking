@@ -2,6 +2,50 @@ const joi = require("joi");
 const path = require("path");
 const fs = require("fs");
 
+const TIME_LABELS = [
+  "Prep",
+  "Cook",
+  "Proof",
+  "Bulk Ferment",
+  "Caramelize",
+  "Broil",
+  "Marinate",
+  "Active",
+  "Total",
+  "Inactive",
+];
+
+const TIME_MEASUREMENTS = ["day", "days", "hour", "hours", "minute", "minutes"];
+
+const TAGS = [
+  "Vegan",
+  "Vegetarian",
+  "Chicken",
+  "Beef",
+  "Pork",
+  "Drink",
+  "Soup",
+  "Appetizer",
+  "Quick",
+  "Salad",
+  "Sandwich",
+  "Pasta",
+  "Dinner",
+  "Dessert",
+  "Breakfast",
+  "Meal Prep",
+  "Topping",
+  "Thanksgiving",
+  "Christmas",
+  "Baking",
+  "Roasting",
+  "Frying",
+  "Slow Cooker",
+  "Braising & Stewing",
+  "No Cook",
+  "Stovetop",
+];
+
 const Joi = joi.extend({
   type: "file",
   validate: (value) => {
@@ -33,27 +77,19 @@ const schema = Joi.object({
     category: Joi.string().allow(""),
     items: Joi.array().items(Joi.string()),
   }),
+  tags: Joi.array()
+    .valid(...TAGS)
+    .required(),
   time: Joi.array()
     .items({
       label: Joi.string()
-        .valid(
-          "Prep",
-          "Cook",
-          "Proof",
-          "Bulk Ferment",
-          "Caramelize",
-          "Broil",
-          "Marinate",
-          "Active",
-          "Total",
-          "Inactive"
-        )
+        .valid(...TIME_LABELS)
         .required(),
       units: Joi.array()
         .items({
           measurement: Joi.number().greater(0).required(),
           label: Joi.string()
-            .valid("day", "days", "hour", "hours", "minute", "minutes")
+            .valid(...TIME_MEASUREMENTS)
             .required(),
         })
         .required(),
