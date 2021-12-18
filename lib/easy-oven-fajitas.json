@@ -29,12 +29,18 @@
     "Drizzle the vegetable oil over the chicken and vegetables, then sprinkle the fajita seasoning mix over top. Use your hands to toss the ingredients until everything is well coated in oil and seasoning. Bake in the preheated oven for 35-40 minutes, stirring once half way through. Squeeze the juice from half of the lime over top of the meat and vegetables after they come out of the oven.",
     "While the fajita mix bakes, toast each tortilla in a dry skillet over medium-low heat, until lightly browned on each side. Scoop a small amount of meat and vegetables into the center of each tortilla. Top with a few sprigs of cilantro, a dollop of sour cream, and an extra squeeze of lime if desired."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 7,
   "servings": 4,
   "slug": "easy-oven-fajitas",
   "source": "https://www.budgetbytes.com/2013/02/oven-fajitas/",
-  "tags": ["Poultry", "Dinner", "Meal Prep", "Baking", "Roasting"],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep",
+    "Baking",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

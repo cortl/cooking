@@ -26,12 +26,17 @@
     "Add enough water to just barely cover all the solids in the pot, set over medium-high heat, and bring to a bare simmer. Lower heat to maintain a bare simmer and cook, occasionally skimming fat and scum from surface, until stock has reduced slightly and is deep and rich, 2 to 3 hours.",
     "Strain stock through a fine-mesh strainer, let cool, then transfer to containers and refrigerate until completely chilled, about 6 hours; discard solids. Skim off and remove any fat and scum on the surface of the stock. Refrigerate for up to 5 days or freeze for up to 6 months."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 7,
   "servings": 3,
   "slug": "brown-turkey-stock-recipe",
   "source": "https://www.seriouseats.com/recipes/2016/11/brown-turkey-stock-recipe.html",
-  "tags": ["Poultry", "Soup", "Thanksgiving", "Stovetop"],
+  "tags": [
+    "Poultry",
+    "Soup",
+    "Thanksgiving",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Active",

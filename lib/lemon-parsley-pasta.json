@@ -24,12 +24,17 @@
     "Remove the pot from the heat and add the drained pasta and butter to the pot with the garlic. Toss the pasta until the residual heat has melted the butter and the pasta is coated in garlic and butter.  ",
     "Add the parsley Parmesan mixture to the pot and toss to coat again. Squeeze about 1 Tbsp of the lemon juice over the pasta and season with salt (about ¼ tsp). Toss to combine, then taste, and adjust the salt, pepper, or Parmesan to your liking. Serve warm. "
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 7,
   "servings": 4,
   "slug": "lemon-parsley-pasta",
   "source": "https://www.budgetbytes.com/lemon-parsley-pasta/",
-  "tags": ["Vegetarian", "Pasta", "Appetizer", "Stovetop"],
+  "tags": [
+    "Vegetarian",
+    "Pasta",
+    "Appetizer",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

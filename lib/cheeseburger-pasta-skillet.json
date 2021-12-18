@@ -26,12 +26,17 @@
     "Place a lid on the skillet, turn the heat up to medium-high, and let the liquid come up to a boil. Once it reaches a boil, give it a quick stir to loosen any pasta from the bottom of the skillet, replace the lid, and turn the heat down to low. Let the pasta simmer, stirring occasionally (always replacing the lid), for about 10 minutes, or until the pasta is tender and the sauce has thickened. Turn the heat off.",
     "Add the shredded cheddar to the skillet and stir until it has melted into the sauce. Stir the hot dog relish into the sauce and then top with sliced green onions. Serve hot."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 7,
   "servings": 4,
   "slug": "cheeseburger-pasta-skillet",
   "source": "https://www.budgetbytes.com/skillet-cheeseburger-pasta/",
-  "tags": ["Beef", "Pasta", "Dinner", "Stovetop"],
+  "tags": [
+    "Beef",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -29,12 +29,17 @@
     "Once the pasta is tender and most of the broth absorbed, add the milk, cream cheese (cut into chunks), and pesto. Stir and cook over medium heat until the cream cheese has fully melted into the sauce. Finally, add the grated Parmesan and stir until combined.",
     "If using, add the fresh spinach and sliced sun dried tomatoes. Stir until the spinach has wilted, then remove the pasta from the heat. Top the pasta with freshly cracked pepper and a pinch of crushed red pepper, then serve."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 7,
   "servings": 4,
   "slug": "one-pot-creamy-pesto-chicken-pasta",
   "source": "https://www.budgetbytes.com/one-pot-creamy-pesto-chicken-pasta/",
-  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
+  "tags": [
+    "Poultry",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

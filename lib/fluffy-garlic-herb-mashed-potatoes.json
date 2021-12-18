@@ -26,12 +26,16 @@
     "Add the butter, milk, and garlic herb seasoning o the pot used to boil the potatoes. Stir and heat over low until the butter has melted and the milk is hot.",
     "Once the milk is hot, add the potatoes back to the pot, turn off the heat and mash with a potato masher. Once the potatoes are mostly mashed, use a hand mixer to briefly whip the potatoes until they are light and fluffy. Taste the potatoes and add salt to taste, if needed, then serve."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 6,
   "servings": 6,
   "slug": "fluffy-garlic-herb-mashed-potatoes",
   "source": "https://www.budgetbytes.com/fluffy-garlic-herb-mashed-potatoes/",
-  "tags": ["Vegetarian", "Appetizer", "Stovetop"],
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

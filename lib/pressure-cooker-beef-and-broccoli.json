@@ -32,12 +32,17 @@
     "In a small bowl, combine cornstarch and water and stir until smooth. Select Simmer/Saute and add to the pressure cooking pot. Stir well to combine, and continue stirring until the sauce comes to a boil and thickens. Add the steamed broccoli.",
     "Serve over hot, cooked rice and garnish with sesame seeds."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 7,
   "servings": 6,
   "slug": "pressure-cooker-beef-and-broccoli",
   "source": "https://www.pressurecookingtoday.com/pressure-cooker-beef-and-broccoli/",
-  "tags": ["Beef", "Dinner", "Meal Prep", "Pressure Cooker"],
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Meal Prep",
+    "Pressure Cooker"
+  ],
   "time": [
     {
       "label": "Prep",

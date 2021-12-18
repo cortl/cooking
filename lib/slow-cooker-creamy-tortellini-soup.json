@@ -28,12 +28,18 @@
     "Pour in milk in 1/3 cup increments, as needed, to reach your desired thickness and consistency (I needed 1 cup); taste test and season with extra salt ONLY if needed, and pepper to suit your tastes.",
     "Serve with crusty warmed bread"
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 8,
   "servings": 10,
   "slug": "slow-cooker-creamy-tortellini-soup",
   "source": "https://cafedelites.com/slow-cooker-creamy-tortellini-soup/",
-  "tags": ["Pork", "Soup", "Dinner", "Stovetop", "Slow Cooker"],
+  "tags": [
+    "Pork",
+    "Soup",
+    "Dinner",
+    "Stovetop",
+    "Slow Cooker"
+  ],
   "time": [
     {
       "label": "Prep",

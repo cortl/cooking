@@ -31,12 +31,16 @@
     "Add the beef broth and one tablespoon of Worcestershire sauce to the skillet. Stir to dissolve the flour into the broth, making sure to dissolve any flour that is stuck to the bottom of the skillet. Allow the broth to come up to simmer (still over medium heat), stirring often. Once it reaches a simmer, it will thicken into a gravy.",
     "Once the gravy is simmering, add the beef patties back to the skillet with the broth, mushrooms, and onions. Spoon the gravy over top, and continue to simmer the beef in the gravy for an additional five minutes. Taste the gravy and adjust the salt and pepper to your liking."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 8,
   "servings": 4,
   "slug": "salisbury-steak-with-mushroom-gravy",
   "source": "https://www.budgetbytes.com/salisbury-steak-with-mushroom-gravy/",
-  "tags": ["Beef", "Dinner", "Stovetop"],
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

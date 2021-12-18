@@ -21,12 +21,18 @@
     "Add the evaporated milk, mustard, and cayenne and stir well to combine. Add the cheese in three batches, stirring frequently as each batch is added and waiting until the cheese has melted before adding the next batch. After about 5 minutes total, the sauce will be smooth and noticeably thicker.",
     "Serve hot. Leftovers can be refrigerated in a covered container for up to 2 days."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 7,
   "servings": 2,
   "slug": "will-it-skillet-mac-and-cheese",
   "source": "https://www.budgetbytes.com/will-skillet-mac-cheese/",
-  "tags": ["Vegetarian", "Appetizer", "Pasta", "Dinner", "Stovetop"],
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -23,12 +23,17 @@
     "Spread the spiced sweet potatoes out over a baking sheet so they are in a single layer. Place the baking sheet in the oven and roast the potatoes for 15 minutes, then stir the sweet potatoes, return them to the oven, and roast for 15 minutes more, or until tender.",
     "Once the sweet potatoes have finished roasting, give them a taste and add a pinch more salt, if needed. Roughly chop the cilantro and sprinkle it over top just before serving."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 7,
   "servings": 4,
   "slug": "moroccan-spiced-sweet-potatoes",
   "source": "https://www.budgetbytes.com/moroccan-spiced-sweet-potatoes/",
-  "tags": ["Vegan", "Vegetarian", "Appetizer", "Roasting"],
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Appetizer",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -23,12 +23,17 @@
     "Simmer the pasta and sun dried tomatoes for about 7 minutes, stirring every couple of minutes, or until the pasta is tender and most of the liquid is absorbed. If the pasta becomes tender before all the broth has been absorbed, simply let it simmer for the last couple of minutes without the lid.",
     "Once the pasta is tender and only a small amount of thickened liquid remains in the bottom of the skillet, add the cooked sausage and broccoli back to the pasta. Stir to combine and sprinkle the grated Parmesan over top. Serve immediately."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 6,
   "servings": 4,
   "slug": "one-pot-sausage-and-sun-dried-tomato-pasta",
   "source": "https://www.budgetbytes.com/2017/03/one-pot-sausage-sun-dried-tomato-pasta/",
-  "tags": ["Pork", "Dinner", "Meal Prep", "Stovetop"],
+  "tags": [
+    "Pork",
+    "Dinner",
+    "Meal Prep",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

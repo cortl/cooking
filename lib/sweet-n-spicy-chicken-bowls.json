@@ -33,12 +33,17 @@
     "Heat a large non-stick skillet over medium heat. Add the chopped and seasoned chicken pieces and sauté until cooked through and slightly browned (5-7 minutes).",
     "Build the bowls by adding 3/4 cup cooked rice to each bowl, followed by 1/4 of each of the following: cooked chicken, black beans, pineapple, avocado, green onions, and cilantro."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 6,
   "servings": 4,
   "slug": "sweet-n-spicy-chicken-bowls",
   "source": "https://www.budgetbytes.com/2015/05/sweet-n-spicy-chicken-bowls/",
-  "tags": ["Poultry", "Meal Prep", "Dinner", "Stovetop"],
+  "tags": [
+    "Poultry",
+    "Meal Prep",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -19,7 +19,10 @@
     },
     {
       "category": "For Serving",
-      "items": ["12 oz. pasta", "1 24oz. jar pasta sauce"]
+      "items": [
+        "12 oz. pasta",
+        "1 24oz. jar pasta sauce"
+      ]
     }
   ],
   "instructions": [
@@ -31,12 +34,16 @@
     "Once all the meatballs are finished cooking, add them to the pot of heated pasta sauce and stir to coat. If needed, allow them to heat for a few minutes in the sauce.",
     "Serve the cooked and drained pasta topped with sauce and meatballs."
   ],
-  "notes": [""],
+  "notes": [],
   "rating": 7,
   "servings": 4,
   "slug": "chicken-parmesan-meatballs",
   "source": "https://www.budgetbytes.com/chicken-parmesan-meatballs/",
-  "tags": ["Poultry", "Dinner", "Stovetop"],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",
