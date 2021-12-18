@@ -18,7 +18,9 @@
     "Stir the cornstarch into 1 Tbsp water until dissolved, then pour it into the sauce pot with the sweet chili sauce. Continue stirring and heating until the mixture comes up to a simmer, at which time the cornstarch will thicken the sauce and go from appearing cloudy to clear.",
     "Use the sauce immediately, or refrigerate and use within one week."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "easy-sweet-chili-sauce",
@@ -51,6 +53,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Topping",
+    "No Cook"
   ],
   "title": "Easy Sweet Chili Sauce"
 }

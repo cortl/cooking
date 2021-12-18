@@ -28,7 +28,9 @@
     "When turkey is cooked, remove from oven and transfer rack to a new baking sheet. Allow to rest at room temperature for 20 minutes before carving. Carefully pour any collected juices from out of the roasting pan through a fine-mesh strainer into a liquid measuring cup. Skim off excess fat and dicard. Whisk juices into gravy.",
     "Carve turkey and serve with gravy"
   ],
-  "notes": ["Worked incredibly well on a 16lb turkey"],
+  "notes": [
+    "Worked incredibly well on a 16lb turkey"
+  ],
   "rating": 9,
   "servings": 10,
   "slug": "crispskinned-spatchcocked-butterflied-roast-turkey-with-gravy-recipe",
@@ -52,6 +54,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Thanksgiving",
+    "Roasting"
   ],
   "title": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey With Gravy Recipe"
 }

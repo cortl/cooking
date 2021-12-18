@@ -42,7 +42,9 @@
     "Sprinkle the cheddar cheese over top of the simmering chili. Carefully pour the cornbread batter over the chili and cheese, and spread it around until the surface is evenly covered.",
     "Transfer the skillet to the fully preheated oven and bake for 25 minutes, or until the cornbread is golden brown on the surface. To serve, simply scoop the cornbread and chili beneath onto a plate or bowl, and enjoy!"
   ],
-  "notes": ["Average, ends up being more cornbread than chili"],
+  "notes": [
+    "Average, ends up being more cornbread than chili"
+  ],
   "rating": 5,
   "servings": 6,
   "slug": "chili-cornbread-skillet",
@@ -75,6 +77,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Stovetop",
+    "Baking",
+    "Dinner"
   ],
   "title": "Chili Cornbread Skillet"
 }

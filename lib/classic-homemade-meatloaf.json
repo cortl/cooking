@@ -34,7 +34,9 @@
     "In a separate small bowl, stir together the glaze ingredients (ketchup, brown sugar, Worcestershire sauce, and mustard). Spread the glaze evenly over the top and sides of the meatloaf.",
     "Bake the meatloaf for 50-55 minutes, or until the internal temperature reaches 165ºF. Allow the meatloaf to rest for 5-10 minutes after baking, then slice and serve."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 7,
   "servings": 10,
   "slug": "classic-homemade-meatloaf",
@@ -67,6 +69,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Baking"
   ],
   "title": "Classic Homemade Meatloaf"
 }

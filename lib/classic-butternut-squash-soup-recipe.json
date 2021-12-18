@@ -32,7 +32,9 @@
     "If making frizzled sage leaves, melt remaining 5 tablespoons butter in a small skillet over medium-high heat, swirling gently, until foamy and just beginning to brown. Add sage leaves, swirling to submerge, and cook until frizzled, about 15 seconds. Using a slotted spoon, transfer sage to a paper towel to drain. Sprinkle very lightly with salt.",
     "Ladle soup into warmed bowls, spoon dollops of spiced whipped cream into each one, and top with frizzled sage, if using. Serve right away."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 8,
   "servings": 2,
   "slug": "classic-butternut-squash-soup-recipe",
@@ -60,6 +62,14 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Soup",
+    "Dinner",
+    "Stovtop",
+    "Roasting"
   ],
   "title": "Classic Butternut Squash Soup Recipe"
 }

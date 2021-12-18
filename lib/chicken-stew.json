@@ -36,7 +36,9 @@
     "Place a lid on the pot and allow it to come up to a boil. Once it reaches a boil, remove the lid and turn the heat down to medium-low. Allow the stew to simmer over medium-low, without a lid and stirring occasionally, for about 30 minutes or until the potatoes are tender and the broth has thickened. ",
     "Taste the stew and add salt if needed (I did not add any, but it will depend on the salt content of the broth you used). Add a tablespoon of fresh chopped parsley if desired, and serve hot."
   ],
-  "notes": ["It's missing something 🤔"],
+  "notes": [
+    "It's missing something 🤔"
+  ],
   "rating": 6,
   "servings": 6,
   "slug": "chicken-stew",
@@ -69,6 +71,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Soup",
+    "Dinner",
+    "Stovetop",
+    "Braising & Stewing"
   ],
   "title": "Chicken Stew"
 }

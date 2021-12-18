@@ -29,7 +29,9 @@
     "To prevent the sour cream from curdling when added to the salsa, first add a few spoonfuls, one at a time, to the sour cream to slowly increase it's temperature and acidity. Once the sour cream is slightly warm, add it back to the rest of the salsa in the skillet and stir to combine. Turn the heat off.",
     "Slice the chicken breast into strips, then place it on top of the creamy salsa sauce in the skillet. Top the skillet with crumbled cheese and cilantro or green onion. Serve over a bed of cooked rice."
   ],
-  "notes": ["Feta cheese not a great idea and pace salsa probably too salty"],
+  "notes": [
+    "Feta cheese not a great idea and pace salsa probably too salty"
+  ],
   "rating": 5,
   "servings": 4,
   "slug": "creamy-salsa-chicken-skillet",
@@ -62,6 +64,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Creamy Salsa Chicken Skillet"
 }

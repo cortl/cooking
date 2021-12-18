@@ -22,7 +22,9 @@
     "Cut cream cheese into cubes and add to skillet with salt. Cook for 2 minutes stirring occasionally. Stir cilantro into mixture.                            ",
     "Spoon mixture evenly down center of warmed tortilla and roll tortillas up. Serve immediately.                            "
   ],
-  "notes": ["Could easily add chicken, maybe follow review tips"],
+  "notes": [
+    "Could easily add chicken, maybe follow review tips"
+  ],
   "rating": 6,
   "servings": 2,
   "slug": "delicious-black-bean-burritos",
@@ -55,6 +57,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "Meal Prep",
+    "Baking",
+    "Stovetop"
   ],
   "title": "Delicious Black Bean Burritos"
 }
