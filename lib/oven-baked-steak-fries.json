@@ -18,7 +18,9 @@
     "Spread the seasoned potato wedges out over a parchment lined baking sheet, making sure they're in a single layer. Transfer to the preheated oven and bake for 35 minutes, or until they are well browned and crispy. Flip the steak fries once, after about 20 minutes of baking.",
     "Serve immediately."
   ],
-  "notes": ["Cook them a little less than 40 mins + maybe thicker slices"],
+  "notes": [
+    "Cook them a little less than 40 mins + maybe thicker slices"
+  ],
   "rating": 7,
   "servings": 2,
   "slug": "oven-baked-steak-fries",
@@ -51,6 +53,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Appetizer",
+    "Roasting"
   ],
   "title": "Oven Baked Steak Fries"
 }

@@ -30,7 +30,9 @@
     "Place a lid on the skillet, turn the heat up to medium-high, and allow the broth to come to a full boil. Once it reaches a boil, turn the heat down to low and let the skillet simmer for 20 minutes. After 20 minutes, remove the skillet from the heat and let it rest, with the lid on, for an additional 5 minutes.",
     "After the skillet has rested, remove the lid, and fold the sausage and rice to redistribute the rice and sausage throughout. Top with sliced green onions and serve!"
   ],
-  "notes": ["Added extra chicken with creole seasoning for protein 💪"],
+  "notes": [
+    "Added extra chicken with creole seasoning for protein 💪"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "cajun-sausage-and-rice-skillet",
@@ -63,6 +65,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Pork",
+    "Stovetop",
+    "Dinner"
   ],
   "title": "Cajun Sausage and Rice Skillet"
 }

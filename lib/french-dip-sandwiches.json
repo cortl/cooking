@@ -20,7 +20,9 @@
     "In a medium bowl, combine soy sauce, bouillon, bay leaf, peppercorns, rosemary, thyme, and garlic powder. Pour mixture over roast, and add enough water to almost cover roast.  Cover, and cook on Low heat for 10 to 12 hours, or until meat is very tender.                            ",
     "Remove meat from broth, reserving broth. Shred meat with a fork, and distribute on bread for sandwiches. Used reserved broth for dipping.                            "
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 7,
   "servings": 10,
   "slug": "french-dip-sandwiches",
@@ -57,6 +59,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Sandwich",
+    "Slow Cooker",
+    "Dinner"
   ],
   "title": "French Dip Sandwiches"
 }

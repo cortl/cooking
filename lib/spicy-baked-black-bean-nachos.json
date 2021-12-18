@@ -35,7 +35,9 @@
     "Line a baking sheet with parchment or foil. Spread a layer of tortilla chips over the baking sheet in a single layer, trying not to overlap the chips. Spoon about half of the black bean mixture over the chips, then sprinkle half of the shredded cheese over top. Repeat with one more layer of chips, black beans, and cheese.",
     "Bake the chips, beans, and cheese for 5-7 minutes, or until the cheese is fully melted and the chips are just beginning to turn golden brown on the edges. Remove the nachos from the oven and add a drizzles or dollops of sour cream over top. Sprinkle the diced tomato, sliced jalapeño, pickled red onions, and chopped cilantro over top."
   ],
-  "notes": ["works well with the quick pickled red onions"],
+  "notes": [
+    "works well with the quick pickled red onions"
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "spicy-baked-black-bean-nachos",
@@ -68,6 +70,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Quick",
+    "Baking",
+    "Roasting"
   ],
   "title": "Spicy Baked Black Bean Nachos"
 }

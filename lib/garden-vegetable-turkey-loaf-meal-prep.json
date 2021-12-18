@@ -34,7 +34,9 @@
     },
     {
       "category": "Vegetables",
-      "items": ["Grean beans"]
+      "items": [
+        "Grean beans"
+      ]
     }
   ],
   "instructions": [
@@ -64,6 +66,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Meal Prep",
+    "Dinner",
+    "Baking",
+    "Stovetop"
   ],
   "title": "Garden Vegetable Turkey Loaf Meal Prep"
 }

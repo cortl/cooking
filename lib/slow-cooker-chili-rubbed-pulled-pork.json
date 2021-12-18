@@ -22,7 +22,9 @@
     "Place the seasoned meat in a slow cooker, place the lid on top, and cook on high for 4-5 hours, or low for 8-9 hours.",
     "After cooking, stir the meat with a fork to shred the meat. If it's not tender enough to fall apart when stirred, return the lid and cook for an additional 30 minutes adn try again. After shredding the meat, it is ready to serve, or portion and refrigerate or freeze until ready to use. Keep the shredded meat in the juices from the slow cooker until ready to serve for the best flavor."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 8,
   "servings": 6,
   "slug": "slow-cooker-chili-rubbed-pulled-pork",
@@ -55,6 +57,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Pork",
+    "Dinner",
+    "Sandwich",
+    "Slow Cooker",
+    "Meal Prep"
   ],
   "title": "Slow Cooker Chili Rubbed Pulled Pork"
 }

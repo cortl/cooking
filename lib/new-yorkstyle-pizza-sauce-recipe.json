@@ -22,7 +22,9 @@
     "Process tomatoes and their juice through food mill, pulse in food processor until pureed, or puree with hand blender. Puree should not be completely smooth, but should have no chunks larger than 1/16 of an inch. Set tomatoes aside.",
     "Combine butter and oil in medium saucepan and heat over medium-low heat until butter is melted. Add garlic, oregano, pepper flakes, and large pinch salt and cook, stirring frequently, until fragrant but not browned, about 3 minutes. Add tomatoes, basil sprigs, onion halves, and sugar. Bring to a simmer, reduce heat to lowest setting (bubbles should barely be breaking the surface), and cook, stirring occasionally, until reduced by 1/2, about 1 hour. Discard onions and basil stems. Season to taste with salt. Allow to cool and store in covered container in the refrigerator for up to 2 weeks."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 9,
   "servings": 2,
   "slug": "new-yorkstyle-pizza-sauce-recipe",
@@ -46,6 +48,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "Topping",
+    "Stovetop"
   ],
   "title": "New York-Style Pizza Sauce Recipe"
 }

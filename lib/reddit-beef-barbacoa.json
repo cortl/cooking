@@ -23,7 +23,9 @@
     "In a food processor add adobo chilis, beef broth, garlic, cumin, oregano, salt, pepper, cloves, and lime juice. Pulse until blended and pour on top of the meat.",
     "Cook on low for 8-9 hours or high for 6 hours. Shred the meat with two forks and turn on warm."
   ],
-  "notes": ["works great with pico"],
+  "notes": [
+    "works great with pico"
+  ],
   "rating": 6,
   "servings": 6,
   "slug": "reddit-beef-barbacoa",
@@ -56,6 +58,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Slow Cooker"
   ],
   "title": "Reddit Beef Barbacoa"
 }

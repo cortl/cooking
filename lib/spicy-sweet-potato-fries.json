@@ -17,7 +17,9 @@
     "Transfer the baking sheet to the fully preheated oven and bake for about 45 minutes, stirring every 20 minutes or so, or until the the sweet potatoes are browned and blistered.",
     "After the sweet potato fries have baked, season to your liking with Creole seasoning or spicy seasoning salt. Serve immediately."
   ],
-  "notes": ["Not crispy but pretty good!"],
+  "notes": [
+    "Not crispy but pretty good!"
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "spicy-sweet-potato-fries",
@@ -50,6 +52,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Appetizer",
+    "Roasting"
   ],
   "title": "Spicy Sweet Potato Fries"
 }

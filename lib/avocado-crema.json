@@ -13,7 +13,10 @@
       ]
     }
   ],
-  "instructions": ["Mash the avocado fully", "Mix in everything else"],
+  "instructions": [
+    "Mash the avocado fully",
+    "Mix in everything else"
+  ],
   "notes": [],
   "rating": 8,
   "servings": 0,
@@ -29,6 +32,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "Topping",
+    "No Cook"
   ],
   "title": "Avocado Crema"
 }

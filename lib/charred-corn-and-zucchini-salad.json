@@ -24,7 +24,9 @@
     "Stand the corn cobs on end and use a sharp knife to carefully slice down each side to remove the kernels. Place the kernels in the bowl with the zucchini, onion, and cilantro.",
     "Season the vegetables with a couple generous pinches of salt and pepper, then toss to combine. Finally, crumble the feta over top and gently toss one more time to combine. Serve immediately or refrigerate for later. This salad can be served slightly warm or cold."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "charred-corn-and-zucchini-salad",
@@ -57,6 +59,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Salad",
+    "Appetizer",
+    "Stovetop"
   ],
   "title": "Charred Corn and Zucchini Salad"
 }

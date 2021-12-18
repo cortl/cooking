@@ -27,7 +27,9 @@
     "Add peanut sauce and chicken broth to skillet and bring to simmer. Return chicken to skillet then add peanuts. Let chicken simmer in sauce 5 minutes. ",
     "Garnish with cilantro before serving."
   ],
-  "notes": ["anything additional people should know about this recipe"],
+  "notes": [
+    "anything additional people should know about this recipe"
+  ],
   "rating": 6,
   "servings": 4,
   "slug": "thai-peanut-skillet-chicken",
@@ -60,6 +62,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Thai Peanut Chicken"
 }

@@ -27,7 +27,10 @@
     },
     {
       "category": "Served",
-      "items": ["4 cups cooked jasmine rice", "2 whole green onions"]
+      "items": [
+        "4 cups cooked jasmine rice",
+        "2 whole green onions"
+      ]
     }
   ],
   "instructions": [
@@ -38,7 +41,9 @@
     "Once the chicken is cooked through and golden brown on all sides, pour the sauce over top. Toss the chicken to coat in the sauce. As the sauce comes up to a simmer, it will begin to thicken. Continue to gently stir the chicken in the sauce until it has thickened, then turn off the heat.",
     "Serve the chicken over a bed of rice and sprinkle the sliced green onions over top."
   ],
-  "notes": ["breasts worked, but thighs actually not too bad"],
+  "notes": [
+    "breasts worked, but thighs actually not too bad"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "easy-sesame-chicken",
@@ -71,6 +76,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep",
+    "Stovetop"
   ],
   "title": "Easy Sesame Chicken"
 }

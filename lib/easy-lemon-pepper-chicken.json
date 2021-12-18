@@ -26,7 +26,9 @@
     "Add the chicken broth to the skillet and whisk to dissolve all the browned bits from the bottom of the skillet. Add the lemon juice and allow the sauce to simmer in the skillet for 3-5 minutes, or until it has reduced slightly. Taste the sauce and add salt if needed (I did not add any).",
     "Finally, return the chicken to the skillet and spoon the sauce over top. Allow the chicken to heat through. Season with a little freshly cracked pepper and fresh chopped parsley (optional), then serve."
   ],
-  "notes": ["Easy, really good. Could definitely make more pan sauce"],
+  "notes": [
+    "Easy, really good. Could definitely make more pan sauce"
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "easy-lemon-pepper-chicken",
@@ -59,6 +61,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Easy Lemon Pepper Chicken"
 }

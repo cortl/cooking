@@ -19,7 +19,9 @@
     "Mix wet ingredients",
     "Make pancakes"
   ],
-  "notes": ["Recipe looks strange with 12g of baking powder, but very good!"],
+  "notes": [
+    "Recipe looks strange with 12g of baking powder, but very good!"
+  ],
   "rating": 8,
   "servings": 3,
   "slug": "cakey-reddit-pancakes",
@@ -43,6 +45,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "Breakfast",
+    "Dessert",
+    "Stovetop"
   ],
   "title": "Cakey Reddit Pancakes"
 }

@@ -30,7 +30,9 @@
     "To make the dressing, whisk together the mayonnaise, vinegar, honey, Dijon, salt, and pepper.",
     "To build the salad, start with a base of kale, top with the chopped chicken and celery, almonds, and raisins. Drizzle the dressing over top, toss until everything is coated, then enjoy."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "crunchy-kale-and-chicken-salad",
@@ -63,6 +65,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Salad",
+    "Sandwich",
+    "No Cook"
   ],
   "title": "Crunchy Kale and Chicken Salad"
 }

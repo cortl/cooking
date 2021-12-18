@@ -23,7 +23,9 @@
     "Place meat in slow cooker. In a small bowl mix together the flour, salt, and pepper; pour over meat, and stir to coat meat with flour mixture. Stir in the garlic, bay leaf, paprika, Worcestershire sauce, onion, beef broth, potatoes, carrots, and celery.                            ",
     "Cover, and cook on Low setting for 10 to 12 hours, or on High setting for 4 to 6 hours.                            "
   ],
-  "notes": ["Follow reviews"],
+  "notes": [
+    "Follow reviews"
+  ],
   "rating": 6,
   "servings": 6,
   "slug": "slow-cooker-beef-stew-i",
@@ -60,6 +62,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Soup",
+    "Braising & Stewing",
+    "Stovetop"
   ],
   "title": "Slow Cooker Beef Stew I"
 }

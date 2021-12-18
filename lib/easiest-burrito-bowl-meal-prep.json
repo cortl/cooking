@@ -23,7 +23,9 @@
     "Once the rice is finished, fluff it with a fork and divide it between four containers. Divide the remaining six bowl ingredients between the containers as well (taco meat, corn, beans, cheese, salsa, and green onions). ",
     "Reheat the bowls for 1-2 minutes before eating to melt the cheese and heat the meat and rice through."
   ],
-  "notes": ["basic, cheap, easy"],
+  "notes": [
+    "basic, cheap, easy"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "easiest-burrito-bowl-meal-prep",
@@ -56,6 +58,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Meal Prep",
+    "Dinner",
+    "Quick",
+    "Stovetop"
   ],
   "title": "Easiest Burrito Bowl Meal Prep"
 }

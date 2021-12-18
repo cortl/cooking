@@ -43,7 +43,9 @@
     "Add kasoori methi, 1 tsp garam masala and 3 tbsp heavy cream",
     "Mix well. turn off heat let is rest for 5 mins"
   ],
-  "notes": ["Try marinating the chicken in yogurt first too"],
+  "notes": [
+    "Try marinating the chicken in yogurt first too"
+  ],
   "rating": 9,
   "servings": 4,
   "slug": "butter-chicken",
@@ -58,6 +60,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Butter Chicken"
 }

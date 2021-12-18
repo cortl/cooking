@@ -22,7 +22,9 @@
     "Combine the ranch seasoning mix with ¼ cup mayonnaise, ¼ cup sour cream, and ¼ cup milk. Whisk until smooth.   ",
     "Combine the ranch seasoning mix with 1 cup sour cream and stir until smooth. Let the dip sit for about 10 minutes to allow the flavors to blend."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 7,
   "servings": 1,
   "slug": "homemade-ranch-seasoning-mix",
@@ -46,6 +48,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "No Cook",
+    "Quick",
+    "Seasoning Blend"
   ],
   "title": "Homemade Ranch Seasoning Mix"
 }

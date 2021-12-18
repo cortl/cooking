@@ -19,7 +19,9 @@
     "Roast the Brussels sprouts in the oven for about 25 minutes, or until they are browned and caramelized on the edges. You can stir the Brussels sprouts at about 20 minutes to gauge the amount of browning on the bottom layer of the sprouts. No need to make sure they're all face down again for the final few minutes. ",
     "Taste one Brussels sprout and adjust the salt or pepper to your liking, then serve hot."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "easy-roasted-brussels-sprouts",
@@ -52,6 +54,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Appetizer",
+    "Roasting"
   ],
   "title": "Easy Roasted Brussels Sprouts"
 }

@@ -27,7 +27,9 @@
     "Place a lid on the pot and allow the liquid to come up to a boil over medium-high heat. As soon as it reaches a boil, give the pot a stir, replace the lid, and reduce the heat to low. Allow the pot to simmer on low heat for about 7-10 minutes, stirring occasionally and replacing the lid every couple of minutes. After 7-10 minutes the pasta should be tender and most of the liquid absorbed. ",
     "Once the noodles are tender, add the sour cream and fold it into the noodles until everything is rich and creamy. Give the noodles a taste and add extra salt or pepper, if needed. Roughly chop a handful of parsley leaves and sprinkle over top. Serve hot."
   ],
-  "notes": ["Decent, quick, easy"],
+  "notes": [
+    "Decent, quick, easy"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "one-pot-beef-and-mushroom-stroganoff",
@@ -60,6 +62,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Pasta",
+    "Stovetop"
   ],
   "title": "One Pot Beef and Mushroom Stroganoff"
 }

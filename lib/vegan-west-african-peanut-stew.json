@@ -37,7 +37,9 @@
     "Once the stew has simmered for 15-20 minutes and the sweet potatoes are very soft, stir in the collard greens. Let the stew simmer for about 5 minutes more, then begin to smash the sweet potatoes against the side of the pot to help thicken the stew.",
     "Finally, taste the stew and add salt or red pepper, if desired. Serve the stew with a scoop of cooked rice (about 3/4 cup), a few chopped peanuts, fresh cilantro, and a drizzle of sriracha, if desired."
   ],
-  "notes": ["1-2 bowls is good, not great as leftovers"],
+  "notes": [
+    "1-2 bowls is good, not great as leftovers"
+  ],
   "rating": 5,
   "servings": 6,
   "slug": "vegan-west-african-peanut-stew",
@@ -70,6 +72,14 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Soup",
+    "Dinner",
+    "Stovetop",
+    "Braising & Stewing"
   ],
   "title": "Vegan West African Peanut Stew"
 }

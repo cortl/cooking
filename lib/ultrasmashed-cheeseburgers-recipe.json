@@ -19,7 +19,9 @@
     "Season generously with salt and pepper and allow to cook until patties are well browned and tops are beginning to turn pale pink/gray in spots, about 45 seconds. Using a bench scraper or the back side of a stiff metal spatula, carefully scrape patties from pan, making sure to get all of the browned bits.",
     "Flip patties and immediately place a slice of cheese over 1 patty, then stack the second directly on top. Immediately remove from pan and transfer to waiting burger bun. Serve."
   ],
-  "notes": ["Smoky -- cook it outside!"],
+  "notes": [
+    "Smoky -- cook it outside!"
+  ],
   "rating": 10,
   "servings": 1,
   "slug": "ultrasmashed-cheeseburgers-recipe",
@@ -43,6 +45,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Sandwich",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Ultra-Smashed Cheeseburgers Recipe"
 }

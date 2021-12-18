@@ -28,7 +28,9 @@
     "Once the broth reaches a boil, turn the heat down to medium-low and allow it to continue to simmer for 10 minutes with the lid in place (stir occasionally). After ten minutes, the potatoes should be tender. Remove the lid and simmer for a few more minutes, or until most of the broth is evaporated.",
     "Finally, stir the frozen peas into the beef and potato mixture and heat through. Give the curry beef a taste and add salt to taste (about ½ tsp). Top with sliced green onions and serve hot. "
   ],
-  "notes": ["Solid, quick, cheap, and easy"],
+  "notes": [
+    "Solid, quick, cheap, and easy"
+  ],
   "rating": 6,
   "servings": 6,
   "slug": "curried-ground-beef-with-peas-and-potatoes",
@@ -61,6 +63,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Curried Ground Beef with Peas and Potatoes"
 }
