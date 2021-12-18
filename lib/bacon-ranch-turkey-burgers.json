@@ -25,7 +25,9 @@
     "If using cheese, add a slice of cheese to each burger, place a lid on the skillet and allow the heat to melt the cheese.",
     "While the burgers are cooking, slice the tomato. Build the burgers using the buns, tomatoes, lettuce, cooked bacon, and mayonnaise. Enjoy!"
   ],
-  "notes": ["Would be good sans bacon since it adds more effort"],
+  "notes": [
+    "Would be good sans bacon since it adds more effort"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "bacon-ranch-turkey-burgers",
@@ -58,6 +60,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Sandwich",
+    "Stovetop"
   ],
   "title": "Bacon Ranch Turkey Burgers"
 }

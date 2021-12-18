@@ -33,7 +33,9 @@
     },
     {
       "category": "For Serving",
-      "items": ["2 buns"]
+      "items": [
+        "2 buns"
+      ]
     }
   ],
   "instructions": [
@@ -47,7 +49,9 @@
     "Place the shredded cabbage slaw mix in a large bowl, pour the prepared dressing over top, and stir until the cabbage is coated in dressing.",
     "Once the chicken is finished baking, build the sandwiches. Place one piece of spicy chicken on each bun and top with a generous pile of the honey yogurt slaw. Enjoy!"
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 8,
   "servings": 2,
   "slug": "baked-spicy-chicken-sandwiches-and-my-stonyfield-organic-experience",
@@ -80,6 +84,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Sandwich",
+    "Dinner",
+    "Baking"
   ],
   "title": "Baked Spicy Chicken Sandwiches and My Stonyfield Organic Experience"
 }

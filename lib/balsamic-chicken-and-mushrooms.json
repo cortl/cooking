@@ -26,7 +26,9 @@
     "Turn the heat down to medium-low. Add the prepared balsamic sauce to the skillet and stir to dissolve any browned bits from the bottom of the skillet. Allow the sauce to come up to a simmer. Simmer the balsamic sauce with the mushrooms, stirring occasionally, for about 5 minutes, or until the sauce has reduced by half.",
     "Add the butter to the skillet and stir until it is melted into the sauce. Add the chicken back to the skillet, turning it to coat in the sauce, and allow it to simmer for a few minutes more to rewarm the chicken. Serve hot and drizzle the pan sauce over the chicken and mushrooms."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "balsamic-chicken-and-mushrooms",
@@ -59,6 +61,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Balsamic Chicken and Mushrooms"
 }
