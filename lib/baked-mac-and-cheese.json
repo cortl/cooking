@@ -15,7 +15,39 @@
   "servings": 6,
   "slug": "baked-mac-and-cheese",
   "source": "https://www.recipetineats.com/baked-mac-and-cheese/",
-  "time": [],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "tags": [
     "Vegetarian",
     "Dinner",

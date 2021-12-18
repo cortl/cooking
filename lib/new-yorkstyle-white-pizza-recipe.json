@@ -49,7 +49,56 @@
   "servings": 1,
   "slug": "new-yorkstyle-white-pizza-recipe",
   "source": "https://www.seriouseats.com/recipes/2008/12/new-yorkstyle-white-pizza-recipe.html",
-  "time": [],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Proof",
+      "units": [
+        {
+          "measurement": 8,
+          "label": "hours"
+        },
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "hours"
+        },
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "tags": [
     "Vegetarian",
     "Dinner",

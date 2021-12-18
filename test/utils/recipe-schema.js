@@ -100,6 +100,7 @@ const schema = Joi.object({
         })
         .required(),
     })
+    .min(1)
     .required(),
   image: Joi.file(),
 });

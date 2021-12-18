@@ -50,7 +50,39 @@
   "servings": 4,
   "slug": "fmk-beef-braciole",
   "source": "https://fitmencook.com/beef-braciole-recipe/",
-  "time": [],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "tags": [
     "Beef",
     "Dinner",
