@@ -1,21 +1,36 @@
 {
-  "title": "Chunky Ham and Bean Soup",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "40 minutes"
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "50 minutes"
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "chunky-ham-and-bean-soup",
+  "title": "Chunky Ham and Bean Soup",
+  "servings": 4,
   "image": "../images/chunky-ham-and-bean-soup.jpg",
   "rating": 6,
   "notes": [

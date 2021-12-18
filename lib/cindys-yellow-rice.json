@@ -1,21 +1,36 @@
 {
-  "title": "Cindy's Yellow Rice",
-  "servings": 4,
   "time": [
     {
-      "label": "prep",
-      "units": "10 mins"
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "cook",
-      "units": "20 mins"
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "total",
-      "units": "30 mins"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "cindys-yellow-rice",
+  "title": "Cindy's Yellow Rice",
+  "servings": 4,
   "rating": 6,
   "notes": [
     "Basic yellow rice"

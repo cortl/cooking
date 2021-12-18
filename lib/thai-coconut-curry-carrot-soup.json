@@ -1,21 +1,36 @@
 {
-  "title": "Thai Coconut Curry Carrot Soup",
-  "servings": 6,
   "time": [
     {
       "label": "Prep",
-      "units": "15 minutes"
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "40 minutes"
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "55 minutes"
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "thai-coconut-curry-carrot-soup",
+  "title": "Thai Coconut Curry Carrot Soup",
+  "servings": 6,
   "image": "../images/thai-coconut-curry-carrot-soup.jpg",
   "rating": 9,
   "notes": [

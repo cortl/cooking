@@ -1,6 +1,39 @@
 {
-  "title": "French Dip Sandwiches",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 12,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 12,
+          "label": "hours"
+        },
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "french-dip-sandwiches",
+  "title": "French Dip Sandwiches",
   "rating": 7,
   "notes": [
     ""
@@ -27,19 +60,5 @@
     "In a medium bowl, combine soy sauce, bouillon, bay leaf, peppercorns, rosemary, thyme, and garlic powder. Pour mixture over roast, and add enough water to almost cover roast.  Cover, and cook on Low heat for 10 to 12 hours, or until meat is very tender.                            ",
     "Remove meat from broth, reserving broth. Shred meat with a fork, and distribute on bread for sandwiches. Used reserved broth for dipping.                            "
   ],
-  "servings": 10,
-  "time": [
-    {
-      "label": "prep",
-      "units": "10 mins"
-    },
-    {
-      "label": "cook",
-      "units": "12 hrs"
-    },
-    {
-      "label": "total",
-      "units": "12 hrs 10 mins"
-    }
-  ]
+  "servings": 10
 }

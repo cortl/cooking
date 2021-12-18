@@ -1,6 +1,35 @@
 {
-  "title": "Spicy Dragon Noodles",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "spicy-dragon-noodles",
+  "title": "Spicy Dragon Noodles",
   "image": "../images/spicy-dragon-noodles.jpg",
   "rating": 5,
   "notes": [
@@ -29,19 +58,5 @@
     "In a large skillet melt 2 tablespoons of butter over medium-low heat. Add the red pepper to the butter as it melts. Whisk an egg in a bowl and then add to the melted butter. Stir gently and cook through. Once the egg is done cooking, turn off the heat.",
     "When the noodles are tender, drain the water and then add them to the skillet with the cooked egg. Also add the prepared sauce. Turn the heat on to low to evaporate excess moisture, and stir until everything is coated well with the sauce. Sprinkle the sliced green onions and cilantro leaves (whole) on top and serve!"
   ],
-  "servings": 2,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "15 minutes"
-    }
-  ]
+  "servings": 2
 }

@@ -1,6 +1,35 @@
 {
-  "title": "Turkey Chili Smothered Sweet Potatoes",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "turkey-chili-smothered-sweet-potatoes",
+  "title": "Turkey Chili Smothered Sweet Potatoes",
   "image": "../images/turkey-chili-smothered-sweet-potatoes.jpg",
   "rating": 8,
   "notes": [
@@ -9,7 +38,7 @@
   "source": "https://www.budgetbytes.com/turkey-chili-smothered-sweet-potatoes/",
   "ingredients": [
     {
-      "category": "CHILI",
+      "category": "Chili",
       "items": [
         "1 Tbsp olive oil",
         "1/2 lb. ground turkey ",
@@ -26,7 +55,7 @@
       ]
     },
     {
-      "category": "POTATOES AND TOPPINGS",
+      "category": "Potatoes & Toppings",
       "items": [
         "4 small sweet potatoes (3/4 lb. each)",
         "1/2 cup shredded cheddar cheese ",
@@ -41,19 +70,5 @@
     "Once the sweet potatoes are finished baking, carefully slice each one open lengthwise and slightly mash the insides. Spoon about 3/4 cup chili over each potato, then top with 2 Tbsp shredded cheddar. Return the potatoes to the oven for a few minutes to melt the cheese. Top with cilantro or sliced green onions just before serving."
   ],
   "createdDate": "7/11/2020",
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": " minutes"
-    },
-    {
-      "label": "Total",
-      "units": "10 minutes"
-    }
-  ]
+  "servings": 4
 }

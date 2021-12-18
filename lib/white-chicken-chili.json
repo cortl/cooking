@@ -1,24 +1,39 @@
 {
-  "title": "White Chicken Chili",
-  "rating": 7,
-  "slug": "white-chicken-chili",
-  "notes": [],
-  "source": "https://www.thechunkychef.com/slow-cooker-creamy-white-chicken-chili/",
-  "image": "../images/white-chicken-chili.jpeg",
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "55 minutes"
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
     }
   ],
+  "slug": "white-chicken-chili",
+  "title": "White Chicken Chili",
+  "rating": 7,
+  "notes": [],
+  "source": "https://www.thechunkychef.com/slow-cooker-creamy-white-chicken-chili/",
+  "image": "../images/white-chicken-chili.jpeg",
   "ingredients": [
     {
       "category": "All",

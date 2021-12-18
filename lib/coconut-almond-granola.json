@@ -1,50 +1,60 @@
 {
-    "title": "Coconut Almond Granola",
-    "rating": 5,
-    "slug": "coconut-almond-granola",
-    "servings": 10,
-    "time": [
+  "time": [
+    {
+      "label": "Cook",
+      "units": [
         {
-            "label": "Cook Time",
-            "units": "25 minutes"
-        },
-        {
-            "label": "Total Time",
-            "units": "25 minutes"
+          "measurement": 25,
+          "label": "minutes"
         }
-    ],
-    "notes": [
-        "Decent, but not very crunchy despite baking it 10 minutes longer than recipe. Might be better suited for a full sheet pan instead of a half"
-    ],
-    "createdDate": "12/12/2020",
-    "source": "https://lmld.org/coconut-almond-granola/",
-    "image": "../images/coconut-almond-granola.jpg",
-    "ingredients": [
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
         {
-            "category": "All",
-            "items": [
-                "1/2 cup brown sugar",
-                "1/2 cup honey",
-                "1/4 cup coconut oil (melted)",
-                "1/2 tsp vanilla extract",
-                "1/4 tsp almond extract",
-                "1/2 tsp salt",
-                "3 cups oats",
-                "1 cup chopped almonds",
-                "1 cup shredded coconut"
-            ]
+          "measurement": 25,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "Preheat the oven to 300 degrees.",
-        "Combine the brown sugar, honey, coconut oil, vanilla and almond extract, and salt in a small bowl. Stir until smooth.",
-        "Dump oats, almonds and coconut in a large bowl.",
-        "Pour brown sugar mixture over the oats and stir until evenly coated.",
-        "Spread mixture over a cookie sheet lined with parchment paper (best if there is a lip).",
-        "Place in the oven and bake for 20-25 minutes, stirring half way in between.",
-        "Remove from oven and spread out thinly over parchment on counter top and allow to cool.",
-        "Break apart into pieces.",
-        "Store in a ziplock bag or airtight container for about 2 weeks.",
-        "Enjoy plain, over yogurt, with fruit, or milk."
-    ]
+      ]
+    }
+  ],
+  "slug": "coconut-almond-granola",
+  "title": "Coconut Almond Granola",
+  "rating": 5,
+  "servings": 10,
+  "notes": [
+    "Decent, but not very crunchy despite baking it 10 minutes longer than recipe. Might be better suited for a full sheet pan instead of a half"
+  ],
+  "createdDate": "12/12/2020",
+  "source": "https://lmld.org/coconut-almond-granola/",
+  "image": "../images/coconut-almond-granola.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2 cup brown sugar",
+        "1/2 cup honey",
+        "1/4 cup coconut oil (melted)",
+        "1/2 tsp vanilla extract",
+        "1/4 tsp almond extract",
+        "1/2 tsp salt",
+        "3 cups oats",
+        "1 cup chopped almonds",
+        "1 cup shredded coconut"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees.",
+    "Combine the brown sugar, honey, coconut oil, vanilla and almond extract, and salt in a small bowl. Stir until smooth.",
+    "Dump oats, almonds and coconut in a large bowl.",
+    "Pour brown sugar mixture over the oats and stir until evenly coated.",
+    "Spread mixture over a cookie sheet lined with parchment paper (best if there is a lip).",
+    "Place in the oven and bake for 20-25 minutes, stirring half way in between.",
+    "Remove from oven and spread out thinly over parchment on counter top and allow to cool.",
+    "Break apart into pieces.",
+    "Store in a ziplock bag or airtight container for about 2 weeks.",
+    "Enjoy plain, over yogurt, with fruit, or milk."
+  ]
 }

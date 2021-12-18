@@ -1,6 +1,35 @@
 {
-  "title": "Sheet Pan BBQ Meatloaf Dinner",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "sheet-pan-bbq-meatloaf-dinner",
+  "title": "Sheet Pan BBQ Meatloaf Dinner",
   "image": "../images/sheet-pan-bbq-meatloaf-dinner.jpg",
   "rating": 7,
   "notes": [
@@ -34,19 +63,5 @@
     "After the vegetables have roasted for 15 minutes, remove the baking sheet and stir each of the vegetables. Push each off to the side a bit to make room for the meatloaves. Place the shaped meatloaves in the center and then spread 1 Tbsp of BBQ sauce over each loaf.",
     "Return the baking sheet to the oven and roast for an additional 20 minutes, or until the internal temperature of the meatloaves has reached 160ºF. Remove the baking sheet from the oven, plate up the meatloaves and vegetables, and serve immediately."
   ],
-  "servings": 2,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "35 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "45 minutes"
-    }
-  ]
+  "servings": 2
 }

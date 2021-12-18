@@ -1,6 +1,35 @@
 {
-  "title": "One Pot Lemon Artichoke Chicken and Rice",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "one-pot-lemon-artichoke-chicken-and-rice",
+  "title": "One Pot Lemon Artichoke Chicken and Rice",
   "image": "../images/one-pot-lemon-artichoke-chicken-and-rice.jpg",
   "rating": 7,
   "notes": [
@@ -41,19 +70,5 @@
     "Finally, lift the lid, fluff the rice with a fork, and gently redistribute the chicken and artichoke hearts throughout the rice. Top the skillet with crumbled feta, another pinch of lemon zest, and chopped parsley (if desired). Serve hot and enjoy!"
   ],
   "createdDate": "9/12/2020",
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ]
+  "servings": 4
 }

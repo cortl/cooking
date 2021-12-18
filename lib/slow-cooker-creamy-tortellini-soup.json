@@ -1,4 +1,38 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "hours"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "slow-cooker-creamy-tortellini-soup",
   "title": "Slow Cooker Creamy Tortellini Soup",
   "rating": 8,
   "notes": [
@@ -6,21 +40,6 @@
   ],
   "source": "https://cafedelites.com/slow-cooker-creamy-tortellini-soup/",
   "image": "../images/slow-cooker-creamy-tortellini-soup.jpg",
-  "slug": "slow-cooker-creamy-tortellini-soup",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "5 hours"
-    },
-    {
-      "label": "Total",
-      "units": "5 hours 15 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

@@ -1,23 +1,38 @@
 {
-  "title": "Alton Brown Sugar Cookies",
-  "slug": "alton-brown-sugar-cookies",
-  "rating": 9,
-  "notes": [
-    "Less sugary than other recipes, pretty good"
-  ],
   "time": [
     {
       "label": "Prep",
-      "units": "15 min"
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Inactive",
-      "units": "2 hours"
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "9 min"
+      "units": [
+        {
+          "measurement": 9,
+          "label": "minutes"
+        }
+      ]
     }
+  ],
+  "slug": "alton-brown-sugar-cookies",
+  "title": "Alton Brown Sugar Cookies",
+  "rating": 9,
+  "notes": [
+    "Less sugary than other recipes, pretty good"
   ],
   "createdDate": "12/18/2019",
   "source": "https://www.foodnetwork.com/recipes/alton-brown/sugar-cookies-recipe-1914697",

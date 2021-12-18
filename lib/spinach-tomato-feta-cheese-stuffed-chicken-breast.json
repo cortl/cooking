@@ -1,26 +1,41 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "spinach-tomato-feta-cheese-stuffed-chicken-breast",
   "title": "Spinach Tomato Feta Cheese Stuffed Chicken Breast",
   "rating": 7,
-  "slug": "spinach-tomato-feta-cheese-stuffed-chicken-breast",
   "notes": [
     "could leave out tomatoes and be fine, they dont reheat well, cover next time when cooking (maybe try pan cooking, ovens suck)"
   ],
   "source": "https://www.bodybuilding.com/recipes/spinach-tomato-feta-cheese-stuffed-chicken-breast",
   "image": "../images/spinach-tomato-feta-cheese-stuffed-chicken-breast.jpg",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "35 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

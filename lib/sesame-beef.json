@@ -1,24 +1,39 @@
 {
-  "title": "Sesame Beef",
-  "rating": 4,
-  "slug": "sesame-beef",
-  "notes": [],
-  "source": "https://chefsavvy.com/sesame-beef/",
-  "image": "../images/sesame-beef.jpg",
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "20 minutes"
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     }
   ],
+  "slug": "sesame-beef",
+  "title": "Sesame Beef",
+  "rating": 4,
+  "notes": [],
+  "source": "https://chefsavvy.com/sesame-beef/",
+  "image": "../images/sesame-beef.jpg",
   "ingredients": [
     {
       "category": "All",

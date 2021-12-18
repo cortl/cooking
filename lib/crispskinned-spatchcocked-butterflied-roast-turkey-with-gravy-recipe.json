@@ -1,6 +1,26 @@
 {
-  "title": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey With Gravy Recipe",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
   "slug": "crispskinned-spatchcocked-butterflied-roast-turkey-with-gravy-recipe",
+  "title": "Crisp-Skinned Spatchcocked (Butterflied) Roast Turkey With Gravy Recipe",
   "image": "../images/crispskinned-spatchcocked-butterflied-roast-turkey-with-gravy-recipe.jpg",
   "rating": 9,
   "notes": [
@@ -35,15 +55,5 @@
     "When turkey is cooked, remove from oven and transfer rack to a new baking sheet. Allow to rest at room temperature for 20 minutes before carving. Carefully pour any collected juices from out of the roasting pan through a fine-mesh strainer into a liquid measuring cup. Skim off excess fat and dicard. Whisk juices into gravy.",
     "Carve turkey and serve with gravy"
   ],
-  "servings": 10,
-  "time": [
-    {
-      "label": "Active time",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total time",
-      "units": "2 hours"
-    }
-  ]
+  "servings": 10
 }

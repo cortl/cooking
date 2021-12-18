@@ -1,21 +1,36 @@
 {
-  "title": "Classic Homemade Meatloaf",
-  "servings": 10,
   "time": [
     {
       "label": "Prep",
-      "units": "15 minutes"
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "50 minutes"
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "5 minutes"
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "classic-homemade-meatloaf",
+  "title": "Classic Homemade Meatloaf",
+  "servings": 10,
   "image": "../images/classic-homemade-meatloaf.jpg",
   "rating": 7,
   "notes": [

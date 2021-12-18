@@ -1,21 +1,36 @@
 {
-  "title": "Simple Sesame Rice",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "5 minutes"
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "20 minutes"
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "25 minutes"
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "simple-sesame-rice",
+  "title": "Simple Sesame Rice",
+  "servings": 4,
   "image": "../images/simple-sesame-rice.jpg",
   "rating": 6,
   "notes": [

@@ -1,17 +1,27 @@
 {
-  "title": "New York Cheesecake",
-  "servings": 8,
   "time": [
     {
-      "label": "Active time",
-      "units": "About 1 hour"
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
     },
     {
-      "label": "Total time",
-      "units": "About 13 hours"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 13,
+          "label": "hours"
+        }
+      ]
     }
   ],
   "slug": "epic-new-york-cheesecake-from-bravetart-recipe",
+  "title": "New York Cheesecake",
+  "servings": 8,
   "image": "../images/epic-new-york-cheesecake-from-bravetart-recipe.jpg",
   "rating": 10,
   "notes": [

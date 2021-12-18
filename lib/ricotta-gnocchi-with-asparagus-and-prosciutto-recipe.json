@@ -1,17 +1,27 @@
 {
-  "title": "Ricotta Gnocchi With Asparagus and Prosciutto Recipe",
-  "servings": 3,
   "time": [
     {
-      "label": "Active time",
-      "units": "20 minutes (50 minutes if making pasta from scratch)"
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "Total time",
-      "units": "20 minutes (50 minutes if making pasta from scratch)"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "ricotta-gnocchi-with-asparagus-and-prosciutto-recipe",
+  "title": "Ricotta Gnocchi With Asparagus and Prosciutto Recipe",
+  "servings": 3,
   "image": "../images/ricotta-gnocchi-with-asparagus-and-prosciutto-recipe.jpg",
   "rating": 10,
   "notes": [

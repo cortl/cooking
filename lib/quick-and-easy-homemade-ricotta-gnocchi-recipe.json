@@ -1,17 +1,27 @@
 {
-  "title": "Quick and Easy Homemade Ricotta Gnocchi Recipe",
-  "servings": 3,
   "time": [
     {
-      "label": "Active time",
-      "units": "30 minutes"
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "Total time",
-      "units": "30 minutes"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "quick-and-easy-homemade-ricotta-gnocchi-recipe",
+  "title": "Quick and Easy Homemade Ricotta Gnocchi Recipe",
+  "servings": 3,
   "image": "../images/quick-and-easy-homemade-ricotta-gnocchi-recipe.jpg",
   "rating": 10,
   "notes": [

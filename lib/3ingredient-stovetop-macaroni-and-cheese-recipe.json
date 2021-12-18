@@ -1,17 +1,27 @@
 {
-  "title": "3-Ingredient Stovetop Macaroni and Cheese Recipe",
-  "servings": 2,
   "time": [
     {
-      "label": "Active time",
-      "units": "8 minutes"
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 8,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "Total time",
-      "units": "8 minutes"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 8,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "3ingredient-stovetop-macaroni-and-cheese-recipe",
+  "title": "3-Ingredient Stovetop Macaroni and Cheese Recipe",
+  "servings": 2,
   "image": "../images/3ingredient-stovetop-macaroni-and-cheese-recipe.jpg",
   "rating": 8,
   "notes": [

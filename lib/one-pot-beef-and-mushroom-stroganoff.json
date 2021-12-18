@@ -1,21 +1,36 @@
 {
-  "title": "One Pot Beef and Mushroom Stroganoff",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "20 minutes"
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "30 minutes"
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "one-pot-beef-and-mushroom-stroganoff",
+  "title": "One Pot Beef and Mushroom Stroganoff",
+  "servings": 4,
   "image": "../images/one-pot-beef-and-mushroom-stroganoff.jpg",
   "rating": 7,
   "notes": [

@@ -1,6 +1,35 @@
 {
-  "title": "Charred Corn and Zucchini Salad",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "charred-corn-and-zucchini-salad",
+  "title": "Charred Corn and Zucchini Salad",
   "image": "../images/charred-corn-and-zucchini-salad.jpg",
   "rating": 7,
   "notes": [
@@ -31,19 +60,5 @@
     "Season the vegetables with a couple generous pinches of salt and pepper, then toss to combine. Finally, crumble the feta over top and gently toss one more time to combine. Serve immediately or refrigerate for later. This salad can be served slightly warm or cold."
   ],
   "createdDate": "7/11/2020",
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "30 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "40 minutes"
-    }
-  ]
+  "servings": 4
 }

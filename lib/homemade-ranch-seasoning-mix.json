@@ -1,21 +1,27 @@
 {
-  "title": "Homemade Ranch Seasoning Mix",
-  "servings": 1,
   "time": [
     {
       "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": " minutes"
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "5 minutes"
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "homemade-ranch-seasoning-mix",
+  "title": "Homemade Ranch Seasoning Mix",
+  "servings": 1,
   "image": "../images/homemade-ranch-seasoning-mix.jpg",
   "rating": 7,
   "notes": [

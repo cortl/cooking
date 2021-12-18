@@ -1,21 +1,36 @@
 {
-  "title": "Moroccan Spiced Sweet Potatoes",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "30 minutes"
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "40 minutes"
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "moroccan-spiced-sweet-potatoes",
+  "title": "Moroccan Spiced Sweet Potatoes",
+  "servings": 4,
   "image": "../images/moroccan-spiced-sweet-potatoes.jpg",
   "rating": 7,
   "notes": [

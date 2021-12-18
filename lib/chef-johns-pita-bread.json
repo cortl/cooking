@@ -1,6 +1,52 @@
 {
-  "title": "Chef John's Pita Bread",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Proof",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        },
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "hours"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "chef-johns-pita-bread",
+  "title": "Chef John's Pita Bread",
   "rating": 7,
   "notes": [
     "Really good, probably used too much oil and my pitas didn't rise ended more like flatbread might want to try some seriouseats ones https://www.seriouseats.com/recipes/2015/08/perfect-pita-bread-recipe.html"
@@ -32,23 +78,5 @@
     "Sprinkle a small amount of flour on a work surface and top of a dough ball; gently pat dough ball flat with your fingers, forming a flat, round bread about 1/4 inch thick. Let dough round rest for 5 minutes. Repeat with remaining dough balls.                            ",
     "Brush a cast-iron skillet with remaining 3/4 teaspoon olive oil and place over medium-high heat. Lay pita bread into hot skillet and cook until bread begins to puff up and bottom has brown spots and blisters, about 3 minutes. Flip, cook 2 more minutes, and flip back onto original side to cook for about 30 more seconds. Pita bread will begin to puff up and fill with hot air. Stack cooked breads on a plate; when cool enough to handle, break breads in half and open the pocket inside for stuffing.                            "
   ],
-  "servings": 8,
-  "time": [
-    {
-      "label": "prep",
-      "units": "30 mins"
-    },
-    {
-      "label": "cook",
-      "units": "10 mins"
-    },
-    {
-      "label": "additional",
-      "units": "2 hrs 35 mins"
-    },
-    {
-      "label": "total",
-      "units": "3 hrs 15 mins"
-    }
-  ]
+  "servings": 8
 }

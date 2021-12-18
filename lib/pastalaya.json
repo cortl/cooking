@@ -1,6 +1,35 @@
 {
-  "title": "Pastalaya",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "pastalaya",
+  "title": "Pastalaya",
   "image": "../images/pastalaya.jpg",
   "rating": 6,
   "notes": [
@@ -37,19 +66,5 @@
     "While the pasta is simmering, chop the parsley and slice the green onions.",
     "Turn off the heat and stir in the half & half or cream. Stir in most of the chopped parsley and green onions, reserving some to sprinkle over top of each bowl. Serve hot."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "35 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "45 minutes"
-    }
-  ]
+  "servings": 6
 }

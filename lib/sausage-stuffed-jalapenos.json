@@ -1,6 +1,35 @@
 {
-  "title": "Sausage Stuffed Jalapenos",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "sausage-stuffed-jalapenos",
+  "title": "Sausage Stuffed Jalapenos",
   "rating": 5,
   "notes": [
     "fairly plain, meh"
@@ -24,19 +53,5 @@
     "In a bowl, mix the sausage, cream cheese, and Parmesan cheese. Spoon about 1 tablespoon sausage mixture into each jalapeno half. Arrange stuffed halves in baking dishes.                            ",
     "Bake 20 minutes in the preheated oven, until bubbly and lightly browned. Serve with Ranch dressing.                            "
   ],
-  "servings": 12,
-  "time": [
-    {
-      "label": "prep",
-      "units": "25 mins"
-    },
-    {
-      "label": "cook",
-      "units": "20 mins"
-    },
-    {
-      "label": "total",
-      "units": "45 mins"
-    }
-  ]
+  "servings": 12
 }

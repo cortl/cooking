@@ -1,6 +1,35 @@
 {
-  "title": "Easy Sesame Chicken",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "easy-sesame-chicken",
+  "title": "Easy Sesame Chicken",
   "image": "../images/easy-sesame-chicken.jpg",
   "rating": 7,
   "notes": [
@@ -48,19 +77,5 @@
     "Once the chicken is cooked through and golden brown on all sides, pour the sauce over top. Toss the chicken to coat in the sauce. As the sauce comes up to a simmer, it will begin to thicken. Continue to gently stir the chicken in the sauce until it has thickened, then turn off the heat.",
     "Serve the chicken over a bed of rice and sprinkle the sliced green onions over top."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "25 minutes"
-    }
-  ]
+  "servings": 4
 }

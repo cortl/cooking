@@ -1,40 +1,45 @@
 {
-    "title": "Crispy Whole Wheat Graham Crackers",
-    "rating": 9,
-    "slug": "bravetart-graham-crackers",
-    "servings": 2,
-    "time": [
+  "time": [
+    {
+      "label": "Active",
+      "units": [
         {
-            "label": "Active Time",
-            "units": "45 Minutes"
+          "measurement": 45,
+          "label": "minutes"
         }
-    ],
-    "notes": [
-        "Would definitely bake this one less than 20 minutes, around 18 was great"
-    ],
-    "createdDate": "02/13/2021",
-    "source": "https://www.epicurious.com/recipes/food/views/crispy-whole-wheat-graham-crackers",
-    "image": "../images/bravetart-graham-crackers.jpg",
-    "ingredients": [
-        {
-            "category": "All",
-            "items": [
-                "3/4 cup (5 1/2 ounces) sugar",
-                "1 1/2 teaspoons baking soda",
-                "1/2 teaspoon Diamond Crystal kosher salt (half as much if iodized)",
-                "1/4 teaspoon ground cinnamon",
-                "1 tablespoon vanilla extract",
-                "1/4 cup (3 ounces) golden syrup, such as Lyle’s, sorghum, unsulfured molasses (not blackstrap), or honey",
-                "1 1/2 sticks (6 ounces) unsalted butter, solid but creamy—about 70°F",
-                "2 1/2 cups (12 ounces) whole wheat flour (not stone-ground or white whole wheat), plus more for dusting"
-            ]
-        }
-    ],
-    "instructions": [
-        "Make the dough: Combine sugar, baking soda, salt, cinnamon, vanilla, golden syrup, and butter in the bowl of a stand mixer fitted with a paddle attachment. Mix on low speed to moisten, then increase to medium and beat until somewhat light, about 3 minutes. Reduce speed to low, add whole wheat flour, and mix to form a soft dough.",
-        "Scrape dough onto a work surface and knead gently to form a ball. Divide in half. Use immediately or wrap in plastic and refrigerate for up to 1 week; soften for 30 minutes at room temperature, then knead on a bare work surface until pliable and smooth.",
-        "Roll and bake the dough: Adjust oven rack to middle position and preheat to 350°F. Generously flour a large sheet of parchment and place one portion of dough in the center. Pat into a 5-by-6-inch rectangle, sprinkle with flour, flip, and dust again. Working from the center out and adding more flour as needed, roll the dough until roughly 15-by-11 inches and very thin. Slide onto an aluminum baking sheet and brush away excess flour. Repeat with remaining dough.",
-        "For grocery store look-alikes, score each sheet of dough into twelve 2 1/4-by-4 3/4-inch rectangles and dock with a bamboo skewer or the narrow end of a chopstick (a strictly cosmetic procedure). Otherwise, leave the dough uncut.",
-        "Bake until crackers are tawny brown and firm, though your fingertip may leave a faint indentation, about 20 minutes. Immediately cut along the pre-scored lines with a knife, or cut into free-form shapes using a pizza wheel. Cool to room temperature directly on the baking sheets. Enjoy scrap pieces as a snack, or pulverize into crumbs. The grahams can be stored in an airtight container for up to 3 weeks at room temperature or frozen for up to 3 months."
-    ]
+      ]
+    }
+  ],
+  "slug": "bravetart-graham-crackers",
+  "title": "Crispy Whole Wheat Graham Crackers",
+  "rating": 9,
+  "servings": 2,
+  "notes": [
+    "Would definitely bake this one less than 20 minutes, around 18 was great"
+  ],
+  "createdDate": "02/13/2021",
+  "source": "https://www.epicurious.com/recipes/food/views/crispy-whole-wheat-graham-crackers",
+  "image": "../images/bravetart-graham-crackers.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3/4 cup (5 1/2 ounces) sugar",
+        "1 1/2 teaspoons baking soda",
+        "1/2 teaspoon Diamond Crystal kosher salt (half as much if iodized)",
+        "1/4 teaspoon ground cinnamon",
+        "1 tablespoon vanilla extract",
+        "1/4 cup (3 ounces) golden syrup, such as Lyle’s, sorghum, unsulfured molasses (not blackstrap), or honey",
+        "1 1/2 sticks (6 ounces) unsalted butter, solid but creamy—about 70°F",
+        "2 1/2 cups (12 ounces) whole wheat flour (not stone-ground or white whole wheat), plus more for dusting"
+      ]
+    }
+  ],
+  "instructions": [
+    "Make the dough: Combine sugar, baking soda, salt, cinnamon, vanilla, golden syrup, and butter in the bowl of a stand mixer fitted with a paddle attachment. Mix on low speed to moisten, then increase to medium and beat until somewhat light, about 3 minutes. Reduce speed to low, add whole wheat flour, and mix to form a soft dough.",
+    "Scrape dough onto a work surface and knead gently to form a ball. Divide in half. Use immediately or wrap in plastic and refrigerate for up to 1 week; soften for 30 minutes at room temperature, then knead on a bare work surface until pliable and smooth.",
+    "Roll and bake the dough: Adjust oven rack to middle position and preheat to 350°F. Generously flour a large sheet of parchment and place one portion of dough in the center. Pat into a 5-by-6-inch rectangle, sprinkle with flour, flip, and dust again. Working from the center out and adding more flour as needed, roll the dough until roughly 15-by-11 inches and very thin. Slide onto an aluminum baking sheet and brush away excess flour. Repeat with remaining dough.",
+    "For grocery store look-alikes, score each sheet of dough into twelve 2 1/4-by-4 3/4-inch rectangles and dock with a bamboo skewer or the narrow end of a chopstick (a strictly cosmetic procedure). Otherwise, leave the dough uncut.",
+    "Bake until crackers are tawny brown and firm, though your fingertip may leave a faint indentation, about 20 minutes. Immediately cut along the pre-scored lines with a knife, or cut into free-form shapes using a pizza wheel. Cool to room temperature directly on the baking sheets. Enjoy scrap pieces as a snack, or pulverize into crumbs. The grahams can be stored in an airtight container for up to 3 weeks at room temperature or frozen for up to 3 months."
+  ]
 }

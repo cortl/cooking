@@ -1,6 +1,35 @@
 {
-  "title": "Smoky Roasted Sausage and Vegetables",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "smoky-roasted-sausage-and-vegetables",
+  "title": "Smoky Roasted Sausage and Vegetables",
   "image": "../images/smoky-roasted-sausage-and-vegetables.jpg",
   "rating": 5,
   "notes": [
@@ -40,19 +69,5 @@
     "After the sausage and vegetables have finished roasting, add half of the remaining vinaigrette and toss to coat. Season with an extra pinch of salt and pepper if needed.",
     "To serving, add about 3/4 cup rice to each bowl or container along with 1/4 of the roasted sausage and vegetables. Drizzle another spoonful of the vinaigrette over top, then finish with a sprinkle of fresh parsley."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "40 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "55 minutes"
-    }
-  ]
+  "servings": 4
 }

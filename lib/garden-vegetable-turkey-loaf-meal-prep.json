@@ -1,6 +1,17 @@
 {
-  "title": "Garden Vegetable Turkey Loaf Meal Prep",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
   "slug": "garden-vegetable-turkey-loaf-meal-prep",
+  "title": "Garden Vegetable Turkey Loaf Meal Prep",
   "image": "../images/garden-vegetable-turkey-loaf-meal-prep.jpg",
   "rating": 6,
   "notes": [
@@ -9,12 +20,6 @@
   ],
   "createdDate": "08/18/2019",
   "source": "https://www.budgetbytes.com/garden-vegetable-turkey-loaf-meal-prep/",
-  "time": [
-    {
-      "label": "Total time",
-      "units": "1 hour"
-    }
-  ],
   "ingredients": [
     {
       "category": "Meatloaf",

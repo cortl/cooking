@@ -1,94 +1,118 @@
 {
-    "title": "Peruvian Chicken Bowls",
-    "rating": 9,
-    "slug": "peruvian-chicken-bowls",
-    "servings": 4,
-    "time": [
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
         {
-            "label": "Prep time",
-            "units": "15 minutes"
-        },
-        {
-            "label": "Cook time",
-            "units": "30 minutes"
-        },
-        {
-            "label": "Inactive time",
-            "units": "45 minutes"
-        },
-        {
-            "label": "Total time",
-            "units": "1 hour 30 minutes"
+          "measurement": 15,
+          "label": "minutes"
         }
-    ],
-    "notes": [],
-    "createdDate": "01/31/2020",
-    "source": "https://www.reddit.com/r/recipes/comments/l6hxl6/peruvian_chicken_bowls_with_butterroasted_potatoes/",
-    "image": "../images/peruvian-chicken-bowls.jpg",
-    "ingredients": [
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
         {
-            "category": "Peruvian Chicken",
-            "items": [
-                "2 pounds boneless, skin-on chicken thighs or boneless, skinless",
-                "1 tablespoon extra virgin olive oil",
-                "1 mandarin juiced (or use 1 lime)",
-                "1 tablespoon Aji rocoto optional",
-                "1 tablespoon wild mountain cumin or use ground cumin",
-                "2 teaspoons paprika",
-                "2 teaspoons smoked paprika",
-                "2 teaspoons garlic powder",
-                "1 teaspoon salt",
-                "1 teaspoon freshly ground black pepper",
-                "½ teaspoon freshly ground white pepper optional",
-                "½ teaspoon Mexican oregano",
-                "2 teaspoons neutral oil for frying"
-            ]
-        },
-        {
-            "category": "Butter-Basted Potatoes",
-            "items": [
-                "2 russet or Yukon gold potatoes peeled and cut into thick round cylinders, about 2 inches thick",
-                "2 tablespoons butter",
-                "Salt to taste"
-            ]
-        },
-        {
-            "category": "Avocado Salad",
-            "items": [
-                "1 avocado",
-                "1 Roma tomato diced",
-                "1 jalapeño trimmed and minced",
-                "¼ cup fresh cilantro leaves minced",
-                "1 lime juiced",
-                "Salt and pepper to taste"
-            ]
-        },
-        {
-            "category": "Rice",
-            "items": [
-                "1 cup uncooked white rice",
-                "2 cups water",
-                "1 tablespoon butter optional",
-                "Salt to taste"
-            ]
-        },
-        {
-            "category": "For Serving",
-            "items": [
-                "Aji verde sauce",
-                "Minced cilantro"
-            ]
+          "measurement": 30,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "In a large bowl, combine all the ingredients for the marinade and stir until well-combined. Add the chicken and toss to coat. Transfer to the refrigerator for 30 minutes as you prepare the rest of the recipe.",
-        "Preheat oven to 425ºF. Cover the peeled and cut potatoes with water in the medium pot. Add salt and bring to a boil. Cook until the potatoes are almost cooked through, about 8-9 minutes. Drain and transfer to a baking sheet to dry. Sprinkle with salt.",
-        "While the potatoes parboil, prepare the avocado salad. Peel and remove the seed from the avocado. Dice the avocado and transfer to a bowl with the lime juice, minced jalapeño, cilantro, and salt and pepper. Do not add the tomato until ready to serve.",
-        "Rinse out the pot used to cook the potatoes. Combine the white rice with water, butter, and salt and bring to a boil. Reduce heat, cover, and simmer for 15 minutes. Turn off the heat and allow the rice to rest for 5-10 minutes.",
-        "Melt the butter in a small bowl and use a brush to brush the tops and sides of the potatoes on the baking sheet. Transfer to the oven for 25-30 minutes or until they are fork-tender and golden brown. Once the potatoes start to turn golden brown, turn on the broiler for 3-5 minutes until the tops are crispy and well-browned. Remove from the oven and keep warm.",
-        "While the potatoes are roasting, prepare the chicken. Heat the neutral oil in a large ovenproof skillet over medium-high heat until very hot. Add the chicken in an even layer–cooking in batches if needed–skin-side down. Cook without moving for 5 minutes until the skin is very crispy and well-browned. Transfer to a plate and brown the remaining chicken.",
-        "Nestle all the chicken thighs, skin-side up, in the skillet. It's okay if the skillet is a bit crowded since you've already browned the skin. Transfer to the oven with the potatoes and roast for 15 minutes until completely an instant-read thermometer reaches 165ºF.",
-        "You may broil the tops with the potatoes, as well, if you'd like to further crisp up the skin. Remove the chicken from the oven and transfer it to the stove top. Turn off the heat.",
-        "Right before serving, stir the tomatoes into the avocado salad. Season once more with salt to taste. Slice up the chicken thighs. Divide the cooked rice between shallow bowls and pile the chicken on top. Spoon the avocado salad on the other side of the bowl and arrange one or two butter-roasted potatoes on each plate. Garnish with more minced cilantro, if you like and a spoonful of aji verde."
-    ]
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "peruvian-chicken-bowls",
+  "title": "Peruvian Chicken Bowls",
+  "rating": 9,
+  "servings": 4,
+  "notes": [],
+  "createdDate": "01/31/2020",
+  "source": "https://www.reddit.com/r/recipes/comments/l6hxl6/peruvian_chicken_bowls_with_butterroasted_potatoes/",
+  "image": "../images/peruvian-chicken-bowls.jpg",
+  "ingredients": [
+    {
+      "category": "Peruvian Chicken",
+      "items": [
+        "2 pounds boneless, skin-on chicken thighs or boneless, skinless",
+        "1 tablespoon extra virgin olive oil",
+        "1 mandarin juiced (or use 1 lime)",
+        "1 tablespoon Aji rocoto optional",
+        "1 tablespoon wild mountain cumin or use ground cumin",
+        "2 teaspoons paprika",
+        "2 teaspoons smoked paprika",
+        "2 teaspoons garlic powder",
+        "1 teaspoon salt",
+        "1 teaspoon freshly ground black pepper",
+        "½ teaspoon freshly ground white pepper optional",
+        "½ teaspoon Mexican oregano",
+        "2 teaspoons neutral oil for frying"
+      ]
+    },
+    {
+      "category": "Butter-Basted Potatoes",
+      "items": [
+        "2 russet or Yukon gold potatoes peeled and cut into thick round cylinders, about 2 inches thick",
+        "2 tablespoons butter",
+        "Salt to taste"
+      ]
+    },
+    {
+      "category": "Avocado Salad",
+      "items": [
+        "1 avocado",
+        "1 Roma tomato diced",
+        "1 jalapeño trimmed and minced",
+        "¼ cup fresh cilantro leaves minced",
+        "1 lime juiced",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "category": "Rice",
+      "items": [
+        "1 cup uncooked white rice",
+        "2 cups water",
+        "1 tablespoon butter optional",
+        "Salt to taste"
+      ]
+    },
+    {
+      "category": "For Serving",
+      "items": [
+        "Aji verde sauce",
+        "Minced cilantro"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine all the ingredients for the marinade and stir until well-combined. Add the chicken and toss to coat. Transfer to the refrigerator for 30 minutes as you prepare the rest of the recipe.",
+    "Preheat oven to 425ºF. Cover the peeled and cut potatoes with water in the medium pot. Add salt and bring to a boil. Cook until the potatoes are almost cooked through, about 8-9 minutes. Drain and transfer to a baking sheet to dry. Sprinkle with salt.",
+    "While the potatoes parboil, prepare the avocado salad. Peel and remove the seed from the avocado. Dice the avocado and transfer to a bowl with the lime juice, minced jalapeño, cilantro, and salt and pepper. Do not add the tomato until ready to serve.",
+    "Rinse out the pot used to cook the potatoes. Combine the white rice with water, butter, and salt and bring to a boil. Reduce heat, cover, and simmer for 15 minutes. Turn off the heat and allow the rice to rest for 5-10 minutes.",
+    "Melt the butter in a small bowl and use a brush to brush the tops and sides of the potatoes on the baking sheet. Transfer to the oven for 25-30 minutes or until they are fork-tender and golden brown. Once the potatoes start to turn golden brown, turn on the broiler for 3-5 minutes until the tops are crispy and well-browned. Remove from the oven and keep warm.",
+    "While the potatoes are roasting, prepare the chicken. Heat the neutral oil in a large ovenproof skillet over medium-high heat until very hot. Add the chicken in an even layer–cooking in batches if needed–skin-side down. Cook without moving for 5 minutes until the skin is very crispy and well-browned. Transfer to a plate and brown the remaining chicken.",
+    "Nestle all the chicken thighs, skin-side up, in the skillet. It's okay if the skillet is a bit crowded since you've already browned the skin. Transfer to the oven with the potatoes and roast for 15 minutes until completely an instant-read thermometer reaches 165ºF.",
+    "You may broil the tops with the potatoes, as well, if you'd like to further crisp up the skin. Remove the chicken from the oven and transfer it to the stove top. Turn off the heat.",
+    "Right before serving, stir the tomatoes into the avocado salad. Season once more with salt to taste. Slice up the chicken thighs. Divide the cooked rice between shallow bowls and pile the chicken on top. Spoon the avocado salad on the other side of the bowl and arrange one or two butter-roasted potatoes on each plate. Garnish with more minced cilantro, if you like and a spoonful of aji verde."
+  ]
 }

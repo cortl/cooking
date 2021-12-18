@@ -1,19 +1,24 @@
 {
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "chicken-tinga",
   "title": "Chicken Tinga",
   "rating": 8,
-  "slug": "chicken-tinga",
   "notes": [
     "Use avocado crema with this + corn + black beans + homemade tortillas"
   ],
   "createdDate": "06/13/2020",
   "source": "https://fitmencook.com/chicken-tinga-tacos/",
   "image": "../images/chicken-tinga.jpg",
-  "time": [
-    {
-      "label": "Total time",
-      "units": "35 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

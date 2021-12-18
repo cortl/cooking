@@ -1,6 +1,35 @@
 {
-  "title": "Smoky White Bean Shakshuka",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "smoky-white-bean-shakshuka",
+  "title": "Smoky White Bean Shakshuka",
   "image": "../images/smoky-white-bean-shakshuka.jpg",
   "rating": 7,
   "notes": [
@@ -36,19 +65,5 @@
     "Drain the white beans, add them to the skillet, then stir to combine. Allow the skillet to return to a simmer. Simmer for 2-3 minutes more.",
     "Crack four eggs into the skillet, then place a lid on top and let them simmer for 5 minutes, or until the whites are set but the yolks are still soft. Top the skillet with the crumbled feta and chopped parsley."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ]
+  "servings": 4
 }

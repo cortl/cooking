@@ -1,6 +1,35 @@
 {
-  "title": "Sweet and Spicy Glazed Chicken Thighs",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "sweet-and-spicy-glazed-chicken-thighs",
+  "title": "Sweet and Spicy Glazed Chicken Thighs",
   "image": "../images/sweet-and-spicy-glazed-chicken-thighs.jpg",
   "rating": 7,
   "notes": [
@@ -27,19 +56,5 @@
     "Place the chicken thighs on a cutting board and pat dry with a paper towel. Sprinkle the brown sugar mixture over the chicken, coating both sides liberally.",
     "Heat a large skillet over medium. Once hot, add the olive oil and swirl to coat. Add the coated chicken and cook for about 5-7 minutes on each side, or until cooked through and the brown sugar has turned into a deep brown glaze. Serve hot."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "25 minutes"
-    }
-  ]
+  "servings": 4
 }

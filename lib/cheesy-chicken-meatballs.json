@@ -1,15 +1,20 @@
 {
-  "title": "Cheesy Chicken Meatballs",
-  "rating": 6,
-  "slug": "cheesy-chicken-meatballs",
-  "notes": [
-    "Meatballs are kinda lame, should add an egg for richness.  Pasta that goes with this makes way too much pasta"
-  ],
   "time": [
     {
-      "label": "Total time",
-      "units": "40 minutes"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
     }
+  ],
+  "slug": "cheesy-chicken-meatballs",
+  "title": "Cheesy Chicken Meatballs",
+  "rating": 6,
+  "notes": [
+    "Meatballs are kinda lame, should add an egg for richness.  Pasta that goes with this makes way too much pasta"
   ],
   "createdDate": "07/28/2019",
   "source": "https://fitmencook.com/cheesy-chicken-meatballs-recipe/",

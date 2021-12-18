@@ -1,21 +1,36 @@
 {
-  "title": "Slow Cooker Chili Rubbed Pulled Pork",
-  "servings": 6,
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": " minutes"
+      "units": [
+        {
+          "measurement": 4,
+          "label": "hours"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "slow-cooker-chili-rubbed-pulled-pork",
+  "title": "Slow Cooker Chili Rubbed Pulled Pork",
+  "servings": 6,
   "image": "../images/slow-cooker-chili-rubbed-pulled-pork.jpg",
   "rating": 8,
   "notes": [

@@ -36,9 +36,12 @@ const schema = Joi.object({
         items: Joi.array().items(Joi.string())
     }),
     time: Joi.array().items({
-        label: Joi.string(),
-        units: Joi.string()
-    }),
+        label: Joi.string().valid('Prep', 'Cook', 'Proof', 'Bulk Ferment', 'Caramelize', 'Broil', 'Marinate', 'Active', 'Total', 'Inactive').required(),
+        units: Joi.array().items({
+            measurement: Joi.number().greater(0).required(),
+            label: Joi.string().valid('day', 'days', 'hour', 'hours', 'minute', 'minutes').required()
+        }).required()
+    }).required(),
     image: Joi.file()
 })
 

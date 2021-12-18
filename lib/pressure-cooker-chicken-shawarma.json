@@ -1,6 +1,44 @@
 {
-  "title": "Pressure Cooker Chicken Shawarma",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "pressure-cooker-chicken-shawarma",
+  "title": "Pressure Cooker Chicken Shawarma",
   "rating": 5,
   "image": "../images/pressure-cooker-chicken-shawarma.jpg",
   "notes": [
@@ -34,23 +72,5 @@
     "Lock the lid in place. Select high pressure and 10 minutes cook time. When beep sounds turn pressure cooker off and use a quick release to release pressure. When valve drops carefully remove lid, tilting away from you to allow steam to disperse.",
     "To serve, wrap the chicken in the lettuce leaves and serve with the tzatziki sauce. Or, serve on a warm pita."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep Time",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook Time",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Additional Time",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Total Time",
-      "units": "20 minutes"
-    }
-  ]
+  "servings": 4
 }

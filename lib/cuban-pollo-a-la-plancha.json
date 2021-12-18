@@ -1,17 +1,31 @@
 {
-  "title": "Cuban-Style Pollo a la Plancha",
-  "servings": 4,
   "time": [
     {
-      "label": "Active time",
-      "units": "45 minutes"
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "Total time",
-      "units": "1 hour 15 minutes"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "cuban-pollo-a-la-plancha",
+  "title": "Cuban-Style Pollo a la Plancha",
+  "servings": 4,
   "image": "../images/cuban-pollo-a-la-plancha.jpg",
   "rating": 7,
   "notes": [

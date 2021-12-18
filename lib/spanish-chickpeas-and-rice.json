@@ -1,21 +1,36 @@
 {
-  "title": "Spanish Chickpeas and Rice",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "40 minutes"
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "50 minutes"
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "spanish-chickpeas-and-rice",
+  "title": "Spanish Chickpeas and Rice",
+  "servings": 4,
   "image": "../images/spanish-chickpeas-and-rice.jpg",
   "rating": 8,
   "notes": [

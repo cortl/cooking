@@ -1,19 +1,24 @@
 {
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "orange-chili-sauce",
   "title": "Orange Chili Sauce",
   "rating": 6,
-  "slug": "orange-chili-sauce",
   "notes": [
     "A little bland, but a little bit goes a long way and should easy to use later"
   ],
   "createdDate": "07/28/2019",
   "source": "https://fitmencook.com/chili-sauce-recipe/",
   "image": "../images/orange-chili-sauce.jpg",
-  "time": [
-    {
-      "label": "Total",
-      "units": "15 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

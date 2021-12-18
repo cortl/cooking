@@ -1,15 +1,20 @@
 {
-  "title": "Quick Beef Pepper Steak Meal Prep",
-  "rating": 5,
-  "slug": "beef-pepper-steak-meal-prep",
-  "notes": [
-    "Steak and peppers are good, I forgot how nasty arrowroot starch is lol"
-  ],
   "time": [
     {
-      "label": "Total time",
-      "units": "20 minutes"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
     }
+  ],
+  "slug": "beef-pepper-steak-meal-prep",
+  "title": "Quick Beef Pepper Steak Meal Prep",
+  "rating": 5,
+  "notes": [
+    "Steak and peppers are good, I forgot how nasty arrowroot starch is lol"
   ],
   "createdDate": "06/16/2020",
   "source": "https://fitmencook.com/beef-pepper-steak/",

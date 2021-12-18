@@ -1,21 +1,36 @@
 {
-  "title": "Balsamic Roasted Mushrooms with Herby Kale Mashed Potatoes",
-  "servings": 4,
   "time": [
     {
       "label": "Prep",
-      "units": "25 minutes"
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "10 minutes"
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "balsamic-roasted-mushrooms-with-herby-kale-mashed-potatoes",
+  "title": "Balsamic Roasted Mushrooms with Herby Kale Mashed Potatoes",
+  "servings": 4,
   "image": "../images/balsamic-roasted-mushrooms-with-herby-kale-mashed-potatoes.jpg",
   "rating": 6,
   "notes": [

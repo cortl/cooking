@@ -1,17 +1,31 @@
 {
-  "title": "The Best Crispy Roast Potatoes Ever Recipe",
-  "servings": 6,
   "time": [
     {
-      "label": "Active time",
-      "units": "30 minutes"
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "Total time",
-      "units": "1 hour 15 minutes"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "the-best-crispy-roast-potatoes-ever-recipe",
+  "title": "The Best Crispy Roast Potatoes Ever Recipe",
+  "servings": 6,
   "image": "../images/the-best-crispy-roast-potatoes-ever.jpg",
   "rating": 10,
   "notes": [

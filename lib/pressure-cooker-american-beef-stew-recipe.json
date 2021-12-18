@@ -1,6 +1,30 @@
 {
-  "title": "Pressure Cooker American Beef Stew Recipe",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "pressure-cooker-american-beef-stew-recipe",
+  "title": "Pressure Cooker American Beef Stew Recipe",
   "image": "../images/pressure-cooker-american-beef-stew-recipe.jpg",
   "rating": 9,
   "notes": [
@@ -45,15 +69,5 @@
     "Using tongs, fish out and discard carrot, celery, thyme, bay leaves, onion, and garlic. Add potatoes and reserved sautéed mushrooms, pearl onions, and carrots to stew, reseal cooker, bring to high pressure, and cook 15 minutes longer. Rapidly release pressure.",
     "Stir in peas. Season to taste with salt and pepper if necessary. Serve immediately, or let cool overnight or for up to 5 days and reheat to serve."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Active time",
-      "units": "45 minutes"
-    },
-    {
-      "label": "Total time",
-      "units": "1 1/2 hours"
-    }
-  ]
+  "servings": 6
 }

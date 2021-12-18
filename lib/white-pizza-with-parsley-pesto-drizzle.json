@@ -1,6 +1,35 @@
 {
-  "title": "White Pizza with Parsley Pesto Drizzle",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "white-pizza-with-parsley-pesto-drizzle",
+  "title": "White Pizza with Parsley Pesto Drizzle",
   "image": "../images/white-pizza-with-parsley-pesto-drizzle.jpg",
   "rating": 7,
   "notes": [
@@ -35,19 +64,5 @@
     "Arrange the tomato slices evenly over the pizza dough, then top with torn slices of mozzarella. ",
     "Bake the pizza in the fully preheated 500ºF oven for 10 minutes, or just until the outer crust is golden brown and the cheese is melted, but not browned. After removing the pizza from the oven, drizzle the parsley pesto over top, slice into eight pieces, and serve."
   ],
-  "servings": 8,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "30 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "40 minutes"
-    }
-  ]
+  "servings": 8
 }

@@ -1,6 +1,35 @@
 {
-  "title": "Easy Homemade Orange Chicken",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "easy-homemade-orange-chicken",
+  "title": "Easy Homemade Orange Chicken",
   "image": "../images/easy-homemade-orange-chicken.jpg",
   "rating": 8,
   "notes": [
@@ -38,19 +67,5 @@
     "Turn the heat off under the skillet and pour on the prepared orange sauce. Stir to coat the chicken pieces in sauce.",
     "Serve the chicken and sauce over cooked rice, garnished with sliced green onions and any left over orange zest."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "25 minutes"
-    }
-  ]
+  "servings": 4
 }

@@ -1,26 +1,41 @@
 {
-  "title": "Smoky Roasted Breakfast Potatoes",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
   "slug": "smoky-roasted-breakfast-potatoes",
+  "title": "Smoky Roasted Breakfast Potatoes",
   "image": "../images/smoky-roasted-breakfast-potatoes.jpg",
   "rating": 1,
   "notes": [
     "test"
   ],
   "source": "https://www.budgetbytes.com/smoky-roasted-breakfast-potatoes/",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "50 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "1 hour"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

@@ -1,19 +1,24 @@
 {
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 26,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "slug": "no-knead-sourdough-bread",
   "title": "No Knead Sourdough Bread",
   "rating": 9,
-  "slug": "no-knead-sourdough-bread",
   "notes": [
     "Be sure to read the instructions once or twice through first + watch the full video"
   ],
   "createdDate": "06/17/2020",
   "source": "https://www.youtube.com/watch?v=eod5cUxAHRM",
   "image": "../images/no-knead-sourdough-bread.jpg",
-  "time": [
-    {
-      "label": "Total",
-      "units": "26 hours"
-    }
-  ],
   "ingredients": [
     {
       "category": "Levain",

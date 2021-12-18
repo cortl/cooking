@@ -1,6 +1,35 @@
 {
-  "title": "Easy Oven Baked Fish with Tomatoes",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "easy-oven-baked-fish-with-tomatoes",
+  "title": "Easy Oven Baked Fish with Tomatoes",
   "image": "../images/easy-oven-baked-fish-with-tomatoes.jpg",
   "rating": 7,
   "notes": [
@@ -29,19 +58,5 @@
     "Spread about 1/3 of the tomato mixture in the bottom of a casserole dish big enough to fit all of your fillets without overlapping. Lay the fish fillets over the tomato mixture, then spoon the rest of the tomatoes over top, completely covering the fish.",
     "Bake the fish for about 15 minutes, or until the internal temperature reaches 145º and the fish easily flakes. Serve hot, with a sprinkle of chopped fresh parsley on top."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "25 minutes"
-    }
-  ]
+  "servings": 4
 }

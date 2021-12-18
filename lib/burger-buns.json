@@ -1,70 +1,85 @@
 {
-    "title": "Burger Buns",
-    "rating": 9,
-    "slug": "burger-buns",
-    "servings": 6,
-    "time": [
+  "time": [
+    {
+      "label": "Active",
+      "units": [
         {
-            "label": "Active Time",
-            "units": "20 minutes"
-        },
-        {
-            "label": "First Proof",
-            "units": "1 1/2 - 2 hours"
-        },
-        {
-            "label": "Second Proof",
-            "units": "1 1/2 - 2 hours"
+          "measurement": 20,
+          "label": "minutes"
         }
-    ],
-    "notes": [
-        ""
-    ],
-    "createdDate": "01/09/2021",
-    "source": "https://www.youtube.com/watch?v=gTGSUYMu6Ns",
-    "image": "../images/burger-buns.png",
-    "ingredients": [
+      ]
+    },
+    {
+      "label": "Proof",
+      "units": [
         {
-            "category": "Tangzhong",
-            "items": [
-                "2 tablespoons (20g) bread flour",
-                "2 tablespoons (27g) water",
-                "4 tablespoons (60g) whole milk"
-            ]
-        },
-        {
-            "category": "Buns",
-            "items": [
-                "1/2 cup(120g) whole milk @ 95f (30c)",
-                "1 tablespoons (9g) instant yeast",
-                "2.5 cups (320g) Bread flour",
-                "1 teaspoon (7g) fine sea salt",
-                "2.5 tablespoons (35g) granulated sugar",
-                "1 whole egg",
-                "1 egg yolk",
-                "3 tablespoons (42g) unsalted butter, softened"
-            ]
-        },
-        {
-            "category": "Egg Wash",
-            "items": [
-                "1 whole egg",
-                "splash of whole milk"
-            ]
+          "measurement": 2,
+          "label": "hours"
         }
-    ],
-    "instructions": [
-        "First make the Tangzong. Combine 60g of whole milk, 27g of water, 20g bread flour, in sauce pot. Place on medium heat until it becomes a paste.",
-        "Take 120g of whole milk heated to about 95F add 9 grams instant yeast. let sit for 8 min.",
-        "Combine in bowl 320g bread flour, 35g of sugar, 7g fine sea salt, and wisk until incorperated. ",
-        "With stand mixer running on low speed with the dough hook, slowly add yeast and milk mixture and Tangzon paste to bowl followed by 1 whole egg and 1 egg yolk (room temp) ",
-        "Increase stand mixer to medium low until Incorporated. ",
-        "Once incorperated slowly add 42g of softened unsalted butter, kneed for 8 min.",
-        "Gently oil a bowl, take dough and pull in the sides. Place seem side down and create a boule and place it in bowl with damp towel for 1 1/2-2 hours and wait for it to double.",
-        "Take out dough and decompress air. Lightly flour surface and put your dough on the table and divide into 6 even pieces. 95g-105g each. ",
-        "Shape each section into a boule creating tension on the top.",
-        "Place balls on parchment paper far enough apart for rise. Cover and let rise for 1 1/2 to 2 hours or until it's doubled.",
-        "Create egg wash with one egg and a splash of milk. Cover top of buns with egg wash.",
-        "Bake at 375F for 16 to 18 min or until deep golden brown."
-    ]
+      ]
+    },
+    {
+      "label": "Proof",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "slug": "burger-buns",
+  "title": "Burger Buns",
+  "rating": 9,
+  "servings": 6,
+  "notes": [
+    ""
+  ],
+  "createdDate": "01/09/2021",
+  "source": "https://www.youtube.com/watch?v=gTGSUYMu6Ns",
+  "image": "../images/burger-buns.png",
+  "ingredients": [
+    {
+      "category": "Tangzhong",
+      "items": [
+        "2 tablespoons (20g) bread flour",
+        "2 tablespoons (27g) water",
+        "4 tablespoons (60g) whole milk"
+      ]
+    },
+    {
+      "category": "Buns",
+      "items": [
+        "1/2 cup(120g) whole milk @ 95f (30c)",
+        "1 tablespoons (9g) instant yeast",
+        "2.5 cups (320g) Bread flour",
+        "1 teaspoon (7g) fine sea salt",
+        "2.5 tablespoons (35g) granulated sugar",
+        "1 whole egg",
+        "1 egg yolk",
+        "3 tablespoons (42g) unsalted butter, softened"
+      ]
+    },
+    {
+      "category": "Egg Wash",
+      "items": [
+        "1 whole egg",
+        "splash of whole milk"
+      ]
+    }
+  ],
+  "instructions": [
+    "First make the Tangzong. Combine 60g of whole milk, 27g of water, 20g bread flour, in sauce pot. Place on medium heat until it becomes a paste.",
+    "Take 120g of whole milk heated to about 95F add 9 grams instant yeast. let sit for 8 min.",
+    "Combine in bowl 320g bread flour, 35g of sugar, 7g fine sea salt, and wisk until incorperated. ",
+    "With stand mixer running on low speed with the dough hook, slowly add yeast and milk mixture and Tangzon paste to bowl followed by 1 whole egg and 1 egg yolk (room temp) ",
+    "Increase stand mixer to medium low until Incorporated. ",
+    "Once incorperated slowly add 42g of softened unsalted butter, kneed for 8 min.",
+    "Gently oil a bowl, take dough and pull in the sides. Place seem side down and create a boule and place it in bowl with damp towel for 1 1/2-2 hours and wait for it to double.",
+    "Take out dough and decompress air. Lightly flour surface and put your dough on the table and divide into 6 even pieces. 95g-105g each. ",
+    "Shape each section into a boule creating tension on the top.",
+    "Place balls on parchment paper far enough apart for rise. Cover and let rise for 1 1/2 to 2 hours or until it's doubled.",
+    "Create egg wash with one egg and a splash of milk. Cover top of buns with egg wash.",
+    "Bake at 375F for 16 to 18 min or until deep golden brown."
+  ]
 }

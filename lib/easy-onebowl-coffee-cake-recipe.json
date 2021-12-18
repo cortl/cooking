@@ -1,6 +1,30 @@
 {
-  "title": "Easy One-Bowl Coffee Cake Recipe",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "easy-onebowl-coffee-cake-recipe",
+  "title": "Easy One-Bowl Coffee Cake Recipe",
   "image": "../images/easy-onebowl-coffee-cake.jpg",
   "rating": 8,
   "notes": [
@@ -40,15 +64,5 @@
     "Bake until coffee cake is puffed and firm, about 40 minutes (a toothpick inserted into the center should emerge with a few moist crumbs). Cool cake directly in pan about 30 minutes before serving, as it will be soft and gummy until its crumb has had a chance to set. Cut into squares with a butter knife and lift parchment to help fit an angled spatula under the first slice. To keep coffee cake as fresh as possible, cut only as much as you plan to serve at one time. With plastic wrap or wax paper pressed against cut surface, and top of pan covered with a sheet of aluminum foil, leftovers will keep up to 3 days at room temperature."
   ],
   "createdDate": "9/12/2020",
-  "servings": 12,
-  "time": [
-    {
-      "label": "Active time",
-      "units": "25 minutes"
-    },
-    {
-      "label": "Total time",
-      "units": "1 hour 30 minutes"
-    }
-  ]
+  "servings": 12
 }

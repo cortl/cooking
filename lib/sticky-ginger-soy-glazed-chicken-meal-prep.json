@@ -1,25 +1,40 @@
 {
-  "title": "Sticky Ginger Soy Glazed Chicken Meal Prep",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
   "slug": "sticky-ginger-soy-glazed-chicken-meal-prep",
+  "title": "Sticky Ginger Soy Glazed Chicken Meal Prep",
   "image": "../images/sticky-ginger-soy-glazed-chicken-meal-prep.jpg",
   "rating": 6,
   "notes": [],
   "createdDate": "02/05/2019",
   "source": "https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken-meal-prep/",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "40 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "1 hour"
-    }
-  ],
   "ingredients": [
     {
       "category": "Sticky Ginger Soy Glazed Chicken",

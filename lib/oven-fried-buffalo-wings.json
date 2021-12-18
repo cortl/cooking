@@ -1,24 +1,43 @@
 {
+  "time": [
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 8,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 8,
+          "label": "hours"
+        },
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "oven-fried-buffalo-wings",
   "title": "Oven Fried Buffalo Wings",
   "rating": 8,
   "notes": [],
   "image": "../images/oven-fried-buffalo-wings.jpg",
-  "slug": "oven-fried-buffalo-wings",
   "source": "https://www.seriouseats.com/recipes/2010/02/the-best-buffalo-wings-oven-fried-wings-recipe.html",
-  "time": [
-    {
-      "label": "Rest",
-      "units": "8-24 hours"
-    },
-    {
-      "label": "Cook",
-      "units": "35 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "8-24 hours 35 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

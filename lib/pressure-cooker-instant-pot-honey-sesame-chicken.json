@@ -1,6 +1,44 @@
 {
-  "title": "Pressure Cooker (Instant Pot) Honey Sesame Chicken",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 17,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "pressure-cooker-instant-pot-honey-sesame-chicken",
+  "title": "Pressure Cooker (Instant Pot) Honey Sesame Chicken",
   "rating": 7,
   "image": "../images/pressure-cooker-instant-pot-honey-sesame-chicken.jpg",
   "notes": [
@@ -34,23 +72,5 @@
     "Add sesame oil and honey to the pot and stir to combine. In a small bowl, dissolve cornstarch in water and add to the pot. Select Saute and simmer until sauce thickens. Stir in green onions. Add salt to taste.",
     "Serve over rice sprinkled with sesame seeds."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep Time",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook Time",
-      "units": "3 minutes"
-    },
-    {
-      "label": "Additional Time",
-      "units": "17 minutes"
-    },
-    {
-      "label": "Total Time",
-      "units": "25 minutes"
-    }
-  ]
+  "servings": 6
 }

@@ -1,19 +1,24 @@
 {
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "slug": "homemade-pita-bread",
   "title": "Homemade Pita Bread",
   "rating": 8,
   "notes": [
     "pita because really sticky, but worked really well without the whole grain flour"
   ],
-  "slug": "homemade-pita-bread",
   "createdDate": "09/29/2019",
   "source": "https://cooking.nytimes.com/recipes/1016071-homemade-pita-bread",
   "image": "../images/homemade-pita-bread.jpg",
-  "time": [
-    {
-      "label": "Total",
-      "units": "2 hours"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

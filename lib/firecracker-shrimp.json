@@ -1,4 +1,25 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "firecracker-shrimp",
   "title": "Firecracker Shrimp",
   "rating": 8,
   "notes": [
@@ -7,17 +28,6 @@
   "createdDate": "01/08/2019",
   "source": "https://www.reddit.com/r/recipes/comments/8sk5wf/firecracker_shrimp/",
   "image": "../images/firecracker-shrimp.jpg",
-  "slug": "firecracker-shrimp",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "10 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

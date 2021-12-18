@@ -1,6 +1,26 @@
 {
-  "title": "Homemade Taco Seasoning",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "homemade-taco-seasoning",
+  "title": "Homemade Taco Seasoning",
   "image": "../images/homemade-taco-seasoning.jpg",
   "rating": 7,
   "notes": [
@@ -25,19 +45,5 @@
   "instructions": [
     "Combine everything in a small bowl and stir until evenly mixed. Use immediately, or store in an air-tight container, away from heat and sunlight, until ready to use."
   ],
-  "servings": 1,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "5 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": " minutes"
-    },
-    {
-      "label": "Total",
-      "units": "5 minutes"
-    }
-  ]
+  "servings": 1
 }

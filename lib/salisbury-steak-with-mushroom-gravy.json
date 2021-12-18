@@ -1,6 +1,35 @@
 {
-  "title": "Salisbury Steak with Mushroom Gravy",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "salisbury-steak-with-mushroom-gravy",
+  "title": "Salisbury Steak with Mushroom Gravy",
   "image": "../images/salisbury-steak-with-mushroom-gravy.jpg",
   "rating": 8,
   "notes": [
@@ -38,19 +67,5 @@
     "Once the gravy is simmering, add the beef patties back to the skillet with the broth, mushrooms, and onions. Spoon the gravy over top, and continue to simmer the beef in the gravy for an additional five minutes. Taste the gravy and adjust the salt and pepper to your liking."
   ],
   "createdDate": "7/11/2020",
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "30 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "40 minutes"
-    }
-  ]
+  "servings": 4
 }

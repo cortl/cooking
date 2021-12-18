@@ -1,6 +1,35 @@
 {
-  "title": "Sweet n’ Spicy Chicken Bowls",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "sweet-n-spicy-chicken-bowls",
+  "title": "Sweet n’ Spicy Chicken Bowls",
   "image": "../images/sweet-n-spicy-chicken-bowls.jpg",
   "rating": 6,
   "notes": [
@@ -40,19 +69,5 @@
     "Heat a large non-stick skillet over medium heat. Add the chopped and seasoned chicken pieces and sauté until cooked through and slightly browned (5-7 minutes).",
     "Build the bowls by adding 3/4 cup cooked rice to each bowl, followed by 1/4 of each of the following: cooked chicken, black beans, pineapple, avocado, green onions, and cilantro."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "35 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "55 minutes"
-    }
-  ]
+  "servings": 4
 }

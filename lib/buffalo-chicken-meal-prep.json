@@ -1,15 +1,20 @@
 {
-  "title": "Buffalo Chicken Quinoa Bowls",
-  "rating": 7,
-  "slug": "buffalo-chicken-meal-prep",
-  "notes": [
-    "arrowroot doesn't create a crust like egg/cornstarch would so it's a bit tender"
-  ],
   "time": [
     {
-      "label": "Total time",
-      "units": "30 minutes"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     }
+  ],
+  "slug": "buffalo-chicken-meal-prep",
+  "title": "Buffalo Chicken Quinoa Bowls",
+  "rating": 7,
+  "notes": [
+    "arrowroot doesn't create a crust like egg/cornstarch would so it's a bit tender"
   ],
   "source": "https://www.youtube.com/watch?v=PDm0YkTMuS4",
   "ingredients": [

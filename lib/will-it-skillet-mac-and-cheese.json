@@ -1,6 +1,35 @@
 {
-  "title": "Will It Skillet? Mac and Cheese",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "will-it-skillet-mac-and-cheese",
+  "title": "Will It Skillet? Mac and Cheese",
   "image": "../images/will-it-skillet-mac-and-cheese.jpg",
   "rating": 7,
   "notes": [
@@ -28,19 +57,5 @@
     "Add the evaporated milk, mustard, and cayenne and stir well to combine. Add the cheese in three batches, stirring frequently as each batch is added and waiting until the cheese has melted before adding the next batch. After about 5 minutes total, the sauce will be smooth and noticeably thicker.",
     "Serve hot. Leftovers can be refrigerated in a covered container for up to 2 days."
   ],
-  "servings": 2,
-  "time": [
-    {
-      "label": "Prep",
-      "units": " minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "20 minutes"
-    }
-  ]
+  "servings": 2
 }

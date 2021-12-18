@@ -1,6 +1,39 @@
 {
-  "title": "Pico de Gallo",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "hours"
+        },
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "pico-de-gallo",
+  "title": "Pico de Gallo",
   "rating": 7,
   "notes": [
     "Use a whole jalepeno no seeds"
@@ -26,19 +59,5 @@
   "instructions": [
     "Stir the tomatoes, onion, cilantro, jalapeno pepper, lime juice, garlic, garlic powder, cumin, salt, and pepper together in a bowl. Refrigerate at least 3 hours before serving.                            "
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "prep",
-      "units": "20 mins"
-    },
-    {
-      "label": "additional",
-      "units": "3 hrs"
-    },
-    {
-      "label": "total",
-      "units": "3 hrs 20 mins"
-    }
-  ]
+  "servings": 4
 }

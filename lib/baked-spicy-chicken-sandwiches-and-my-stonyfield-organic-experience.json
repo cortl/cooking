@@ -1,21 +1,36 @@
 {
-  "title": "Baked Spicy Chicken Sandwiches and My Stonyfield Organic Experience",
-  "servings": 2,
   "time": [
     {
       "label": "Prep",
-      "units": "15 minutes"
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "25 minutes"
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "40 minutes"
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "baked-spicy-chicken-sandwiches-and-my-stonyfield-organic-experience",
+  "title": "Baked Spicy Chicken Sandwiches and My Stonyfield Organic Experience",
+  "servings": 2,
   "image": "../images/baked-spicy-chicken-sandwiches-and-my-stonyfield-organic-experience.jpg",
   "rating": 8,
   "notes": [

@@ -1,6 +1,39 @@
 {
-  "title": "Slow Cooker Chicken Tortilla Soup",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 4,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 4,
+          "label": "hours"
+        },
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "slow-cooker-chicken-tortilla-soup",
+  "title": "Slow Cooker Chicken Tortilla Soup",
   "image": "../images/slow-cooker-chicken-tortilla-soup.jpg",
   "rating": 7,
   "notes": [
@@ -43,19 +76,5 @@
     "Spread the oil coated tortilla strips over a baking sheet in a single layer, overlapping as little as possible. Bake them in the preheated oven for 10-15 minutes, stirring once every five minutes, or until they are deeply golden brown and crispy. The total cook time will depend on the size of your strips and how crowded they are on the baking sheet, so watch them closely and adjust the cook time as needed.",
     "To serve, ladle the soup into bowls, top with a handful of the tortilla crisps, some chopped cilantro, a few slices of avocado, and a dollop of sour cream. Squeeze a wedge of fresh lime over top just before eating."
   ],
-  "servings": 6,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": " minutes"
-    },
-    {
-      "label": "Total",
-      "units": "10 minutes"
-    }
-  ]
+  "servings": 6
 }

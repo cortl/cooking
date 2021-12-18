@@ -1,26 +1,41 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "thai-peanut-skillet-chicken",
   "title": "Thai Peanut Chicken",
   "rating": 6,
-  "slug": "thai-peanut-skillet-chicken",
   "notes": [
     "anything additional people should know about this recipe"
   ],
   "source": "https://www.delish.com/cooking/recipe-ideas/a22805039/thai-peanut-skillet-chicken-recipe/",
   "image": "../images/thai-peanut-skillet-chicken.jpg",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "30 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "40 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

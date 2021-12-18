@@ -1,17 +1,27 @@
 {
-  "title": "BraveTart: Glossy Fudge Brownies Recipe",
-  "servings": 24,
   "time": [
     {
-      "label": "Active time",
-      "units": "40 minutes"
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "Total time",
-      "units": "2 hours"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
     }
   ],
   "slug": "bravetart-glossy-fudge-brownies-recipe",
+  "title": "BraveTart: Glossy Fudge Brownies Recipe",
+  "servings": 24,
   "image": "../images/glossy-fudge-brownies.jpg",
   "rating": 10,
   "notes": [

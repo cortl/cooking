@@ -1,17 +1,31 @@
 {
-  "title": "Old-Fashioned Flaky Pie Crust Recipe",
-  "servings": 2,
   "time": [
     {
-      "label": "Active time",
-      "units": "25 minutes"
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "Total time",
-      "units": "2 1/2 hours"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "oldfashioned-flaky-pie-crust-recipe",
+  "title": "Old-Fashioned Flaky Pie Crust Recipe",
+  "servings": 2,
   "image": "../images/oldfashioned-flaky-pie-crust-recipe.jpg",
   "rating": 7,
   "notes": [

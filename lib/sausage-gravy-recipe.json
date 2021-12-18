@@ -1,17 +1,27 @@
 {
-  "title": "Sausage Gravy Recipe",
-  "servings": 3,
   "time": [
     {
-      "label": "Active time",
-      "units": "15 minutes"
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     },
     {
-      "label": "Total time",
-      "units": "15 minutes"
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "sausage-gravy-recipe",
+  "title": "Sausage Gravy Recipe",
+  "servings": 3,
   "image": "../images/sausage-gravy-recipe.jpg",
   "rating": 8,
   "notes": [

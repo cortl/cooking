@@ -1,56 +1,66 @@
 {
-    "title": "Deconstructed Chicken Pot Pie",
-    "rating": 6,
-    "slug": "deconstructed-chicken-pot-pie",
-    "notes": [
-        "Good idea, but this chicken pot pie recipe sucks"
-    ],
-    "createdDate": "11/01/2019",
-    "source": "https://mealprepmanual.com/deconstructed-chicken-pot-pie-2/",
-    "image": "../images/deconstructed-chicken-pot-pie.jpg",
-    "time": [
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
         {
-           "label": "Prep",
-           "units": "15 minutes"
-        },
-        {
-            "label": "Cook",
-            "units": "30 minutes"
-          }
-    ],
-    "ingredients": [
-        {
-            "category": "All",
-            "items": [
-                "1 lb (454 g) boneless skinless chicken breast",
-                "2 lbs (908 g) carrot⁣⁣s",
-                "3 stalks (300 g) celery⁣⁣",
-                "½ (100 g) onion ⁣⁣",
-                "1 lb (454 g) potatoes⁣⁣",
-                "6 oz (170 g) frozen peas ⁣⁣",
-                "14 oz (397 g) chicken broth⁣⁣",
-                "¼ cup (60 ml) milk⁣⁣",
-                "1 tbsp (14 g) butter⁣⁣",
-                "2 tbsp (30 ml) cornstarch",
-                "2 tbsp (30 ml) water",
-                "2 tbsp (30 ml) olive oil ⁣⁣",
-                "Salt and pepper to taste ⁣⁣"
-            ]
+          "measurement": 15,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "Wash 3 stalks of celery and peel 3 carrots. Cut the vegetables and ½ of an onion into a small dice. ⁣⁣",
-        "Heat 1 Tbsp of olive oil in a large pot over medium high heat. Add the vegetables and cook until the onions are translucent. ⁣⁣",
-        "Add the chicken breast and 14.5 oz can of chicken broth. Cover the pot and reduce the heat to medium low. Cook for 25-30 minutes or until the chicken has cooked through. ⁣⁣",
-        "Once the chicken has cooked remove it from the pot and shred with two forks. ⁣⁣",
-        "Mix 2 Tbsp of cornstarch with 2 Tbsp of cold water and add to the pot to create a gravy. Stir to incorporate and bring to a boil to thicken. ⁣⁣",
-        "Once the sauce has thickened, add the shredded chicken and peas.⁣⁣",
-        "Preheat your oven to 400°F. ⁣⁣",
-        "Wash and peel 7-9 carrots and cut on a bias to pieces about 1\" thick and 2-3\" long.⁣⁣",
-        "Transfer the carrots to a sheet pan, oil and bake for 20 minutes, flipping halfway through. ⁣⁣",
-        "Wash and cut the potatoes into a large dice. Boil in a large pot of water until soft.⁣⁣",
-        "Drain the water and add ¼ cup of milk and butter. Mash until smooth⁣⁣",
-        "Divide your ingredients evenly between 4 containers."
-    ],
-    "servings": 4
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "deconstructed-chicken-pot-pie",
+  "title": "Deconstructed Chicken Pot Pie",
+  "rating": 6,
+  "notes": [
+    "Good idea, but this chicken pot pie recipe sucks"
+  ],
+  "createdDate": "11/01/2019",
+  "source": "https://mealprepmanual.com/deconstructed-chicken-pot-pie-2/",
+  "image": "../images/deconstructed-chicken-pot-pie.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 lb (454 g) boneless skinless chicken breast",
+        "2 lbs (908 g) carrot⁣⁣s",
+        "3 stalks (300 g) celery⁣⁣",
+        "½ (100 g) onion ⁣⁣",
+        "1 lb (454 g) potatoes⁣⁣",
+        "6 oz (170 g) frozen peas ⁣⁣",
+        "14 oz (397 g) chicken broth⁣⁣",
+        "¼ cup (60 ml) milk⁣⁣",
+        "1 tbsp (14 g) butter⁣⁣",
+        "2 tbsp (30 ml) cornstarch",
+        "2 tbsp (30 ml) water",
+        "2 tbsp (30 ml) olive oil ⁣⁣",
+        "Salt and pepper to taste ⁣⁣"
+      ]
+    }
+  ],
+  "instructions": [
+    "Wash 3 stalks of celery and peel 3 carrots. Cut the vegetables and ½ of an onion into a small dice. ⁣⁣",
+    "Heat 1 Tbsp of olive oil in a large pot over medium high heat. Add the vegetables and cook until the onions are translucent. ⁣⁣",
+    "Add the chicken breast and 14.5 oz can of chicken broth. Cover the pot and reduce the heat to medium low. Cook for 25-30 minutes or until the chicken has cooked through. ⁣⁣",
+    "Once the chicken has cooked remove it from the pot and shred with two forks. ⁣⁣",
+    "Mix 2 Tbsp of cornstarch with 2 Tbsp of cold water and add to the pot to create a gravy. Stir to incorporate and bring to a boil to thicken. ⁣⁣",
+    "Once the sauce has thickened, add the shredded chicken and peas.⁣⁣",
+    "Preheat your oven to 400°F. ⁣⁣",
+    "Wash and peel 7-9 carrots and cut on a bias to pieces about 1\" thick and 2-3\" long.⁣⁣",
+    "Transfer the carrots to a sheet pan, oil and bake for 20 minutes, flipping halfway through. ⁣⁣",
+    "Wash and cut the potatoes into a large dice. Boil in a large pot of water until soft.⁣⁣",
+    "Drain the water and add ¼ cup of milk and butter. Mash until smooth⁣⁣",
+    "Divide your ingredients evenly between 4 containers."
+  ],
+  "servings": 4
 }

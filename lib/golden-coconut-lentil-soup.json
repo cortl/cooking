@@ -1,6 +1,35 @@
 {
-  "title": "Golden Coconut Lentil Soup",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "golden-coconut-lentil-soup",
+  "title": "Golden Coconut Lentil Soup",
   "image": "../images/golden-coconut-lentil-soup.jpg",
   "rating": 6,
   "notes": [
@@ -35,19 +64,5 @@
     "After 20 minutes the lentils should be soft and broken down. Stir the coconut milk into the soup. Use an immersion blender or carefully blend the warm soup in small batches until about half of the soup is puréed (or all of it if you want it completely smooth). Once blended, begin adding salt, 1/2 tsp at a time, until the soup is properly seasoned. I used 1.5 tsp or 1/2 Tbsp of salt. Also adjust the red pepper flakes, if desired.",
     "To serve the soup, ladle about 1.5 cups into a bowl and top with 1/2 cup cooked rice, some fresh cilantro leaves, and a sprinkle of toasted coconut flakes."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "30 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "45 minutes"
-    }
-  ]
+  "servings": 4
 }

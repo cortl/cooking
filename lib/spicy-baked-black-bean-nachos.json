@@ -1,6 +1,35 @@
 {
-  "title": "Spicy Baked Black Bean Nachos",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "spicy-baked-black-bean-nachos",
+  "title": "Spicy Baked Black Bean Nachos",
   "image": "../images/spicy-baked-black-bean-nachos.jpg",
   "rating": 8,
   "notes": [
@@ -42,19 +71,5 @@
     "Line a baking sheet with parchment or foil. Spread a layer of tortilla chips over the baking sheet in a single layer, trying not to overlap the chips. Spoon about half of the black bean mixture over the chips, then sprinkle half of the shredded cheese over top. Repeat with one more layer of chips, black beans, and cheese.",
     "Bake the chips, beans, and cheese for 5-7 minutes, or until the cheese is fully melted and the chips are just beginning to turn golden brown on the edges. Remove the nachos from the oven and add a drizzles or dollops of sour cream over top. Sprinkle the diced tomato, sliced jalapeño, pickled red onions, and chopped cilantro over top."
   ],
-  "servings": 4,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "15 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "35 minutes"
-    }
-  ]
+  "servings": 4
 }

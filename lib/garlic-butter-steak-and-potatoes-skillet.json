@@ -1,7 +1,27 @@
 {
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "slug": "garlic-butter-steak-and-potatoes-skillet",
   "title": "Garlic Butter Steak and Potatoes Skillet",
   "rating": 9,
-  "slug": "garlic-butter-steak-and-potatoes-skillet",
   "notes": [
     "Really good, might need to cook steak in batches in order to brown it, my skillet isn't big enough",
     "Par-boil the potatoes so that they cook quicker and get crispier"
@@ -9,16 +29,6 @@
   "image": "../images/garlic-butter-steak-and-potatoes-skillet.jpg",
   "createdDate": "01/06/2019",
   "source": "https://www.reddit.com/r/recipes/comments/8f1xrm/garlic_butter_steak_and_potatoes_skillet/",
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "30 minutes"
-    }
-  ],
   "ingredients": [
     {
       "category": "All",

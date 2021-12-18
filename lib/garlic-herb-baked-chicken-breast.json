@@ -1,6 +1,35 @@
 {
-  "title": "Garlic Herb Baked Chicken Breast",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
   "slug": "garlic-herb-baked-chicken-breast",
+  "title": "Garlic Herb Baked Chicken Breast",
   "image": "../images/garlic-herb-baked-chicken-breast.jpg",
   "rating": 7,
   "notes": [
@@ -30,19 +59,5 @@
     "Place the chicken in the oven and bake for 20 minutes. The total cooking time may vary with the size and thickness of the chicken breast, so use a meat thermometer to ensure the internal temperature of the thickest end of the breast has reached 165ºF.",
     "Once the chicken has baked through, let it rest for about 5 minutes before slicing and serving."
   ],
-  "servings": 2,
-  "time": [
-    {
-      "label": "Prep",
-      "units": "10 minutes"
-    },
-    {
-      "label": "Cook",
-      "units": "20 minutes"
-    },
-    {
-      "label": "Total",
-      "units": "30 minutes"
-    }
-  ]
+  "servings": 2
 }

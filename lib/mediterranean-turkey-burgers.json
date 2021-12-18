@@ -1,21 +1,36 @@
 {
-  "title": "Mediterranean Turkey Burgers",
-  "servings": 5,
   "time": [
     {
       "label": "Prep",
-      "units": "30 minutes"
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Cook",
-      "units": "15 minutes"
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
     },
     {
       "label": "Total",
-      "units": "45 minutes"
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
     }
   ],
   "slug": "mediterranean-turkey-burgers",
+  "title": "Mediterranean Turkey Burgers",
+  "servings": 5,
   "image": "../images/mediterranean-turkey-burgers.jpg",
   "rating": 7,
   "notes": [
