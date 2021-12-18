@@ -27,6 +27,7 @@
   "servings": 4,
   "slug": "buffalo-chicken-meal-prep",
   "source": "https://www.youtube.com/watch?v=PDm0YkTMuS4",
+  "tags": ["Poultry", "Meal Prep", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Total",
@@ -37,12 +38,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Meal Prep",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Buffalo Chicken Quinoa Bowls"
 }

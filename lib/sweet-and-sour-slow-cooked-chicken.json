@@ -37,6 +37,7 @@
   "servings": 6,
   "slug": "sweet-and-sour-slow-cooked-chicken",
   "source": "https://www.bodybuilding.com/recipes/sweet-and-sour-slow-cooked-chicken",
+  "tags": ["Poultry", "Dinner", "Slow Cooker"],
   "time": [
     {
       "label": "Prep",
@@ -69,11 +70,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Slow Cooker"
   ],
   "title": "Sweet and Sour Slow Cooked Chicken"
 }

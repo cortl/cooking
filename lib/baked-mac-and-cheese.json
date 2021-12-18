@@ -3,10 +3,7 @@
   "ingredients": [
     {
       "category": "Pasta",
-      "items": [
-        "8 oz macaroni pasta",
-        "1 tbsp butter"
-      ]
+      "items": ["8 oz macaroni pasta", "1 tbsp butter"]
     },
     {
       "category": "Sauce",
@@ -21,11 +18,7 @@
     },
     {
       "category": "Topping",
-      "items": [
-        "2/3 cup panko breadcrumbs",
-        "2 tbsp butter",
-        "1/4 tsp salt"
-      ]
+      "items": ["2/3 cup panko breadcrumbs", "2 tbsp butter", "1/4 tsp salt"]
     },
     {
       "category": "Seasoning",
@@ -58,6 +51,7 @@
   "servings": 6,
   "slug": "baked-mac-and-cheese",
   "source": "https://www.recipetineats.com/baked-mac-and-cheese/",
+  "tags": ["Vegetarian", "Dinner", "Pasta", "Baking"],
   "time": [
     {
       "label": "Prep",
@@ -90,12 +84,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Dinner",
-    "Pasta",
-    "Baking"
   ],
   "title": "Baked Mac and Cheese"
 }

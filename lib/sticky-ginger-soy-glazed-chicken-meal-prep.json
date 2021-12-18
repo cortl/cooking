@@ -32,9 +32,7 @@
     },
     {
       "category": "Sides",
-      "items": [
-        "Broccoli"
-      ]
+      "items": ["Broccoli"]
     }
   ],
   "instructions": [
@@ -51,6 +49,7 @@
   "servings": 4,
   "slug": "sticky-ginger-soy-glazed-chicken-meal-prep",
   "source": "https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken-meal-prep/",
+  "tags": ["Poultry", "Pasta", "Meal Prep", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -79,13 +78,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Pasta",
-    "Meal Prep",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Sticky Ginger Soy Glazed Chicken Meal Prep"
 }

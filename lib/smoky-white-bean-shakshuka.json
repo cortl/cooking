@@ -36,6 +36,7 @@
   "servings": 4,
   "slug": "smoky-white-bean-shakshuka",
   "source": "https://www.budgetbytes.com/smoky-white-bean-shakshuka/",
+  "tags": ["Vegetarian", "Dinner", "Breakfast", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -64,12 +65,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Dinner",
-    "Breakfast",
-    "Stovetop"
   ],
   "title": "Smoky White Bean Shakshuka"
 }

@@ -21,13 +21,12 @@
     "Carefully add the water and soy sauce, then give the pot a brief stir to combine. Place a lid on the pot, turn the heat up to high, and allow it to come to a full boil. Once boiling, reduce the heat to low and let it simmer for 15 minutes.",
     "After 15 minutes, turn the heat off and let the rice rest, undisturbed and with the lid in place, for 5 minutes. After 5 minutes, remove the lid and fluff the rice with a fork. Drizzle the toasted sesame oil over top, add the sesame seeds, and gently fold the rice until the sesame oil and seeds are distributed throughout. Serve warm."
   ],
-  "notes": [
-    "A little heavy"
-  ],
+  "notes": ["A little heavy"],
   "rating": 6,
   "servings": 4,
   "slug": "simple-sesame-rice",
   "source": "https://www.budgetbytes.com/simple-sesame-rice/",
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -56,12 +55,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Stovetop"
   ],
   "title": "Simple Sesame Rice"
 }

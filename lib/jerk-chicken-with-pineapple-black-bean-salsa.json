@@ -34,6 +34,7 @@
   "servings": 4,
   "slug": "jerk-chicken-with-pineapple-black-bean-salsa",
   "source": "https://www.budgetbytes.com/jerk-chicken-with-pineapple-black-bean-salsa/",
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -62,12 +63,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
   ],
   "title": "Jerk Chicken with Pineapple Black Bean Salsa"
 }

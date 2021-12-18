@@ -24,6 +24,7 @@
   "servings": 4,
   "slug": "perfect-thin-and-crispy-french-fries-recipe",
   "source": "https://www.seriouseats.com/recipes/2010/05/perfect-french-fries-recipe.html",
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Frying"],
   "time": [
     {
       "label": "Active",
@@ -47,12 +48,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Frying"
   ],
   "title": "Perfect Thin and Crispy French Fries Recipe"
 }

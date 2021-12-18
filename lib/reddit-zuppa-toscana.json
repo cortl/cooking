@@ -37,6 +37,7 @@
   "servings": 6,
   "slug": "reddit-zuppa-toscana",
   "source": "https://www.reddit.com/r/recipes/comments/9idkpg/zuppa_toscana_soup_aka_better_than_olive_gardens/",
+  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -65,12 +66,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Pork",
-    "Soup",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Reddit Zuppa Toscana"
 }

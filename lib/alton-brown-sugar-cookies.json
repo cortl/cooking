@@ -26,6 +26,7 @@
   "servings": 36,
   "slug": "alton-brown-sugar-cookies",
   "source": "https://www.foodnetwork.com/recipes/alton-brown/sugar-cookies-recipe-1914697",
+  "tags": ["Vegetarian", "Dessert", "Christmas", "Baking"],
   "time": [
     {
       "label": "Prep",
@@ -55,6 +56,5 @@
       ]
     }
   ],
-  "tags": ["Vegetarian", "Dessert", "Christmas", "Baking"],
   "title": "Alton Brown Sugar Cookies"
 }

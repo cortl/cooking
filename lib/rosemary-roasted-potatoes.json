@@ -21,13 +21,12 @@
     "Spread the potatoes out over a baking sheet so that they are in a single layer. Transfer the potatoes to the oven and roast for 15 minutes, then stir and roast for an additional 15 minutes.",
     "After 30 minutes total roasting time, stir once again and if additional browning is desired, roast for an additional 5-10 minutes. Serve with a handful of fresh, chopped parsley sprinkled over top, if desired."
   ],
-  "notes": [
-    "Good way to use up russets"
-  ],
+  "notes": ["Good way to use up russets"],
   "rating": 8,
   "servings": 4,
   "slug": "rosemary-roasted-potatoes",
   "source": "https://www.budgetbytes.com/rosemary-roasted-potatoes/",
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -56,12 +55,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Roasting"
   ],
   "title": "Rosemary Roasted Potatoes"
 }

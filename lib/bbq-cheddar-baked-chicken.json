@@ -25,13 +25,12 @@
     "Remove the chicken from the oven and top each piece with shredded cheddar. Return the chicken to the oven and continue baking for five minutes, or until the chicken reaches an internal temperature of 165ºF.",
     "After baking the chicken, let the chicken rest for five minutes, then top with diced red onion and chopped cilantro just before serving. "
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 7,
   "servings": 4,
   "slug": "bbq-cheddar-baked-chicken",
   "source": "https://www.budgetbytes.com/bbq-cheddar-baked-chicken/",
+  "tags": ["Poultry", "Dinner", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -60,11 +59,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Roasting"
   ],
   "title": "BBQ Cheddar Baked Chicken"
 }

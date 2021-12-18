@@ -35,6 +35,14 @@
   "servings": 6,
   "slug": "slow-cooker-hamburger-stew",
   "source": "https://www.budgetbytes.com/slow-cooker-hamburger-stew/",
+  "tags": [
+    "Beef",
+    "Soup",
+    "Dinner",
+    "Stovetop",
+    "Slow Cooker",
+    "Braising & Stewing"
+  ],
   "time": [
     {
       "label": "Prep",
@@ -63,14 +71,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Soup",
-    "Dinner",
-    "Stovetop",
-    "Slow Cooker",
-    "Braising & Stewing"
   ],
   "title": "Slow Cooker Hamburger Stew"
 }

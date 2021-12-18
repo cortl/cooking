@@ -20,13 +20,12 @@
     "While the chicken is in the oven, combine the sriracha, butter, and honey in a small sauce pot. Heat over a low flame until the butter is melted and the sauce is smooth. Set the sauce aside.",
     "When the chicken comes out of the oven, brush the sauce liberally over the surface of the chicken, then serve."
   ],
-  "notes": [
-    "used too much corn starch, but turned out pretty good"
-  ],
+  "notes": ["used too much corn starch, but turned out pretty good"],
   "rating": 6,
   "servings": 6,
   "slug": "crispy-baked-honey-sriracha-chicken-drumsticks",
   "source": "https://www.budgetbytes.com/2016/03/crispy-baked-honey-sriracha-chicken-drumsticks/",
+  "tags": ["Poultry", "Dinner", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -55,11 +54,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Roasting"
   ],
   "title": "Crispy Baked Honey Sriracha Chicken Drumsticks"
 }

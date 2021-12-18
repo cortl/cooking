@@ -26,13 +26,12 @@
     "Add the dry pasta, place a lid on top, and allow it to come up to a simmer. Once it reaches a simmer, reduce the heat to low, and let simmer for about 15 minutes or until the pasta is soft and has absorbed all of the liquid. Stir every few minutes to make sure it’s not sticking on the bottom of the pot. If it gets dry before the pasta has fully softened, add a touch of water.",
     "Once the pasta has finished cooking, turn the heat off and stir in the shredded cheese. Serve hot."
   ],
-  "notes": [
-    "It is what it is"
-  ],
+  "notes": ["It is what it is"],
   "rating": 6,
   "servings": 6,
   "slug": "chili-cheese-beef-n-mac",
   "source": "https://www.budgetbytes.com/2012/05/chili-cheese-beef-n-mac/",
+  "tags": ["Beef", "Dinner", "Pasta", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -61,12 +60,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Pasta",
-    "Stovetop"
   ],
   "title": "Chili Cheese Beef n’ Mac"
 }

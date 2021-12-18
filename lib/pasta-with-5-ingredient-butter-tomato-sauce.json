@@ -38,6 +38,7 @@
   "servings": 4,
   "slug": "pasta-with-5-ingredient-butter-tomato-sauce",
   "source": "https://www.budgetbytes.com/pasta-5-ingredient-butter-tomato-sauce/",
+  "tags": ["Vegetarian", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -66,12 +67,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Pasta with 5 Ingredient Butter Tomato Sauce"
 }

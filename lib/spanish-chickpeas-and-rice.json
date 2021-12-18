@@ -31,13 +31,19 @@
     "Place a lid on the skillet and turn the heat up to medium-high. Allow the skillet to come to a boil. Once it reaches a boil, turn the heat down to low and let simmer for 20 minutes. Make sure it's simmering the whole time and adjust the heat up slightly if necessary to keep it simmering.",
     "After simmering for 20 minutes, turn the heat off and let it rest for 5 minutes without removing the lid. Finally, remove the lid, fluff with a fork and top with the remaining chopped parsley. Cut the lemon into wedges and squeeze the fresh juice over each bowl."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 8,
   "servings": 4,
   "slug": "spanish-chickpeas-and-rice",
   "source": "https://www.budgetbytes.com/spanish-chickpeas-and-rice/",
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Meal Prep",
+    "Dinner",
+    "Appetizer",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",
@@ -66,14 +72,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Meal Prep",
-    "Dinner",
-    "Appetizer",
-    "Stovetop"
   ],
   "title": "Spanish Chickpeas and Rice"
 }

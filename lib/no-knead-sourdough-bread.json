@@ -24,9 +24,7 @@
     },
     {
       "category": "Helpful items",
-      "items": [
-        "Rice flour"
-      ]
+      "items": ["Rice flour"]
     }
   ],
   "instructions": [
@@ -58,6 +56,7 @@
   "servings": 2,
   "slug": "no-knead-sourdough-bread",
   "source": "https://www.youtube.com/watch?v=eod5cUxAHRM",
+  "tags": ["Fermenting", "Vegan", "Vegetarian", "Appetizer", "Baking"],
   "time": [
     {
       "label": "Total",
@@ -68,13 +67,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Fermenting",
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Baking"
   ],
   "title": "No Knead Sourdough Bread"
 }

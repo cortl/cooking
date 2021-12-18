@@ -29,6 +29,7 @@
   "servings": 0,
   "slug": "orange-chili-sauce",
   "source": "https://fitmencook.com/chili-sauce-recipe/",
+  "tags": ["Vegan", "Vegetarian", "Topping", "Stovetop"],
   "time": [
     {
       "label": "Total",
@@ -39,12 +40,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Topping",
-    "Stovetop"
   ],
   "title": "Orange Chili Sauce"
 }

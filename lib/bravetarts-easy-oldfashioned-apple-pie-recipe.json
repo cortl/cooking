@@ -38,6 +38,7 @@
   "servings": 1,
   "slug": "bravetarts-easy-oldfashioned-apple-pie-recipe",
   "source": "https://www.seriouseats.com/recipes/2017/09/bravetart-easy-apple-pie-recipe.html",
+  "tags": ["Vegetarian", "Dessert", "Thanksgiving", "Baking"],
   "time": [
     {
       "label": "Active",
@@ -57,12 +58,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Dessert",
-    "Thanksgiving",
-    "Baking"
   ],
   "title": "BraveTart's Easy, Old-Fashioned Apple Pie Recipe"
 }

@@ -38,6 +38,7 @@
   "servings": 4,
   "slug": "creamy-spinach-artichoke-chicken",
   "source": "https://www.budgetbytes.com/creamy-spinach-artichoke-chicken/",
+  "tags": ["Poultry", "Dinner", "Pasta", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -66,12 +67,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Pasta",
-    "Stovetop"
   ],
   "title": "Creamy Spinach Artichoke Chicken"
 }

@@ -22,13 +22,12 @@
     "Bake the fries for about 30 minutes, or until well browned, stirring once half-way through.",
     "Serve hot! Optional garnish: chopped parsley and a pinch of Parmesan."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 7,
   "servings": 2,
   "slug": "garlic-parmesan-oven-fries",
   "source": "https://www.budgetbytes.com/thick-cut-garlic-parmesan-oven-fries/",
+  "tags": ["Vegetarian", "Appetizer", "Roasting", "Baking"],
   "time": [
     {
       "label": "Prep",
@@ -57,12 +56,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Appetizer",
-    "Roasting",
-    "Baking"
   ],
   "title": "Garlic Parmesan Oven Fries"
 }

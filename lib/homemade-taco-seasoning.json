@@ -18,13 +18,12 @@
   "instructions": [
     "Combine everything in a small bowl and stir until evenly mixed. Use immediately, or store in an air-tight container, away from heat and sunlight, until ready to use."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 7,
   "servings": 1,
   "slug": "homemade-taco-seasoning",
   "source": "https://www.budgetbytes.com/taco-seasoning/",
+  "tags": ["Vegan", "Vegetarian", "Seasoning Blend", "Quick", "No Cook"],
   "time": [
     {
       "label": "Prep",
@@ -44,13 +43,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Seasoning Blend",
-    "Quick",
-    "No Cook"
   ],
   "title": "Homemade Taco Seasoning"
 }

@@ -20,13 +20,12 @@
     "Spread the prepared ginger glaze over the top of each piece of salmon.",
     "Bake the salmon for about 20 minutes (15 minutes for thin fillets), or until the internal temperature reaches 145ºF. Serve immediately."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 7,
   "servings": 4,
   "slug": "baked-ginger-salmon",
   "source": "https://www.budgetbytes.com/ginger-salmon/",
+  "tags": ["Fish", "Dinner", "Baking"],
   "time": [
     {
       "label": "Prep",
@@ -55,11 +54,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Fish",
-    "Dinner",
-    "Baking"
   ],
   "title": "Baked Ginger Salmon"
 }

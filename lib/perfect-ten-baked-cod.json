@@ -23,13 +23,12 @@
     "Bake cod in the preheated oven for 10 minutes. Remove from oven; top with lemon juice, wine, and cracker mixture. Place back in oven and bake until fish is opaque and flakes easily with a fork, about 10 more minutes.                            ",
     "Garnish baked cod with parsley and green onion. Serve with lemon wedges.                            "
   ],
-  "notes": [
-    "frozen fish way danker"
-  ],
+  "notes": ["frozen fish way danker"],
   "rating": 5,
   "servings": 4,
   "slug": "perfect-ten-baked-cod",
   "source": "http://allrecipes.com/recipe/228319/perfect-ten-baked-cod/",
+  "tags": ["Fish", "Dinner", "Baking", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -58,12 +57,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Fish",
-    "Dinner",
-    "Baking",
-    "Roasting"
   ],
   "title": "Perfect Ten Baked Cod"
 }

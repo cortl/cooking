@@ -33,13 +33,12 @@
     "After the sausage and vegetables have finished roasting, add half of the remaining vinaigrette and toss to coat. Season with an extra pinch of salt and pepper if needed.",
     "To serving, add about 3/4 cup rice to each bowl or container along with 1/4 of the roasted sausage and vegetables. Drizzle another spoonful of the vinaigrette over top, then finish with a sprinkle of fresh parsley."
   ],
-  "notes": [
-    "High cal, lots of flavor (from sausage)"
-  ],
+  "notes": ["High cal, lots of flavor (from sausage)"],
   "rating": 5,
   "servings": 4,
   "slug": "smoky-roasted-sausage-and-vegetables",
   "source": "https://www.budgetbytes.com/smoky-roasted-sausage-and-vegetables/",
+  "tags": ["Pork", "Dinner", "Meal Prep", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -68,12 +67,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Pork",
-    "Dinner",
-    "Meal Prep",
-    "Roasting"
   ],
   "title": "Smoky Roasted Sausage and Vegetables"
 }

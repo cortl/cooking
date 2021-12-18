@@ -32,13 +32,12 @@
     "Finely dice the bell pepper, tomatoes, jalapeño, and red onion. Try to dice the vegetables into pieces that are roughly the same size as the beans. For a less spicy salad, scrape the seeds out of the jalapeño before dicing. Roughly chop the cilantro. Place the drained beans, bell pepper, tomatoes, jalapeño, onion, and cilantro in a large bowl.",
     "In a small bowl, whisk together the olive oil, 2 Tbsp of juice from the lime, balsamic vinegar, chili powder, cumin, salt, and sugar. Pour the dressing over the salad, then stir until everything is well coated. Serve immediately, or refrigerate until ready to eat."
   ],
-  "notes": [
-    "Added corn"
-  ],
+  "notes": ["Added corn"],
   "rating": 7,
   "servings": 10,
   "slug": "cowboy-caviar",
   "source": "https://www.budgetbytes.com/cowboy-caviar/",
+  "tags": ["Vegetarian", "Vegan", "Salad", "Appetizer", "No Cook"],
   "time": [
     {
       "label": "Prep",
@@ -58,13 +57,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Vegan",
-    "Salad",
-    "Appetizer",
-    "No Cook"
   ],
   "title": "Cowboy Caviar"
 }

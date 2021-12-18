@@ -35,6 +35,7 @@
   "servings": 6,
   "slug": "zuppa-toscana",
   "source": "https://www.myrecipes.com/recipe/zuppa-toscana",
+  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -67,12 +68,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Pork",
-    "Soup",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Zuppa Toscana (Better than Olive Garden!)"
 }

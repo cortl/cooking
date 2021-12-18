@@ -45,13 +45,12 @@
     "Once the meatballs have finished baking, add them to the sauce pot with the teriyaki sauce and stir to coat.",
     "To build the bowls, divide the cooked rice and broccoli florets between four bowls or containers. Add four meatballs to each bowl, then drizzle the extra sauce overtop. Finish the bowls by adding sliced green onion and sesame seeds to each bowl."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 8,
   "servings": 4,
   "slug": "teriyaki-meatball-bowls",
   "source": "https://www.budgetbytes.com/teriyaki-meatball-bowls/",
+  "tags": ["Pork", "Dinner", "Meal Prep"],
   "time": [
     {
       "label": "Prep",
@@ -80,11 +79,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Pork",
-    "Dinner",
-    "Meal Prep"
   ],
   "title": "Teriyaki Meatball Bowls"
 }

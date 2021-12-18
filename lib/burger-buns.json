@@ -25,10 +25,7 @@
     },
     {
       "category": "Egg Wash",
-      "items": [
-        "1 whole egg",
-        "splash of whole milk"
-      ]
+      "items": ["1 whole egg", "splash of whole milk"]
     }
   ],
   "instructions": [
@@ -45,13 +42,12 @@
     "Create egg wash with one egg and a splash of milk. Cover top of buns with egg wash.",
     "Bake at 375F for 16 to 18 min or until deep golden brown."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 9,
   "servings": 6,
   "slug": "burger-buns",
   "source": "https://www.youtube.com/watch?v=gTGSUYMu6Ns",
+  "tags": ["Vegetarian", "Baking", "Sandwich"],
   "time": [
     {
       "label": "Active",
@@ -80,11 +76,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Baking",
-    "Sandwich"
   ],
   "title": "Burger Buns"
 }

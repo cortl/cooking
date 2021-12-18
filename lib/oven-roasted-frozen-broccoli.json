@@ -22,6 +22,7 @@
   "servings": 2,
   "slug": "oven-roasted-frozen-broccoli",
   "source": "https://www.budgetbytes.com/oven-roasted-frozen-broccoli/",
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -50,12 +51,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Roasting"
   ],
   "title": "Oven Roasted Frozen Broccoli"
 }

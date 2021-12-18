@@ -24,8 +24,16 @@ workflows:
               only:
                 - master
     jobs:
-      - update
+      - update:
+          filters:
+            branches:
+              only:
+                - master
       - publish:
+          filters:
+            branches:
+              only:
+                - master
           requires:
             - update
 
@@ -51,6 +59,7 @@ jobs:
       - run: rm README.md
       - run: npm start
       - run: npm test
+      - run: npm run format
       - run: git add .
       - run: git commit -m 'updating recipes [skip ci]'
       - run: git push

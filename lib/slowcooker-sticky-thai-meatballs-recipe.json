@@ -45,6 +45,7 @@
   "servings": 4,
   "slug": "slowcooker-sticky-thai-meatballs-recipe",
   "source": "https://www.seriouseats.com/recipes/2016/01/slow-cooker-thai-chicken-meatball-recipe.html",
+  "tags": ["Poultry", "Dinner", "Slow Cooker"],
   "time": [
     {
       "label": "Active",
@@ -64,11 +65,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Slow Cooker"
   ],
   "title": "Slow-Cooker Sticky Thai Meatballs Recipe"
 }

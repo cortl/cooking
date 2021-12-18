@@ -32,6 +32,7 @@
   "servings": 6,
   "slug": "chicken-tinga",
   "source": "https://fitmencook.com/chicken-tinga-tacos/",
+  "tags": ["Poultry", "Dinner", "Slow Cooker"],
   "time": [
     {
       "label": "Total",
@@ -42,11 +43,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Slow Cooker"
   ],
   "title": "Chicken Tinga"
 }

@@ -30,6 +30,7 @@
   "servings": 2,
   "slug": "garlic-herb-baked-chicken-breast",
   "source": "https://www.budgetbytes.com/garlic-herb-baked-chicken-breast/",
+  "tags": ["Poultry", "Dinner", "Baking", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -58,12 +59,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Baking",
-    "Roasting"
   ],
   "title": "Garlic Herb Baked Chicken Breast"
 }

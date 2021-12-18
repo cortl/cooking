@@ -39,6 +39,7 @@
   "servings": 6,
   "slug": "crunchy-cabbage-salad",
   "source": "https://www.budgetbytes.com/crunchy-asian-salad/",
+  "tags": ["Vegetarian", "Vegan", "Salad", "Appetizer", "No Cook"],
   "time": [
     {
       "label": "Prep",
@@ -58,13 +59,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Vegan",
-    "Salad",
-    "Appetizer",
-    "No Cook"
   ],
   "title": "Crunchy Cabbage Salad"
 }

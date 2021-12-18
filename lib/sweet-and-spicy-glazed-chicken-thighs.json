@@ -27,6 +27,7 @@
   "servings": 4,
   "slug": "sweet-and-spicy-glazed-chicken-thighs",
   "source": "https://www.budgetbytes.com/sweet-and-spicy-glazed-chicken-thighs/",
+  "tags": ["Poultry", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -55,11 +56,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Sweet and Spicy Glazed Chicken Thighs"
 }

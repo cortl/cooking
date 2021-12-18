@@ -28,9 +28,7 @@
     },
     {
       "category": "Vegetables",
-      "items": [
-        "1lb green beans"
-      ]
+      "items": ["1lb green beans"]
     }
   ],
   "instructions": [
@@ -42,13 +40,12 @@
     "Place the chicken thighs on a cutting board and pat dry with a paper towel. Sprinkle the brown sugar mixture over the chicken, coating both sides liberally.",
     "Heat a large skillet over medium. Once hot, add the olive oil and swirl to coat. Add the coated chicken and cook for about 5-7 minutes on each side, or until cooked through and the brown sugar has turned into a deep brown glaze. Serve hot."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 7,
   "servings": 4,
   "slug": "glazed-chicken-meal-prep",
   "source": "https://www.budgetbytes.com/glazed-chicken-meal-prep/",
+  "tags": ["Poultry", "Meal Prep", "Dinner", "Stovetop", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -68,13 +65,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Meal Prep",
-    "Dinner",
-    "Stovetop",
-    "Roasting"
   ],
   "title": "Glazed Chicken Meal Prep"
 }

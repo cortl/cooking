@@ -29,6 +29,7 @@
   "servings": 1,
   "slug": "spinach-tomato-feta-cheese-stuffed-chicken-breast",
   "source": "https://www.bodybuilding.com/recipes/spinach-tomato-feta-cheese-stuffed-chicken-breast",
+  "tags": ["Poultry", "Dinner", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -57,11 +58,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Roasting"
   ],
   "title": "Spinach Tomato Feta Cheese Stuffed Chicken Breast"
 }

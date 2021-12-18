@@ -27,6 +27,7 @@
   "servings": 4,
   "slug": "jerk-chicken-meal-prep-bowls",
   "source": "https://www.foodlovinfamily.com/jerk-chicken-meal-prep-bowls/",
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -55,12 +56,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
   ],
   "title": "Jerk Chicken Meal Prep Bowls"
 }

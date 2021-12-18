@@ -29,6 +29,7 @@
   "servings": 4,
   "slug": "easy-oven-baked-fish-with-tomatoes",
   "source": "https://www.budgetbytes.com/easy-oven-baked-fish-with-tomatoes/",
+  "tags": ["Fish", "Dinner", "Baking"],
   "time": [
     {
       "label": "Prep",
@@ -57,11 +58,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Fish",
-    "Dinner",
-    "Baking"
   ],
   "title": "Easy Oven Baked Fish with Tomatoes"
 }

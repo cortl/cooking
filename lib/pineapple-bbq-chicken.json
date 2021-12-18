@@ -34,6 +34,7 @@
   "servings": 4,
   "slug": "pineapple-bbq-chicken",
   "source": "https://mealprepmanual.com/pineapple-bbq-chicken/",
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Baking", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -62,13 +63,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Baking",
-    "Roasting"
   ],
   "title": "Pineapple BBQ Chicken"
 }

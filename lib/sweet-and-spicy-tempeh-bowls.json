@@ -41,13 +41,12 @@
     "To make the polenta, combine the cornmeal, salt, and water in a medium sauce pot. Place the pot over medium-high heat and bring it up to a boil while whisking. Once it reaches a boil, turn the heat down to medium-low and continue to simmer 2-3 minutes more, or until the polenta has thickened. Remove the polenta from the heat and stir in the butter.",
     "To build the bowls, start with 1 cup of the polenta, add 1/4 of the sweet and spicy tempeh triangles, 1/4 of the rinsed black beans, a pinch or two of shredded cheddar (about 1/2 oz.), 1/4 of the avocado, a sprinkle of green onions, and a light drizzle of ranch. Serve immediately, or refrigerate and reheat later."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 8,
   "servings": 4,
   "slug": "sweet-and-spicy-tempeh-bowls",
   "source": "https://www.budgetbytes.com/sweet-and-spicy-tempeh-bowls/",
+  "tags": ["Vegan", "Vegetarian", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -76,13 +75,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
   ],
   "title": "Sweet and Spicy Tempeh Bowls"
 }

@@ -33,13 +33,12 @@
     "Add the butter and cooking oil to a skillet and heat over medium-high. When the skillet is hot and the butter is melted and foaming, add the salmon pieces. Cook the salmon for 5-7 minutes on each side, or until a dark brown crust forms and the salmon is cooked through*.",
     "Remove the cooked fish to a clean plate. Add the sliced zucchini to the skillet in its place. Quickly sauté the zucchini in the residual butter and spices until it is tender. Serve the salmon and zucchini immediately."
   ],
-  "notes": [
-    "left the skin on and it was still fine"
-  ],
+  "notes": ["left the skin on and it was still fine"],
   "rating": 7,
   "servings": 4,
   "slug": "blackened-salmon-with-zucchini",
   "source": "https://www.budgetbytes.com/blackened-salmon-with-zucchini/",
+  "tags": ["Fish", "Quick", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -68,13 +67,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Fish",
-    "Quick",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
   ],
   "title": "Blackened Salmon with Zucchini"
 }

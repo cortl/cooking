@@ -45,6 +45,7 @@
   "servings": 6,
   "slug": "pressure-cooker-american-beef-stew-recipe",
   "source": "https://www.seriouseats.com/recipes/2016/10/pressure-cooker-beef-stew-recipe.html",
+  "tags": ["Beef", "Dinner", "Braising & Stewing", "Soup"],
   "time": [
     {
       "label": "Active",
@@ -68,12 +69,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Braising & Stewing",
-    "Soup"
   ],
   "title": "Pressure Cooker American Beef Stew Recipe"
 }

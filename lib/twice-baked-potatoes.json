@@ -31,6 +31,7 @@
   "servings": 16,
   "slug": "twice-baked-potatoes",
   "source": "https://www.foodnetwork.com/recipes/ree-drummond/twice-baked-potatoes-recipe-1925596",
+  "tags": ["Pork", "Appetizer", "Dinner", "Baking"],
   "time": [
     {
       "label": "Prep",
@@ -63,12 +64,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Pork",
-    "Appetizer",
-    "Dinner",
-    "Baking"
   ],
   "title": "Twice-Baked Potatoes"
 }

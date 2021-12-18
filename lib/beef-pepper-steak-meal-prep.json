@@ -35,6 +35,7 @@
   "servings": 4,
   "slug": "beef-pepper-steak-meal-prep",
   "source": "https://fitmencook.com/beef-pepper-steak/",
+  "tags": ["Beef", "Meal Prep", "Dinner", "Stovetop", "Quick"],
   "time": [
     {
       "label": "Total",
@@ -45,13 +46,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Meal Prep",
-    "Dinner",
-    "Stovetop",
-    "Quick"
   ],
   "title": "Quick Beef Pepper Steak Meal Prep"
 }

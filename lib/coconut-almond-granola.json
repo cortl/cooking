@@ -36,6 +36,15 @@
   "servings": 10,
   "slug": "coconut-almond-granola",
   "source": "https://lmld.org/coconut-almond-granola/",
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Breakfast",
+    "Topping",
+    "Dessert",
+    "Baking",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Cook",
@@ -55,15 +64,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Vegan",
-    "Breakfast",
-    "Topping",
-    "Dessert",
-    "Baking",
-    "Roasting"
   ],
   "title": "Coconut Almond Granola"
 }

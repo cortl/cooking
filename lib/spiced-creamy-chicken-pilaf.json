@@ -34,6 +34,7 @@
   "servings": 6,
   "slug": "spiced-creamy-chicken-pilaf",
   "source": "https://fitmencook.com/healthy-chicken-recipes/",
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -62,12 +63,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
   ],
   "title": "Spiced Creamy Chicken Pilaf"
 }

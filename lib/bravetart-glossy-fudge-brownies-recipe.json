@@ -33,6 +33,7 @@
   "servings": 24,
   "slug": "bravetart-glossy-fudge-brownies-recipe",
   "source": "https://www.seriouseats.com/recipes/2018/02/bravetart-glossy-fudge-brownies.html",
+  "tags": ["Vegetarian", "Dessert", "Baking"],
   "time": [
     {
       "label": "Active",
@@ -52,11 +53,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Dessert",
-    "Baking"
   ],
   "title": "BraveTart: Glossy Fudge Brownies Recipe"
 }

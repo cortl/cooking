@@ -29,6 +29,7 @@
   "servings": 4,
   "slug": "apple-spice-pork-chops",
   "source": "https://www.budgetbytes.com/apple-spice-pork-chops/",
+  "tags": ["Pork", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -58,6 +59,5 @@
       ]
     }
   ],
-  "tags": ["Pork", "Dinner", "Stovetop"],
   "title": "Apple Spice Pork Chops"
 }

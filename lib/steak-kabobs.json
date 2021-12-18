@@ -27,6 +27,7 @@
   "servings": 4,
   "slug": "steak-kabobs",
   "source": "https://civilizedcaveman.com/recipes/beef/kabobs/",
+  "tags": ["Beef", "Dinner", "Grilling"],
   "time": [
     {
       "label": "Prep",
@@ -55,11 +56,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Grilling"
   ],
   "title": "Steak Kabobs"
 }

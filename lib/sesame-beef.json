@@ -38,6 +38,7 @@
   "servings": 4,
   "slug": "sesame-beef",
   "source": "https://chefsavvy.com/sesame-beef/",
+  "tags": ["Beef", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -66,11 +67,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Sesame Beef"
 }

@@ -31,6 +31,7 @@
   "servings": 6,
   "slug": "chorizo-stuffed-bell-peppers",
   "source": "https://www.budgetbytes.com/2018/03/chorizo-stuffed-bell-peppers/",
+  "tags": ["Pork", "Baking", "Dinner"],
   "time": [
     {
       "label": "Prep",
@@ -59,11 +60,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Pork",
-    "Baking",
-    "Dinner"
   ],
   "title": "Chorizo Stuffed Bell Peppers"
 }

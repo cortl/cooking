@@ -20,13 +20,12 @@
     "Strain the syrup into a heat-safe container and stir in the orange blossom water (or other aromatics; see note). If desired, season with an additional pinch of salt, bearing in mind the syrup will seem less sweet when frozen. Cover and refrigerate until no warmer than 40°F (4°C). Meanwhile, take note that most ice creams will benefit from an extra pinch of salt in the base to account for the added sweetness of a fruit swirl.",
     "Stir the syrup until viscous, then transfer to a disposable piping bag or use a spoon to drizzle. Layer the thick syrup into a chilled container with freshly churned ice cream, using as much or as little as you like. Freeze the ice cream according to the recipe directions. Any remaining syrup can be used as a sauce, or combined with club soda for a fizzy drink."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 9,
   "servings": 1,
   "slug": "fruit-syrup-for-swirled-ice-cream-recipe",
   "source": "https://www.seriouseats.com/recipes/2018/08/fruit-syrup-for-swirled-ice-cream.html",
+  "tags": ["Vegetarian", "Vegan", "Topping", "Dessert", "Stovetop"],
   "time": [
     {
       "label": "Active",
@@ -46,13 +45,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Vegan",
-    "Topping",
-    "Dessert",
-    "Stovetop"
   ],
   "title": "Fruit Syrup for Swirled Ice Cream Recipe"
 }

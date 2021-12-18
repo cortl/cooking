@@ -3,9 +3,7 @@
   "ingredients": [
     {
       "category": "All",
-      "items": [
-        "12 oz. thick cut bacon"
-      ]
+      "items": ["12 oz. thick cut bacon"]
     }
   ],
   "instructions": [
@@ -15,13 +13,12 @@
     "After baking, use tongs to remove the strips of bacon from the wire rack to a paper towel lined plate. Serve immediately.",
     "Allow the remaining bacon grease to cool for about ten minutes, then pour off into a bowl or jar, and reserve for another use."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 7,
   "servings": 12,
   "slug": "how-to-cook-bacon-in-the-oven",
   "source": "https://www.budgetbytes.com/how-to-cook-bacon-in-the-oven/",
+  "tags": ["Pork", "Baking", "Breakfast", "Dinner"],
   "time": [
     {
       "label": "Prep",
@@ -50,12 +47,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Pork",
-    "Baking",
-    "Breakfast",
-    "Dinner"
   ],
   "title": "How to Cook Bacon in the Oven"
 }

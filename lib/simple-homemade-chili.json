@@ -37,6 +37,7 @@
   "servings": 6,
   "slug": "simple-homemade-chili",
   "source": "https://www.budgetbytes.com/basic-chili/",
+  "tags": ["Beef", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -65,12 +66,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Soup",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Simple Homemade Chili"
 }

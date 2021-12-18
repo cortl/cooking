@@ -23,13 +23,12 @@
     "Adjust your oven's rack so that the skillet will be about 6 inches from the broiler unit and turn the broiler on to high. Transfer the skillet to the oven and broil for about 5 minutes, or just until the BBQ sauce caramelizes on the edges of the chicken and pineapple. If you don't have an oven safe skillet** you can transfer the chicken, pineapple, and ALL of the sauce to a casserole dish for broiling, or skip the broiling step and enjoy as is.",
     "After broiling, sprinkle the sliced jalapeño and green onion over top, and then serve."
   ],
-  "notes": [
-    "don't forget to broil"
-  ],
+  "notes": ["don't forget to broil"],
   "rating": 6,
   "servings": 6,
   "slug": "skillet-pineapple-bbq-chicken",
   "source": "https://www.budgetbytes.com/2017/09/skillet-pineapple-bbq-chicken/",
+  "tags": ["Poultry", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -58,11 +57,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Skillet Pineapple BBQ Chicken"
 }

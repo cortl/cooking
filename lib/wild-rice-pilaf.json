@@ -29,13 +29,12 @@
     "When the rice has finished cooking, add it to the skillet with the apples, celery, and onion. Also add the chopped walnuts, cranberries, and chopped parsley. Stir until everything is evenly combined.",
     "Taste the pilaf and adjust the salt or seasonings to your liking. Serve hot."
   ],
-  "notes": [
-    "Big fall energy 🍁"
-  ],
+  "notes": ["Big fall energy 🍁"],
   "rating": 8,
   "servings": 4,
   "slug": "wild-rice-pilaf",
   "source": "https://www.budgetbytes.com/wild-rice-pilaf/",
+  "tags": ["Vegetarian", "Appetizer", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -64,12 +63,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Appetizer",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Wild Rice Pilaf"
 }

@@ -13,15 +13,13 @@
       ]
     }
   ],
-  "instructions": [
-    "Mash the avocado fully",
-    "Mix in everything else"
-  ],
+  "instructions": ["Mash the avocado fully", "Mix in everything else"],
   "notes": [],
   "rating": 8,
   "servings": 0,
   "slug": "avocado-crema",
   "source": "https://fitmencook.com/",
+  "tags": ["Vegetarian", "Topping", "No Cook"],
   "time": [
     {
       "label": "Prep",
@@ -32,11 +30,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Topping",
-    "No Cook"
   ],
   "title": "Avocado Crema"
 }

@@ -28,13 +28,12 @@
     "Add the dry macaroni and two cups of beef broth to the pot and stir to combine. Place a lid on top, turn the heat up to high, and let the pot come to a boil. Once it reaches a boil, give it a quick stir to loosen any pasta stuck to the bottom of the pot, replace the lid, and turn the heat down to medium-low. Let the pot simmer on medium-low for about 15 minutes, or until the pasta is soft and has absorbed most of the liquid. Stir the pot one or two times during the 15 minutes to loosen any pasta stuck to the bottom.",
     "Once the pasta is fully cooked, turn the heat off and add the cheese. Stir the cheese into the pasta until it has melted in and become slightly creamy. Serve hot."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 6,
   "servings": 9,
   "slug": "snap-challenge-one-pot-chili-pasta",
   "source": "https://www.budgetbytes.com/2014/09/snap-challenge-one-pot-chili-pasta/",
+  "tags": ["Beef", "Dinner", "Pasta", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -63,12 +62,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Pasta",
-    "Stovetop"
   ],
   "title": "SNAP Challenge: One Pot Chili Pasta"
 }

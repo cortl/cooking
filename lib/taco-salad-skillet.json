@@ -30,13 +30,12 @@
     "Meanwhile, dice the tomato, slice the green onions, and shred the lettuce.",
     "Once the cheese is melted, turn off the heat. Top the skillet with the broken tortilla chips, lettuce, tomato, and green onion. Scoop the layered salad into each of four bowls, then add a dollop of sour cream to each serving."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 6,
   "servings": 4,
   "slug": "taco-salad-skillet",
   "source": "https://www.budgetbytes.com/2015/07/taco-salad-skillet/",
+  "tags": ["Beef", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -65,11 +64,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Taco Salad Skillet"
 }

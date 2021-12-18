@@ -4,11 +4,7 @@
   "ingredients": [
     {
       "category": "All",
-      "items": [
-        "2700ml Water",
-        "228g Granulated Sugar",
-        "8x Black Teabags"
-      ]
+      "items": ["2700ml Water", "228g Granulated Sugar", "8x Black Teabags"]
     }
   ],
   "instructions": [
@@ -25,6 +21,7 @@
   "servings": 4,
   "slug": "basic-kombucha",
   "source": "https://www.youtube.com/watch?v=sDpK0gl14fk&list=PLO5DT10UM-ctucnH2RQ-RqD6tSicb5jBt&index=6&t=0s",
+  "tags": ["Vegan", "Vegetarian", "Drink", "No Cook", "Fermenting"],
   "time": [
     {
       "label": "Cook",
@@ -44,13 +41,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Drink",
-    "No Cook",
-    "Fermenting"
   ],
   "title": "Basic Kombucha"
 }

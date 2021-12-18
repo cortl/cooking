@@ -44,6 +44,7 @@
   "servings": 4,
   "slug": "easy-homemade-french-onion-soup",
   "source": "https://www.youtube.com/watch?v=LIy6Bhg7nH8",
+  "tags": ["Vegetarian", "Soup", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -90,11 +91,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Soup",
-    "Stovetop"
   ],
   "title": "Easy Homemade French Onion Soup"
 }

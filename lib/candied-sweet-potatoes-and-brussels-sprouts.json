@@ -35,6 +35,7 @@
   "servings": 2,
   "slug": "candied-sweet-potatoes-and-roasted-brussels-sprouts",
   "source": "https://www.budgetbytes.com/wprm_print/recipe/59268",
+  "tags": ["Vegetarian", "Vegan", "Thanksgiving", "Appetizer", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -63,13 +64,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Vegan",
-    "Thanksgiving",
-    "Appetizer",
-    "Roasting"
   ],
   "title": "Candied Sweet Potatoes and Roasted Brussels Sprouts"
 }

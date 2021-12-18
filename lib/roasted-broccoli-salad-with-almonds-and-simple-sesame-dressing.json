@@ -39,6 +39,7 @@
   "servings": 2,
   "slug": "roasted-broccoli-salad-with-almonds-and-simple-sesame-dressing",
   "source": "https://www.budgetbytes.com/roasted-broccoli-salad-almonds-simple-sesame-dressing/",
+  "tags": ["Vegan", "Vegetarian", "Roasting", "Appetizer"],
   "time": [
     {
       "label": "Prep",
@@ -67,12 +68,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Roasting",
-    "Appetizer"
   ],
   "title": "Roasted Broccoli Salad with Almonds and Simple Sesame Dressing"
 }

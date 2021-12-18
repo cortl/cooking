@@ -58,6 +58,7 @@
   "servings": 4,
   "slug": "the-best-tamale-pie-with-braised-skirt-steak-charred-corn-and-brown-butter-cornbread-crust-recipe",
   "source": "https://www.seriouseats.com/recipes/2015/01/best-tamale-pie-braised-skirt-steak-beef-charred-corn-brown-butter-cornbread-crust-recipe.html",
+  "tags": ["Beef", "Dinner", "Meal Prep", "Baking", "Roasting"],
   "time": [
     {
       "label": "Active",
@@ -77,13 +78,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Meal Prep",
-    "Baking",
-    "Roasting"
   ],
   "title": "The Best Tamale Pie With Braised Skirt Steak, Charred Corn, and Brown Butter Cornbread Crust Recipe"
 }

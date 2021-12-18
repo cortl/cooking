@@ -21,13 +21,12 @@
     "Place a half cup of the filling on one side of each tortilla and fold over. Cook in a skillet on both sides over medium heat until brown and crispy and the cheesy filling has melted.",
     "To freeze the quesadillas, simply fill each one and place on a baking sheet lined with parchment paper. Place in the freezer for one hour to solidify the quesadillas and then transfer to a freezer bag. To reheat either microwave (for a soft quesadilla) or cook in a skillet on low heat (make sure to use low heat so that the filling has time to thaw and melt before the outside burns)."
   ],
-  "notes": [
-    "Added 93% groundbeef, dense af"
-  ],
+  "notes": ["Added 93% groundbeef, dense af"],
   "rating": 8,
   "servings": 10,
   "slug": "hearty-black-bean-quesadillas",
   "source": "https://www.budgetbytes.com/2012/02/hearty-black-bean-quesadillas/",
+  "tags": ["Vegan", "Vegetarian", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -56,13 +55,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
   ],
   "title": "Hearty Black Bean Quesadillas"
 }

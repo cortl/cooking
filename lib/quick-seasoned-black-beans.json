@@ -18,13 +18,12 @@
     "Add the diced jalapeño and minced garlic to a small sauce pot with the cooking oil and cumin. Sauté over medium heat for about one minute.",
     "Add the beans (do not drain) and bring to a simmer over medium to heat through. Taste and season with salt if needed. Serve hot."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 7,
   "servings": 6,
   "slug": "quick-seasoned-black-beans",
   "source": "https://www.budgetbytes.com/quick-seasoned-black-beans/",
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Stovetop", "Quick"],
   "time": [
     {
       "label": "Prep",
@@ -53,13 +52,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Stovetop",
-    "Quick"
   ],
   "title": "Quick Seasoned Black Beans"
 }

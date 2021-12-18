@@ -22,13 +22,12 @@
     "In a separate saucepan, melt butter over medium-low heat. Whisk in flour with a fork, and cook, stirring constantly until thick, about 1 minute. Slowly stir in milk as not to allow lumps to form until all of the milk has been added. Continue stirring over medium-low heat until thick, 4 to 5 minutes.                            ",
     "Stir the milk mixture into the stockpot, and cook soup until heated through. Serve immediately.                            "
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 6,
   "servings": 8,
   "slug": "delicious-ham-and-potato-soup",
   "source": "http://allrecipes.com/recipe/56927/delicious-ham-and-potato-soup/",
+  "tags": ["Soup", "Pork", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -57,12 +56,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Soup",
-    "Pork",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Delicious Ham and Potato Soup"
 }

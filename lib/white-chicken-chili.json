@@ -42,6 +42,7 @@
   "servings": 6,
   "slug": "white-chicken-chili",
   "source": "https://www.thechunkychef.com/slow-cooker-creamy-white-chicken-chili/",
+  "tags": ["Poultry", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -70,12 +71,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Soup",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "White Chicken Chili"
 }

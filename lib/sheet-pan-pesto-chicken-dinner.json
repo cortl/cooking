@@ -27,13 +27,12 @@
     "Spread 1 Tbsp pesto over top of each piece of chicken. Slice the mozzarella into thick slices, then place one over each piece of chicken. Change the setting on the oven from bake to broil and return the sheet pan to the oven. Let the chicken broil for 3-5 minutes, or until the cheese is melted and slightly browned. Watch the chicken closely as it broils because it will cook very quickly under the broiler.",
     "Toss the spring mix with the dressing, then divide between four plates. Add one piece of pesto chicken to each plate, then top the chicken with a few of the roasted tomatoes. Divide the roasted potatoes between the four plates, then serve."
   ],
-  "notes": [
-    "used spring salad mix w/ raspberry vinagrette, primo"
-  ],
+  "notes": ["used spring salad mix w/ raspberry vinagrette, primo"],
   "rating": 8,
   "servings": 4,
   "slug": "sheet-pan-pesto-chicken-dinner",
   "source": "https://www.budgetbytes.com/sheet-pan-pesto-chicken-dinner/",
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -62,12 +61,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Roasting"
   ],
   "title": "Sheet Pan Pesto Chicken Dinner"
 }

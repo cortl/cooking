@@ -39,6 +39,7 @@
   "servings": 4,
   "slug": "chipotle-lime-chicken-and-rice",
   "source": "https://www.budgetbytes.com/chipotle-lime-chicken-and-rice/",
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -67,12 +68,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
   ],
   "title": "Chipotle Lime Chicken and Rice"
 }

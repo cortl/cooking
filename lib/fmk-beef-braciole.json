@@ -43,13 +43,12 @@
     "Once the onions have softened, pour in red wine and reduce the liquid by half.  Scrape the bottom of the pot using a wooden spatula in order to remove pieces of beef.  Pour in the cans of whole crushed tomatoes.  Reduce the heat to a gentle simmer, then cover and cook for at least 20 minutes, or until the whole tomatoes have softened and can be easily crushed with the spatula to create paste.",
     "After 20 minutes, crush the whole tomatoes in the skillet using a spatula to create a thicker tomato sauce.  Nestle the beef into the sauce, then partially cover and cook for at least 30 minutes."
   ],
-  "notes": [
-    "Not that great for how much effort it is."
-  ],
+  "notes": ["Not that great for how much effort it is."],
   "rating": 5,
   "servings": 4,
   "slug": "fmk-beef-braciole",
   "source": "https://fitmencook.com/beef-braciole-recipe/",
+  "tags": ["Beef", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -82,11 +81,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Beef Braciole"
 }

@@ -28,6 +28,7 @@
   "servings": 4,
   "slug": "sesame-roasted-green-beans",
   "source": "https://www.budgetbytes.com/sesame-roasted-green-beans/",
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -56,12 +57,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Roasting"
   ],
   "title": "Sesame Roasted Green Beans"
 }

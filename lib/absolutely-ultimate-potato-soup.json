@@ -28,6 +28,7 @@
   "servings": 8,
   "slug": "absolutely-ultimate-potato-soup",
   "source": "http://allrecipes.com/recipe/13218/absolutely-ultimate-potato-soup/",
+  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -57,6 +58,5 @@
       ]
     }
   ],
-  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
   "title": "Absolutely Ultimate Potato Soup"
 }

@@ -35,13 +35,12 @@
     "Drain the water and add ¼ cup of milk and butter. Mash until smooth⁣⁣",
     "Divide your ingredients evenly between 4 containers."
   ],
-  "notes": [
-    "Good idea, but this chicken pot pie recipe sucks"
-  ],
+  "notes": ["Good idea, but this chicken pot pie recipe sucks"],
   "rating": 6,
   "servings": 4,
   "slug": "deconstructed-chicken-pot-pie",
   "source": "https://mealprepmanual.com/deconstructed-chicken-pot-pie-2/",
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -61,12 +60,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
   ],
   "title": "Deconstructed Chicken Pot Pie"
 }

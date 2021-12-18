@@ -35,6 +35,7 @@
   "servings": 4,
   "slug": "easy-pesto-chicken-and-vegetables",
   "source": "https://www.budgetbytes.com/easy-pesto-chicken-and-vegetables/",
+  "tags": ["Poultry", "Stovetop", "Quick", "Dinner", "Meal Prep"],
   "time": [
     {
       "label": "Prep",
@@ -63,13 +64,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Stovetop",
-    "Quick",
-    "Dinner",
-    "Meal Prep"
   ],
   "title": "Easy Pesto Chicken and Vegetables"
 }

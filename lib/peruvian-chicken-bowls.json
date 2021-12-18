@@ -50,10 +50,7 @@
     },
     {
       "category": "For Serving",
-      "items": [
-        "Aji verde sauce",
-        "Minced cilantro"
-      ]
+      "items": ["Aji verde sauce", "Minced cilantro"]
     }
   ],
   "instructions": [
@@ -72,6 +69,7 @@
   "servings": 4,
   "slug": "peruvian-chicken-bowls",
   "source": "https://www.reddit.com/r/recipes/comments/l6hxl6/peruvian_chicken_bowls_with_butterroasted_potatoes/",
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop", "Roasting"],
   "time": [
     {
       "label": "Prep",
@@ -113,13 +111,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop",
-    "Roasting"
   ],
   "title": "Peruvian Chicken Bowls"
 }

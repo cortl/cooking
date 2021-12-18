@@ -27,6 +27,7 @@
   "servings": 3,
   "slug": "mushroom-herb-gravy",
   "source": "https://www.budgetbytes.com/wprm_print/recipe/59346",
+  "tags": ["Vegetarian", "Topping", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -46,11 +47,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Vegetarian",
-    "Topping",
-    "Stovetop"
   ],
   "title": "Mushroom Herb Gravy"
 }

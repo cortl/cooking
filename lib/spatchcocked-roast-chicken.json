@@ -29,13 +29,12 @@
     "Meanwhile, heat remaining 1 tablespoon (15ml) oil in a small saucepan over high heat until shimmering. Add chicken backbone and cook, stirring frequently, until well browned, about 3 minutes. Add onion, carrot, and celery and cook, stirring frequently, until beginning to brown, about 3 minutes. Add bay leaf and deglaze with vermouth or sherry and 1 cup (240ml) water, using a wooden spoon to scrape up any browned bits from bottom of pan. Reduce heat to maintain simmer and cook for 20 minutes. Strain out solids and return liquid to pan. Boil over medium-high heat until approximately 1/3 cup (80ml) remains, about 7 minutes. Whisk in soy sauce, butter, and lemon juice off heat. Season to taste with salt and pepper.",
     "Remove chicken from oven, transfer to cutting board, tent loosely with foil, and allow to rest 5 minutes before carving. Serve with hot jus."
   ],
-  "notes": [
-    "Didn't try the au jus, but 🤌"
-  ],
+  "notes": ["Didn't try the au jus, but 🤌"],
   "rating": 8,
   "servings": 4,
   "slug": "spatchcocked-roast-chicken",
   "source": "https://www.seriouseats.com/butterflied-roasted-chicken-with-quick-jus-recipe",
+  "tags": ["Poultry", "Dinner", "Roasting"],
   "time": [
     {
       "label": "Active",
@@ -55,11 +54,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Roasting"
   ],
   "title": "Spatchcocked Roast Chicken"
 }

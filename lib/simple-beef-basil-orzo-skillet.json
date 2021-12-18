@@ -37,6 +37,7 @@
   "servings": 4,
   "slug": "simple-beef-basil-orzo-skillet",
   "source": "https://www.reddit.com/r/recipes/comments/a76phm/simple_beef_basil_and_orzo_skillet/",
+  "tags": ["Beef", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -65,12 +66,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
   ],
   "title": "Simple Beef, Basil, and Orzo Skillet"
 }

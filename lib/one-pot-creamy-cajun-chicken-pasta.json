@@ -32,13 +32,12 @@
     "Once boiling, turn the heat down to medium-low and let the pasta simmer for about ten minutes, stirring every couple of minutes, until the pasta is tender and the liquid is thick and saucy.",
     "Add the cream cheese to the skillet in chunks, then stir until it has melted into the sauce. Top the pasta with sliced green onions and serve."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 6,
   "servings": 4,
   "slug": "one-pot-creamy-cajun-chicken-pasta",
   "source": "https://www.budgetbytes.com/one-pot-creamy-cajun-chicken-pasta",
+  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
@@ -67,12 +66,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "One Pot Creamy Cajun Chicken Pasta"
 }

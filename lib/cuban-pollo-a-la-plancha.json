@@ -30,13 +30,12 @@
     "In the same skillet that you cooked the chicken, add more oil if the pan is dry and heat over medium-high heat until shimmering. Add the onion rings, season with salt, and sauté until the onions have softened a bit and started to brown, 7 to 10 minutes; lower heat and/or add a small splash of water if the contents of the pan threaten to burn.",
     "Arrange cutlets on serving plates and top with browned onions. Serve with black beans and rice and garnish with cilantro leaves and lime wedges."
   ],
-  "notes": [
-    ""
-  ],
+  "notes": [""],
   "rating": 7,
   "servings": 4,
   "slug": "cuban-pollo-a-la-plancha",
   "source": "https://www.seriouseats.com/recipes/2020/04/cuban-style-pollo-a-la-plancha-marinated-and-griddled-chicken.html",
+  "tags": ["Poultry", "Meal Prep", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Active",
@@ -60,12 +59,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Poultry",
-    "Meal Prep",
-    "Dinner",
-    "Stovetop"
   ],
   "title": "Cuban-Style Pollo a la Plancha"
 }

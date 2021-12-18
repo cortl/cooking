@@ -24,13 +24,12 @@
     "Toss the fried shrimp in the sauce",
     "Put the greens in a bowl, top with the shrimp, and garnish with the green onions"
   ],
-  "notes": [
-    "Pretty rich, shrimp dont take long to cook, 1-2 min"
-  ],
+  "notes": ["Pretty rich, shrimp dont take long to cook, 1-2 min"],
   "rating": 8,
   "servings": 4,
   "slug": "firecracker-shrimp",
   "source": "https://www.reddit.com/r/recipes/comments/8sk5wf/firecracker_shrimp/",
+  "tags": ["Fish", "Frying", "Dinner"],
   "time": [
     {
       "label": "Prep",
@@ -50,11 +49,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Fish",
-    "Frying",
-    "Dinner"
   ],
   "title": "Firecracker Shrimp"
 }

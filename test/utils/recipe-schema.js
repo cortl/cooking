@@ -49,24 +49,24 @@ const TAGS = [
   "Fermenting",
   "Pressure Cooker",
   "Seasoning Blend",
-  "Grilling"
+  "Grilling",
 ];
 
 const Joi = joi.extend({
   type: "file",
   validate: (value) => {
     if (value === "") {
-      return {value, errors: [new Error(`image field was empty`)]};
+      return { value, errors: [new Error(`image field was empty`)] };
     }
     const imagePath = path.normalize(`lib/${value}`);
     const exists = fs.existsSync(imagePath);
 
     return exists
-      ? {value, errors: []}
+      ? { value, errors: [] }
       : {
-        value,
-        errors: [new Error(`${imagePath} does note exist`)],
-      };
+          value,
+          errors: [new Error(`${imagePath} does note exist`)],
+        };
   },
 });
 
@@ -77,14 +77,13 @@ const schema = Joi.object({
   slug: Joi.string(),
   source: Joi.string(),
   createdDate: Joi.date(),
-  instructions: Joi.array().items(Joi.string())
-    .min(1)
-    .required(),
+  instructions: Joi.array().items(Joi.string()).min(1).required(),
   notes: Joi.array().items(Joi.string().allow("")),
-  ingredients: Joi.array().items({
-    category: Joi.string().allow(""),
-    items: Joi.array().items(Joi.string()),
-  })
+  ingredients: Joi.array()
+    .items({
+      category: Joi.string().allow(""),
+      items: Joi.array().items(Joi.string()),
+    })
     .min(1)
     .required(),
   tags: Joi.array()
