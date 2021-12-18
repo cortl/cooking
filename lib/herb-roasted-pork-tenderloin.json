@@ -21,7 +21,9 @@
     "Place the pork tenderloin on a baking sheet or baking dish. Rub the oil and herb mix over the entire surface of the pork, including the underside.",
     "Place the baking dish in the preheated oven and roast the pork for about 35 minutes, or until the internal temperature reads at least 145ºF. Allow the pork to rest at room temperature for 10 minutes before slicing and serving."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "herb-roasted-pork-tenderloin",
@@ -54,6 +56,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Pork",
+    "Dinner",
+    "Roasting"
   ],
   "title": "Herb Roasted Pork Tenderloin"
 }

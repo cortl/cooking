@@ -25,7 +25,9 @@
     "Drain the canned green chiles and stir them into the cheese sauce along with the cumin, crushed red pepper, and salt. Taste and adjust the seasoning to your liking. Make sure it is heavily seasoned as the flavor will dilute slightly when mixed with the pasta.",
     "Finally, combine the cooked and drained pasta with the green chile cheese sauce. Serve hot."
   ],
-  "notes": ["Use the 3rds method to make this, evap milk/pasta/cheese"],
+  "notes": [
+    "Use the 3rds method to make this, evap milk/pasta/cheese"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "green-chile-mac-and-cheese",
@@ -58,6 +60,14 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "Pasta",
+    "Quick",
+    "Appetizer",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Green Chile Mac and Cheese"
 }

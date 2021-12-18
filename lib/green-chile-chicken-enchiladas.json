@@ -41,7 +41,9 @@
     "Begin assembling the enchiladas. Add about ¼ cup of the prepared filling to the center of each tortilla and then roll it closed. Place the filled tortillas in a casserole dish, seam side down.",
     "Pour the prepared green chile enchilada sauce over the enchiladas, then top with the remaining shredded pepper jack cheese. Bake in the preheated oven for 30 minutes, or until the sauce is bubbling around the edges. Serve hot."
   ],
-  "notes": ["leave the edges unsauced so they get crispy"],
+  "notes": [
+    "leave the edges unsauced so they get crispy"
+  ],
   "rating": 7,
   "servings": 6,
   "slug": "green-chile-chicken-enchiladas",
@@ -74,6 +76,12 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Baking",
+    "Stovetop"
   ],
   "title": "Green Chile Chicken Enchiladas"
 }
