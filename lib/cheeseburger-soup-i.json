@@ -1,4 +1,5 @@
 {
+  "archived": true,
   "ingredients": [
     {
       "category": "All",
@@ -32,7 +33,12 @@
   "servings": 8,
   "slug": "cheeseburger-soup-i",
   "source": "https://www.allrecipes.com/recipe/13062/cheeseburger-soup-i/",
-  "tags": ["Beef", "Soup", "Dinner", "Stovetop"],
+  "tags": [
+    "Beef",
+    "Soup",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

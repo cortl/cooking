@@ -1,4 +1,5 @@
 {
+  "archived": false,
   "createdDate": "01/01/2020",
   "image": "file name, if applicable",
   "ingredients": [
@@ -19,6 +20,11 @@
   "servings": "serving size as a number",
   "slug": "page url",
   "source": "source of the recipe, if possible",
+  "tags": [
+    "Dinner",
+    "Slow Cooker",
+    "etc"
+  ],
   "time": [
     {
       "label": "Prep",
@@ -47,11 +53,6 @@
         }
       ]
     }
-  ],
-  "tags": [
-    "Dinner",
-    "Slow Cooker",
-    "etc"
   ],
   "title": "Recipe name"
 }

@@ -111,6 +111,7 @@ const schema = Joi.object({
   createdDate: Joi.date().optional(),
   instructions: Joi.array().items(Joi.string()).min(1).required(),
   notes: Joi.array().items(Joi.string()).required(),
+  archived: Joi.boolean().optional(),
   ingredients: Joi.array()
     .items({
       category: Joi.string().allow(""),

@@ -12,12 +12,19 @@
   "instructions": [
     "In a medium saucepan combine whipping cream, butter or margarine, and grated Parmesan cheese. Cook over medium low heat until smooth. Remove from heat. Sauce will thicken upon standing.                            "
   ],
-  "notes": ["heavy, but dank"],
+  "notes": [
+    "heavy, but dank"
+  ],
   "rating": 6,
   "servings": 8,
-  "slug": "easy-alfredo-sauce-i",
+  "slug": "alfredo-sauce",
   "source": "http://allrecipes.com/recipe/11945/easy-alfredo-sauce-i/",
-  "tags": ["Vegetarian", "Pasta", "Dinner", "Stovetop"],
+  "tags": [
+    "Vegetarian",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Cook",
@@ -38,5 +45,5 @@
       ]
     }
   ],
-  "title": "Easy Alfredo Sauce I"
+  "title": "Alfredo Sauce"
 }
