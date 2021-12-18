@@ -1,41 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 25,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "reddit-zuppa-toscana",
-  "title": "Reddit Zuppa Toscana",
-  "rating": 8,
-  "notes": [
-    "Much better than the other recipe I've been using although a bit more involved.  I used 1/2 cornstarch and also used heavy whipping cream"
-  ],
   "createdDate": "12/11/2019",
-  "source": "https://www.reddit.com/r/recipes/comments/9idkpg/zuppa_toscana_soup_aka_better_than_olive_gardens/",
   "image": "../images/reddit-zuppa-toscana.jpg",
   "ingredients": [
     {
@@ -66,5 +30,41 @@
     "Taste your delicious broth and add salt/pepper to taste.",
     "Add chopped kale and stir. It should wilt within a couple minutes. Once it’s wilted, dish up that soup, top with the reserved bacon, and enjoy!"
   ],
-  "servings": 6
+  "notes": [
+    "Much better than the other recipe I've been using although a bit more involved.  I used 1/2 cornstarch and also used heavy whipping cream"
+  ],
+  "rating": 8,
+  "servings": 6,
+  "slug": "reddit-zuppa-toscana",
+  "source": "https://www.reddit.com/r/recipes/comments/9idkpg/zuppa_toscana_soup_aka_better_than_olive_gardens/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Reddit Zuppa Toscana"
 }

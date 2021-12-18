@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 25,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "sheet-pan-bbq-meatballs",
-  "title": "Sheet Pan BBQ Meatballs",
-  "servings": 4,
+  "createdDate": "3/28/2021",
   "image": "../images/sheet-pan-bbq-meatballs.jpg",
-  "rating": 6,
-  "notes": [
-    "Meatballs are good, peppers/onions was meh"
-  ],
-  "source": "https://www.budgetbytes.com/sheet-pan-bbq-meatballs/",
   "ingredients": [
     {
       "category": "Meatballs",
@@ -74,5 +38,39 @@
     "Remove the sheet pan with the meatballs and use the brush to lightly coat the meatballs with the remaining 2 Tbsp BBQ sauce. Return the sheet pan to the oven. Finish roasting both sheet pans for an additional 10 minutes.",
     "After the meatballs, peppers, onions, and pineapple have finished roasting, it's time to serve! Fluff the rice with a fork, then add about ¾ cup rice to each bowl or meal prep container. Divide the meatballs, peppers, onions, and pineapple slices between the four bowls. Top with sliced green onion, then enjoy! "
   ],
-  "createdDate": "3/28/2021"
+  "notes": ["Meatballs are good, peppers/onions was meh"],
+  "rating": 6,
+  "servings": 4,
+  "slug": "sheet-pan-bbq-meatballs",
+  "source": "https://www.budgetbytes.com/sheet-pan-bbq-meatballs/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Sheet Pan BBQ Meatballs"
 }

@@ -1,4 +1,42 @@
 {
+  "createdDate": "9/12/2020",
+  "image": "../images/one-pot-lemon-artichoke-chicken-and-rice.jpg",
+  "ingredients": [
+    {
+      "category": "",
+      "items": [
+        "1 fresh lemon",
+        "1 lb. Kirkwood Fresh Chicken Breasts (boneless, skinless)",
+        "2 Tbsp Carlini Extra Virgin Olive Oil",
+        "4 cloves garlic",
+        "1 tsp Stonemill Dried Oregano",
+        "1/4 tsp Stonemill Crushed Red Pepper",
+        "¼  tsp salt",
+        "1 12oz. jar Tuscan Garden Quartered Artichoke Hearts",
+        "1 cup Earthly Grains Long Grain White Rice",
+        "1.5 cups Chef's Cupboard Chicken Broth",
+        "1 oz. Emporium Selection Feta Cheese Crumbles"
+      ]
+    },
+    {
+      "category": "Optional Garnish",
+      "items": ["2 Tbsp chopped parsley"]
+    }
+  ],
+  "instructions": [
+    "Zest and juice the lemon. You'll need about 2 Tbsp lemon juice and ½ tsp lemon zest (plus some for garnish). ",
+    "Drain and roughly chop the artichoke hearts. Mince the garlic. Cut the chicken breast into ½-inch pieces. ",
+    "Add the olive oil to a deep skillet or Dutch oven and heat over medium. Once hot, add the chicken pieces and sauté over medium for about 2 minutes (it will not be fully cooked at this point).",
+    "Add the minced garlic, oregano, red pepper, and salt to the skillet with the chicken. Continue to sauté for about one minute more.",
+    "Finally, add the artichoke hearts, uncooked rice, chicken broth, 2 Tbsp lemon juice, and ½ tsp lemon zest to the skillet. Stir briefly to combine, place a lid on top, then turn the heat up to medium-high. ",
+    "Allow the broth to come up to a full boil, then turn the heat down to low or just above low to reduce the broth to a simmer. Let the chicken and rice simmer for 15 minutes without lifting the lid or stirring. After 15 minutes, remove the skillet from the heat and let it rest, undisturbed, for five minutes more.",
+    "Finally, lift the lid, fluff the rice with a fork, and gently redistribute the chicken and artichoke hearts throughout the rice. Top the skillet with crumbled feta, another pinch of lemon zest, and chopped parsley (if desired). Serve hot and enjoy!"
+  ],
+  "notes": ["Pretty good for a one pot meal"],
+  "rating": 7,
+  "servings": 4,
+  "slug": "one-pot-lemon-artichoke-chicken-and-rice",
+  "source": "https://www.budgetbytes.com/one-pot-lemon-artichoke-chicken-and-rice/",
   "time": [
     {
       "label": "Prep",
@@ -28,47 +66,5 @@
       ]
     }
   ],
-  "slug": "one-pot-lemon-artichoke-chicken-and-rice",
-  "title": "One Pot Lemon Artichoke Chicken and Rice",
-  "image": "../images/one-pot-lemon-artichoke-chicken-and-rice.jpg",
-  "rating": 7,
-  "notes": [
-    "Pretty good for a one pot meal"
-  ],
-  "source": "https://www.budgetbytes.com/one-pot-lemon-artichoke-chicken-and-rice/",
-  "ingredients": [
-    {
-      "category": "",
-      "items": [
-        "1 fresh lemon",
-        "1 lb. Kirkwood Fresh Chicken Breasts (boneless, skinless)",
-        "2 Tbsp Carlini Extra Virgin Olive Oil",
-        "4 cloves garlic",
-        "1 tsp Stonemill Dried Oregano",
-        "1/4 tsp Stonemill Crushed Red Pepper",
-        "¼  tsp salt",
-        "1 12oz. jar Tuscan Garden Quartered Artichoke Hearts",
-        "1 cup Earthly Grains Long Grain White Rice",
-        "1.5 cups Chef's Cupboard Chicken Broth",
-        "1 oz. Emporium Selection Feta Cheese Crumbles"
-      ]
-    },
-    {
-      "category": "Optional Garnish",
-      "items": [
-        "2 Tbsp chopped parsley"
-      ]
-    }
-  ],
-  "instructions": [
-    "Zest and juice the lemon. You'll need about 2 Tbsp lemon juice and ½ tsp lemon zest (plus some for garnish). ",
-    "Drain and roughly chop the artichoke hearts. Mince the garlic. Cut the chicken breast into ½-inch pieces. ",
-    "Add the olive oil to a deep skillet or Dutch oven and heat over medium. Once hot, add the chicken pieces and sauté over medium for about 2 minutes (it will not be fully cooked at this point).",
-    "Add the minced garlic, oregano, red pepper, and salt to the skillet with the chicken. Continue to sauté for about one minute more.",
-    "Finally, add the artichoke hearts, uncooked rice, chicken broth, 2 Tbsp lemon juice, and ½ tsp lemon zest to the skillet. Stir briefly to combine, place a lid on top, then turn the heat up to medium-high. ",
-    "Allow the broth to come up to a full boil, then turn the heat down to low or just above low to reduce the broth to a simmer. Let the chicken and rice simmer for 15 minutes without lifting the lid or stirring. After 15 minutes, remove the skillet from the heat and let it rest, undisturbed, for five minutes more.",
-    "Finally, lift the lid, fluff the rice with a fork, and gently redistribute the chicken and artichoke hearts throughout the rice. Top the skillet with crumbled feta, another pinch of lemon zest, and chopped parsley (if desired). Serve hot and enjoy!"
-  ],
-  "createdDate": "9/12/2020",
-  "servings": 4
+  "title": "One Pot Lemon Artichoke Chicken and Rice"
 }

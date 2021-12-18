@@ -1,4 +1,31 @@
 {
+  "image": "../images/will-it-skillet-mac-and-cheese.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2 tsp salt ",
+        "2 cups elbow macaroni* ",
+        "2 Tbsp butter ",
+        "3/4 cup evaporated milk ",
+        "1/2 tsp Dijon mustard ",
+        " Pinch of cayenne pepper ",
+        "1.5 cups shredded sharp cheddar "
+      ]
+    }
+  ],
+  "instructions": [
+    "Fill the skillet two-thirds full of water, add the salt, and bring to a boil over medium-high heat.",
+    "Add the macaroni, turn the heat to medium, and cook, stirring occasionally, until just shy of al dente. This should take about 10 minutes, but check the pasta package for recommended cooking times and aim for the lower end if a range is given. (The macaroni will continue to cook a bit in the sauce.) When the macaroni is ready, biting into a piece should reveal a very thin core of uncooked pasta.",
+    "Drain the macaroni and return it to the skillet. Turn the heat to low. Add the butter and stir until it melts.",
+    "Add the evaporated milk, mustard, and cayenne and stir well to combine. Add the cheese in three batches, stirring frequently as each batch is added and waiting until the cheese has melted before adding the next batch. After about 5 minutes total, the sauce will be smooth and noticeably thicker.",
+    "Serve hot. Leftovers can be refrigerated in a covered container for up to 2 days."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 2,
+  "slug": "will-it-skillet-mac-and-cheese",
+  "source": "https://www.budgetbytes.com/will-skillet-mac-cheese/",
   "time": [
     {
       "label": "Prep",
@@ -28,34 +55,5 @@
       ]
     }
   ],
-  "slug": "will-it-skillet-mac-and-cheese",
-  "title": "Will It Skillet? Mac and Cheese",
-  "image": "../images/will-it-skillet-mac-and-cheese.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/will-skillet-mac-cheese/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1/2 tsp salt ",
-        "2 cups elbow macaroni* ",
-        "2 Tbsp butter ",
-        "3/4 cup evaporated milk ",
-        "1/2 tsp Dijon mustard ",
-        " Pinch of cayenne pepper ",
-        "1.5 cups shredded sharp cheddar "
-      ]
-    }
-  ],
-  "instructions": [
-    "Fill the skillet two-thirds full of water, add the salt, and bring to a boil over medium-high heat.",
-    "Add the macaroni, turn the heat to medium, and cook, stirring occasionally, until just shy of al dente. This should take about 10 minutes, but check the pasta package for recommended cooking times and aim for the lower end if a range is given. (The macaroni will continue to cook a bit in the sauce.) When the macaroni is ready, biting into a piece should reveal a very thin core of uncooked pasta.",
-    "Drain the macaroni and return it to the skillet. Turn the heat to low. Add the butter and stir until it melts.",
-    "Add the evaporated milk, mustard, and cayenne and stir well to combine. Add the cheese in three batches, stirring frequently as each batch is added and waiting until the cheese has melted before adding the next batch. After about 5 minutes total, the sauce will be smooth and noticeably thicker.",
-    "Serve hot. Leftovers can be refrigerated in a covered container for up to 2 days."
-  ],
-  "servings": 2
+  "title": "Will It Skillet? Mac and Cheese"
 }

@@ -1,4 +1,34 @@
 {
+  "image": "../images/spinach-tomato-feta-cheese-stuffed-chicken-breast.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "6 oz chicken breast",
+        "1/2 cup spinach",
+        "1 small whole (2-2/5\" dia) tomato, diced",
+        "2 oz reduced-fat feta cheese",
+        "1/2 cup brown rice"
+      ]
+    }
+  ],
+  "instructions": [
+    "Set oven to 375 degrees F.",
+    "Slice the chicken breast down the middle to make it look like a butterfly; be careful not to slice all the way through the chicken breast.",
+    "Season the chicken breast with your choice of seasonings.",
+    "Open the chicken breast and, on one side, layer spinach, tomato slices, and feta cheese.",
+    "Fold the chicken breast like a sandwich and use toothpicks to hold the chicken breast closed.",
+    "Bake for 18-20 minutes or until the chicken breast is completely cooked.",
+    "Cook brown rice and add garlic and diced onion for extra flavor.",
+    "Plate chicken and brown rice."
+  ],
+  "notes": [
+    "could leave out tomatoes and be fine, they dont reheat well, cover next time when cooking (maybe try pan cooking, ovens suck)"
+  ],
+  "rating": 7,
+  "servings": 1,
+  "slug": "spinach-tomato-feta-cheese-stuffed-chicken-breast",
+  "source": "https://www.bodybuilding.com/recipes/spinach-tomato-feta-cheese-stuffed-chicken-breast",
   "time": [
     {
       "label": "Prep",
@@ -28,35 +58,5 @@
       ]
     }
   ],
-  "slug": "spinach-tomato-feta-cheese-stuffed-chicken-breast",
-  "title": "Spinach Tomato Feta Cheese Stuffed Chicken Breast",
-  "rating": 7,
-  "notes": [
-    "could leave out tomatoes and be fine, they dont reheat well, cover next time when cooking (maybe try pan cooking, ovens suck)"
-  ],
-  "source": "https://www.bodybuilding.com/recipes/spinach-tomato-feta-cheese-stuffed-chicken-breast",
-  "image": "../images/spinach-tomato-feta-cheese-stuffed-chicken-breast.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "6 oz chicken breast",
-        "1/2 cup spinach",
-        "1 small whole (2-2/5\" dia) tomato, diced",
-        "2 oz reduced-fat feta cheese",
-        "1/2 cup brown rice"
-      ]
-    }
-  ],
-  "instructions": [
-    "Set oven to 375 degrees F.",
-    "Slice the chicken breast down the middle to make it look like a butterfly; be careful not to slice all the way through the chicken breast.",
-    "Season the chicken breast with your choice of seasonings.",
-    "Open the chicken breast and, on one side, layer spinach, tomato slices, and feta cheese.",
-    "Fold the chicken breast like a sandwich and use toothpicks to hold the chicken breast closed.",
-    "Bake for 18-20 minutes or until the chicken breast is completely cooked.",
-    "Cook brown rice and add garlic and diced onion for extra flavor.",
-    "Plate chicken and brown rice."
-  ],
-  "servings": 1
+  "title": "Spinach Tomato Feta Cheese Stuffed Chicken Breast"
 }

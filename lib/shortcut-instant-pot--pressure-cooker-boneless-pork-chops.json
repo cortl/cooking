@@ -1,4 +1,36 @@
 {
+  "image": "../images/shortcut-instant-pot--pressure-cooker-boneless-pork-chops.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "4 thick boneless center-cut pork chops (about 4 to 5 ounces each and at least 1-inch thick)",
+        "1 tablespoon oil",
+        "Salt and pepper to taste",
+        "1 packet onion soup mix (use your favorite flavor, I used Beefy Onion Soup Mix)**",
+        "1 can (8 ounces) mushrooms, drained",
+        "1/4 cup tomato paste (I use tomato paste in a tube)",
+        "2 cups water",
+        "2 tablespoons cornstarch",
+        "2 tablespoons cold water"
+      ]
+    }
+  ],
+  "instructions": [
+    "Generously season the pork chops with salt and pepper. Select Saute to preheat the pressure cooking pot. When hot, add the oil and brown the pork chops on both sides—do not crowd the pan.",
+    "When pork chops are browned, add 2 cups of water to the pressure cooking pot, and stir to scrape up any browned bits on the bottom of the pan.",
+    "Add the onion soup mix and tomato paste, and stir to combine. Lock the lid in place, select High Pressure and 15 minutes cook time.",
+    "When timer sounds, allow the pressure to release naturally for 10 minutes, then finish with a quick pressure release. Carefully remove the lid.",
+    "Remove the pork chops to a serving bowl. In a small bowl, combine cornstarch and cold water, stirring until well combined.",
+    "Select Saute and pour the cornstarch slurry into the pressure cooking pot, stirring constantly. Add the canned mushrooms to the gravy and stir until the gravy thickens. Turn off the pressure cooker.",
+    "Salt and pepper the gravy to taste.",
+    "Pour gravy over the pork chops in the serving bowl. Serve pork chops over prepared rice or mashed potatoes."
+  ],
+  "notes": ["decent pork chop meal"],
+  "rating": 7,
+  "servings": 4,
+  "slug": "shortcut-instant-pot--pressure-cooker-boneless-pork-chops",
+  "source": "https://www.pressurecookingtoday.com/shortcut-pressure-cooker-instant-pot-boneless-pork-chops/",
   "time": [
     {
       "label": "Prep",
@@ -37,39 +69,5 @@
       ]
     }
   ],
-  "slug": "shortcut-instant-pot--pressure-cooker-boneless-pork-chops",
-  "title": "Shortcut Instant Pot / Pressure Cooker Boneless Pork Chops",
-  "rating": 7,
-  "image": "../images/shortcut-instant-pot--pressure-cooker-boneless-pork-chops.jpg",
-  "notes": [
-    "decent pork chop meal"
-  ],
-  "source": "https://www.pressurecookingtoday.com/shortcut-pressure-cooker-instant-pot-boneless-pork-chops/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "4 thick boneless center-cut pork chops (about 4 to 5 ounces each and at least 1-inch thick)",
-        "1 tablespoon oil",
-        "Salt and pepper to taste",
-        "1 packet onion soup mix (use your favorite flavor, I used Beefy Onion Soup Mix)**",
-        "1 can (8 ounces) mushrooms, drained",
-        "1/4 cup tomato paste (I use tomato paste in a tube)",
-        "2 cups water",
-        "2 tablespoons cornstarch",
-        "2 tablespoons cold water"
-      ]
-    }
-  ],
-  "instructions": [
-    "Generously season the pork chops with salt and pepper. Select Saute to preheat the pressure cooking pot. When hot, add the oil and brown the pork chops on both sides—do not crowd the pan.",
-    "When pork chops are browned, add 2 cups of water to the pressure cooking pot, and stir to scrape up any browned bits on the bottom of the pan.",
-    "Add the onion soup mix and tomato paste, and stir to combine. Lock the lid in place, select High Pressure and 15 minutes cook time.",
-    "When timer sounds, allow the pressure to release naturally for 10 minutes, then finish with a quick pressure release. Carefully remove the lid.",
-    "Remove the pork chops to a serving bowl. In a small bowl, combine cornstarch and cold water, stirring until well combined.",
-    "Select Saute and pour the cornstarch slurry into the pressure cooking pot, stirring constantly. Add the canned mushrooms to the gravy and stir until the gravy thickens. Turn off the pressure cooker.",
-    "Salt and pepper the gravy to taste.",
-    "Pour gravy over the pork chops in the serving bowl. Serve pork chops over prepared rice or mashed potatoes."
-  ],
-  "servings": 4
+  "title": "Shortcut Instant Pot / Pressure Cooker Boneless Pork Chops"
 }

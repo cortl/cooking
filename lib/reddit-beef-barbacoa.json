@@ -1,4 +1,33 @@
 {
+  "image": "../images/reddit-beef-barbacoa.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "4 lbs beef brisket (or beef chuck roast will also work)",
+        "2 Tbsp vegetable oil",
+        "3 - 4 chipotle chilis in adobo",
+        "1¼ cups beef broth",
+        "4 teaspoons minced garlic",
+        "1½ Tbsp ground cumin",
+        "1 Tbsp dried oregano",
+        "¾ tsp salt, then more to taste",
+        "½ tsp ground black pepper",
+        "¼ tsp ground cloves",
+        "¼ cup fresh lime juice"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cut the beef into large cubes. In a large skillet over medium high heat add the vegetable oil and sear the beef on each side. Transfer to your slow cooker.",
+    "In a food processor add adobo chilis, beef broth, garlic, cumin, oregano, salt, pepper, cloves, and lime juice. Pulse until blended and pour on top of the meat.",
+    "Cook on low for 8-9 hours or high for 6 hours. Shred the meat with two forks and turn on warm."
+  ],
+  "notes": ["works great with pico"],
+  "rating": 6,
+  "servings": 6,
+  "slug": "reddit-beef-barbacoa",
+  "source": "https://www.reddit.com/r/slowcooking/comments/88mpyr/i_made_slow_cooker_barbacoa_tastes_exactly_like/",
   "time": [
     {
       "label": "Prep",
@@ -28,36 +57,5 @@
       ]
     }
   ],
-  "slug": "reddit-beef-barbacoa",
-  "title": "Reddit Beef Barbacoa",
-  "rating": 6,
-  "notes": [
-    "works great with pico"
-  ],
-  "source": "https://www.reddit.com/r/slowcooking/comments/88mpyr/i_made_slow_cooker_barbacoa_tastes_exactly_like/",
-  "image": "../images/reddit-beef-barbacoa.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "4 lbs beef brisket (or beef chuck roast will also work)",
-        "2 Tbsp vegetable oil",
-        "3 - 4 chipotle chilis in adobo",
-        "1¼ cups beef broth",
-        "4 teaspoons minced garlic",
-        "1½ Tbsp ground cumin",
-        "1 Tbsp dried oregano",
-        "¾ tsp salt, then more to taste",
-        "½ tsp ground black pepper",
-        "¼ tsp ground cloves",
-        "¼ cup fresh lime juice"
-      ]
-    }
-  ],
-  "instructions": [
-    "Cut the beef into large cubes. In a large skillet over medium high heat add the vegetable oil and sear the beef on each side. Transfer to your slow cooker.",
-    "In a food processor add adobo chilis, beef broth, garlic, cumin, oregano, salt, pepper, cloves, and lime juice. Pulse until blended and pour on top of the meat.",
-    "Cook on low for 8-9 hours or high for 6 hours. Shred the meat with two forks and turn on warm."
-  ],
-  "servings": 6
+  "title": "Reddit Beef Barbacoa"
 }

@@ -1,4 +1,39 @@
 {
+  "createdDate": "2/3/2021",
+  "image": "../images/chunky-ham-and-bean-soup.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 yellow onion",
+        "3 carrots",
+        "3 ribs celery",
+        "2 cloves garlic",
+        "1 lb. cooked ham",
+        "1 Tbsp cooking oil",
+        "3 15oz. cans cannellini beans",
+        "1/4 tsp dried thyme",
+        " freshly cracked black pepper",
+        "2 cups chicken broth (or more as needed)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Dice the onion, peel and slice the carrots, slice the celery, and mince the garlic.",
+    "Dice the ham into bite-sized chunks. Add the ham and cooking oil to a large soup pot. Sauté the ham for 3-5 minutes over medium heat, or until it achieves a decent amount of browning. Remove the browned ham to a clean bowl.",
+    "Add the onion, carrots, celery, and garlic to the pot in place of the ham. Sauté the vegetables for about 5 minutes over medium heat, or until the onions have softened. Allow the moisture released from the vegetables to help dissolve the browned bits of ham from the bottom of the soup pot as you stir.",
+    "While the vegetables are sautéing, add one of the three cans of beans to a blender, with the liquid from the can, and purée until smooth. Drain the remaining two cans of beans.",
+    "Add all three cans of beans (one puréed and two drained) to the soup pot with the vegetables. Also add 1/4 tsp dried thyme, some freshly cracked pepper (about 10 cranks of a pepper mill), and 2 cups chicken broth. Stir to combine, then turn the heat up to medium-high and allow the soup to come to a boil. ",
+    "Once it reaches a boil, turn the heat down to medium and allow the soup to continue to boil for 15 minutes, stirring occasionally. As the soup boils it will reduce and thicken. If the soup becomes too thick, add more chicken broth or water to achieve your desired soup consistency.",
+    "After the soup has boiled for 15 minutes and has thickened, stir the cooked ham back into the soup. Give the soup a taste and adjust the salt or pepper to your liking. I did not add any additional salt, but I did top each bowl with a little fresh pepper. Serve hot!"
+  ],
+  "notes": [
+    "Decent enough, would be better if served with biscuits. Gets real thick so definitely add some more broth next time"
+  ],
+  "rating": 6,
+  "servings": 4,
+  "slug": "chunky-ham-and-bean-soup",
+  "source": "https://www.budgetbytes.com/chunky-ham-and-bean-soup/",
   "time": [
     {
       "label": "Prep",
@@ -28,40 +63,5 @@
       ]
     }
   ],
-  "slug": "chunky-ham-and-bean-soup",
-  "title": "Chunky Ham and Bean Soup",
-  "servings": 4,
-  "image": "../images/chunky-ham-and-bean-soup.jpg",
-  "rating": 6,
-  "notes": [
-    "Decent enough, would be better if served with biscuits. Gets real thick so definitely add some more broth next time"
-  ],
-  "source": "https://www.budgetbytes.com/chunky-ham-and-bean-soup/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 yellow onion",
-        "3 carrots",
-        "3 ribs celery",
-        "2 cloves garlic",
-        "1 lb. cooked ham",
-        "1 Tbsp cooking oil",
-        "3 15oz. cans cannellini beans",
-        "1/4 tsp dried thyme",
-        " freshly cracked black pepper",
-        "2 cups chicken broth (or more as needed)"
-      ]
-    }
-  ],
-  "instructions": [
-    "Dice the onion, peel and slice the carrots, slice the celery, and mince the garlic.",
-    "Dice the ham into bite-sized chunks. Add the ham and cooking oil to a large soup pot. Sauté the ham for 3-5 minutes over medium heat, or until it achieves a decent amount of browning. Remove the browned ham to a clean bowl.",
-    "Add the onion, carrots, celery, and garlic to the pot in place of the ham. Sauté the vegetables for about 5 minutes over medium heat, or until the onions have softened. Allow the moisture released from the vegetables to help dissolve the browned bits of ham from the bottom of the soup pot as you stir.",
-    "While the vegetables are sautéing, add one of the three cans of beans to a blender, with the liquid from the can, and purée until smooth. Drain the remaining two cans of beans.",
-    "Add all three cans of beans (one puréed and two drained) to the soup pot with the vegetables. Also add 1/4 tsp dried thyme, some freshly cracked pepper (about 10 cranks of a pepper mill), and 2 cups chicken broth. Stir to combine, then turn the heat up to medium-high and allow the soup to come to a boil. ",
-    "Once it reaches a boil, turn the heat down to medium and allow the soup to continue to boil for 15 minutes, stirring occasionally. As the soup boils it will reduce and thicken. If the soup becomes too thick, add more chicken broth or water to achieve your desired soup consistency.",
-    "After the soup has boiled for 15 minutes and has thickened, stir the cooked ham back into the soup. Give the soup a taste and adjust the salt or pepper to your liking. I did not add any additional salt, but I did top each bowl with a little fresh pepper. Serve hot!"
-  ],
-  "createdDate": "2/3/2021"
+  "title": "Chunky Ham and Bean Soup"
 }

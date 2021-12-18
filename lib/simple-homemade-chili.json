@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 50,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "simple-homemade-chili",
-  "title": "Simple Homemade Chili",
-  "image": "../images/simple-homemade-chili.jpg",
-  "rating": 7,
-  "notes": [
-    "I would double this next time, used a whole bottle of modelo instead of one cup water, pretty tight"
-  ],
   "createdDate": "11/28/2018",
-  "source": "https://www.budgetbytes.com/basic-chili/",
+  "image": "../images/simple-homemade-chili.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -66,5 +30,41 @@
     "Drain the beans and add them to the pot along with the diced tomatoes, tomato paste, 1 cup water, and all of the ingredients for the chili seasoning. Stir until well combined. Place a lid on the pot and allow it to simmer over a low flame for at least 30 minutes, stirring occasionally (the flavor gets better the longer it simmers). ",
     "Give the chili one final taste, adjust the salt or seasonings if needed, then serve hot with your favorite toppings."
   ],
-  "servings": 6
+  "notes": [
+    "I would double this next time, used a whole bottle of modelo instead of one cup water, pretty tight"
+  ],
+  "rating": 7,
+  "servings": 6,
+  "slug": "simple-homemade-chili",
+  "source": "https://www.budgetbytes.com/basic-chili/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Simple Homemade Chili"
 }

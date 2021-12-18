@@ -1,41 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "simple-beef-basil-orzo-skillet",
-  "title": "Simple Beef, Basil, and Orzo Skillet",
-  "rating": 6,
-  "notes": [
-    "Would be better with fresh basil and lemon, mushrooms never re-heat well in a microwave"
-  ],
   "createdDate": "01/02/2019",
-  "source": "https://www.reddit.com/r/recipes/comments/a76phm/simple_beef_basil_and_orzo_skillet/",
   "image": "../images/simple-beef-basil-orzo-skillet.jpg",
   "ingredients": [
     {
@@ -66,5 +30,41 @@
     "Add the basil leaves, baby spinach, and lemon juice, and stir to combine. Cook for 5 more minutes or until the spinach is wilted. Taste and season with salt, pepper, and crushed red pepper.",
     "To Serve: Spoon the orzo into shallow bowls and garnish with the reserved basil leaves. Drizzle with a teaspoon of extra virgin olive oil and a sprinkle of flaky sea salt, if desired. Enjoy!"
   ],
-  "servings": 4
+  "notes": [
+    "Would be better with fresh basil and lemon, mushrooms never re-heat well in a microwave"
+  ],
+  "rating": 6,
+  "servings": 4,
+  "slug": "simple-beef-basil-orzo-skillet",
+  "source": "https://www.reddit.com/r/recipes/comments/a76phm/simple_beef_basil_and_orzo_skillet/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Simple Beef, Basil, and Orzo Skillet"
 }

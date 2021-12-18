@@ -1,41 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "blackened-salmon-with-zucchini",
-  "title": "Blackened Salmon with Zucchini",
+  "createdDate": "7/25/2020",
   "image": "../images/blackened-salmon-with-zucchini.jpg",
-  "rating": 7,
-  "notes": [
-    "left the skin on and it was still fine"
-  ],
-  "source": "https://www.budgetbytes.com/blackened-salmon-with-zucchini/",
   "ingredients": [
     {
       "category": "Cajun Seasoning",
@@ -68,6 +33,39 @@
     "Add the butter and cooking oil to a skillet and heat over medium-high. When the skillet is hot and the butter is melted and foaming, add the salmon pieces. Cook the salmon for 5-7 minutes on each side, or until a dark brown crust forms and the salmon is cooked through*.",
     "Remove the cooked fish to a clean plate. Add the sliced zucchini to the skillet in its place. Quickly sauté the zucchini in the residual butter and spices until it is tender. Serve the salmon and zucchini immediately."
   ],
-  "createdDate": "7/25/2020",
-  "servings": 4
+  "notes": ["left the skin on and it was still fine"],
+  "rating": 7,
+  "servings": 4,
+  "slug": "blackened-salmon-with-zucchini",
+  "source": "https://www.budgetbytes.com/blackened-salmon-with-zucchini/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Blackened Salmon with Zucchini"
 }

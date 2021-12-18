@@ -1,41 +1,4 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 35,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "tex-mex-chicken-meal-prep-bowls",
-  "title": "Tex Mex Chicken Meal Prep Bowls",
-  "rating": 7,
-  "notes": [
-    "lots of food, fairly diverse meal",
-    "cooking dried black beans in the instant pot for better flavor"
-  ],
-  "source": "https://www.fromvalerieskitchen.com/tex-mex-chicken-meal-prep-bowls/",
   "image": "../images/tex-mex-meal-prep-bowls.jpg",
   "ingredients": [
     {
@@ -67,5 +30,42 @@
     "Divide the cooked rice among the 4 meal prep containers. Sprinkle cilantro over rice (if desired). Add an even amount of the cooked chicken, cooked veggies, and black beans on top of the rice in the containers. Add a lime wedge and a topping container filled with your topping of choice.",
     "Cover and store in refrigerator. When ready to eat, reheat uncovered container in microwave for 1-1/2 to 2 minutes just until warm. Squeeze with lime juice and top with sour cream, salsa, or dressing of your choice."
   ],
-  "servings": 4
+  "notes": [
+    "lots of food, fairly diverse meal",
+    "cooking dried black beans in the instant pot for better flavor"
+  ],
+  "rating": 7,
+  "servings": 4,
+  "slug": "tex-mex-chicken-meal-prep-bowls",
+  "source": "https://www.fromvalerieskitchen.com/tex-mex-chicken-meal-prep-bowls/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Tex Mex Chicken Meal Prep Bowls"
 }

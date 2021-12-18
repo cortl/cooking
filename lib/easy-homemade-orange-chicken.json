@@ -1,41 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 25,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "easy-homemade-orange-chicken",
-  "title": "Easy Homemade Orange Chicken",
   "image": "../images/easy-homemade-orange-chicken.jpg",
-  "rating": 8,
-  "notes": [
-    "dank asf with chicken breasts"
-  ],
-  "source": "https://www.budgetbytes.com/2017/02/easy-orange-chicken/",
   "ingredients": [
     {
       "category": "All",
@@ -67,5 +31,39 @@
     "Turn the heat off under the skillet and pour on the prepared orange sauce. Stir to coat the chicken pieces in sauce.",
     "Serve the chicken and sauce over cooked rice, garnished with sliced green onions and any left over orange zest."
   ],
-  "servings": 4
+  "notes": ["dank asf with chicken breasts"],
+  "rating": 8,
+  "servings": 4,
+  "slug": "easy-homemade-orange-chicken",
+  "source": "https://www.budgetbytes.com/2017/02/easy-orange-chicken/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Easy Homemade Orange Chicken"
 }

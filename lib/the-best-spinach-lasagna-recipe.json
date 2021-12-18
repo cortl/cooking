@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 2,
-          "label": "hours"
-        }
-      ]
-    }
-  ],
-  "slug": "the-best-spinach-lasagna-recipe",
-  "title": "The Best Spinach Lasagna Recipe",
-  "servings": 8,
+  "createdDate": "12/24/2020",
   "image": "../images/the-best-spinach-lasagna-recipe.jpg",
-  "rating": 7,
-  "notes": [
-    "Incredibly rich -- I would reccomend halving it to reduce food waste and save a little bit of money (since this is an expensive recipe). It also took about 4 hours total to make/cook."
-  ],
-  "source": "https://www.seriouseats.com/recipes/2014/11/food-lab-creamy-cheesy-ultimate-spinach-lasagna-recipe.html",
   "ingredients": [
     {
       "category": "All",
@@ -66,5 +39,32 @@
     "Spread remaining spinach mixture evenly over the top. Sprinkle with remaining mozzarella and Comté cheese and drizzle with remaining white sauce. Spread into an even layer with a rubber spatula.",
     "Cover tightly with aluminum foil. Bake for 20 minutes. Remove foil and continue baking until bubble and lightly browned, about 20 minutes longer. Let rest at room temperature for 5 to 10 minutes, then slice and serve."
   ],
-  "createdDate": "12/24/2020"
+  "notes": [
+    "Incredibly rich -- I would reccomend halving it to reduce food waste and save a little bit of money (since this is an expensive recipe). It also took about 4 hours total to make/cook."
+  ],
+  "rating": 7,
+  "servings": 8,
+  "slug": "the-best-spinach-lasagna-recipe",
+  "source": "https://www.seriouseats.com/recipes/2014/11/food-lab-creamy-cheesy-ultimate-spinach-lasagna-recipe.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "The Best Spinach Lasagna Recipe"
 }

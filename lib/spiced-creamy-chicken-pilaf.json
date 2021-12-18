@@ -1,38 +1,4 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "spiced-creamy-chicken-pilaf",
-  "title": "Spiced Creamy Chicken Pilaf",
-  "rating": 6,
-  "notes": [],
-  "source": "https://fitmencook.com/healthy-chicken-recipes/",
   "image": "../images/spiced-creamy-chicken-pilaf.jpg",
   "ingredients": [
     {
@@ -63,5 +29,39 @@
     "Cover and cook for 20 or 25 minutes. When it’s almost ready, stir in chopped cilantro for added flavor, then cover and cook for the remaining time (all the liquid is absorbed).",
     "And there you have it, creamy and brilliantly golden chicken pilaf. Enjoy with roasted or steamed veggies."
   ],
-  "servings": 6
+  "notes": [],
+  "rating": 6,
+  "servings": 6,
+  "slug": "spiced-creamy-chicken-pilaf",
+  "source": "https://fitmencook.com/healthy-chicken-recipes/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Spiced Creamy Chicken Pilaf"
 }

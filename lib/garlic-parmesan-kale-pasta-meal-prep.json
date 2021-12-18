@@ -1,4 +1,52 @@
 {
+  "image": "../images/garlic-parmesan-kale-pasta-meal-prep.jpg",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "1/4 cup olive oil",
+        "1/4 cup lemon juice",
+        "3 cloves garlic, minced",
+        "1/2  Tbsp dried oregano",
+        "1/2 tsp salt",
+        " Freshly cracked pepper",
+        "1.5 lbs. boneless skinless chicken breasts*"
+      ]
+    },
+    {
+      "category": "Garlic Parmesan Kale Pasta",
+      "items": [
+        "1 bunch 1/2 lb kale",
+        "1/2 lb angel hair pasta*",
+        "2 Tbsp olive oil",
+        "2 Tbsp butter",
+        "2 cloves garlic, minced",
+        "1/4 cup grated Parmesan",
+        "Pinch salt and pepper",
+        "Pinch red pepper flakes (optional)"
+      ]
+    },
+    {
+      "category": "Toppings",
+      "items": ["Cherry tomatoes"]
+    }
+  ],
+  "instructions": [
+    "Add the olive oil, lemon juice, garlic, oregano, salt, and pepper to a large zip top bag, or a large shallow dish. Close the bag and massage to combine the ingredients, or stir the ingredients in the dish until combined.",
+    "Filet each chicken breast into two thinner pieces. Place the pieces in the bag or dish, making sure the chicken pieces are completely covered in marinade. Marinate the chicken for 30 minutes up to 8 hours, turning occasionally to maximize the chicken's contact with the marinade.",
+    "When ready to cook, heat a large skillet over medium flame. Transfer the chicken from the marinade to the hot skillet and cook on each side until well browned and cooked through (about 5-7 minutes each side, depending on the size of the pieces). I cooked two pieces at a time to avoid over crowding the skillet, which can cause juices to pool and prevents browning. Discard the excess marinade.",
+    "Transfer the cooked chicken from the skillet to a cutting board and let rest for five minutes before slicing and serving.",
+    "Pull the kale leaves from the woody stems and tear them into small 1 to 2-inch pieces. Rinse the torn kale well in a colander under cool, running water and allow it to drain.",
+    "Bring a large pot of water to a boil. Break the pasta in half, add it to the boiling water, and cook until al dente (about 7 minutes). Drain the pasta in a colander.",
+    "While the pasta is cooking, add the olive oil, butter, and minced garlic to another large pot or skillet. Cook over medium heat for 1-2 minutes, or until the garlic is soft and fragrant. Add the kale and continue to sauté until the kale has wilted and has turned a deep green color (about 5-7 minutes). Turn the heat off.",
+    "Add the drained pasta to the pot with the sautéed kale. Toss the pasta and kale together. Allow them to cool to the point that steam is no longer rising from the pot. You want the pasta warm, but not hot enough to melt the Parmesan.",
+    "Season the pasta and kale with salt and freshly cracked pepper to your liking. Add the grated Parmesan cheese and toss to coat. Add a pinch of red pepper flakes over top if desired."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 4,
+  "slug": "garlic-parmesan-kale-pasta-meal-prep",
+  "source": "https://www.budgetbytes.com/garlic-parmesan-kale-pasta-meal-prep/",
   "time": [
     {
       "label": "Prep",
@@ -28,57 +76,5 @@
       ]
     }
   ],
-  "slug": "garlic-parmesan-kale-pasta-meal-prep",
-  "title": "Garlic Parmesan Kale Pasta Meal Prep",
-  "image": "../images/garlic-parmesan-kale-pasta-meal-prep.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/garlic-parmesan-kale-pasta-meal-prep/",
-  "ingredients": [
-    {
-      "category": "Chicken",
-      "items": [
-        "1/4 cup olive oil",
-        "1/4 cup lemon juice",
-        "3 cloves garlic, minced",
-        "1/2  Tbsp dried oregano",
-        "1/2 tsp salt",
-        " Freshly cracked pepper",
-        "1.5 lbs. boneless skinless chicken breasts*"
-      ]
-    },
-    {
-      "category": "Garlic Parmesan Kale Pasta",
-      "items": [
-        "1 bunch 1/2 lb kale",
-        "1/2 lb angel hair pasta*",
-        "2 Tbsp olive oil",
-        "2 Tbsp butter",
-        "2 cloves garlic, minced",
-        "1/4 cup grated Parmesan",
-        "Pinch salt and pepper",
-        "Pinch red pepper flakes (optional)"
-      ]
-    },
-    {
-      "category": "Toppings",
-      "items": [
-        "Cherry tomatoes"
-      ]
-    }
-  ],
-  "instructions": [
-    "Add the olive oil, lemon juice, garlic, oregano, salt, and pepper to a large zip top bag, or a large shallow dish. Close the bag and massage to combine the ingredients, or stir the ingredients in the dish until combined.",
-    "Filet each chicken breast into two thinner pieces. Place the pieces in the bag or dish, making sure the chicken pieces are completely covered in marinade. Marinate the chicken for 30 minutes up to 8 hours, turning occasionally to maximize the chicken's contact with the marinade.",
-    "When ready to cook, heat a large skillet over medium flame. Transfer the chicken from the marinade to the hot skillet and cook on each side until well browned and cooked through (about 5-7 minutes each side, depending on the size of the pieces). I cooked two pieces at a time to avoid over crowding the skillet, which can cause juices to pool and prevents browning. Discard the excess marinade.",
-    "Transfer the cooked chicken from the skillet to a cutting board and let rest for five minutes before slicing and serving.",
-    "Pull the kale leaves from the woody stems and tear them into small 1 to 2-inch pieces. Rinse the torn kale well in a colander under cool, running water and allow it to drain.",
-    "Bring a large pot of water to a boil. Break the pasta in half, add it to the boiling water, and cook until al dente (about 7 minutes). Drain the pasta in a colander.",
-    "While the pasta is cooking, add the olive oil, butter, and minced garlic to another large pot or skillet. Cook over medium heat for 1-2 minutes, or until the garlic is soft and fragrant. Add the kale and continue to sauté until the kale has wilted and has turned a deep green color (about 5-7 minutes). Turn the heat off.",
-    "Add the drained pasta to the pot with the sautéed kale. Toss the pasta and kale together. Allow them to cool to the point that steam is no longer rising from the pot. You want the pasta warm, but not hot enough to melt the Parmesan.",
-    "Season the pasta and kale with salt and freshly cracked pepper to your liking. Add the grated Parmesan cheese and toss to coat. Add a pinch of red pepper flakes over top if desired."
-  ],
-  "servings": 4
+  "title": "Garlic Parmesan Kale Pasta Meal Prep"
 }

@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "homemade-ranch-seasoning-mix",
-  "title": "Homemade Ranch Seasoning Mix",
-  "servings": 1,
+  "createdDate": "10/17/2021",
   "image": "../images/homemade-ranch-seasoning-mix.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/homemade-ranch-seasoning-mix/",
   "ingredients": [
     {
       "category": "",
@@ -49,5 +22,30 @@
     "Combine the ranch seasoning mix with ¼ cup mayonnaise, ¼ cup sour cream, and ¼ cup milk. Whisk until smooth.   ",
     "Combine the ranch seasoning mix with 1 cup sour cream and stir until smooth. Let the dip sit for about 10 minutes to allow the flavors to blend."
   ],
-  "createdDate": "10/17/2021"
+  "notes": [""],
+  "rating": 7,
+  "servings": 1,
+  "slug": "homemade-ranch-seasoning-mix",
+  "source": "https://www.budgetbytes.com/homemade-ranch-seasoning-mix/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Homemade Ranch Seasoning Mix"
 }

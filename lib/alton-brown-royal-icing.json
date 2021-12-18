@@ -1,23 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 7,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "alton-brown-royal-icing",
-  "title": "Alton Brown Royal Icing",
-  "rating": 8,
-  "notes": [
-    "a little high effort because you have to pasteurize egg yolks but worth the effort"
-  ],
   "createdDate": "12/18/2019",
-  "source": "https://www.foodnetwork.com/recipes/alton-brown/royal-icing-recipe-1941917",
   "image": "../images/alton-brown-royal-icing.jpg",
   "ingredients": [
     {
@@ -32,5 +14,23 @@
   "instructions": [
     "In large bowl of stand mixer combine the egg whites and vanilla and beat until frothy. Add confectioners' sugar gradually and mix on low speed until sugar is incorporated and mixture is shiny. Turn speed up to high and beat until mixture forms stiff, glossy peaks. This should take approximately 5 to 7 minutes. Add food coloring, if desired. For immediate use, transfer icing to pastry bag or heavy duty storage bag and pipe as desired. If using storage bag, clip corner. Store in airtight container in refrigerator for up to 3 days."
   ],
-  "servings": 0
+  "notes": [
+    "a little high effort because you have to pasteurize egg yolks but worth the effort"
+  ],
+  "rating": 8,
+  "servings": 0,
+  "slug": "alton-brown-royal-icing",
+  "source": "https://www.foodnetwork.com/recipes/alton-brown/royal-icing-recipe-1941917",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 7,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Alton Brown Royal Icing"
 }

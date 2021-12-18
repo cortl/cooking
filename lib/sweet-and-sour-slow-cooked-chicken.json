@@ -1,4 +1,42 @@
 {
+  "image": "../images/sweet-and-sour-slow-cooked-chicken.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 whole orange juice, fresh squeezed",
+        "½ tbsp orange zest",
+        "1 tbsp garlic, minced",
+        "2 tsp ginger, pureed",
+        "¼ cup liquid aminos",
+        "3 tbsp honey",
+        "2 tbsp sriracha",
+        "1 tbsp rice vinegar",
+        "2 tsp sesame seed oil",
+        "¼ cup water",
+        "1½ tbsp arrowroot starch",
+        "1½ lb chicken breast, cut into 1-inch pieces",
+        "3 tbsp arrowroot starch",
+        "1½ tbsp olive oil"
+      ]
+    }
+  ],
+  "instructions": [
+    "Add ingredients for chicken in a large bowl. Mix everything together, ensuring the chicken pieces are coated, then set aside.",
+    "Mix all ingredients for sauce together except the water and arrowroot powder, and set aside.",
+    "Set a large nonstick skillet on medium heat and add olive oil. Once the oil is hot, add the chicken pieces and cook until the outsides are seared golden brown, about 6 minutes. The chicken does NOT have to be cooked all the way through at this point since it will finish cooking in the slow cooker.",
+    "Add the chicken pieces to the slow cooker and pour in the sauce. Add the 1/4 cup of water if needed to cover chicken. You can also add additional orange juice or liquid aminos.",
+    "Cook on high for no more than 2 hours, or on low for 2-3 hours.",
+    "About 30 minutes before the end of the cooking cycle, remove lid and stir the ingredients. Add arrowroot powder for thickener and additional liquid if needed. Stir everything together again and replace lid, allowing the sauce to thicken as chicken finishes cooking.",
+    "Serve the chicken with your choice of rice or vegetables. Garnish with sesame seeds (add per serving since these add calories) and green onion and enjoy!"
+  ],
+  "notes": [
+    "too much liquid and can't add too much more corn starch otherwise it gets really jello-y"
+  ],
+  "rating": 1,
+  "servings": 6,
+  "slug": "sweet-and-sour-slow-cooked-chicken",
+  "source": "https://www.bodybuilding.com/recipes/sweet-and-sour-slow-cooked-chicken",
   "time": [
     {
       "label": "Prep",
@@ -32,43 +70,5 @@
       ]
     }
   ],
-  "slug": "sweet-and-sour-slow-cooked-chicken",
-  "title": "Sweet and Sour Slow Cooked Chicken",
-  "rating": 1,
-  "notes": [
-    "too much liquid and can't add too much more corn starch otherwise it gets really jello-y"
-  ],
-  "source": "https://www.bodybuilding.com/recipes/sweet-and-sour-slow-cooked-chicken",
-  "image": "../images/sweet-and-sour-slow-cooked-chicken.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 whole orange juice, fresh squeezed",
-        "½ tbsp orange zest",
-        "1 tbsp garlic, minced",
-        "2 tsp ginger, pureed",
-        "¼ cup liquid aminos",
-        "3 tbsp honey",
-        "2 tbsp sriracha",
-        "1 tbsp rice vinegar",
-        "2 tsp sesame seed oil",
-        "¼ cup water",
-        "1½ tbsp arrowroot starch",
-        "1½ lb chicken breast, cut into 1-inch pieces",
-        "3 tbsp arrowroot starch",
-        "1½ tbsp olive oil"
-      ]
-    }
-  ],
-  "instructions": [
-    "Add ingredients for chicken in a large bowl. Mix everything together, ensuring the chicken pieces are coated, then set aside.",
-    "Mix all ingredients for sauce together except the water and arrowroot powder, and set aside.",
-    "Set a large nonstick skillet on medium heat and add olive oil. Once the oil is hot, add the chicken pieces and cook until the outsides are seared golden brown, about 6 minutes. The chicken does NOT have to be cooked all the way through at this point since it will finish cooking in the slow cooker.",
-    "Add the chicken pieces to the slow cooker and pour in the sauce. Add the 1/4 cup of water if needed to cover chicken. You can also add additional orange juice or liquid aminos.",
-    "Cook on high for no more than 2 hours, or on low for 2-3 hours.",
-    "About 30 minutes before the end of the cooking cycle, remove lid and stir the ingredients. Add arrowroot powder for thickener and additional liquid if needed. Stir everything together again and replace lid, allowing the sauce to thicken as chicken finishes cooking.",
-    "Serve the chicken with your choice of rice or vegetables. Garnish with sesame seeds (add per serving since these add calories) and green onion and enjoy!"
-  ],
-  "servings": 6
+  "title": "Sweet and Sour Slow Cooked Chicken"
 }

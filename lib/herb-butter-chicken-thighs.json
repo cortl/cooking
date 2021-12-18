@@ -1,4 +1,32 @@
 {
+  "image": "../images/herb-butter-chicken-thighs.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "5 boneless skinless chicken thighs (about 1/3 lb. each)",
+        "pinch salt and pepper",
+        "1 Tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1/2 Tbsp Italian seasoning herb blend",
+        "1/2 cup chicken broth*",
+        "1 Tbsp butter",
+        "handful fresh parsley, chopped (optional garnish)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with a pinch of salt and pepper on each side.",
+    "Heat a large skillet over medium. Once hot, add the olive oil and swirl to coat the surface of the skillet. Add the chicken thighs and cook for 5-7 minutes on each side, or until they are golden brown and cooked through. Remove the thighs to a clean plate. There should be plenty of browned bits left on the bottom of the skillet.",
+    "Add the minced garlic and Italian seasoning blend to the skillet. Sauté the garlic and herbs in the leftover oil in the skillet. Sauté for 1-2 minutes, or just until the garlic softens a bit and becomes very fragrant.",
+    "Pour in the chicken broth and stir, dissolving all the browned bits off the bottom of the skillet. Let the broth simmer (still over medium heat) for about 5 minutes, or until it has reduced by half.",
+    "Once the broth has reduced, add the butter and stir until it has melted into the sauce. Add the chicken pieces back to the skillet with the sauce and spoon the sauce over each piece. Garnish with a sprinkle of chopped parsley, if desired. Serve while hot."
+  ],
+  "notes": ["if you need chicken, breasts work fine when butterflied"],
+  "rating": 6,
+  "servings": 5,
+  "slug": "herb-butter-chicken-thighs",
+  "source": "https://www.budgetbytes.com/2018/02/herb-butter-chicken-thighs/",
   "time": [
     {
       "label": "Prep",
@@ -28,35 +56,5 @@
       ]
     }
   ],
-  "slug": "herb-butter-chicken-thighs",
-  "title": "Herb Butter Chicken Thighs",
-  "image": "../images/herb-butter-chicken-thighs.jpg",
-  "rating": 6,
-  "notes": [
-    "if you need chicken, breasts work fine when butterflied"
-  ],
-  "source": "https://www.budgetbytes.com/2018/02/herb-butter-chicken-thighs/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "5 boneless skinless chicken thighs (about 1/3 lb. each)",
-        "pinch salt and pepper",
-        "1 Tbsp olive oil",
-        "2 cloves garlic, minced",
-        "1/2 Tbsp Italian seasoning herb blend",
-        "1/2 cup chicken broth*",
-        "1 Tbsp butter",
-        "handful fresh parsley, chopped (optional garnish)"
-      ]
-    }
-  ],
-  "instructions": [
-    "Season the chicken thighs with a pinch of salt and pepper on each side.",
-    "Heat a large skillet over medium. Once hot, add the olive oil and swirl to coat the surface of the skillet. Add the chicken thighs and cook for 5-7 minutes on each side, or until they are golden brown and cooked through. Remove the thighs to a clean plate. There should be plenty of browned bits left on the bottom of the skillet.",
-    "Add the minced garlic and Italian seasoning blend to the skillet. Sauté the garlic and herbs in the leftover oil in the skillet. Sauté for 1-2 minutes, or just until the garlic softens a bit and becomes very fragrant.",
-    "Pour in the chicken broth and stir, dissolving all the browned bits off the bottom of the skillet. Let the broth simmer (still over medium heat) for about 5 minutes, or until it has reduced by half.",
-    "Once the broth has reduced, add the butter and stir until it has melted into the sauce. Add the chicken pieces back to the skillet with the sauce and spoon the sauce over each piece. Garnish with a sprinkle of chopped parsley, if desired. Serve while hot."
-  ],
-  "servings": 5
+  "title": "Herb Butter Chicken Thighs"
 }

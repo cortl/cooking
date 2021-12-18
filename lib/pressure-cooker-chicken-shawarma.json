@@ -1,4 +1,39 @@
 {
+  "image": "../images/pressure-cooker-chicken-shawarma.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 lb. boneless, skinless chicken thighs, cut into large bite-size pieces",
+        "3 teaspoons extra-virgin olive oil, divided",
+        "2 teaspoons dried oregano",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground coriander",
+        "1 teaspoon salt",
+        "1/2 teaspoon ground allspice",
+        "1/2 teaspoon cayenne",
+        "1 cup thinly slice onions",
+        "1/2 cup water",
+        "4 large lettuce leaves (butter lettuce if available)",
+        "1 cup prepared Tzatziki sauce"
+      ]
+    }
+  ],
+  "instructions": [
+    "Put the chicken in a zip-top bag and add 1 teaspoon of olive oil and the spices. Toss the bag so the chicken is evenly coated in the oil and spices.",
+    "Preheat the pressure cooker. When the inner cooking pot is hot, add the remaining 2 teaspoons of oil. Add the chicken and saute for about 4 minutes stirring occasionally.",
+    "Add the water and scrape up any browned bits from the bottom of the pot. Add the onion and stir to combine.",
+    "Lock the lid in place. Select high pressure and 10 minutes cook time. When beep sounds turn pressure cooker off and use a quick release to release pressure. When valve drops carefully remove lid, tilting away from you to allow steam to disperse.",
+    "To serve, wrap the chicken in the lettuce leaves and serve with the tzatziki sauce. Or, serve on a warm pita."
+  ],
+  "notes": [
+    "okay, probably could use chicken breast instead, also Genevieve hates the smell"
+  ],
+  "rating": 5,
+  "servings": 4,
+  "slug": "pressure-cooker-chicken-shawarma",
+  "source": "https://www.pressurecookingtoday.com/pressure-cooker-chicken-shawarma/",
   "time": [
     {
       "label": "Prep",
@@ -37,40 +72,5 @@
       ]
     }
   ],
-  "slug": "pressure-cooker-chicken-shawarma",
-  "title": "Pressure Cooker Chicken Shawarma",
-  "rating": 5,
-  "image": "../images/pressure-cooker-chicken-shawarma.jpg",
-  "notes": [
-    "okay, probably could use chicken breast instead, also Genevieve hates the smell"
-  ],
-  "source": "https://www.pressurecookingtoday.com/pressure-cooker-chicken-shawarma/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 lb. boneless, skinless chicken thighs, cut into large bite-size pieces",
-        "3 teaspoons extra-virgin olive oil, divided",
-        "2 teaspoons dried oregano",
-        "1 teaspoon ground cumin",
-        "1 teaspoon ground cinnamon",
-        "1 teaspoon ground coriander",
-        "1 teaspoon salt",
-        "1/2 teaspoon ground allspice",
-        "1/2 teaspoon cayenne",
-        "1 cup thinly slice onions",
-        "1/2 cup water",
-        "4 large lettuce leaves (butter lettuce if available)",
-        "1 cup prepared Tzatziki sauce"
-      ]
-    }
-  ],
-  "instructions": [
-    "Put the chicken in a zip-top bag and add 1 teaspoon of olive oil and the spices. Toss the bag so the chicken is evenly coated in the oil and spices.",
-    "Preheat the pressure cooker. When the inner cooking pot is hot, add the remaining 2 teaspoons of oil. Add the chicken and saute for about 4 minutes stirring occasionally.",
-    "Add the water and scrape up any browned bits from the bottom of the pot. Add the onion and stir to combine.",
-    "Lock the lid in place. Select high pressure and 10 minutes cook time. When beep sounds turn pressure cooker off and use a quick release to release pressure. When valve drops carefully remove lid, tilting away from you to allow steam to disperse.",
-    "To serve, wrap the chicken in the lettuce leaves and serve with the tzatziki sauce. Or, serve on a warm pita."
-  ],
-  "servings": 4
+  "title": "Pressure Cooker Chicken Shawarma"
 }

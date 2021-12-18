@@ -1,4 +1,34 @@
 {
+  "image": "../images/beef-burrito-casserole.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp cooking oil ",
+        "1/2 lb ground beef ",
+        "1 clove garlic, minced",
+        " Pinch of salt ",
+        "4 cups cooked rice* ",
+        "15 oz can black beans ",
+        "16 oz jar salsa ",
+        "4 green onions, divided",
+        "1/2 Tbsp chili powder ",
+        "4 oz cream cheese ",
+        "1 cup shredded cheddar**"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350ºF. Add the cooking oil, beef, garlic, and a pinch of salt to a skillet. Cook the beef over medium heat until fully browned. Drain the excess fat, if necessary.",
+    "Rinse and drain the canned beans in a colander. Slice the green onions. Add the beans, half of the green onions, cooked rice, browned beef, salsa, and chili powder to a large bowl. Stir to combine.",
+    "Coat a 3 quart casserole dish with non-stick spray. Spread half of the rice and beef mixture into the bottom of the casserole dish. Add small dollops of the cream cheese evenly across the surface, then cover with the remaining rice and beef mixture.",
+    "Cover the dish with foil to prevent the rice from drying out while baking, and bake for 25 minutes in the preheated oven. After 25 minutes, remove the foil and top with the shredded cheddar cheese. Bake for an additional 5-10 minutes, or until the cheese is melted. Top with the remaining sliced green onions just before serving."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 6,
+  "slug": "beef-burrito-casserole",
+  "source": "https://www.budgetbytes.com/2016/10/beef-burrito-casserole/",
   "time": [
     {
       "label": "Prep",
@@ -28,37 +58,5 @@
       ]
     }
   ],
-  "slug": "beef-burrito-casserole",
-  "title": "Beef Burrito Casserole",
-  "image": "../images/beef-burrito-casserole.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/2016/10/beef-burrito-casserole/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 Tbsp cooking oil ",
-        "1/2 lb ground beef ",
-        "1 clove garlic, minced",
-        " Pinch of salt ",
-        "4 cups cooked rice* ",
-        "15 oz can black beans ",
-        "16 oz jar salsa ",
-        "4 green onions, divided",
-        "1/2 Tbsp chili powder ",
-        "4 oz cream cheese ",
-        "1 cup shredded cheddar**"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 350ºF. Add the cooking oil, beef, garlic, and a pinch of salt to a skillet. Cook the beef over medium heat until fully browned. Drain the excess fat, if necessary.",
-    "Rinse and drain the canned beans in a colander. Slice the green onions. Add the beans, half of the green onions, cooked rice, browned beef, salsa, and chili powder to a large bowl. Stir to combine.",
-    "Coat a 3 quart casserole dish with non-stick spray. Spread half of the rice and beef mixture into the bottom of the casserole dish. Add small dollops of the cream cheese evenly across the surface, then cover with the remaining rice and beef mixture.",
-    "Cover the dish with foil to prevent the rice from drying out while baking, and bake for 25 minutes in the preheated oven. After 25 minutes, remove the foil and top with the shredded cheddar cheese. Bake for an additional 5-10 minutes, or until the cheese is melted. Top with the remaining sliced green onions just before serving."
-  ],
-  "servings": 6
+  "title": "Beef Burrito Casserole"
 }

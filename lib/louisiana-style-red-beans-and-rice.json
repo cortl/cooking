@@ -1,50 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 8,
-          "label": "hours"
-        },
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 2,
-          "label": "hours"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "hours"
-        },
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "louisiana-style-red-beans-and-rice",
-  "title": "Louisiana Style Red Beans & Rice",
-  "image": "../images/louisiana-style-red-beans-and-rice.jpg",
-  "rating": 6,
-  "notes": [
-    "Re-made this and turned out pretty good, do this with cornbread next time"
-  ],
   "createdDate": "08/10/2015",
-  "source": "https://www.budgetbytes.com/2010/03/louisiana-red-beans-rice/",
+  "image": "../images/louisiana-style-red-beans-and-rice.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -85,5 +41,49 @@
     "Once the red beans have thickened, add the cooked sausage back to the pot along with 1/4 cup chopped fresh parsley. Stir to combine. Taste the red beans and add salt to your liking. Start with 1 tsp and add more as needed. I used 1 Tbsp total (3 tsp). ",
     "Serve the red beans in a bowl topped with a scoop of rice and a sprinkle of sliced green onions."
   ],
-  "servings": 6
+  "notes": [
+    "Re-made this and turned out pretty good, do this with cornbread next time"
+  ],
+  "rating": 6,
+  "servings": 6,
+  "slug": "louisiana-style-red-beans-and-rice",
+  "source": "https://www.budgetbytes.com/2010/03/louisiana-red-beans-rice/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 8,
+          "label": "hours"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "hours"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Louisiana Style Red Beans & Rice"
 }

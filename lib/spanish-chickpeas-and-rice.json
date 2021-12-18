@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 50,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "spanish-chickpeas-and-rice",
-  "title": "Spanish Chickpeas and Rice",
-  "servings": 4,
+  "createdDate": "4/7/2021",
   "image": "../images/spanish-chickpeas-and-rice.jpg",
-  "rating": 8,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/spanish-chickpeas-and-rice/",
   "ingredients": [
     {
       "category": "All",
@@ -67,5 +31,39 @@
     "Place a lid on the skillet and turn the heat up to medium-high. Allow the skillet to come to a boil. Once it reaches a boil, turn the heat down to low and let simmer for 20 minutes. Make sure it's simmering the whole time and adjust the heat up slightly if necessary to keep it simmering.",
     "After simmering for 20 minutes, turn the heat off and let it rest for 5 minutes without removing the lid. Finally, remove the lid, fluff with a fork and top with the remaining chopped parsley. Cut the lemon into wedges and squeeze the fresh juice over each bowl."
   ],
-  "createdDate": "4/7/2021"
+  "notes": [""],
+  "rating": 8,
+  "servings": 4,
+  "slug": "spanish-chickpeas-and-rice",
+  "source": "https://www.budgetbytes.com/spanish-chickpeas-and-rice/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Spanish Chickpeas and Rice"
 }

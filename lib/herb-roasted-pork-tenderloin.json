@@ -1,4 +1,31 @@
 {
+  "createdDate": "12/25/2020",
+  "image": "../images/herb-roasted-pork-tenderloin.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 cloves garlic ",
+        "1 tsp dried basil ",
+        "1 tsp dried thyme ",
+        "1 tsp dried rosemary",
+        " freshly cracked black pepper ",
+        "1/2 tsp salt ",
+        "2 Tbsp olive oil ",
+        "1.33 lbs. pork tenderloin "
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. Mince the garlic. Add the dried basil, thyme, and rosemary to a small dish. Use your hands to crush the dried rosemary slightly. Add the garlic, olive oil, salt, and some freshly cracked black pepper to the bowl and stir to combine. ",
+    "Place the pork tenderloin on a baking sheet or baking dish. Rub the oil and herb mix over the entire surface of the pork, including the underside.",
+    "Place the baking dish in the preheated oven and roast the pork for about 35 minutes, or until the internal temperature reads at least 145ºF. Allow the pork to rest at room temperature for 10 minutes before slicing and serving."
+  ],
+  "notes": [""],
+  "rating": 8,
+  "servings": 4,
+  "slug": "herb-roasted-pork-tenderloin",
+  "source": "https://www.budgetbytes.com/herb-roasted-pork-loin/",
   "time": [
     {
       "label": "Prep",
@@ -28,34 +55,5 @@
       ]
     }
   ],
-  "slug": "herb-roasted-pork-tenderloin",
-  "title": "Herb Roasted Pork Tenderloin",
-  "servings": 4,
-  "image": "../images/herb-roasted-pork-tenderloin.jpg",
-  "rating": 8,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/herb-roasted-pork-loin/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2 cloves garlic ",
-        "1 tsp dried basil ",
-        "1 tsp dried thyme ",
-        "1 tsp dried rosemary",
-        " freshly cracked black pepper ",
-        "1/2 tsp salt ",
-        "2 Tbsp olive oil ",
-        "1.33 lbs. pork tenderloin "
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 400ºF. Mince the garlic. Add the dried basil, thyme, and rosemary to a small dish. Use your hands to crush the dried rosemary slightly. Add the garlic, olive oil, salt, and some freshly cracked black pepper to the bowl and stir to combine. ",
-    "Place the pork tenderloin on a baking sheet or baking dish. Rub the oil and herb mix over the entire surface of the pork, including the underside.",
-    "Place the baking dish in the preheated oven and roast the pork for about 35 minutes, or until the internal temperature reads at least 145ºF. Allow the pork to rest at room temperature for 10 minutes before slicing and serving."
-  ],
-  "createdDate": "12/25/2020"
+  "title": "Herb Roasted Pork Tenderloin"
 }

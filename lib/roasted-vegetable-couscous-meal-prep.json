@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 55,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "roasted-vegetable-couscous-meal-prep",
-  "title": "Roasted Vegetable Couscous Meal Prep",
-  "servings": 4,
+  "createdDate": "6/22/2021",
   "image": "../images/roasted-vegetable-couscous-meal-prep.jpg",
-  "rating": 7,
-  "notes": [
-    "Use \"stick\" sheet pan"
-  ],
-  "source": "https://www.budgetbytes.com/roasted-vegetable-couscous-meal-prep/",
   "ingredients": [
     {
       "category": "Roasted Vegetable Couscous",
@@ -69,9 +33,7 @@
     },
     {
       "category": "Optional Dressing",
-      "items": [
-        "1/2 cup ranch dressing"
-      ]
+      "items": ["1/2 cup ranch dressing"]
     }
   ],
   "instructions": [
@@ -85,5 +47,39 @@
     "When the vegetables are finally finished roasting, pull out the whole garlic cloves from the baking sheet and mince them. Combine the partially cooled couscous, the roasted vegetables, garlic, and chopped parsley in a large bowl. Stir to combine. ",
     "Divide the Roasted Vegetable Couscous between four containers and top with sliced chicken or 1/4 of the Garlic Herb Chickpeas. Serve each portion with 2 Tbsp ranch dressing."
   ],
-  "createdDate": "6/22/2021"
+  "notes": ["Use \"stick\" sheet pan"],
+  "rating": 7,
+  "servings": 4,
+  "slug": "roasted-vegetable-couscous-meal-prep",
+  "source": "https://www.budgetbytes.com/roasted-vegetable-couscous-meal-prep/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Roasted Vegetable Couscous Meal Prep"
 }

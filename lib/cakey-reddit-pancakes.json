@@ -1,31 +1,4 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "cakey-reddit-pancakes",
-  "title": "Cakey Reddit Pancakes",
-  "rating": 8,
-  "notes": [
-    "Recipe looks strange with 12g of baking powder, but very good!"
-  ],
-  "source": "https://www.reddit.com/r/recipes/comments/g9mp4f/best_pancake_recipe_ever/",
   "image": "../images/cakey-reddit-pancakes.jpg",
   "ingredients": [
     {
@@ -46,5 +19,30 @@
     "Mix wet ingredients",
     "Make pancakes"
   ],
-  "servings": 3
+  "notes": ["Recipe looks strange with 12g of baking powder, but very good!"],
+  "rating": 8,
+  "servings": 3,
+  "slug": "cakey-reddit-pancakes",
+  "source": "https://www.reddit.com/r/recipes/comments/g9mp4f/best_pancake_recipe_ever/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Cakey Reddit Pancakes"
 }

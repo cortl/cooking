@@ -1,32 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 4,
-          "label": "hours"
-        }
-      ]
-    }
-  ],
-  "slug": "the-best-tamale-pie-with-braised-skirt-steak-charred-corn-and-brown-butter-cornbread-crust-recipe",
-  "title": "The Best Tamale Pie With Braised Skirt Steak, Charred Corn, and Brown Butter Cornbread Crust Recipe",
   "image": "../images/the-best-tamale-pie-with-braised-skirt-steak-charred-corn-and-brown-butter-cornbread-crust-recipe.jpg",
-  "rating": 8,
-  "notes": [
-    "ends up being way thicker corn bread than you would imagine, also takes like 3 hours -- try using a dutch oven next time"
-  ],
-  "source": "https://www.seriouseats.com/recipes/2015/01/best-tamale-pie-braised-skirt-steak-beef-charred-corn-brown-butter-cornbread-crust-recipe.html",
   "ingredients": [
     {
       "category": "All",
@@ -78,5 +51,32 @@
     "Using a large spoon, place small dollops of the cornbread batter mixture on top of the beef filling, then use the back of the spoon to spread it into an even layer. Transfer the skillet to the oven and bake until pale golden brown and a skewer inserted into the cornbread comes out clean, about 20 minutes.",
     "Let cool 15 minutes, then serve with sour cream."
   ],
-  "servings": 4
+  "notes": [
+    "ends up being way thicker corn bread than you would imagine, also takes like 3 hours -- try using a dutch oven next time"
+  ],
+  "rating": 8,
+  "servings": 4,
+  "slug": "the-best-tamale-pie-with-braised-skirt-steak-charred-corn-and-brown-butter-cornbread-crust-recipe",
+  "source": "https://www.seriouseats.com/recipes/2015/01/best-tamale-pie-braised-skirt-steak-beef-charred-corn-brown-butter-cornbread-crust-recipe.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 4,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "The Best Tamale Pie With Braised Skirt Steak, Charred Corn, and Brown Butter Cornbread Crust Recipe"
 }

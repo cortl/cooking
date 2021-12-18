@@ -1,29 +1,23 @@
 {
-    "title": "Recipe name",
-    "rating": "0-10 as a number",
-    "slug": "page url",
-    "servings": "serving size as a number",
-    "time": [
-        {
-            "label": "name for the time: e.g. prep time, cook time, etc",
-            "units": "number of minutes/hrs (string)"
-        }
-    ],
-    "notes": [
-        "anything additional people should know about this recipe"
-    ],
-    "createdDate": "01/01/2020",
-    "source": "source of the recipe, if possible",
-    "image": "file name, if applicable",
-    "ingredients": [
-        {
-            "category": "Sauce",
-            "items": [
-                "1Tbsp Soy Sauce"
-            ]
-        }
-    ],
-    "instructions": [
-        "Assembly instructions"
-    ]
+  "createdDate": "01/01/2020",
+  "image": "file name, if applicable",
+  "ingredients": [
+    {
+      "category": "Sauce",
+      "items": ["1Tbsp Soy Sauce"]
+    }
+  ],
+  "instructions": ["Assembly instructions"],
+  "notes": ["anything additional people should know about this recipe"],
+  "rating": "0-10 as a number",
+  "servings": "serving size as a number",
+  "slug": "page url",
+  "source": "source of the recipe, if possible",
+  "time": [
+    {
+      "label": "name for the time: e.g. prep time, cook time, etc",
+      "units": "number of minutes/hrs (string)"
+    }
+  ],
+  "title": "Recipe name"
 }

@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 2,
-          "label": "hours"
-        }
-      ]
-    }
-  ],
-  "slug": "bravetart-glossy-fudge-brownies-recipe",
-  "title": "BraveTart: Glossy Fudge Brownies Recipe",
-  "servings": 24,
+  "createdDate": "11/24/2020",
   "image": "../images/glossy-fudge-brownies.jpg",
-  "rating": 10,
-  "notes": [
-    "About as good as you think it would be, seeing as there is over a pound of sugar and 3 sticks of butter"
-  ],
-  "source": "https://www.seriouseats.com/recipes/2018/02/bravetart-glossy-fudge-brownies.html",
   "ingredients": [
     {
       "category": "All",
@@ -53,5 +26,32 @@
     "Pour into prepared pan and bake until brownies are glossy and just barely firm, about 30 minutes or to an internal temperature of 205°F (96°C). (Take care that the probe is inserted at a sharp angle to avoid touching the bottom of the pan.) The timing of this recipe is based on anodized aluminum and will vary significantly with glass, ceramic, or nonstick pans, materials that will also affect the brownies' consistency.",
     "Cool brownies to room temperature to allow their crumb to set before slicing. Slide a butter knife between the brownies and the short ends of the pan; gently tug on the foil, then lift to remove the brownies from the pan. Cut into 24 two-and-a-half-inch squares and store in an airtight container with a sheet of wax paper between layers, about 1 week at room temperature."
   ],
-  "createdDate": "11/24/2020"
+  "notes": [
+    "About as good as you think it would be, seeing as there is over a pound of sugar and 3 sticks of butter"
+  ],
+  "rating": 10,
+  "servings": 24,
+  "slug": "bravetart-glossy-fudge-brownies-recipe",
+  "source": "https://www.seriouseats.com/recipes/2018/02/bravetart-glossy-fudge-brownies.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "BraveTart: Glossy Fudge Brownies Recipe"
 }

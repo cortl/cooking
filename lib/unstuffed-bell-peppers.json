@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    }
-  ],
-  "slug": "unstuffed-bell-peppers",
-  "title": "Unstuffed Bell Peppers",
-  "servings": 6,
+  "createdDate": "4/9/2021",
   "image": "../images/unstuffed-bell-peppers.jpg",
-  "rating": 7,
-  "notes": [
-    "Good, quick, cheap"
-  ],
-  "source": "https://www.budgetbytes.com/unstuffed-bell-peppers/",
   "ingredients": [
     {
       "category": "All",
@@ -69,5 +33,39 @@
     "Once the rice has rested for 5 minutes, remove the lid and fluff it with a fork, gently folding the ingredients back together (peppers and tomatoes may float to the top while it simmers). ",
     "Pour the prepared tomato sauce over top, then sprinkled the shredded mozzarella over the sauce. Place the lid back on top and let the heat from the skillet melt the mozzarella. Once melted, sprinkle a little chopped parsley on top and serve."
   ],
-  "createdDate": "4/9/2021"
+  "notes": ["Good, quick, cheap"],
+  "rating": 7,
+  "servings": 6,
+  "slug": "unstuffed-bell-peppers",
+  "source": "https://www.budgetbytes.com/unstuffed-bell-peppers/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Unstuffed Bell Peppers"
 }

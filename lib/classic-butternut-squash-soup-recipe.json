@@ -1,37 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        },
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "classic-butternut-squash-soup-recipe",
-  "title": "Classic Butternut Squash Soup Recipe",
-  "servings": 2,
+  "createdDate": "10/14/2020",
   "image": "../images/classic-butternut-squash-soup-recipe.jpg",
-  "rating": 8,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html",
   "ingredients": [
     {
       "category": "All",
@@ -63,5 +32,34 @@
     "If making frizzled sage leaves, melt remaining 5 tablespoons butter in a small skillet over medium-high heat, swirling gently, until foamy and just beginning to brown. Add sage leaves, swirling to submerge, and cook until frizzled, about 15 seconds. Using a slotted spoon, transfer sage to a paper towel to drain. Sprinkle very lightly with salt.",
     "Ladle soup into warmed bowls, spoon dollops of spiced whipped cream into each one, and top with frizzled sage, if using. Serve right away."
   ],
-  "createdDate": "10/14/2020"
+  "notes": [""],
+  "rating": 8,
+  "servings": 2,
+  "slug": "classic-butternut-squash-soup-recipe",
+  "source": "https://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Classic Butternut Squash Soup Recipe"
 }

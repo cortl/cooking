@@ -1,4 +1,40 @@
 {
+  "createdDate": "03/11/2020",
+  "image": "../images/cheddar-cheeseburger-meatloaf.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/4 cup plain breadcrumbs",
+        "1 tsp smoked paprika",
+        "1/2  tsp garlic powder",
+        "3/4 tsp salt",
+        "1 large egg",
+        "1/2 cup minced onion",
+        "4 oz. sharp cheddar",
+        "1 lb. ground beef (85/15)",
+        "1/2 cup ketchup",
+        "1 Tbsp brown sugar",
+        "1 tsp yellow mustard",
+        "1 tsp Worcestershire sauce"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350ºF. In a small bowl stir together the breadcrumbs, smoked paprika, garlic powder, and salt. In a separate small bowl, lightly whisk the egg.",
+    "Finely mince the onion. Roughly chop the cheddar cheese so that it is in pieces about the same size as a small bean.",
+    "Add the ground beef, seasoned breadcrumbs, whisked egg, minced onion, and chopped cheddar to a bowl. Use your hands to mix the ingredients together until incorporated.",
+    "Place the meat mixture in a casserole dish or on a rimmed baking sheet and shape into a rectangle, approximately 7\" long, 4\" wide, and 1.5\" thick. ",
+    "To make the glaze, stir together the ketchup, brown sugar, mustard, and Worcestershire sauce. Spread the glaze over the unbaked meatloaf.",
+    "Bake the meatloaf in the preheated oven for 50-55 minutes, or until the internal temperature reaches 160ºF. Remove the meatloaf from the oven, let it sit for 5-10 minutes, then slice into eight pieces and serve."
+  ],
+  "notes": [
+    "Not low calorie by any means and skipped the glaze, worked well with the mashed potatoes + green beans"
+  ],
+  "rating": 7,
+  "servings": 4,
+  "slug": "cheddar-cheeseburger-meatloaf",
+  "source": "https://www.budgetbytes.com/cheddar-cheeseburger-meatloaf/",
   "time": [
     {
       "label": "Prep",
@@ -28,41 +64,5 @@
       ]
     }
   ],
-  "slug": "cheddar-cheeseburger-meatloaf",
-  "title": "Cheddar Cheeseburger Meatloaf",
-  "image": "../images/cheddar-cheeseburger-meatloaf.jpg",
-  "rating": 7,
-  "notes": [
-    "Not low calorie by any means and skipped the glaze, worked well with the mashed potatoes + green beans"
-  ],
-  "createdDate": "03/11/2020",
-  "source": "https://www.budgetbytes.com/cheddar-cheeseburger-meatloaf/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1/4 cup plain breadcrumbs",
-        "1 tsp smoked paprika",
-        "1/2  tsp garlic powder",
-        "3/4 tsp salt",
-        "1 large egg",
-        "1/2 cup minced onion",
-        "4 oz. sharp cheddar",
-        "1 lb. ground beef (85/15)",
-        "1/2 cup ketchup",
-        "1 Tbsp brown sugar",
-        "1 tsp yellow mustard",
-        "1 tsp Worcestershire sauce"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 350ºF. In a small bowl stir together the breadcrumbs, smoked paprika, garlic powder, and salt. In a separate small bowl, lightly whisk the egg.",
-    "Finely mince the onion. Roughly chop the cheddar cheese so that it is in pieces about the same size as a small bean.",
-    "Add the ground beef, seasoned breadcrumbs, whisked egg, minced onion, and chopped cheddar to a bowl. Use your hands to mix the ingredients together until incorporated.",
-    "Place the meat mixture in a casserole dish or on a rimmed baking sheet and shape into a rectangle, approximately 7\" long, 4\" wide, and 1.5\" thick. ",
-    "To make the glaze, stir together the ketchup, brown sugar, mustard, and Worcestershire sauce. Spread the glaze over the unbaked meatloaf.",
-    "Bake the meatloaf in the preheated oven for 50-55 minutes, or until the internal temperature reaches 160ºF. Remove the meatloaf from the oven, let it sit for 5-10 minutes, then slice into eight pieces and serve."
-  ],
-  "servings": 4
+  "title": "Cheddar Cheeseburger Meatloaf"
 }

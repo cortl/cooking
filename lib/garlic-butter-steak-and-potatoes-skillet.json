@@ -1,34 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "garlic-butter-steak-and-potatoes-skillet",
-  "title": "Garlic Butter Steak and Potatoes Skillet",
-  "rating": 9,
-  "notes": [
-    "Really good, might need to cook steak in batches in order to brown it, my skillet isn't big enough",
-    "Par-boil the potatoes so that they cook quicker and get crispier"
-  ],
-  "image": "../images/garlic-butter-steak-and-potatoes-skillet.jpg",
   "createdDate": "01/06/2019",
-  "source": "https://www.reddit.com/r/recipes/comments/8f1xrm/garlic_butter_steak_and_potatoes_skillet/",
+  "image": "../images/garlic-butter-steak-and-potatoes-skillet.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -55,5 +27,33 @@
     "Right before the steak is done, you can stir in the reserved marinade if you like, and cook for one minute. Add the potatoes back to the pan and heat through. Adjust seasoning with salt and pepper if necessary.",
     "Remove from heat and serve immediately, garnished with more crushed chili pepper, fresh herbs, and a sprinkle of parmesan cheese over the potatoes if you like. Enjoy!"
   ],
-  "servings": 4
+  "notes": [
+    "Really good, might need to cook steak in batches in order to brown it, my skillet isn't big enough",
+    "Par-boil the potatoes so that they cook quicker and get crispier"
+  ],
+  "rating": 9,
+  "servings": 4,
+  "slug": "garlic-butter-steak-and-potatoes-skillet",
+  "source": "https://www.reddit.com/r/recipes/comments/8f1xrm/garlic_butter_steak_and_potatoes_skillet/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Garlic Butter Steak and Potatoes Skillet"
 }

@@ -1,4 +1,31 @@
 {
+  "createdDate": "6/22/2021",
+  "image": "../images/rosemary-roasted-potatoes.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1.5 lbs. potatoes*",
+        "1 Tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1 tsp dried rosemary",
+        "1/2 tsp salt",
+        " freshly cracked pepper",
+        "1 handful parsley, chopped (optional)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. Wash your potatoes well, then cut them into 3/4-inch cubes or pieces.",
+    "Place the potatoes in a large bowl and add the olive oil, minced garlic, dried rosemary, salt, and some freshly cracked pepper (about 15 cranks of a pepper mill). Toss the potatoes until they are evenly coated in oil and spices.",
+    "Spread the potatoes out over a baking sheet so that they are in a single layer. Transfer the potatoes to the oven and roast for 15 minutes, then stir and roast for an additional 15 minutes.",
+    "After 30 minutes total roasting time, stir once again and if additional browning is desired, roast for an additional 5-10 minutes. Serve with a handful of fresh, chopped parsley sprinkled over top, if desired."
+  ],
+  "notes": ["Good way to use up russets"],
+  "rating": 8,
+  "servings": 4,
+  "slug": "rosemary-roasted-potatoes",
+  "source": "https://www.budgetbytes.com/rosemary-roasted-potatoes/",
   "time": [
     {
       "label": "Prep",
@@ -28,34 +55,5 @@
       ]
     }
   ],
-  "slug": "rosemary-roasted-potatoes",
-  "title": "Rosemary Roasted Potatoes",
-  "servings": 4,
-  "image": "../images/rosemary-roasted-potatoes.jpg",
-  "rating": 8,
-  "notes": [
-    "Good way to use up russets"
-  ],
-  "source": "https://www.budgetbytes.com/rosemary-roasted-potatoes/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1.5 lbs. potatoes*",
-        "1 Tbsp olive oil",
-        "2 cloves garlic, minced",
-        "1 tsp dried rosemary",
-        "1/2 tsp salt",
-        " freshly cracked pepper",
-        "1 handful parsley, chopped (optional)"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 400ºF. Wash your potatoes well, then cut them into 3/4-inch cubes or pieces.",
-    "Place the potatoes in a large bowl and add the olive oil, minced garlic, dried rosemary, salt, and some freshly cracked pepper (about 15 cranks of a pepper mill). Toss the potatoes until they are evenly coated in oil and spices.",
-    "Spread the potatoes out over a baking sheet so that they are in a single layer. Transfer the potatoes to the oven and roast for 15 minutes, then stir and roast for an additional 15 minutes.",
-    "After 30 minutes total roasting time, stir once again and if additional browning is desired, roast for an additional 5-10 minutes. Serve with a handful of fresh, chopped parsley sprinkled over top, if desired."
-  ],
-  "createdDate": "6/22/2021"
+  "title": "Rosemary Roasted Potatoes"
 }

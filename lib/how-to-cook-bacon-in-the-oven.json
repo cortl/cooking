@@ -1,4 +1,23 @@
 {
+  "image": "../images/how-to-cook-bacon-in-the-oven.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": ["12 oz. thick cut bacon"]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. Prepare a large baking sheet by lining it with aluminum foil and then placing one or two wire racks on top to hold the bacon above the surface of the baking sheet.",
+    "Lay the strips of bacon across the wire rack so they are close, but not overlapping. ",
+    "Bake the bacon in the fully preheated oven, for 20-25 minutes*, or until it has reached your desired level of crispiness. Begin checking the bacon at 15 minutes, as ovens can vary.",
+    "After baking, use tongs to remove the strips of bacon from the wire rack to a paper towel lined plate. Serve immediately.",
+    "Allow the remaining bacon grease to cool for about ten minutes, then pour off into a bowl or jar, and reserve for another use."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 12,
+  "slug": "how-to-cook-bacon-in-the-oven",
+  "source": "https://www.budgetbytes.com/how-to-cook-bacon-in-the-oven/",
   "time": [
     {
       "label": "Prep",
@@ -28,28 +47,5 @@
       ]
     }
   ],
-  "slug": "how-to-cook-bacon-in-the-oven",
-  "title": "How to Cook Bacon in the Oven",
-  "image": "../images/how-to-cook-bacon-in-the-oven.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/how-to-cook-bacon-in-the-oven/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "12 oz. thick cut bacon"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 400ºF. Prepare a large baking sheet by lining it with aluminum foil and then placing one or two wire racks on top to hold the bacon above the surface of the baking sheet.",
-    "Lay the strips of bacon across the wire rack so they are close, but not overlapping. ",
-    "Bake the bacon in the fully preheated oven, for 20-25 minutes*, or until it has reached your desired level of crispiness. Begin checking the bacon at 15 minutes, as ovens can vary.",
-    "After baking, use tongs to remove the strips of bacon from the wire rack to a paper towel lined plate. Serve immediately.",
-    "Allow the remaining bacon grease to cool for about ten minutes, then pour off into a bowl or jar, and reserve for another use."
-  ],
-  "servings": 12
+  "title": "How to Cook Bacon in the Oven"
 }

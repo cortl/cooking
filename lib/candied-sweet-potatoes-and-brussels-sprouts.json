@@ -1,40 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 50,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "candied-sweet-potatoes-and-roasted-brussels-sprouts",
-  "title": "Candied Sweet Potatoes and Roasted Brussels Sprouts",
-  "rating": 7,
-  "servings": 2,
-  "notes": [],
   "createdDate": "11/25/2021",
-  "source": "https://www.budgetbytes.com/wprm_print/recipe/59268",
   "image": "../images/candied-sweet-potatoes-and-brussels-sprouts.jpg",
   "ingredients": [
     {
@@ -64,5 +29,40 @@
     "Cut off any dry ends from the Brussels sprouts, then slice them in half. Drizzle with olive oil, salt, and pepper, then toss to coat.",
     "Line a baking sheet with parchment paper then lay the butter-coated sweet potatoes out over half of the baking sheet. Try to get as much of the butter mixture out of the bowl onto the sweet potatoes as possible. Spread the Brussels sprouts over the other half of the baking sheet.",
     "Transfer the baking sheet to the oven, placing it on the rack below the turkey. Roast the sweet potatoes and Brussels sprouts in the oven for about 40 minutes, or until browned and tender, flipping once halfway through."
-  ]
+  ],
+  "notes": [],
+  "rating": 7,
+  "servings": 2,
+  "slug": "candied-sweet-potatoes-and-roasted-brussels-sprouts",
+  "source": "https://www.budgetbytes.com/wprm_print/recipe/59268",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Candied Sweet Potatoes and Roasted Brussels Sprouts"
 }

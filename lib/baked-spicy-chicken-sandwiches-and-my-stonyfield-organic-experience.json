@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 25,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "baked-spicy-chicken-sandwiches-and-my-stonyfield-organic-experience",
-  "title": "Baked Spicy Chicken Sandwiches and My Stonyfield Organic Experience",
-  "servings": 2,
+  "createdDate": "11/16/2021",
   "image": "../images/baked-spicy-chicken-sandwiches-and-my-stonyfield-organic-experience.jpg",
-  "rating": 8,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/baked-spicy-chicken-sandwiches/",
   "ingredients": [
     {
       "category": "Baked Spicy Chicken",
@@ -69,9 +33,7 @@
     },
     {
       "category": "For Serving",
-      "items": [
-        "2 buns"
-      ]
+      "items": ["2 buns"]
     }
   ],
   "instructions": [
@@ -85,5 +47,39 @@
     "Place the shredded cabbage slaw mix in a large bowl, pour the prepared dressing over top, and stir until the cabbage is coated in dressing.",
     "Once the chicken is finished baking, build the sandwiches. Place one piece of spicy chicken on each bun and top with a generous pile of the honey yogurt slaw. Enjoy!"
   ],
-  "createdDate": "11/16/2021"
+  "notes": [""],
+  "rating": 8,
+  "servings": 2,
+  "slug": "baked-spicy-chicken-sandwiches-and-my-stonyfield-organic-experience",
+  "source": "https://www.budgetbytes.com/baked-spicy-chicken-sandwiches/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Baked Spicy Chicken Sandwiches and My Stonyfield Organic Experience"
 }

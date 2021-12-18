@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node --experimental-specifier-resolution=node src/scrape.js",
     "test": "jest",
+    "format": "prettier --write .",
     "local": "node --experimental-specifier-resolution=node src/parsers/local.js",
     "dev": "nodemon --watch parsers --exec 'npm run local'"
   },
@@ -33,6 +34,8 @@
   "devDependencies": {
     "jest": "^27.0.6",
     "joi": "^17.4.2",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "prettier": "2.5.1",
+    "prettier-plugin-sort-json": "0.0.2"
   }
 }

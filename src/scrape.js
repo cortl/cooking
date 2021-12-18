@@ -1,71 +1,79 @@
-import fs from 'fs';
+import fs from "fs";
 
-import {getParserForSite, reportMissingParsers} from './parsers';
-import {getSpreadsheet} from './spreadsheet';
-import {mapDataToRecipeType, mapWithLog} from './mapper';
-import {byRecipeHasRating, byRecipeHasURL, byRecipeShouldBeSkipped} from './filters';
-import {updateMarkdown} from './table-of-contents';
-import {getExistingRecipe} from './files';
+import { getParserForSite, reportMissingParsers } from "./parsers";
+import { getSpreadsheet } from "./spreadsheet";
+import { mapDataToRecipeType, mapWithLog } from "./mapper";
+import {
+  byRecipeHasRating,
+  byRecipeHasURL,
+  byRecipeShouldBeSkipped,
+} from "./filters";
+import { updateMarkdown } from "./table-of-contents";
+import { getExistingRecipe } from "./files";
 
-const downloadRecipe = async ({url, notes, rating}) => {
-    const parser = getParserForSite(url)
+const downloadRecipe = async ({ url, notes, rating }) => {
+  const parser = getParserForSite(url);
 
-    try {
-        const recipe = await parser(url, notes, rating);
-        const location = `lib/${recipe.slug}.json`
-        const existingRecipe = getExistingRecipe(url);
+  try {
+    const recipe = await parser(url, notes, rating);
+    const location = `lib/${recipe.slug}.json`;
+    const existingRecipe = getExistingRecipe(url);
 
-        if (existingRecipe) {
-            const {title: existingTitle, slug: existingSlug} = existingRecipe;
-            const existingLocation = `lib/${existingSlug}.json`
-            console.log(`Old recipe exists under ${existingTitle}`);
+    if (existingRecipe) {
+      const { title: existingTitle, slug: existingSlug } = existingRecipe;
+      const existingLocation = `lib/${existingSlug}.json`;
+      console.log(`Old recipe exists under ${existingTitle}`);
 
-            const oldRecipe = JSON.parse(fs.readFileSync(existingLocation));
-            const recipeToWrite = {
-                ...oldRecipe,
-                rating,
-                notes: [notes]
-            };
+      const oldRecipe = JSON.parse(fs.readFileSync(existingLocation));
+      const recipeToWrite = {
+        ...oldRecipe,
+        rating,
+        notes: [notes],
+      };
 
-            fs.writeFileSync(existingLocation, JSON.stringify(recipeToWrite, null, 2));
+      fs.writeFileSync(
+        existingLocation,
+        JSON.stringify(recipeToWrite, null, 2)
+      );
 
-            return recipeToWrite;
-        }
+      return recipeToWrite;
+    }
 
-        console.log(`recipe cached: ${location}`);
-        fs.writeFileSync(location, JSON.stringify(recipe, null, 2));
+    console.log(`recipe cached: ${location}`);
+    fs.writeFileSync(location, JSON.stringify(recipe, null, 2));
 
-        return recipe;
-
-    } catch (error) {
-        console.error(`Error: ${error.message}${error.stack ? ` ${error.stack}` : ''}`);
-    };
-}
+    return recipe;
+  } catch (error) {
+    console.error(
+      `Error: ${error.message}${error.stack ? ` ${error.stack}` : ""}`
+    );
+  }
+};
 
 const createRecipesFromSheet = async (data) => {
-    const recipesToDownload = data
-        .map(mapDataToRecipeType)
-        .filter(byRecipeHasRating)
-        .filter(byRecipeHasURL)
-        .filter(byRecipeShouldBeSkipped)
-        .map(mapWithLog(({title}) => `Found ${title} in spreadsheet`));
+  const recipesToDownload = data
+    .map(mapDataToRecipeType)
+    .filter(byRecipeHasRating)
+    .filter(byRecipeHasURL)
+    .filter(byRecipeShouldBeSkipped)
+    .map(mapWithLog(({ title }) => `Found ${title} in spreadsheet`));
 
-    const recipes = await Promise.all(recipesToDownload.map(downloadRecipe));
+  const recipes = await Promise.all(recipesToDownload.map(downloadRecipe));
 
-    return recipes.filter(Boolean);
-}
+  return recipes.filter(Boolean);
+};
 
 const main = async () => {
-    try {
-        const data = await getSpreadsheet();
-        const recipes = await createRecipesFromSheet(data);
+  try {
+    const data = await getSpreadsheet();
+    const recipes = await createRecipesFromSheet(data);
 
-        updateMarkdown(recipes);
+    updateMarkdown(recipes);
 
-        reportMissingParsers();
-    } catch (error) {
-        console.error(error);
-    }
-}
+    reportMissingParsers();
+  } catch (error) {
+    console.error(error);
+  }
+};
 
 main();

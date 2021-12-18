@@ -1,37 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        },
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "cuban-pollo-a-la-plancha",
-  "title": "Cuban-Style Pollo a la Plancha",
-  "servings": 4,
+  "createdDate": "2/14/2021",
   "image": "../images/cuban-pollo-a-la-plancha.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.seriouseats.com/recipes/2020/04/cuban-style-pollo-a-la-plancha-marinated-and-griddled-chicken.html",
   "ingredients": [
     {
       "category": "All",
@@ -61,5 +30,34 @@
     "In the same skillet that you cooked the chicken, add more oil if the pan is dry and heat over medium-high heat until shimmering. Add the onion rings, season with salt, and sauté until the onions have softened a bit and started to brown, 7 to 10 minutes; lower heat and/or add a small splash of water if the contents of the pan threaten to burn.",
     "Arrange cutlets on serving plates and top with browned onions. Serve with black beans and rice and garnish with cilantro leaves and lime wedges."
   ],
-  "createdDate": "2/14/2021"
+  "notes": [""],
+  "rating": 7,
+  "servings": 4,
+  "slug": "cuban-pollo-a-la-plancha",
+  "source": "https://www.seriouseats.com/recipes/2020/04/cuban-style-pollo-a-la-plancha-marinated-and-griddled-chicken.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Cuban-Style Pollo a la Plancha"
 }

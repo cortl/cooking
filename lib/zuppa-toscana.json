@@ -1,4 +1,40 @@
 {
+  "image": "../images/zuppa-toscana-soup.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 pound Italian sausage (spicy)",
+        "4-6 russet potatoes, cut into bite-sized cubes",
+        "1 onion, chopped",
+        "2 tablespoons garlic, minced",
+        "32 ounces chicken broth",
+        "1/2 bunch kale (or swiss chard), destemmed and cut/torn into bite-sized pieces",
+        "1 cup heavy whipping cream",
+        "2 tablespoons flour",
+        "Salt and pepper to taste",
+        "Cayenne pepper to taste",
+        "1/4 cup bacon, cooked and chopped"
+      ]
+    }
+  ],
+  "instructions": [
+    "Brown sausage links in a sauté pan.",
+    "Cut links in half lengthwise, then cut slices.",
+    "Place sausage, chicken broth, garlic, potatoes and onion in slow cooker. Add just enough water to cover the, vegetables and meat.",
+    "Cook on high 3-4 hours (low 5-6 hours) until potatoes are soft.",
+    "30 minutes before serving:",
+    "Mix flour into cream removing lumps.",
+    "Add cream and kale to the crock pot, stir.",
+    "Cook on high 30 minutes or until broth thickens slightly.",
+    "Add salt, pepper, and cayenne to taste.",
+    "Top with bacon immediately before serving."
+  ],
+  "notes": [],
+  "rating": 8,
+  "servings": 6,
+  "slug": "zuppa-toscana",
+  "source": "https://www.myrecipes.com/recipe/zuppa-toscana",
   "time": [
     {
       "label": "Prep",
@@ -32,41 +68,5 @@
       ]
     }
   ],
-  "slug": "zuppa-toscana",
-  "title": "Zuppa Toscana (Better than Olive Garden!)",
-  "rating": 8,
-  "notes": [],
-  "source": "https://www.myrecipes.com/recipe/zuppa-toscana",
-  "image": "../images/zuppa-toscana-soup.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 pound Italian sausage (spicy)",
-        "4-6 russet potatoes, cut into bite-sized cubes",
-        "1 onion, chopped",
-        "2 tablespoons garlic, minced",
-        "32 ounces chicken broth",
-        "1/2 bunch kale (or swiss chard), destemmed and cut/torn into bite-sized pieces",
-        "1 cup heavy whipping cream",
-        "2 tablespoons flour",
-        "Salt and pepper to taste",
-        "Cayenne pepper to taste",
-        "1/4 cup bacon, cooked and chopped"
-      ]
-    }
-  ],
-  "instructions": [
-    "Brown sausage links in a sauté pan.",
-    "Cut links in half lengthwise, then cut slices.",
-    "Place sausage, chicken broth, garlic, potatoes and onion in slow cooker. Add just enough water to cover the, vegetables and meat.",
-    "Cook on high 3-4 hours (low 5-6 hours) until potatoes are soft.",
-    "30 minutes before serving:",
-    "Mix flour into cream removing lumps.",
-    "Add cream and kale to the crock pot, stir.",
-    "Cook on high 30 minutes or until broth thickens slightly.",
-    "Add salt, pepper, and cayenne to taste.",
-    "Top with bacon immediately before serving."
-  ],
-  "servings": 6
+  "title": "Zuppa Toscana (Better than Olive Garden!)"
 }

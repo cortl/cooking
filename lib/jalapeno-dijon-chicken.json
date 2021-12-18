@@ -1,4 +1,35 @@
 {
+  "image": "../images/jalapeno-dijon-chicken.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 pounds chicken thighs",
+        "4 jalapeños diced, seeds optional",
+        "2 garlic cloves pressed",
+        "2 tablespoons olive oil",
+        "4 tablespoons dijon mustard",
+        "2 tablespoons raw organic honey",
+        "2 teaspoons salt",
+        "1 tablespoon fresh rosemary chopped",
+        "1 teaspoon black pepper",
+        "1 lemon"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine all of your ingredients, EXCEPT YOUR LEMON, in a bowl or dish to marinate your chicken",
+    "Marinate for at least a few hours but 24 hours in the refrigerator is ideal",
+    "Once you're ready to cook, preheat your grill to a medium/medium high heat or about 400-450 degrees fahrenheit",
+    "Once your grill is ready, place your chicken thighs on the grill and cook between 7-10 minutes per side",
+    "Use a meat thermometer to ensure your chicken is cooked and at least 175 degrees fahrenheit",
+    "Once done place all your chicken thighs in aluminum foil, squeeze all your lemon juice over the chicken, and close the aluminum foil and let it steam with the lemon juice for about 10-15 minutes"
+  ],
+  "notes": [],
+  "rating": 7,
+  "servings": 6,
+  "slug": "jalapeno-dijon-chicken",
+  "source": "https://civilizedcaveman.com/recipes/poultry/jalapeno-dijon-grilled-chicken/",
   "time": [
     {
       "label": "Marinate",
@@ -37,36 +68,5 @@
       ]
     }
   ],
-  "slug": "jalapeno-dijon-chicken",
-  "title": "Jalapeño Dijon Chicken",
-  "rating": 7,
-  "notes": [],
-  "source": "https://civilizedcaveman.com/recipes/poultry/jalapeno-dijon-grilled-chicken/",
-  "image": "../images/jalapeno-dijon-chicken.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "3 pounds chicken thighs",
-        "4 jalapeños diced, seeds optional",
-        "2 garlic cloves pressed",
-        "2 tablespoons olive oil",
-        "4 tablespoons dijon mustard",
-        "2 tablespoons raw organic honey",
-        "2 teaspoons salt",
-        "1 tablespoon fresh rosemary chopped",
-        "1 teaspoon black pepper",
-        "1 lemon"
-      ]
-    }
-  ],
-  "instructions": [
-    "Combine all of your ingredients, EXCEPT YOUR LEMON, in a bowl or dish to marinate your chicken",
-    "Marinate for at least a few hours but 24 hours in the refrigerator is ideal",
-    "Once you're ready to cook, preheat your grill to a medium/medium high heat or about 400-450 degrees fahrenheit",
-    "Once your grill is ready, place your chicken thighs on the grill and cook between 7-10 minutes per side",
-    "Use a meat thermometer to ensure your chicken is cooked and at least 175 degrees fahrenheit",
-    "Once done place all your chicken thighs in aluminum foil, squeeze all your lemon juice over the chicken, and close the aluminum foil and let it steam with the lemon juice for about 10-15 minutes"
-  ],
-  "servings": 6
+  "title": "Jalapeño Dijon Chicken"
 }

@@ -1,33 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 25,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 25,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "coconut-almond-granola",
-  "title": "Coconut Almond Granola",
-  "rating": 5,
-  "servings": 10,
-  "notes": [
-    "Decent, but not very crunchy despite baking it 10 minutes longer than recipe. Might be better suited for a full sheet pan instead of a half"
-  ],
   "createdDate": "12/12/2020",
-  "source": "https://lmld.org/coconut-almond-granola/",
   "image": "../images/coconut-almond-granola.jpg",
   "ingredients": [
     {
@@ -56,5 +28,33 @@
     "Break apart into pieces.",
     "Store in a ziplock bag or airtight container for about 2 weeks.",
     "Enjoy plain, over yogurt, with fruit, or milk."
-  ]
+  ],
+  "notes": [
+    "Decent, but not very crunchy despite baking it 10 minutes longer than recipe. Might be better suited for a full sheet pan instead of a half"
+  ],
+  "rating": 5,
+  "servings": 10,
+  "slug": "coconut-almond-granola",
+  "source": "https://lmld.org/coconut-almond-granola/",
+  "time": [
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Coconut Almond Granola"
 }

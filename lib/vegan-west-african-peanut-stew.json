@@ -1,41 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 55,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "vegan-west-african-peanut-stew",
-  "title": "Vegan West African Peanut Stew",
   "image": "../images/vegan-west-african-peanut-stew.jpg",
-  "rating": 5,
-  "notes": [
-    "1-2 bowls is good, not great as leftovers"
-  ],
-  "source": "https://www.budgetbytes.com/2014/08/african-peanut-stew-vegan/",
   "ingredients": [
     {
       "category": "All",
@@ -73,5 +37,39 @@
     "Once the stew has simmered for 15-20 minutes and the sweet potatoes are very soft, stir in the collard greens. Let the stew simmer for about 5 minutes more, then begin to smash the sweet potatoes against the side of the pot to help thicken the stew.",
     "Finally, taste the stew and add salt or red pepper, if desired. Serve the stew with a scoop of cooked rice (about 3/4 cup), a few chopped peanuts, fresh cilantro, and a drizzle of sriracha, if desired."
   ],
-  "servings": 6
+  "notes": ["1-2 bowls is good, not great as leftovers"],
+  "rating": 5,
+  "servings": 6,
+  "slug": "vegan-west-african-peanut-stew",
+  "source": "https://www.budgetbytes.com/2014/08/african-peanut-stew-vegan/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Vegan West African Peanut Stew"
 }

@@ -1,43 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    }
-  ],
-  "slug": "creole-jumbalaya",
-  "title": "Jumbalaya (Creole)",
-  "rating": 7,
-  "image": "../images/creole-jumbalaya.jpg",
-  "notes": [
-    "used creole seasoning from https://www.allrecipes.com/recipe/38214/creole-seasoning-blend/",
-    "didnt have okra, prawns or file powder, but still turned out pretty good"
-  ],
   "createdDate": "04/21/2020",
-  "source": "https://cafedelites.com/jambalaya/",
+  "image": "../images/creole-jumbalaya.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -75,5 +38,42 @@
     "Place the shrimp on top of the Jambalaya mixture, stir through gently and cover with lid. Allow to simmer while stirring occasionally, until the shrimp are cooked through and pink (about 5-6 minutes, depending on the size/thickness of the shrimp being used). ",
     "Season with a little extra salt and pepper if needed and remove from heat. Adjust heat with extra hot sauce, Cayenne pepper or Cajun seasoning. Serve immediately with sliced green onions and parsley. "
   ],
-  "servings": 6
+  "notes": [
+    "used creole seasoning from https://www.allrecipes.com/recipe/38214/creole-seasoning-blend/",
+    "didnt have okra, prawns or file powder, but still turned out pretty good"
+  ],
+  "rating": 7,
+  "servings": 6,
+  "slug": "creole-jumbalaya",
+  "source": "https://cafedelites.com/jambalaya/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Jumbalaya (Creole)"
 }

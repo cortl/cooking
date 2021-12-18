@@ -1,31 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "mushroom-herb-gravy",
-  "title": "Mushroom Herb Gravy",
-  "rating": 7,
-  "servings": 3,
-  "notes": [],
   "createdDate": "11/25/2021",
-  "source": "https://www.budgetbytes.com/wprm_print/recipe/59346",
   "image": "../images/mushroom-herb-gravy.jpg",
   "ingredients": [
     {
@@ -47,5 +21,31 @@
     "When there is no more water pooling on the bottom of the skillet, add the flour and continue to stir and cook for about one minute more.",
     "Add the vegetable broth and whisk well until all of the flour has dissolved off the bottom of the skillet. Also add the sage, thyme, and pepper. Allow the broth to come up to a simmer, stirring occasionally, at which point it will thicken to a gravy.",
     "Taste the gravy and add salt if needed. Serve immediately."
-  ]
+  ],
+  "notes": [],
+  "rating": 7,
+  "servings": 3,
+  "slug": "mushroom-herb-gravy",
+  "source": "https://www.budgetbytes.com/wprm_print/recipe/59346",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Mushroom Herb Gravy"
 }

@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "chipotle-lime-chicken-and-rice",
-  "title": "Chipotle Lime Chicken and Rice",
-  "servings": 4,
+  "createdDate": "8/8/2021",
   "image": "../images/chipotle-lime-chicken-and-rice.jpg",
-  "rating": 6,
-  "notes": [
-    "Cook the chicken seperate the whole time next time to prevent overcooking"
-  ],
-  "source": "https://www.budgetbytes.com/chipotle-lime-chicken-and-rice/",
   "ingredients": [
     {
       "category": "All",
@@ -68,5 +32,41 @@
     "Once it reaches a boil, turn the heat down to low, and allow the chicken and rice to simmer on low for 15 minutes. After 15 minutes, turn the heat off and let the skillet rest, without lifting the lid, for an additional 5 minutes.",
     "Finally, remove the lid, transfer the chicken to a cutting board. Fluff the rice to stir the tomato and onion back in. Slice the chicken then place it on top of the rice. Sprinkle with slice green onion and Cotija cheese. Add any remaining lime wedges, and serve!"
   ],
-  "createdDate": "8/8/2021"
+  "notes": [
+    "Cook the chicken seperate the whole time next time to prevent overcooking"
+  ],
+  "rating": 6,
+  "servings": 4,
+  "slug": "chipotle-lime-chicken-and-rice",
+  "source": "https://www.budgetbytes.com/chipotle-lime-chicken-and-rice/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Chipotle Lime Chicken and Rice"
 }

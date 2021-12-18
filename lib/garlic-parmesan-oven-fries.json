@@ -1,4 +1,32 @@
 {
+  "createdDate": "10/17/2021",
+  "image": "../images/garlic-parmesan-oven-fries.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 russet potatoes (about ⅔ lb. each) ",
+        "2 Tbsp olive oil",
+        "2 tsp dried oregano",
+        "1/2 tsp garlic powder",
+        "1/2 tsp salt",
+        "1/4 tsp freshly cracked black pepper",
+        "2 Tbsp grated Parmesan"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425ºF. Wash the potatoes well then cut into ½-inch wide fries. ",
+    "Place the cut fries in a large bowl and add the olive oil, oregano, garlic powder, salt, pepper, and Parmesan. Toss until the fries are coated in oil and seasoning.",
+    "Spread the seasoned fries out onto a large baking sheet covered in parchment paper. ",
+    "Bake the fries for about 30 minutes, or until well browned, stirring once half-way through.",
+    "Serve hot! Optional garnish: chopped parsley and a pinch of Parmesan."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 2,
+  "slug": "garlic-parmesan-oven-fries",
+  "source": "https://www.budgetbytes.com/thick-cut-garlic-parmesan-oven-fries/",
   "time": [
     {
       "label": "Prep",
@@ -28,35 +56,5 @@
       ]
     }
   ],
-  "slug": "garlic-parmesan-oven-fries",
-  "title": "Garlic Parmesan Oven Fries",
-  "servings": 2,
-  "image": "../images/garlic-parmesan-oven-fries.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/thick-cut-garlic-parmesan-oven-fries/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2 russet potatoes (about ⅔ lb. each) ",
-        "2 Tbsp olive oil",
-        "2 tsp dried oregano",
-        "1/2 tsp garlic powder",
-        "1/2 tsp salt",
-        "1/4 tsp freshly cracked black pepper",
-        "2 Tbsp grated Parmesan"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 425ºF. Wash the potatoes well then cut into ½-inch wide fries. ",
-    "Place the cut fries in a large bowl and add the olive oil, oregano, garlic powder, salt, pepper, and Parmesan. Toss until the fries are coated in oil and seasoning.",
-    "Spread the seasoned fries out onto a large baking sheet covered in parchment paper. ",
-    "Bake the fries for about 30 minutes, or until well browned, stirring once half-way through.",
-    "Serve hot! Optional garnish: chopped parsley and a pinch of Parmesan."
-  ],
-  "createdDate": "10/17/2021"
+  "title": "Garlic Parmesan Oven Fries"
 }

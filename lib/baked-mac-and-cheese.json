@@ -1,13 +1,4 @@
 {
-  "time": [],
-  "slug": "baked-mac-and-cheese",
-  "title": "Baked Mac and Cheese",
-  "rating": 5,
-  "notes": [
-    "pretty rich, don't add more breadcrumbs, use a little less noodles and don't bake it more than they do",
-    "not going to re-write this one, there are better mac and cheese recipes"
-  ],
-  "source": "https://www.recipetineats.com/baked-mac-and-cheese/",
   "image": "../images/baked-mac-and-cheese.jpg",
   "ingredients": [
     {
@@ -16,5 +7,14 @@
     }
   ],
   "instructions": [],
-  "servings": 6
+  "notes": [
+    "pretty rich, don't add more breadcrumbs, use a little less noodles and don't bake it more than they do",
+    "not going to re-write this one, there are better mac and cheese recipes"
+  ],
+  "rating": 5,
+  "servings": 6,
+  "slug": "baked-mac-and-cheese",
+  "source": "https://www.recipetineats.com/baked-mac-and-cheese/",
+  "time": [],
+  "title": "Baked Mac and Cheese"
 }

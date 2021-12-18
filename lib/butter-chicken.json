@@ -1,24 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    }
-  ],
-  "slug": "butter-chicken",
-  "title": "Butter Chicken",
-  "rating": 9,
-  "notes": [
-    "Try marinating the chicken in yogurt first too"
-  ],
-  "image": "../images/butter-chicken.jpg",
   "createdDate": "01/01/2019",
-  "source": "https://www.reddit.com/r/recipes/comments/a9bxuo/butter_chicken/",
+  "image": "../images/butter-chicken.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -61,5 +43,21 @@
     "Add kasoori methi, 1 tsp garam masala and 3 tbsp heavy cream",
     "Mix well. turn off heat let is rest for 5 mins"
   ],
-  "servings": 4
+  "notes": ["Try marinating the chicken in yogurt first too"],
+  "rating": 9,
+  "servings": 4,
+  "slug": "butter-chicken",
+  "source": "https://www.reddit.com/r/recipes/comments/a9bxuo/butter_chicken/",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Butter Chicken"
 }

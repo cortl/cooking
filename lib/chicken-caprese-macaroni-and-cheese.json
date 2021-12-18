@@ -1,29 +1,4 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "chicken-caprese-macaroni-and-cheese",
-  "title": "Chicken Caprese Macaroni and Cheese",
-  "rating": 6,
-  "notes": [],
-  "source": "https://therecipecritic.com/chicken-caprese-macaroni-and-cheese/",
   "image": "../images/chicken-caprese-macaroni-and-cheese.jpg",
   "ingredients": [
     {
@@ -55,5 +30,30 @@
     "Add in the cheeses and stir to mix. Add in the diced tomatoes and fresh basil. Stir.",
     "Slice the chicken and add back to the pan. Serve warm and enjoy."
   ],
-  "servings": 6
+  "notes": [],
+  "rating": 6,
+  "servings": 6,
+  "slug": "chicken-caprese-macaroni-and-cheese",
+  "source": "https://therecipecritic.com/chicken-caprese-macaroni-and-cheese/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Chicken Caprese Macaroni and Cheese"
 }

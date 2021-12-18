@@ -1,23 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "orange-chili-sauce",
-  "title": "Orange Chili Sauce",
-  "rating": 6,
-  "notes": [
-    "A little bland, but a little bit goes a long way and should easy to use later"
-  ],
   "createdDate": "07/28/2019",
-  "source": "https://fitmencook.com/chili-sauce-recipe/",
   "image": "../images/orange-chili-sauce.jpg",
   "ingredients": [
     {
@@ -40,5 +22,23 @@
     "Remove from the heat to cool and thicken, then add the apple cider vinegar to balance the flavors.",
     "Store in an airtight glass jar in the fridge."
   ],
-  "servings": 0
+  "notes": [
+    "A little bland, but a little bit goes a long way and should easy to use later"
+  ],
+  "rating": 6,
+  "servings": 0,
+  "slug": "orange-chili-sauce",
+  "source": "https://fitmencook.com/chili-sauce-recipe/",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Orange Chili Sauce"
 }

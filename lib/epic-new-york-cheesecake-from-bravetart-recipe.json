@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 13,
-          "label": "hours"
-        }
-      ]
-    }
-  ],
-  "slug": "epic-new-york-cheesecake-from-bravetart-recipe",
-  "title": "New York Cheesecake",
-  "servings": 8,
+  "createdDate": "2/14/2021",
   "image": "../images/epic-new-york-cheesecake-from-bravetart-recipe.jpg",
-  "rating": 10,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.seriouseats.com/recipes/2019/07/epic-new-york-cheesecake-from-bravetart.html",
   "ingredients": [
     {
       "category": "Graham Cracker Crust",
@@ -73,5 +46,30 @@
     "Unmolding the Cheesecake From a Traditional Cake Pan: Loosen the sides of the cheesecake from the pan with a thin knife or offset spatula. Stand the cake in a few inches of scalding hot water until the pan feels warm (a roasting pan works well for this). Drape the cake in plastic wrap to protect its surface, then invert onto a large, flat plate, and lift the pan to pull it away. It should slide free without any resistance; if not, continue standing in hot water a few minutes more. After removing the pan, peel the parchment from the crust, and re-invert the cheesecake onto a serving plate. Cover with plastic and refrigerate until needed, up to 10 days.",
     "To Serve: Combine the fresh fruit and warmed fruit syrup or jam in a large bowl, and gently fold with a flexible spatula until the fruit is well coated and glistening (optional). Cut the cheesecake with a large chef's knife dipped in hot water; for clean and tidy portions of cheesecake, pause to clean the blade under hot running water between each slice. Top with spoonfuls of the sauced fruit, if using, or other toppings and sauces as desired."
   ],
-  "createdDate": "2/14/2021"
+  "notes": [""],
+  "rating": 10,
+  "servings": 8,
+  "slug": "epic-new-york-cheesecake-from-bravetart-recipe",
+  "source": "https://www.seriouseats.com/recipes/2019/07/epic-new-york-cheesecake-from-bravetart.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 13,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "New York Cheesecake"
 }

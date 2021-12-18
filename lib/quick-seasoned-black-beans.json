@@ -1,4 +1,28 @@
 {
+  "createdDate": "7/11/2020",
+  "image": "../images/quick-seasoned-black-beans.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 jalapeño ",
+        "1 clove garlic ",
+        "1 Tbsp cooking oil",
+        "1/2 tsp ground cumin ",
+        "2 15oz. cans black beans"
+      ]
+    }
+  ],
+  "instructions": [
+    "Slice the stem off the jalapeño, then cut it in half lengthwise. Use a spoon to scrape out the seeds (leave a few in if you prefer your beans spicy), then finely dice the rest of the jalapeño. Mince the garlic.",
+    "Add the diced jalapeño and minced garlic to a small sauce pot with the cooking oil and cumin. Sauté over medium heat for about one minute.",
+    "Add the beans (do not drain) and bring to a simmer over medium to heat through. Taste and season with salt if needed. Serve hot."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 6,
+  "slug": "quick-seasoned-black-beans",
+  "source": "https://www.budgetbytes.com/quick-seasoned-black-beans/",
   "time": [
     {
       "label": "Prep",
@@ -28,31 +52,5 @@
       ]
     }
   ],
-  "slug": "quick-seasoned-black-beans",
-  "title": "Quick Seasoned Black Beans",
-  "image": "../images/quick-seasoned-black-beans.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/quick-seasoned-black-beans/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 jalapeño ",
-        "1 clove garlic ",
-        "1 Tbsp cooking oil",
-        "1/2 tsp ground cumin ",
-        "2 15oz. cans black beans"
-      ]
-    }
-  ],
-  "instructions": [
-    "Slice the stem off the jalapeño, then cut it in half lengthwise. Use a spoon to scrape out the seeds (leave a few in if you prefer your beans spicy), then finely dice the rest of the jalapeño. Mince the garlic.",
-    "Add the diced jalapeño and minced garlic to a small sauce pot with the cooking oil and cumin. Sauté over medium heat for about one minute.",
-    "Add the beans (do not drain) and bring to a simmer over medium to heat through. Taste and season with salt if needed. Serve hot."
-  ],
-  "createdDate": "7/11/2020",
-  "servings": 6
+  "title": "Quick Seasoned Black Beans"
 }

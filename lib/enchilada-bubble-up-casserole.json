@@ -1,41 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 55,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "enchilada-bubble-up-casserole",
-  "title": "Enchilada Bubble Up Casserole",
   "image": "../images/enchilada-bubble-up-casserole.jpg",
-  "rating": 5,
-  "notes": [
-    "biscuits are good, not a good combo with chicken"
-  ],
-  "source": "https://www.budgetbytes.com/2018/02/enchilada-bubble-casserole/",
   "ingredients": [
     {
       "category": "All",
@@ -75,5 +39,39 @@
     "Spread the dough mixture into the casserole dish and make sure it's in an even layer across the bottom. The mixture should not be piled too thick. Cover the dish with foil and bake for 20 minutes. Remove the foil and bake for 10-15 minutes more, or until the center is baked through. ",
     "Add the shredded cheese, and bake for another 5-7 minutes. Top with sliced green onions just before serving."
   ],
-  "servings": 4
+  "notes": ["biscuits are good, not a good combo with chicken"],
+  "rating": 5,
+  "servings": 4,
+  "slug": "enchilada-bubble-up-casserole",
+  "source": "https://www.budgetbytes.com/2018/02/enchilada-bubble-casserole/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Enchilada Bubble Up Casserole"
 }

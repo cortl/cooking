@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 9,
-          "label": "hours"
-        }
-      ]
-    }
-  ],
-  "slug": "slowcooker-sticky-thai-meatballs-recipe",
-  "title": "Slow-Cooker Sticky Thai Meatballs Recipe",
-  "image": "../images/slowcooker-sticky-thai-meatballs-recipe.jpg",
-  "rating": 6,
-  "notes": [
-    "good ish, could have gone with less ginger and not forgotten about adding the water :P.  Meatballs under broiler is genius"
-  ],
   "createdDate": "05/26/2019",
-  "source": "https://www.seriouseats.com/recipes/2016/01/slow-cooker-thai-chicken-meatball-recipe.html",
+  "image": "../images/slowcooker-sticky-thai-meatballs-recipe.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -65,5 +38,32 @@
     "In a small bowl, combine remaining scallion, cilantro, chopped peanuts, and lime juice.",
     "Once the cooking time is up, switch the slow cooker to the “warm” setting. Right before serving, sprinkle approximately 3/4 of the peanut mixture over the meatballs and stir. Top with the remaining peanut mixture and serve."
   ],
-  "servings": 4
+  "notes": [
+    "good ish, could have gone with less ginger and not forgotten about adding the water :P.  Meatballs under broiler is genius"
+  ],
+  "rating": 6,
+  "servings": 4,
+  "slug": "slowcooker-sticky-thai-meatballs-recipe",
+  "source": "https://www.seriouseats.com/recipes/2016/01/slow-cooker-thai-chicken-meatball-recipe.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 9,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "Slow-Cooker Sticky Thai Meatballs Recipe"
 }

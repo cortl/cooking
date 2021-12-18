@@ -1,4 +1,31 @@
 {
+  "image": "../images/hearty-black-bean-quesadillas.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 15 oz. can black beans** ",
+        "1 cup frozen corn kernels ",
+        "1/2 small red onion ",
+        "1 clove garlic ",
+        "1/4 bunch fresh cilantro ",
+        "2 cups shredded cheese ",
+        "1 batch taco seasoning ",
+        "10 taco sized tortillas "
+      ]
+    }
+  ],
+  "instructions": [
+    "Drain the can of beans and rinse lightly. Place the beans in a large bowl along with the corn (no need to thaw).",
+    "Rinse the cilantro, remove the leaves, and chop roughly. Dice the onion and mince the garlic. Add the cilantro, onion, garlic, and shredded cheese to the bowl with the beans and corn. Lastly, mix up a batch of taco seasoning and add to the bowl. Stir everything until evenly mixed.",
+    "Place a half cup of the filling on one side of each tortilla and fold over. Cook in a skillet on both sides over medium heat until brown and crispy and the cheesy filling has melted.",
+    "To freeze the quesadillas, simply fill each one and place on a baking sheet lined with parchment paper. Place in the freezer for one hour to solidify the quesadillas and then transfer to a freezer bag. To reheat either microwave (for a soft quesadilla) or cook in a skillet on low heat (make sure to use low heat so that the filling has time to thaw and melt before the outside burns)."
+  ],
+  "notes": ["Added 93% groundbeef, dense af"],
+  "rating": 8,
+  "servings": 10,
+  "slug": "hearty-black-bean-quesadillas",
+  "source": "https://www.budgetbytes.com/2012/02/hearty-black-bean-quesadillas/",
   "time": [
     {
       "label": "Prep",
@@ -28,34 +55,5 @@
       ]
     }
   ],
-  "slug": "hearty-black-bean-quesadillas",
-  "title": "Hearty Black Bean Quesadillas",
-  "image": "../images/hearty-black-bean-quesadillas.jpg",
-  "rating": 8,
-  "notes": [
-    "Added 93% groundbeef, dense af"
-  ],
-  "source": "https://www.budgetbytes.com/2012/02/hearty-black-bean-quesadillas/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 15 oz. can black beans** ",
-        "1 cup frozen corn kernels ",
-        "1/2 small red onion ",
-        "1 clove garlic ",
-        "1/4 bunch fresh cilantro ",
-        "2 cups shredded cheese ",
-        "1 batch taco seasoning ",
-        "10 taco sized tortillas "
-      ]
-    }
-  ],
-  "instructions": [
-    "Drain the can of beans and rinse lightly. Place the beans in a large bowl along with the corn (no need to thaw).",
-    "Rinse the cilantro, remove the leaves, and chop roughly. Dice the onion and mince the garlic. Add the cilantro, onion, garlic, and shredded cheese to the bowl with the beans and corn. Lastly, mix up a batch of taco seasoning and add to the bowl. Stir everything until evenly mixed.",
-    "Place a half cup of the filling on one side of each tortilla and fold over. Cook in a skillet on both sides over medium heat until brown and crispy and the cheesy filling has melted.",
-    "To freeze the quesadillas, simply fill each one and place on a baking sheet lined with parchment paper. Place in the freezer for one hour to solidify the quesadillas and then transfer to a freezer bag. To reheat either microwave (for a soft quesadilla) or cook in a skillet on low heat (make sure to use low heat so that the filling has time to thaw and melt before the outside burns)."
-  ],
-  "servings": 10
+  "title": "Hearty Black Bean Quesadillas"
 }

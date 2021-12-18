@@ -1,22 +1,4 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "buffalo-chicken-meal-prep",
-  "title": "Buffalo Chicken Quinoa Bowls",
-  "rating": 7,
-  "notes": [
-    "arrowroot doesn't create a crust like egg/cornstarch would so it's a bit tender"
-  ],
-  "source": "https://www.youtube.com/watch?v=PDm0YkTMuS4",
   "ingredients": [
     {
       "category": "All",
@@ -38,5 +20,23 @@
     "While the chicken cooks, cut the carrots and celery",
     "Cook the quinoa and add in the blue cheese"
   ],
-  "servings": 4
+  "notes": [
+    "arrowroot doesn't create a crust like egg/cornstarch would so it's a bit tender"
+  ],
+  "rating": 7,
+  "servings": 4,
+  "slug": "buffalo-chicken-meal-prep",
+  "source": "https://www.youtube.com/watch?v=PDm0YkTMuS4",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Buffalo Chicken Quinoa Bowls"
 }

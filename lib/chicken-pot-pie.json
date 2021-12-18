@@ -1,46 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 55,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        },
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "chicken-pot-pie",
-  "title": "Chicken Pot Pie",
-  "rating": 8,
-  "notes": [
-    "I usually end up adding more than what the recipe requires for milk, up to about 1/2 cup more.",
-    "let the pie crust come to room temperature before handling"
-  ],
   "createdDate": "12/30/2018",
-  "source": "https://girlwiththeironcast.com/chicken-pot-pie/",
   "image": "../images/chicken-pot-pie.jpg",
   "ingredients": [
     {
@@ -75,5 +34,46 @@
     "In a small bowl whisk the egg and 1 tbsp of water. Using a brush, carefully brush the entire top of the pie dough with the egg wash. Using a knife, cut a “+” in the middle of the pie as a vent to allow the steam to escape. Sprinkle a little salt and fresh ground pepper on top of the dough.",
     "Bake for 30-35 minutes until the pie crust is golden brown. Remove from the oven and allow to cool for 10 minutes before serving."
   ],
-  "servings": 7
+  "notes": [
+    "I usually end up adding more than what the recipe requires for milk, up to about 1/2 cup more.",
+    "let the pie crust come to room temperature before handling"
+  ],
+  "rating": 8,
+  "servings": 7,
+  "slug": "chicken-pot-pie",
+  "source": "https://girlwiththeironcast.com/chicken-pot-pie/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Chicken Pot Pie"
 }

@@ -1,4 +1,33 @@
 {
+  "createdDate": "10/17/2021",
+  "image": "../images/moroccan-spiced-sweet-potatoes.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2 Tbsp ground cumin",
+        "1 tsp ground turmeric",
+        "1 tsp cinnamon",
+        "1/4 tsp cayenne pepper",
+        "1 tsp paprika",
+        "1/4 tsp salt",
+        "2 Tbsp olive oil",
+        "2 lbs. sweet potatoes",
+        "1/4 bunch cilantro"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. In a small bowl combine the cumin, turmeric, cinnamon, cayenne pepper, paprika, salt, and olive oil.",
+    "Peel the sweet potatoes, then cut them into about 3/4-inch cubes. Place the cubes in a bowl and pour the oil and spice mixture over top. Stir the potatoes until they are well coated in oil and spices.*",
+    "Spread the spiced sweet potatoes out over a baking sheet so they are in a single layer. Place the baking sheet in the oven and roast the potatoes for 15 minutes, then stir the sweet potatoes, return them to the oven, and roast for 15 minutes more, or until tender.",
+    "Once the sweet potatoes have finished roasting, give them a taste and add a pinch more salt, if needed. Roughly chop the cilantro and sprinkle it over top just before serving."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 4,
+  "slug": "moroccan-spiced-sweet-potatoes",
+  "source": "https://www.budgetbytes.com/moroccan-spiced-sweet-potatoes/",
   "time": [
     {
       "label": "Prep",
@@ -28,36 +57,5 @@
       ]
     }
   ],
-  "slug": "moroccan-spiced-sweet-potatoes",
-  "title": "Moroccan Spiced Sweet Potatoes",
-  "servings": 4,
-  "image": "../images/moroccan-spiced-sweet-potatoes.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/moroccan-spiced-sweet-potatoes/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1/2 Tbsp ground cumin",
-        "1 tsp ground turmeric",
-        "1 tsp cinnamon",
-        "1/4 tsp cayenne pepper",
-        "1 tsp paprika",
-        "1/4 tsp salt",
-        "2 Tbsp olive oil",
-        "2 lbs. sweet potatoes",
-        "1/4 bunch cilantro"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 400ºF. In a small bowl combine the cumin, turmeric, cinnamon, cayenne pepper, paprika, salt, and olive oil.",
-    "Peel the sweet potatoes, then cut them into about 3/4-inch cubes. Place the cubes in a bowl and pour the oil and spice mixture over top. Stir the potatoes until they are well coated in oil and spices.*",
-    "Spread the spiced sweet potatoes out over a baking sheet so they are in a single layer. Place the baking sheet in the oven and roast the potatoes for 15 minutes, then stir the sweet potatoes, return them to the oven, and roast for 15 minutes more, or until tender.",
-    "Once the sweet potatoes have finished roasting, give them a taste and add a pinch more salt, if needed. Roughly chop the cilantro and sprinkle it over top just before serving."
-  ],
-  "createdDate": "10/17/2021"
+  "title": "Moroccan Spiced Sweet Potatoes"
 }

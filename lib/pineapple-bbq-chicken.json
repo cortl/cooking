@@ -1,4 +1,39 @@
 {
+  "createdDate": "11/01/2019",
+  "image": "../images/pineapple-bbq-chicken.jpg",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "2.5lbs Boneless skinless chicken breast",
+        "1/4cup Vinegar based BBQ sauce (Gates)"
+      ]
+    },
+    {
+      "category": "Sides",
+      "items": [
+        "2 large Sweet Potatoes",
+        "2 1/2 cups Broccoli",
+        "3 cups Pineapple",
+        "2 Tbsp Olive oil"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F.",
+    "Chop the potatoes into a medium dice. Coat in olive oil and roast for 20 minutes, flipping halfway through. ⁣⁣Cook until you’ve reached you’re desired doneness. ⁣",
+    "Heat a grill pan or skillet over medium high heat. Lightly coat the chicken thighs in a bit of olive oil and cook for a few minutes on each side.",
+    "Cut it into one inch pieces and put it back in the pan. Add ¼ cup of BBQ sauce and stir.",
+    "Cook the broccoli in the microwave until it is no longer frozen, drain any excess water.",
+    "This recipe makes 5 servings. Divide your ingredients evenly 5 ways. The pineapple doesn't need to be cooked."
+  ],
+  "notes": [
+    "Use fresh pineapple and fresh broccoli, use more bbq sauce and add some afterwards"
+  ],
+  "rating": 6,
+  "servings": 4,
+  "slug": "pineapple-bbq-chicken",
+  "source": "https://mealprepmanual.com/pineapple-bbq-chicken/",
   "time": [
     {
       "label": "Prep",
@@ -28,40 +63,5 @@
       ]
     }
   ],
-  "slug": "pineapple-bbq-chicken",
-  "title": "Pineapple BBQ Chicken",
-  "rating": 6,
-  "notes": [
-    "Use fresh pineapple and fresh broccoli, use more bbq sauce and add some afterwards"
-  ],
-  "createdDate": "11/01/2019",
-  "source": "https://mealprepmanual.com/pineapple-bbq-chicken/",
-  "image": "../images/pineapple-bbq-chicken.jpg",
-  "ingredients": [
-    {
-      "category": "Chicken",
-      "items": [
-        "2.5lbs Boneless skinless chicken breast",
-        "1/4cup Vinegar based BBQ sauce (Gates)"
-      ]
-    },
-    {
-      "category": "Sides",
-      "items": [
-        "2 large Sweet Potatoes",
-        "2 1/2 cups Broccoli",
-        "3 cups Pineapple",
-        "2 Tbsp Olive oil"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 425°F.",
-    "Chop the potatoes into a medium dice. Coat in olive oil and roast for 20 minutes, flipping halfway through. ⁣⁣Cook until you’ve reached you’re desired doneness. ⁣",
-    "Heat a grill pan or skillet over medium high heat. Lightly coat the chicken thighs in a bit of olive oil and cook for a few minutes on each side.",
-    "Cut it into one inch pieces and put it back in the pan. Add ¼ cup of BBQ sauce and stir.",
-    "Cook the broccoli in the microwave until it is no longer frozen, drain any excess water.",
-    "This recipe makes 5 servings. Divide your ingredients evenly 5 ways. The pineapple doesn't need to be cooked."
-  ],
-  "servings": 4
+  "title": "Pineapple BBQ Chicken"
 }

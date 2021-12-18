@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "cumin-lime-coleslaw",
-  "title": "Cumin Lime Coleslaw",
-  "servings": 6,
+  "createdDate": "3/28/2021",
   "image": "../images/cumin-lime-coleslaw.jpg",
-  "rating": 7,
-  "notes": [
-    "I hate coleslaw and this was 🔥"
-  ],
-  "source": "https://www.budgetbytes.com/cumin-lime-coleslaw/",
   "ingredients": [
     {
       "category": "All",
@@ -49,5 +22,30 @@
     "Remove the core from the cabbage and then finely shred. Peel the carrots, then use a large holed cheese grater to shred the carrots. Thinly slice the green onions.",
     "Combine the shredded cabbage, carrots, and green onions in a large bowl. Pour the dressing over top, then stir until everything is well coated in dressing. Serve immediately or refrigerate until ready to serve. After refrigerating, make sure to stir the slaw well before serving."
   ],
-  "createdDate": "3/28/2021"
+  "notes": ["I hate coleslaw and this was 🔥"],
+  "rating": 7,
+  "servings": 6,
+  "slug": "cumin-lime-coleslaw",
+  "source": "https://www.budgetbytes.com/cumin-lime-coleslaw/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Cumin Lime Coleslaw"
 }

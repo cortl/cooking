@@ -1,23 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "fmk-korean-beef-and-rice",
-  "title": "Korean Beef and Rice",
-  "rating": 7,
-  "notes": [
-    "Healthier than the other recipe on this site"
-  ],
   "createdDate": "06/13/2020",
-  "source": "https://fitmencook.com/korean-beef-and-rice/",
   "image": "../images/fmk-korean-ground-beef.jpg",
   "ingredients": [
     {
@@ -46,5 +28,21 @@
     "When the beef is nearly finished, reduce the heat to low then pour in the sauce.  Stir and ensure all the beef is covered in the sauce.  Remove from the heat.",
     "Garnish with sesame oil, green onion, sesame seeds and jalapeño (if desired)."
   ],
-  "servings": 4
+  "notes": ["Healthier than the other recipe on this site"],
+  "rating": 7,
+  "servings": 4,
+  "slug": "fmk-korean-beef-and-rice",
+  "source": "https://fitmencook.com/korean-beef-and-rice/",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Korean Beef and Rice"
 }

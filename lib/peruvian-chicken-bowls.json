@@ -1,53 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Inactive",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        },
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "peruvian-chicken-bowls",
-  "title": "Peruvian Chicken Bowls",
-  "rating": 9,
-  "servings": 4,
-  "notes": [],
   "createdDate": "01/31/2020",
-  "source": "https://www.reddit.com/r/recipes/comments/l6hxl6/peruvian_chicken_bowls_with_butterroasted_potatoes/",
   "image": "../images/peruvian-chicken-bowls.jpg",
   "ingredients": [
     {
@@ -98,10 +50,7 @@
     },
     {
       "category": "For Serving",
-      "items": [
-        "Aji verde sauce",
-        "Minced cilantro"
-      ]
+      "items": ["Aji verde sauce", "Minced cilantro"]
     }
   ],
   "instructions": [
@@ -114,5 +63,53 @@
     "Nestle all the chicken thighs, skin-side up, in the skillet. It's okay if the skillet is a bit crowded since you've already browned the skin. Transfer to the oven with the potatoes and roast for 15 minutes until completely an instant-read thermometer reaches 165ºF.",
     "You may broil the tops with the potatoes, as well, if you'd like to further crisp up the skin. Remove the chicken from the oven and transfer it to the stove top. Turn off the heat.",
     "Right before serving, stir the tomatoes into the avocado salad. Season once more with salt to taste. Slice up the chicken thighs. Divide the cooked rice between shallow bowls and pile the chicken on top. Spoon the avocado salad on the other side of the bowl and arrange one or two butter-roasted potatoes on each plate. Garnish with more minced cilantro, if you like and a spoonful of aji verde."
-  ]
+  ],
+  "notes": [],
+  "rating": 9,
+  "servings": 4,
+  "slug": "peruvian-chicken-bowls",
+  "source": "https://www.reddit.com/r/recipes/comments/l6hxl6/peruvian_chicken_bowls_with_butterroasted_potatoes/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Peruvian Chicken Bowls"
 }

@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 50,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "classic-homemade-meatloaf",
-  "title": "Classic Homemade Meatloaf",
-  "servings": 10,
+  "createdDate": "10/17/2021",
   "image": "../images/classic-homemade-meatloaf.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/classic-homemade-meatloaf/",
   "ingredients": [
     {
       "category": "Meatloaf",
@@ -70,5 +34,39 @@
     "In a separate small bowl, stir together the glaze ingredients (ketchup, brown sugar, Worcestershire sauce, and mustard). Spread the glaze evenly over the top and sides of the meatloaf.",
     "Bake the meatloaf for 50-55 minutes, or until the internal temperature reaches 165ºF. Allow the meatloaf to rest for 5-10 minutes after baking, then slice and serve."
   ],
-  "createdDate": "10/17/2021"
+  "notes": [""],
+  "rating": 7,
+  "servings": 10,
+  "slug": "classic-homemade-meatloaf",
+  "source": "https://www.budgetbytes.com/classic-homemade-meatloaf/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Classic Homemade Meatloaf"
 }

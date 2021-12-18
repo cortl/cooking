@@ -1,4 +1,40 @@
 {
+  "createdDate": "1/12/2021",
+  "image": "../images/slow-cooker-hamburger-stew.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 lbs. russet potatoes",
+        "1/2 lb. carrots (about 4 carrots)",
+        "1 yellow onion",
+        "2 cloves garlic",
+        "½  tsp dried rosemary",
+        "½  tsp dried thyme",
+        "1/4 tsp freshly cracked black pepper",
+        "1 lb. ground beef",
+        "1 15oz. can stewed tomatoes",
+        "2 cups beef broth",
+        "2 Tbsp Worcestershire sauce",
+        "1 Tbsp soy sauce",
+        "1 cup frozen peas"
+      ]
+    }
+  ],
+  "instructions": [
+    "Peel and dice the potatoes into 1-inch cubes. Peel and slice the carrots. Dice the onion and mince the garlic. Add the potatoes, carrots, onion, garlic, rosemary, thyme, and pepper to a slow cooker (4 quarts or larger).",
+    "Brown the ground beef in a skillet, then drain off the excess fat. Add the browned and drained beef to the slow cooker along with the can of stewed tomatoes (with juices). Finally, add the beef broth, Worcestershire sauce, and soy sauce to the slow cooker.",
+    "Give the contents of the slow cooker a brief stir to make sure everything is evenly combined (the broth may not fully cover the other ingredients). Place the lid on the slow cooker and cook on high for four hours, or low for eight hours.",
+    "After cooking on high for four hours or low for eight hours, remove the lid and stir the stew. Use the back of a spoon to slightly mash some of the potatoes, which will help thicken the stew.",
+    "Add the frozen peas (no need to thaw) and stir to combine into the stew. Taste the stew and add extra salt if needed (I did not add any, this will depend on the salt content of your beef broth). Serve hot with bread for dipping!"
+  ],
+  "notes": [
+    "I just did this fast-cooker version by adding a little more broth and simmering for 40-50 minutes"
+  ],
+  "rating": 8,
+  "servings": 6,
+  "slug": "slow-cooker-hamburger-stew",
+  "source": "https://www.budgetbytes.com/slow-cooker-hamburger-stew/",
   "time": [
     {
       "label": "Prep",
@@ -28,41 +64,5 @@
       ]
     }
   ],
-  "slug": "slow-cooker-hamburger-stew",
-  "title": "Slow Cooker Hamburger Stew",
-  "servings": 6,
-  "image": "../images/slow-cooker-hamburger-stew.jpg",
-  "rating": 8,
-  "notes": [
-    "I just did this fast-cooker version by adding a little more broth and simmering for 40-50 minutes"
-  ],
-  "source": "https://www.budgetbytes.com/slow-cooker-hamburger-stew/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2 lbs. russet potatoes",
-        "1/2 lb. carrots (about 4 carrots)",
-        "1 yellow onion",
-        "2 cloves garlic",
-        "½  tsp dried rosemary",
-        "½  tsp dried thyme",
-        "1/4 tsp freshly cracked black pepper",
-        "1 lb. ground beef",
-        "1 15oz. can stewed tomatoes",
-        "2 cups beef broth",
-        "2 Tbsp Worcestershire sauce",
-        "1 Tbsp soy sauce",
-        "1 cup frozen peas"
-      ]
-    }
-  ],
-  "instructions": [
-    "Peel and dice the potatoes into 1-inch cubes. Peel and slice the carrots. Dice the onion and mince the garlic. Add the potatoes, carrots, onion, garlic, rosemary, thyme, and pepper to a slow cooker (4 quarts or larger).",
-    "Brown the ground beef in a skillet, then drain off the excess fat. Add the browned and drained beef to the slow cooker along with the can of stewed tomatoes (with juices). Finally, add the beef broth, Worcestershire sauce, and soy sauce to the slow cooker.",
-    "Give the contents of the slow cooker a brief stir to make sure everything is evenly combined (the broth may not fully cover the other ingredients). Place the lid on the slow cooker and cook on high for four hours, or low for eight hours.",
-    "After cooking on high for four hours or low for eight hours, remove the lid and stir the stew. Use the back of a spoon to slightly mash some of the potatoes, which will help thicken the stew.",
-    "Add the frozen peas (no need to thaw) and stir to combine into the stew. Taste the stew and add extra salt if needed (I did not add any, this will depend on the salt content of your beef broth). Serve hot with bread for dipping!"
-  ],
-  "createdDate": "1/12/2021"
+  "title": "Slow Cooker Hamburger Stew"
 }

@@ -1,4 +1,36 @@
 {
+  "createdDate": "03/11/2020",
+  "image": "../images/fluffy-garlic-herb-mashed-potatoes.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2.5 lbs. russet potatoes",
+        "1/2 tsp salt",
+        "4 Tbsp butter",
+        "1/2 cup whole milk",
+        "1 tsp dried parsley",
+        "1/2 tsp dried oregano",
+        "1/2  tsp dried basil",
+        "1/4 tsp garlic powder",
+        "1/4 tsp onion powder",
+        "1/4 tsp salt",
+        " freshly cracked pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Peel and cut the russet potatoes into 1-inch cubes. Place the cubed potatoes in a colander and rinse well with cool water.",
+    "Place the rinsed potatoes in a pot and add enough water to cover the potatoes by one inch. Season the water with 1/2 tsp salt. Cover the pot and bring it to a boil over high heat. Boil the potatoes until they are VERY tender, about 7-10 minutes.",
+    "Drain the cooked potatoes in a colander, then rinse briefly with hot water.",
+    "Add the butter, milk, and garlic herb seasoning o the pot used to boil the potatoes. Stir and heat over low until the butter has melted and the milk is hot.",
+    "Once the milk is hot, add the potatoes back to the pot, turn off the heat and mash with a potato masher. Once the potatoes are mostly mashed, use a hand mixer to briefly whip the potatoes until they are light and fluffy. Taste the potatoes and add salt to taste, if needed, then serve."
+  ],
+  "notes": [""],
+  "rating": 6,
+  "servings": 6,
+  "slug": "fluffy-garlic-herb-mashed-potatoes",
+  "source": "https://www.budgetbytes.com/fluffy-garlic-herb-mashed-potatoes/",
   "time": [
     {
       "label": "Prep",
@@ -28,39 +60,5 @@
       ]
     }
   ],
-  "slug": "fluffy-garlic-herb-mashed-potatoes",
-  "title": "Fluffy Garlic Herb Mashed Potatoes",
-  "image": "../images/fluffy-garlic-herb-mashed-potatoes.jpg",
-  "rating": 6,
-  "notes": [
-    ""
-  ],
-  "createdDate": "03/11/2020",
-  "source": "https://www.budgetbytes.com/fluffy-garlic-herb-mashed-potatoes/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2.5 lbs. russet potatoes",
-        "1/2 tsp salt",
-        "4 Tbsp butter",
-        "1/2 cup whole milk",
-        "1 tsp dried parsley",
-        "1/2 tsp dried oregano",
-        "1/2  tsp dried basil",
-        "1/4 tsp garlic powder",
-        "1/4 tsp onion powder",
-        "1/4 tsp salt",
-        " freshly cracked pepper"
-      ]
-    }
-  ],
-  "instructions": [
-    "Peel and cut the russet potatoes into 1-inch cubes. Place the cubed potatoes in a colander and rinse well with cool water.",
-    "Place the rinsed potatoes in a pot and add enough water to cover the potatoes by one inch. Season the water with 1/2 tsp salt. Cover the pot and bring it to a boil over high heat. Boil the potatoes until they are VERY tender, about 7-10 minutes.",
-    "Drain the cooked potatoes in a colander, then rinse briefly with hot water.",
-    "Add the butter, milk, and garlic herb seasoning o the pot used to boil the potatoes. Stir and heat over low until the butter has melted and the milk is hot.",
-    "Once the milk is hot, add the potatoes back to the pot, turn off the heat and mash with a potato masher. Once the potatoes are mostly mashed, use a hand mixer to briefly whip the potatoes until they are light and fluffy. Taste the potatoes and add salt to taste, if needed, then serve."
-  ],
-  "servings": 6
+  "title": "Fluffy Garlic Herb Mashed Potatoes"
 }

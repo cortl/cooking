@@ -1,4 +1,28 @@
 {
+  "createdDate": "7/3/2021",
+  "image": "../images/easy-sweet-chili-sauce.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/4 cup rice vinegar",
+        "1/4 cup sugar",
+        "1/4 cup water",
+        "1 Tbsp sambal oelek",
+        "1/2 Tbsp cornstarch + 1 Tbsp water"
+      ]
+    }
+  ],
+  "instructions": [
+    "Add the rice vinegar, sugar, water, and sambal oelek to a small sauce pot. Heat and stir the mixture over medium heat until the sugar fully dissolves.",
+    "Stir the cornstarch into 1 Tbsp water until dissolved, then pour it into the sauce pot with the sweet chili sauce. Continue stirring and heating until the mixture comes up to a simmer, at which time the cornstarch will thicken the sauce and go from appearing cloudy to clear.",
+    "Use the sauce immediately, or refrigerate and use within one week."
+  ],
+  "notes": [""],
+  "rating": 8,
+  "servings": 4,
+  "slug": "easy-sweet-chili-sauce",
+  "source": "https://www.budgetbytes.com/easy-sweet-chili-sauce/",
   "time": [
     {
       "label": "Prep",
@@ -28,31 +52,5 @@
       ]
     }
   ],
-  "slug": "easy-sweet-chili-sauce",
-  "title": "Easy Sweet Chili Sauce",
-  "servings": 4,
-  "image": "../images/easy-sweet-chili-sauce.jpg",
-  "rating": 8,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/easy-sweet-chili-sauce/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1/4 cup rice vinegar",
-        "1/4 cup sugar",
-        "1/4 cup water",
-        "1 Tbsp sambal oelek",
-        "1/2 Tbsp cornstarch + 1 Tbsp water"
-      ]
-    }
-  ],
-  "instructions": [
-    "Add the rice vinegar, sugar, water, and sambal oelek to a small sauce pot. Heat and stir the mixture over medium heat until the sugar fully dissolves.",
-    "Stir the cornstarch into 1 Tbsp water until dissolved, then pour it into the sauce pot with the sweet chili sauce. Continue stirring and heating until the mixture comes up to a simmer, at which time the cornstarch will thicken the sauce and go from appearing cloudy to clear.",
-    "Use the sauce immediately, or refrigerate and use within one week."
-  ],
-  "createdDate": "7/3/2021"
+  "title": "Easy Sweet Chili Sauce"
 }

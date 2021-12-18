@@ -1,23 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 2,
-          "label": "hours"
-        }
-      ]
-    }
-  ],
-  "slug": "homemade-pita-bread",
-  "title": "Homemade Pita Bread",
-  "rating": 8,
-  "notes": [
-    "pita because really sticky, but worked really well without the whole grain flour"
-  ],
   "createdDate": "09/29/2019",
-  "source": "https://cooking.nytimes.com/recipes/1016071-homemade-pita-bread",
   "image": "../images/homemade-pita-bread.jpg",
   "ingredients": [
     {
@@ -41,5 +23,23 @@
     "Remove 1 ball (keeping others covered) and press into a flat diskc with rolling pin. Roll to a 6-inch circle, then to an 8-inch diameter, about 1/8 inch thick, dusting with flour if necessary. (The dough will shrink a bit while baking.)",
     "Carefully lift the dough circle and place quickly on hot baking sheet. After 2 minutes the dough should be nicely puffed. Turn over with tongs or spatula and bake 1 minute more. The pita should be pale, with only a few brown speckles. Transfer warm pita to a napkin-lined basket and cover so bread stays soft. Repeat with the rest of the dough balls."
   ],
-  "servings": 7
+  "notes": [
+    "pita because really sticky, but worked really well without the whole grain flour"
+  ],
+  "rating": 8,
+  "servings": 7,
+  "slug": "homemade-pita-bread",
+  "source": "https://cooking.nytimes.com/recipes/1016071-homemade-pita-bread",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "Homemade Pita Bread"
 }

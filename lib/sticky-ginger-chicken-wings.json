@@ -1,4 +1,36 @@
 {
+  "createdDate": "4/7/2021",
+  "image": "../images/sticky-ginger-chicken-wings.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 lbs. chicken wings or drummettes ",
+        "1 Tbsp cooking oil",
+        "1/4 cup honey ",
+        "2 Tbsp soy sauce ",
+        "1 Tbsp chili garlic sauce ",
+        "1 Tbsp toasted sesame oil ",
+        "1 Tbsp rice vinegar ",
+        "2 cloves garlic, minced",
+        "1 Tbsp grated fresh ginger ",
+        "2 green onions, sliced"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. Place the chicken wings in a glass or ceramic baking dish so that they're in a single layer. Drizzle the cooking oil over top, then toss the wings to coat in the oil. Transfer the wings to the oven and bake for 15 minutes.",
+    "While the wings are baking, prepare the sticky ginger sauce. Combine the honey, soy sauce, chili garlic sauce, toasted sesame oil, rice vinegar, minced garlic, and grated ginger in a bowl.",
+    "After the wings have baked for 15 minutes, pour the sauce over the wings, then toss to coat. Return the wings to the oven and bake for an additional 45 minutes, stirring every 15 minutes, or until the sauce has reduced into a sticky glaze and deepened in color. Baking time may vary slightly, so keep an eye on the sauce toward the end of the baking time.",
+    "Top with sliced green onions and serve!"
+  ],
+  "notes": [
+    "Sauce didn't reduce much, baking wings in a cassserole dish really sucks compared to the JKLA method. I would try making/reducing the sauce in a pan. Oven frying the wings. Assemble afterwards"
+  ],
+  "rating": 4,
+  "servings": 2,
+  "slug": "sticky-ginger-chicken-wings",
+  "source": "https://www.budgetbytes.com/sticky-ginger-chicken-wings/",
   "time": [
     {
       "label": "Prep",
@@ -32,37 +64,5 @@
       ]
     }
   ],
-  "slug": "sticky-ginger-chicken-wings",
-  "title": "Sticky Ginger Chicken Wings",
-  "servings": 2,
-  "image": "../images/sticky-ginger-chicken-wings.jpg",
-  "rating": 4,
-  "notes": [
-    "Sauce didn't reduce much, baking wings in a cassserole dish really sucks compared to the JKLA method. I would try making/reducing the sauce in a pan. Oven frying the wings. Assemble afterwards"
-  ],
-  "source": "https://www.budgetbytes.com/sticky-ginger-chicken-wings/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2 lbs. chicken wings or drummettes ",
-        "1 Tbsp cooking oil",
-        "1/4 cup honey ",
-        "2 Tbsp soy sauce ",
-        "1 Tbsp chili garlic sauce ",
-        "1 Tbsp toasted sesame oil ",
-        "1 Tbsp rice vinegar ",
-        "2 cloves garlic, minced",
-        "1 Tbsp grated fresh ginger ",
-        "2 green onions, sliced"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 400ºF. Place the chicken wings in a glass or ceramic baking dish so that they're in a single layer. Drizzle the cooking oil over top, then toss the wings to coat in the oil. Transfer the wings to the oven and bake for 15 minutes.",
-    "While the wings are baking, prepare the sticky ginger sauce. Combine the honey, soy sauce, chili garlic sauce, toasted sesame oil, rice vinegar, minced garlic, and grated ginger in a bowl.",
-    "After the wings have baked for 15 minutes, pour the sauce over the wings, then toss to coat. Return the wings to the oven and bake for an additional 45 minutes, stirring every 15 minutes, or until the sauce has reduced into a sticky glaze and deepened in color. Baking time may vary slightly, so keep an eye on the sauce toward the end of the baking time.",
-    "Top with sliced green onions and serve!"
-  ],
-  "createdDate": "4/7/2021"
+  "title": "Sticky Ginger Chicken Wings"
 }

@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "pasta-with-vodka-sauce-recipe",
-  "title": "Pasta With Vodka Sauce Recipe",
-  "image": "../images/pasta-with-vodka-sauce-recipe.jpg",
-  "rating": 8,
-  "notes": [
-    "800+ calories for 1 serving.  Very rich, probably only eat this once or twice a year"
-  ],
   "createdDate": "04/16/2020",
-  "source": "https://www.seriouseats.com/recipes/2020/04/pasta-with-vodka-sauce.html",
+  "image": "../images/pasta-with-vodka-sauce-recipe.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -54,5 +27,32 @@
     "Using a spider skimmer or slotted spoon, transfer pasta directly to sauce pot along with 1/2 cup (120ml) pasta water (alternatively, reserve 2 cups pasta water, then drain pasta in a colander, then add to sauce with 1/2 cup of the reserved water). Increase heat to high, and cook, stirring constantly, until pasta is well coated in sauce and reaches the al dente stage, about 3 minutes. If sauce thickens too much before pasta is ready, add more pasta water in 1/4 cup (60ml) increments as needed. [Shown here with one serving size.]",
     "Remove from heat and stir in cheese until thoroughly incorporated into a smooth and creamy sauce. Taste for salt, and season with more if needed. If you can't detect the vodka at all, you can add a few drops more and stir it in before serving; exactly how boozy you want the sauce is a question of taste, but be careful because a heavy hand will ruin the dish. Spoon pasta and sauce onto warmed serving plates and top with additional grated cheese. Serve immediately."
   ],
-  "servings": 4
+  "notes": [
+    "800+ calories for 1 serving.  Very rich, probably only eat this once or twice a year"
+  ],
+  "rating": 8,
+  "servings": 4,
+  "slug": "pasta-with-vodka-sauce-recipe",
+  "source": "https://www.seriouseats.com/recipes/2020/04/pasta-with-vodka-sauce.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Pasta With Vodka Sauce Recipe"
 }

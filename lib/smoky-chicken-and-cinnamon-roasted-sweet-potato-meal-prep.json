@@ -1,41 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 50,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep",
-  "title": "Smoky Chicken and Cinnamon Roasted Sweet Potato Meal Prep",
   "image": "../images/smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep.jpg",
-  "rating": 8,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep/",
   "ingredients": [
     {
       "category": "Sides",
@@ -73,5 +37,39 @@
     "Remove the green beans from the pot, pour out the water, and place the beans back in the pot without the steaming basket. Add 1 Tbsp butter and allow the residual heat from the beans to melt the butter. Stir to coat, then season with a pinch of salt and pepper.",
     "Slice the chicken breasts into strips. Divide the sweet potato halves, green beans, and chicken between four containers or plates. Serve immediately or refrigerate and reheat later."
   ],
-  "servings": 4
+  "notes": [""],
+  "rating": 8,
+  "servings": 4,
+  "slug": "smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep",
+  "source": "https://www.budgetbytes.com/smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Smoky Chicken and Cinnamon Roasted Sweet Potato Meal Prep"
 }

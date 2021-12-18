@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 35,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 50,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "sheet-pan-cranberry-chicken-dinner",
-  "title": "Sheet Pan Cranberry Chicken Dinner",
-  "servings": 4,
+  "createdDate": "1/20/2021",
   "image": "../images/sheet-pan-cranberry-chicken-dinner.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/sheet-pan-cranberry-chicken-dinner/",
   "ingredients": [
     {
       "category": "Roasted Vegetables",
@@ -79,5 +43,39 @@
     "After roasting for 20 minutes, check the internal temperature of the chicken breasts. It should be 165ºF. If it's not, bake for an additional 5-10 minutes, or until the internal temperature reaches 165ºF. ",
     "To serve, spoon the cranberry balsamic sauce over the chicken. Divide the roasted Brussels sprouts and sweet potatoes between four plates and add one piece of chicken to each."
   ],
-  "createdDate": "1/20/2021"
+  "notes": [""],
+  "rating": 7,
+  "servings": 4,
+  "slug": "sheet-pan-cranberry-chicken-dinner",
+  "source": "https://www.budgetbytes.com/sheet-pan-cranberry-chicken-dinner/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Sheet Pan Cranberry Chicken Dinner"
 }

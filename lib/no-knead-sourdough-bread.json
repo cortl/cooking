@@ -1,23 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 26,
-          "label": "hours"
-        }
-      ]
-    }
-  ],
-  "slug": "no-knead-sourdough-bread",
-  "title": "No Knead Sourdough Bread",
-  "rating": 9,
-  "notes": [
-    "Be sure to read the instructions once or twice through first + watch the full video"
-  ],
   "createdDate": "06/17/2020",
-  "source": "https://www.youtube.com/watch?v=eod5cUxAHRM",
   "image": "../images/no-knead-sourdough-bread.jpg",
   "ingredients": [
     {
@@ -42,9 +24,7 @@
     },
     {
       "category": "Helpful items",
-      "items": [
-        "Rice flour"
-      ]
+      "items": ["Rice flour"]
     }
   ],
   "instructions": [
@@ -69,5 +49,23 @@
     "Turn over the dough into the lid (seam side down) and put the dutch oven on top of the lid and put into the oven for 20 minutes",
     "Reduce to 475°F, take the lid off, and bake for another 25-30 minutes"
   ],
-  "servings": 2
+  "notes": [
+    "Be sure to read the instructions once or twice through first + watch the full video"
+  ],
+  "rating": 9,
+  "servings": 2,
+  "slug": "no-knead-sourdough-bread",
+  "source": "https://www.youtube.com/watch?v=eod5cUxAHRM",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 26,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "No Knead Sourdough Bread"
 }

@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "hours"
-        }
-      ]
-    }
-  ],
-  "slug": "bravetarts-easy-oldfashioned-apple-pie-recipe",
-  "title": "BraveTart's Easy, Old-Fashioned Apple Pie Recipe",
-  "servings": 1,
+  "createdDate": "12/1/2020",
   "image": "../images/bravetarts-easy-oldfashioned-apple-pie-recipe.jpg",
-  "rating": 7,
-  "notes": [
-    "Takes a lot longer then you think it would, pie is CRAZY tall before baking it"
-  ],
-  "source": "https://www.seriouseats.com/recipes/2017/09/bravetart-easy-apple-pie-recipe.html",
   "ingredients": [
     {
       "category": "All",
@@ -58,5 +31,32 @@
     "To Bake: Place pie on a parchment-lined aluminum half sheet pan and bake until 195°F (91°C) in the very center, about 75 minutes. This is easiest to monitor with an in-oven digital thermometer, which can be programmed to chime on reaching the target temperature.",
     "To Serve: Cool at least 1 hour at room temperature before serving. Wrapped in foil, leftovers will keep 3 days at room temperature. Warm in a 350°F (180°C) oven to restore the crispy crust and saucy filling."
   ],
-  "createdDate": "12/1/2020"
+  "notes": [
+    "Takes a lot longer then you think it would, pie is CRAZY tall before baking it"
+  ],
+  "rating": 7,
+  "servings": 1,
+  "slug": "bravetarts-easy-oldfashioned-apple-pie-recipe",
+  "source": "https://www.seriouseats.com/recipes/2017/09/bravetart-easy-apple-pie-recipe.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "BraveTart's Easy, Old-Fashioned Apple Pie Recipe"
 }

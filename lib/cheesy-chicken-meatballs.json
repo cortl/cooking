@@ -1,23 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "cheesy-chicken-meatballs",
-  "title": "Cheesy Chicken Meatballs",
-  "rating": 6,
-  "notes": [
-    "Meatballs are kinda lame, should add an egg for richness.  Pasta that goes with this makes way too much pasta"
-  ],
   "createdDate": "07/28/2019",
-  "source": "https://fitmencook.com/cheesy-chicken-meatballs-recipe/",
   "image": "../images/cheesy-chicken-meatballs.jpg",
   "ingredients": [
     {
@@ -39,5 +21,23 @@
     "Place the meatballs on a baking tray lined with parchment paper and make sure they have space.",
     "Bake in the oven for NO MORE than 12 minutes.  I bake mine for 8 – 10 minutes at 420F.  Set aside once finished."
   ],
-  "servings": 15
+  "notes": [
+    "Meatballs are kinda lame, should add an egg for richness.  Pasta that goes with this makes way too much pasta"
+  ],
+  "rating": 6,
+  "servings": 15,
+  "slug": "cheesy-chicken-meatballs",
+  "source": "https://fitmencook.com/cheesy-chicken-meatballs-recipe/",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Cheesy Chicken Meatballs"
 }

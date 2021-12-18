@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "the-ultimate-beef-stroganoff-recipe",
-  "title": "The Ultimate Beef Stroganoff Recipe",
-  "servings": 4,
+  "createdDate": "10/14/2020",
   "image": "../images/the-ultimate-beef-stroganoff-recipe.jpg",
-  "rating": 8,
-  "notes": [
-    "Used red wine instead of white since we didn't have any dry white on hand -- works great."
-  ],
-  "source": "https://www.seriouseats.com/recipes/2015/01/ultimate-beef-stroganof-recipe.html",
   "ingredients": [
     {
       "category": "All",
@@ -64,5 +37,32 @@
     "Cook noodles according to package directions. When cooked, drain and return to pot, reserving 1 cup of pasta cooking water. Transfer steaks to a cutting board and pour the sauce, mushrooms, and onions over the noodles. Stir to coat pasta, adding pasta cooking water as necessary until it reaches a loose, creamy consistency. Stir in half of minced parsley.",
     "Thinly slice steaks. To serve, divide pasta and cream sauce evenly between 4 hot serving bowls. Top with sliced steak, spooning a little extra sauce over them. Add a dollop of sour cream, sprinkle with remaining parsley, and serve, advising guests to remove large thyme sprigs as they find them."
   ],
-  "createdDate": "10/14/2020"
+  "notes": [
+    "Used red wine instead of white since we didn't have any dry white on hand -- works great."
+  ],
+  "rating": 8,
+  "servings": 4,
+  "slug": "the-ultimate-beef-stroganoff-recipe",
+  "source": "https://www.seriouseats.com/recipes/2015/01/ultimate-beef-stroganof-recipe.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "The Ultimate Beef Stroganoff Recipe"
 }

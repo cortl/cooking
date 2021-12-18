@@ -1,50 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Marinate",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    }
-  ],
-  "slug": "healthy-chicken-fajitas-meal-prep",
-  "title": "Healthy Chicken Fajitas Meal Prep",
-  "rating": 7,
-  "notes": [
-    "Used the budgetbytes recipe for fajitas, but used this one for black beans (25 minutes in instant pot on high, natural pressure release)"
-  ],
   "createdDate": "02/05/2019",
-  "source": "https://www.asweetpeachef.com/healthy-chicken-fajitas-meal-prep/",
   "image": "../images/healthy-chicken-fajitas-meal-prep.jpg",
   "ingredients": [
     {
@@ -109,5 +64,50 @@
     "Add in lime juice, cilantro, and sea salt, to taste.",
     "To assemble the chicken fajita meal prep, start by adding the cilantro lime black beans to your meal prep container, followed by the sliced fajita chicken, and the bell pepper and onion mixture."
   ],
-  "servings": 6
+  "notes": [
+    "Used the budgetbytes recipe for fajitas, but used this one for black beans (25 minutes in instant pot on high, natural pressure release)"
+  ],
+  "rating": 7,
+  "servings": 6,
+  "slug": "healthy-chicken-fajitas-meal-prep",
+  "source": "https://www.asweetpeachef.com/healthy-chicken-fajitas-meal-prep/",
+  "time": [
+    {
+      "label": "Marinate",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Healthy Chicken Fajitas Meal Prep"
 }

@@ -1,13 +1,14 @@
-import fs from 'fs';
+import fs from "fs";
 
-const updateMarkdown = recipes => {
-    const toMarkdownLink = ({title, slug}) => `\t- [${title}](lib/${slug}.json)`;
-    const template = fs.readFileSync('TEMPLATE.md');
-    const write = `${template}\n${recipes.map(toMarkdownLink).join('\n')}`
+const updateMarkdown = (recipes) => {
+  const toMarkdownLink = ({ title, slug }) =>
+    `\t- [${title}](lib/${slug}.json)`;
+  const template = fs.readFileSync("TEMPLATE.md");
+  const write = `${template}\n${recipes.map(toMarkdownLink).join("\n")}`;
 
-    fs.writeFileSync('README.md', write);
+  fs.writeFileSync("README.md", write);
 
-    console.log('updated table of contents');
-}
+  console.log("updated table of contents");
+};
 
-export {updateMarkdown}
+export { updateMarkdown };

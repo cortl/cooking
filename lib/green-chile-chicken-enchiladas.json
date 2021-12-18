@@ -1,41 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 25,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "green-chile-chicken-enchiladas",
-  "title": "Green Chile Chicken Enchiladas",
+  "createdDate": "7/11/2020",
   "image": "../images/green-chile-chicken-enchiladas.jpg",
-  "rating": 7,
-  "notes": [
-    "leave the edges unsauced so they get crispy"
-  ],
-  "source": "https://www.budgetbytes.com/green-chile-chicken-enchiladas/",
   "ingredients": [
     {
       "category": "Enchiladas",
@@ -76,6 +41,39 @@
     "Begin assembling the enchiladas. Add about ¼ cup of the prepared filling to the center of each tortilla and then roll it closed. Place the filled tortillas in a casserole dish, seam side down.",
     "Pour the prepared green chile enchilada sauce over the enchiladas, then top with the remaining shredded pepper jack cheese. Bake in the preheated oven for 30 minutes, or until the sauce is bubbling around the edges. Serve hot."
   ],
-  "createdDate": "7/11/2020",
-  "servings": 6
+  "notes": ["leave the edges unsauced so they get crispy"],
+  "rating": 7,
+  "servings": 6,
+  "slug": "green-chile-chicken-enchiladas",
+  "source": "https://www.budgetbytes.com/green-chile-chicken-enchiladas/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Green Chile Chicken Enchiladas"
 }

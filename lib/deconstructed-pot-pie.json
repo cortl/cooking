@@ -1,32 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "deconstructed-chicken-pot-pie",
-  "title": "Deconstructed Chicken Pot Pie",
-  "rating": 6,
-  "notes": [
-    "Good idea, but this chicken pot pie recipe sucks"
-  ],
   "createdDate": "11/01/2019",
-  "source": "https://mealprepmanual.com/deconstructed-chicken-pot-pie-2/",
   "image": "../images/deconstructed-chicken-pot-pie.jpg",
   "ingredients": [
     {
@@ -62,5 +35,30 @@
     "Drain the water and add ¼ cup of milk and butter. Mash until smooth⁣⁣",
     "Divide your ingredients evenly between 4 containers."
   ],
-  "servings": 4
+  "notes": ["Good idea, but this chicken pot pie recipe sucks"],
+  "rating": 6,
+  "servings": 4,
+  "slug": "deconstructed-chicken-pot-pie",
+  "source": "https://mealprepmanual.com/deconstructed-chicken-pot-pie-2/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Deconstructed Chicken Pot Pie"
 }

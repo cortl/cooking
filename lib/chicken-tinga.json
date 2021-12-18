@@ -1,23 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 35,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "chicken-tinga",
-  "title": "Chicken Tinga",
-  "rating": 8,
-  "notes": [
-    "Use avocado crema with this + corn + black beans + homemade tortillas"
-  ],
   "createdDate": "06/13/2020",
-  "source": "https://fitmencook.com/chicken-tinga-tacos/",
   "image": "../images/chicken-tinga.jpg",
   "ingredients": [
     {
@@ -43,5 +25,23 @@
     "At  the end of the cooking cycle, remove the chicken breasts and add them to a bowl.  Gently pull the chicken apart using forks to be shredded.   Add the shredded chicken back to the sauce and thoroughly mix together.  Pro-tip: before adding the chicken to the sauce, use an immersion blender to make the tinga sauce smooth; another option is to pour the liquid into a blender, pulse blend until smooth, then add it back to the cooker.",
     "Cook on low for an additional 6 – 10 minutes, then enjoy!"
   ],
-  "servings": 6
+  "notes": [
+    "Use avocado crema with this + corn + black beans + homemade tortillas"
+  ],
+  "rating": 8,
+  "servings": 6,
+  "slug": "chicken-tinga",
+  "source": "https://fitmencook.com/chicken-tinga-tacos/",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Chicken Tinga"
 }

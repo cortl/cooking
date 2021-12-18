@@ -1,25 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    }
-  ],
-  "slug": "garden-vegetable-turkey-loaf-meal-prep",
-  "title": "Garden Vegetable Turkey Loaf Meal Prep",
-  "image": "../images/garden-vegetable-turkey-loaf-meal-prep.jpg",
-  "rating": 6,
-  "notes": [
-    "Decent, lots of vegetables to meat ratio.  Also takes way longer to cook because of vegetable water content",
-    "Use with the will it skillet? mac and cheese recipe"
-  ],
   "createdDate": "08/18/2019",
-  "source": "https://www.budgetbytes.com/garden-vegetable-turkey-loaf-meal-prep/",
+  "image": "../images/garden-vegetable-turkey-loaf-meal-prep.jpg",
   "ingredients": [
     {
       "category": "Meatloaf",
@@ -53,9 +34,7 @@
     },
     {
       "category": "Vegetables",
-      "items": [
-        "Grean beans"
-      ]
+      "items": ["Grean beans"]
     }
   ],
   "instructions": [
@@ -67,5 +46,24 @@
     "While the loaves are baking, mix the tomato glaze. Combine the ketchup, brown sugar, and apple cider vinegar in a small bowl and stir until smooth. Once the loaves have baked for 15 minutes, spoon the glaze over the muffins and let them bake with the glaze for the remaining 15 minutes.",
     "Allow the loaves to rest for 5 to 10 minutes before carefully running a knife around their outer edges and lifting out of the tin with a fork. The rest time will help solidify the loaves and keep them in one piece."
   ],
-  "servings": 4
+  "notes": [
+    "Decent, lots of vegetables to meat ratio.  Also takes way longer to cook because of vegetable water content",
+    "Use with the will it skillet? mac and cheese recipe"
+  ],
+  "rating": 6,
+  "servings": 4,
+  "slug": "garden-vegetable-turkey-loaf-meal-prep",
+  "source": "https://www.budgetbytes.com/garden-vegetable-turkey-loaf-meal-prep/",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Garden Vegetable Turkey Loaf Meal Prep"
 }

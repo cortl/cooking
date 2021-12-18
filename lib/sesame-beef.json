@@ -1,38 +1,4 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "sesame-beef",
-  "title": "Sesame Beef",
-  "rating": 4,
-  "notes": [],
-  "source": "https://chefsavvy.com/sesame-beef/",
   "image": "../images/sesame-beef.jpg",
   "ingredients": [
     {
@@ -67,5 +33,39 @@
     "Slowly add cornstarch mixture to pan. Continuously stir until sauce is thickened, about 1 minute.",
     "Serve immediately with green onions and sesame seeds for garnish if desired."
   ],
-  "servings": 4
+  "notes": [],
+  "rating": 4,
+  "servings": 4,
+  "slug": "sesame-beef",
+  "source": "https://chefsavvy.com/sesame-beef/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Sesame Beef"
 }

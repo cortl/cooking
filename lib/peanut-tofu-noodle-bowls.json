@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 50,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "peanut-tofu-noodle-bowls",
-  "title": "Peanut Tofu Noodle Bowls",
-  "servings": 4,
+  "createdDate": "6/22/2021",
   "image": "../images/peanut-tofu-noodle-bowls.jpg",
-  "rating": 6,
-  "notes": [
-    "Decent, rice noodles are really sticky when cold -- maybe needs more cold water rinse? Also 1.5x the sauce"
-  ],
-  "source": "https://www.budgetbytes.com/peanut-tofu-noodle-bowls/",
   "ingredients": [
     {
       "category": "Crispy Tofu",
@@ -81,5 +45,41 @@
     "Finally, cook the rice noodles. Bring a pot of water to a full boil, then add the noodles. Boil only for about three minutes, or the recommended time on the package. Drain the noodles in a colander and rinse briefly with cool water. Let the noodles drain well.",
     "To assemble the bowls, place ¼ of the noodles in the bottom of each bowl. Top with some bell pepper, cucumber, carrot, cilantro, and crispy tofu. Sprinkle some chopped peanuts over top, then drizzle with the peanut lime dressing. Enjoy! "
   ],
-  "createdDate": "6/22/2021"
+  "notes": [
+    "Decent, rice noodles are really sticky when cold -- maybe needs more cold water rinse? Also 1.5x the sauce"
+  ],
+  "rating": 6,
+  "servings": 4,
+  "slug": "peanut-tofu-noodle-bowls",
+  "source": "https://www.budgetbytes.com/peanut-tofu-noodle-bowls/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Peanut Tofu Noodle Bowls"
 }

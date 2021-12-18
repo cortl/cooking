@@ -1,4 +1,28 @@
 {
+  "createdDate": "02/06/2020",
+  "image": "../images/homemade-taco-seasoning.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp chili powder ",
+        "1 tsp smoked paprika ",
+        "1 tsp cumin ",
+        "1/4 tsp cayenne pepper",
+        "1/2 tsp oregano ",
+        "1/2 tsp salt ",
+        "1/2 tsp 15 cranks fresh black pepper "
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine everything in a small bowl and stir until evenly mixed. Use immediately, or store in an air-tight container, away from heat and sunlight, until ready to use."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 1,
+  "slug": "homemade-taco-seasoning",
+  "source": "https://www.budgetbytes.com/taco-seasoning/",
   "time": [
     {
       "label": "Prep",
@@ -19,31 +43,5 @@
       ]
     }
   ],
-  "slug": "homemade-taco-seasoning",
-  "title": "Homemade Taco Seasoning",
-  "image": "../images/homemade-taco-seasoning.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "createdDate": "02/06/2020",
-  "source": "https://www.budgetbytes.com/taco-seasoning/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 Tbsp chili powder ",
-        "1 tsp smoked paprika ",
-        "1 tsp cumin ",
-        "1/4 tsp cayenne pepper",
-        "1/2 tsp oregano ",
-        "1/2 tsp salt ",
-        "1/2 tsp 15 cranks fresh black pepper "
-      ]
-    }
-  ],
-  "instructions": [
-    "Combine everything in a small bowl and stir until evenly mixed. Use immediately, or store in an air-tight container, away from heat and sunlight, until ready to use."
-  ],
-  "servings": 1
+  "title": "Homemade Taco Seasoning"
 }

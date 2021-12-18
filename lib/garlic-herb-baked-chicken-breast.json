@@ -1,4 +1,35 @@
 {
+  "image": "../images/garlic-herb-baked-chicken-breast.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 Tbsp butter, room temperature",
+        "1 tsp dried parsley",
+        "1/2  tsp dried oregano",
+        "1/2  tsp dried basil",
+        "1/4 tsp garlic powder",
+        "1/4 tsp onion powder",
+        "1/4 tsp salt",
+        " freshly cracked pepper",
+        "2 boneless, skinless chicken breasts (about .5 lbs. each)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. Stir together the butter, parsley, oregano, basil, garlic powder, onion powder, salt, and some freshly cracked pepper (about 15 cranks of a pepper mill) until well combined and paste-like in texture.",
+    "If your chicken breasts are thicker than 3/4\" at their thickest end, place them on a cutting board, cover with plastic, then gently pound the thick end until it is between 1/2-3/4\" thick. Pat the chicken dry with a paper towel.",
+    "Place the chicken breasts on a baking sheet or in a casserole dish, making sure they are not crowded (a couple of inches of space between and around each breast). Spread garlic herb butter over the surface of each breast. ",
+    "Place the chicken in the oven and bake for 20 minutes. The total cooking time may vary with the size and thickness of the chicken breast, so use a meat thermometer to ensure the internal temperature of the thickest end of the breast has reached 165ºF.",
+    "Once the chicken has baked through, let it rest for about 5 minutes before slicing and serving."
+  ],
+  "notes": [
+    "Use more butter next time, had a hard time covering 2 breasts butterflied"
+  ],
+  "rating": 7,
+  "servings": 2,
+  "slug": "garlic-herb-baked-chicken-breast",
+  "source": "https://www.budgetbytes.com/garlic-herb-baked-chicken-breast/",
   "time": [
     {
       "label": "Prep",
@@ -28,36 +59,5 @@
       ]
     }
   ],
-  "slug": "garlic-herb-baked-chicken-breast",
-  "title": "Garlic Herb Baked Chicken Breast",
-  "image": "../images/garlic-herb-baked-chicken-breast.jpg",
-  "rating": 7,
-  "notes": [
-    "Use more butter next time, had a hard time covering 2 breasts butterflied"
-  ],
-  "source": "https://www.budgetbytes.com/garlic-herb-baked-chicken-breast/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2 Tbsp butter, room temperature",
-        "1 tsp dried parsley",
-        "1/2  tsp dried oregano",
-        "1/2  tsp dried basil",
-        "1/4 tsp garlic powder",
-        "1/4 tsp onion powder",
-        "1/4 tsp salt",
-        " freshly cracked pepper",
-        "2 boneless, skinless chicken breasts (about .5 lbs. each)"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 400ºF. Stir together the butter, parsley, oregano, basil, garlic powder, onion powder, salt, and some freshly cracked pepper (about 15 cranks of a pepper mill) until well combined and paste-like in texture.",
-    "If your chicken breasts are thicker than 3/4\" at their thickest end, place them on a cutting board, cover with plastic, then gently pound the thick end until it is between 1/2-3/4\" thick. Pat the chicken dry with a paper towel.",
-    "Place the chicken breasts on a baking sheet or in a casserole dish, making sure they are not crowded (a couple of inches of space between and around each breast). Spread garlic herb butter over the surface of each breast. ",
-    "Place the chicken in the oven and bake for 20 minutes. The total cooking time may vary with the size and thickness of the chicken breast, so use a meat thermometer to ensure the internal temperature of the thickest end of the breast has reached 165ºF.",
-    "Once the chicken has baked through, let it rest for about 5 minutes before slicing and serving."
-  ],
-  "servings": 2
+  "title": "Garlic Herb Baked Chicken Breast"
 }

@@ -1,4 +1,42 @@
 {
+  "image": "../images/pressure-cooker-beef-and-broccoli.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 1/2 pounds boneless beef chuck roast, well trimmed and sliced into thin strips**",
+        "Fresh ground pepper",
+        "2 teaspoons olive oil",
+        "1 medium onion, finely chopped",
+        "4 cloves garlic, minced",
+        "3/4 cup beef broth",
+        "1/2 cup soy sauce*",
+        "1/3 cup brown sugar",
+        "2 tablespoons sesame oil",
+        "1/8 teaspoon red pepper flakes",
+        "1 pound broccoli florets, diced into bite-size pieces",
+        "3 tablespoons water",
+        "3 tablespoons cornstarch",
+        "Cooked rice, for serving",
+        "Toasted sesame seeds for garnish, optional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Season the beef with pepper to taste. Put olive oil in the cooking pot and select Browning or Saute. When the oil begins to sizzle, quickly brown the meat in batches until all of the meat is browned—do not crowd the pot. (Usually, I'll only brown one side of the meat. You don't want to spend a lot of time browning.) Transfer the browned meat to a plate.",
+    "Add the chopped onion to the pot. Saute for 1 to 2 minutes, until it starts to soften. Add the garlic and saute for 1 minute more.",
+    "Stir in the beef broth, soy sauce, brown sugar, sesame oil, and red pepper flakes, stirring until the sugar is dissolved.",
+    "Add the browned beef and any accumulated juices. Lock the lid in place. Select High Pressure and set the cook time for 12 minutes.",
+    "While the beef is cooking, place broccoli in a microwave-safe bowl with 1/4 cup water. Microwave 3 to 4 minutes until broccoli is tender.",
+    "When the cook time ends, turn off the pressure cooker off. Use a quick pressure release. When the valve drops, carefully remove the lid.",
+    "In a small bowl, combine cornstarch and water and stir until smooth. Select Simmer/Saute and add to the pressure cooking pot. Stir well to combine, and continue stirring until the sauce comes to a boil and thickens. Add the steamed broccoli.",
+    "Serve over hot, cooked rice and garnish with sesame seeds."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 6,
+  "slug": "pressure-cooker-beef-and-broccoli",
+  "source": "https://www.pressurecookingtoday.com/pressure-cooker-beef-and-broccoli/",
   "time": [
     {
       "label": "Prep",
@@ -37,45 +75,5 @@
       ]
     }
   ],
-  "slug": "pressure-cooker-beef-and-broccoli",
-  "title": "Pressure Cooker Beef and Broccoli",
-  "rating": 7,
-  "image": "../images/pressure-cooker-beef-and-broccoli.jpg",
-  "notes": [
-    ""
-  ],
-  "source": "https://www.pressurecookingtoday.com/pressure-cooker-beef-and-broccoli/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 1/2 pounds boneless beef chuck roast, well trimmed and sliced into thin strips**",
-        "Fresh ground pepper",
-        "2 teaspoons olive oil",
-        "1 medium onion, finely chopped",
-        "4 cloves garlic, minced",
-        "3/4 cup beef broth",
-        "1/2 cup soy sauce*",
-        "1/3 cup brown sugar",
-        "2 tablespoons sesame oil",
-        "1/8 teaspoon red pepper flakes",
-        "1 pound broccoli florets, diced into bite-size pieces",
-        "3 tablespoons water",
-        "3 tablespoons cornstarch",
-        "Cooked rice, for serving",
-        "Toasted sesame seeds for garnish, optional"
-      ]
-    }
-  ],
-  "instructions": [
-    "Season the beef with pepper to taste. Put olive oil in the cooking pot and select Browning or Saute. When the oil begins to sizzle, quickly brown the meat in batches until all of the meat is browned—do not crowd the pot. (Usually, I'll only brown one side of the meat. You don't want to spend a lot of time browning.) Transfer the browned meat to a plate.",
-    "Add the chopped onion to the pot. Saute for 1 to 2 minutes, until it starts to soften. Add the garlic and saute for 1 minute more.",
-    "Stir in the beef broth, soy sauce, brown sugar, sesame oil, and red pepper flakes, stirring until the sugar is dissolved.",
-    "Add the browned beef and any accumulated juices. Lock the lid in place. Select High Pressure and set the cook time for 12 minutes.",
-    "While the beef is cooking, place broccoli in a microwave-safe bowl with 1/4 cup water. Microwave 3 to 4 minutes until broccoli is tender.",
-    "When the cook time ends, turn off the pressure cooker off. Use a quick pressure release. When the valve drops, carefully remove the lid.",
-    "In a small bowl, combine cornstarch and water and stir until smooth. Select Simmer/Saute and add to the pressure cooking pot. Stir well to combine, and continue stirring until the sauce comes to a boil and thickens. Add the steamed broccoli.",
-    "Serve over hot, cooked rice and garnish with sesame seeds."
-  ],
-  "servings": 6
+  "title": "Pressure Cooker Beef and Broccoli"
 }

@@ -1,4 +1,37 @@
 {
+  "image": "../images/thai-peanut-skillet-chicken.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 tbsp. extra-virgin olive oil",
+        "4 boneless skinless chicken breasts ",
+        "Kosher salt ",
+        "Freshly ground black pepper",
+        "2 bell peppers, thinly sliced ",
+        "2 large carrots, chopped",
+        "1 tbsp. minced ginger",
+        "2 garlic cloves, minced ",
+        "1/2 c. peanut butter",
+        "1/4 c. low-sodium soy sauce ",
+        "Juice of 1 lime ",
+        "1 c. chicken broth ",
+        "1/3 c. chopped roasted peanuts ",
+        "Freshly chopped cilantro, for garnish "
+      ]
+    }
+  ],
+  "instructions": [
+    "In a large skillet over medium heat, heat oil. Season chicken with salt and pepper and cook until golden and no longer pink, 8 minutes per side. Transfer to a plate. Add bell peppers and carrots to skillet and cook until soft, 5 minutes. Add ginger and garlic and cook until fragrant, 1 minute more. ",
+    "In a small bowl or glass measuring cup, whisk together peanut butter, soy sauce, and lime juice. ",
+    "Add peanut sauce and chicken broth to skillet and bring to simmer. Return chicken to skillet then add peanuts. Let chicken simmer in sauce 5 minutes. ",
+    "Garnish with cilantro before serving."
+  ],
+  "notes": ["anything additional people should know about this recipe"],
+  "rating": 6,
+  "servings": 4,
+  "slug": "thai-peanut-skillet-chicken",
+  "source": "https://www.delish.com/cooking/recipe-ideas/a22805039/thai-peanut-skillet-chicken-recipe/",
   "time": [
     {
       "label": "Prep",
@@ -28,40 +61,5 @@
       ]
     }
   ],
-  "slug": "thai-peanut-skillet-chicken",
-  "title": "Thai Peanut Chicken",
-  "rating": 6,
-  "notes": [
-    "anything additional people should know about this recipe"
-  ],
-  "source": "https://www.delish.com/cooking/recipe-ideas/a22805039/thai-peanut-skillet-chicken-recipe/",
-  "image": "../images/thai-peanut-skillet-chicken.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2 tbsp. extra-virgin olive oil",
-        "4 boneless skinless chicken breasts ",
-        "Kosher salt ",
-        "Freshly ground black pepper",
-        "2 bell peppers, thinly sliced ",
-        "2 large carrots, chopped",
-        "1 tbsp. minced ginger",
-        "2 garlic cloves, minced ",
-        "1/2 c. peanut butter",
-        "1/4 c. low-sodium soy sauce ",
-        "Juice of 1 lime ",
-        "1 c. chicken broth ",
-        "1/3 c. chopped roasted peanuts ",
-        "Freshly chopped cilantro, for garnish "
-      ]
-    }
-  ],
-  "instructions": [
-    "In a large skillet over medium heat, heat oil. Season chicken with salt and pepper and cook until golden and no longer pink, 8 minutes per side. Transfer to a plate. Add bell peppers and carrots to skillet and cook until soft, 5 minutes. Add ginger and garlic and cook until fragrant, 1 minute more. ",
-    "In a small bowl or glass measuring cup, whisk together peanut butter, soy sauce, and lime juice. ",
-    "Add peanut sauce and chicken broth to skillet and bring to simmer. Return chicken to skillet then add peanuts. Let chicken simmer in sauce 5 minutes. ",
-    "Garnish with cilantro before serving."
-  ],
-  "servings": 4
+  "title": "Thai Peanut Chicken"
 }

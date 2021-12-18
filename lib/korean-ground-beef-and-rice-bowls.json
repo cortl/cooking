@@ -1,4 +1,32 @@
 {
+  "image": "../images/korean-ground-beef-and-rice-bowls.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 pound lean ground beef 90% lean",
+        "3 garlic cloves minced",
+        "1/4 cup packed brown sugar",
+        "1/4 cup reduced-sodium soy sauce",
+        "2 teaspoons sesame oil",
+        "1/4 teaspoon ground ginger",
+        "1/4 teaspoon crushed red pepper flakes",
+        "1/4 teaspoon pepper",
+        "2 cups hot cooked white or brown rice",
+        "sliced green onions and sesame seeds for garnish"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a large skillet cook the ground beef and garlic breaking it into crumbles over medium heat until no longer pink.",
+    "In a small bowl whisk brown sugar, soy sauce, sesame oil, ginger, red pepper flakes and pepper. Pour over the ground beef and let simmer for another minute or two.",
+    "Serve over hot rice and garnish with green onions and sesame seeds."
+  ],
+  "notes": [],
+  "rating": 7,
+  "servings": 4,
+  "slug": "korean-ground-beef-and-rice-bowls",
+  "source": "https://therecipecritic.com/korean-ground-beef-rice-bowls/",
   "time": [
     {
       "label": "Prep",
@@ -28,33 +56,5 @@
       ]
     }
   ],
-  "slug": "korean-ground-beef-and-rice-bowls",
-  "title": "Korean Ground Beef and Rice Bowls",
-  "rating": 7,
-  "notes": [],
-  "source": "https://therecipecritic.com/korean-ground-beef-rice-bowls/",
-  "image": "../images/korean-ground-beef-and-rice-bowls.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 pound lean ground beef 90% lean",
-        "3 garlic cloves minced",
-        "1/4 cup packed brown sugar",
-        "1/4 cup reduced-sodium soy sauce",
-        "2 teaspoons sesame oil",
-        "1/4 teaspoon ground ginger",
-        "1/4 teaspoon crushed red pepper flakes",
-        "1/4 teaspoon pepper",
-        "2 cups hot cooked white or brown rice",
-        "sliced green onions and sesame seeds for garnish"
-      ]
-    }
-  ],
-  "instructions": [
-    "In a large skillet cook the ground beef and garlic breaking it into crumbles over medium heat until no longer pink.",
-    "In a small bowl whisk brown sugar, soy sauce, sesame oil, ginger, red pepper flakes and pepper. Pour over the ground beef and let simmer for another minute or two.",
-    "Serve over hot rice and garnish with green onions and sesame seeds."
-  ],
-  "servings": 4
+  "title": "Korean Ground Beef and Rice Bowls"
 }

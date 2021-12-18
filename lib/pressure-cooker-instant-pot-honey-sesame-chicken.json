@@ -1,4 +1,37 @@
 {
+  "image": "../images/pressure-cooker-instant-pot-honey-sesame-chicken.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "4 large boneless skinless chicken breasts, diced (about 2 lbs.)",
+        "Freshly ground pepper and salt",
+        "1 tablespoon vegetable oil",
+        "1/2 cup diced onion",
+        "2 cloves garlic, minced",
+        "1/2 cup soy sauce*",
+        "1/4 cup ketchup",
+        "2 teaspoons sesame oil",
+        "1/2 cup honey*",
+        "1/4 teaspoon red pepper flakes",
+        "2 tablespoons cornstarch",
+        "3 tablespoons water",
+        "2 green onions, chopped",
+        "Sesame seeds, toasted"
+      ]
+    }
+  ],
+  "instructions": [
+    "Seasons chicken with freshly ground pepper. Preheat pressure cooking pot using the saute setting. Add oil, onion, garlic, and chicken to the pot and saute stirring occasionally until onion is softened, about 3 minutes.",
+    "Add soy sauce, ketchup, and red pepper flakes to the pressure cooking pot and stir to combine. Pressure cook on high for 3 minutes. When timer beeps, turn pressure cooker off and do a quick pressure release.",
+    "Add sesame oil and honey to the pot and stir to combine. In a small bowl, dissolve cornstarch in water and add to the pot. Select Saute and simmer until sauce thickens. Stir in green onions. Add salt to taste.",
+    "Serve over rice sprinkled with sesame seeds."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 6,
+  "slug": "pressure-cooker-instant-pot-honey-sesame-chicken",
+  "source": "https://www.pressurecookingtoday.com/pressure-cooker-honey-sesame-chicken/",
   "time": [
     {
       "label": "Prep",
@@ -37,40 +70,5 @@
       ]
     }
   ],
-  "slug": "pressure-cooker-instant-pot-honey-sesame-chicken",
-  "title": "Pressure Cooker (Instant Pot) Honey Sesame Chicken",
-  "rating": 7,
-  "image": "../images/pressure-cooker-instant-pot-honey-sesame-chicken.jpg",
-  "notes": [
-    ""
-  ],
-  "source": "https://www.pressurecookingtoday.com/pressure-cooker-honey-sesame-chicken/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "4 large boneless skinless chicken breasts, diced (about 2 lbs.)",
-        "Freshly ground pepper and salt",
-        "1 tablespoon vegetable oil",
-        "1/2 cup diced onion",
-        "2 cloves garlic, minced",
-        "1/2 cup soy sauce*",
-        "1/4 cup ketchup",
-        "2 teaspoons sesame oil",
-        "1/2 cup honey*",
-        "1/4 teaspoon red pepper flakes",
-        "2 tablespoons cornstarch",
-        "3 tablespoons water",
-        "2 green onions, chopped",
-        "Sesame seeds, toasted"
-      ]
-    }
-  ],
-  "instructions": [
-    "Seasons chicken with freshly ground pepper. Preheat pressure cooking pot using the saute setting. Add oil, onion, garlic, and chicken to the pot and saute stirring occasionally until onion is softened, about 3 minutes.",
-    "Add soy sauce, ketchup, and red pepper flakes to the pressure cooking pot and stir to combine. Pressure cook on high for 3 minutes. When timer beeps, turn pressure cooker off and do a quick pressure release.",
-    "Add sesame oil and honey to the pot and stir to combine. In a small bowl, dissolve cornstarch in water and add to the pot. Select Saute and simmer until sauce thickens. Stir in green onions. Add salt to taste.",
-    "Serve over rice sprinkled with sesame seeds."
-  ],
-  "servings": 6
+  "title": "Pressure Cooker (Instant Pot) Honey Sesame Chicken"
 }

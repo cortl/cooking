@@ -1,4 +1,32 @@
 {
+  "image": "../images/sweet-and-spicy-glazed-chicken-thighs.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/4 cup brown sugar",
+        "1/2 tsp cayenne pepper",
+        "1/2 tsp garlic powder",
+        "1/2 tsp paprika",
+        "1/2 tsp salt",
+        " freshly cracked pepper",
+        "1 Tbsp olive oil",
+        "1.5 lbs. boneless, skinless chicken thighs (4-5 pieces)"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the brown sugar, cayenne pepper, garlic powder, paprika, salt, and some freshly cracked pepper (10-15 cranks of a pepper mill). ",
+    "Place the chicken thighs on a cutting board and pat dry with a paper towel. Sprinkle the brown sugar mixture over the chicken, coating both sides liberally.",
+    "Heat a large skillet over medium. Once hot, add the olive oil and swirl to coat. Add the coated chicken and cook for about 5-7 minutes on each side, or until cooked through and the brown sugar has turned into a deep brown glaze. Serve hot."
+  ],
+  "notes": [
+    "Pretty good basic way to cook chicken thighs, paired with baby potatoes and roasted broccoli"
+  ],
+  "rating": 7,
+  "servings": 4,
+  "slug": "sweet-and-spicy-glazed-chicken-thighs",
+  "source": "https://www.budgetbytes.com/sweet-and-spicy-glazed-chicken-thighs/",
   "time": [
     {
       "label": "Prep",
@@ -28,33 +56,5 @@
       ]
     }
   ],
-  "slug": "sweet-and-spicy-glazed-chicken-thighs",
-  "title": "Sweet and Spicy Glazed Chicken Thighs",
-  "image": "../images/sweet-and-spicy-glazed-chicken-thighs.jpg",
-  "rating": 7,
-  "notes": [
-    "Pretty good basic way to cook chicken thighs, paired with baby potatoes and roasted broccoli"
-  ],
-  "source": "https://www.budgetbytes.com/sweet-and-spicy-glazed-chicken-thighs/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1/4 cup brown sugar",
-        "1/2 tsp cayenne pepper",
-        "1/2 tsp garlic powder",
-        "1/2 tsp paprika",
-        "1/2 tsp salt",
-        " freshly cracked pepper",
-        "1 Tbsp olive oil",
-        "1.5 lbs. boneless, skinless chicken thighs (4-5 pieces)"
-      ]
-    }
-  ],
-  "instructions": [
-    "In a small bowl, combine the brown sugar, cayenne pepper, garlic powder, paprika, salt, and some freshly cracked pepper (10-15 cranks of a pepper mill). ",
-    "Place the chicken thighs on a cutting board and pat dry with a paper towel. Sprinkle the brown sugar mixture over the chicken, coating both sides liberally.",
-    "Heat a large skillet over medium. Once hot, add the olive oil and swirl to coat. Add the coated chicken and cook for about 5-7 minutes on each side, or until cooked through and the brown sugar has turned into a deep brown glaze. Serve hot."
-  ],
-  "servings": 4
+  "title": "Sweet and Spicy Glazed Chicken Thighs"
 }

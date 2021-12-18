@@ -1,41 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "easy-slow-cooker-chicken-tikka-masala",
-  "title": "Easy Slow Cooker Chicken Tikka Masala",
   "image": "../images/easy-slow-cooker-chicken-tikka-masala.jpg",
-  "rating": 6,
-  "notes": [
-    "Use way more garam masala, works fine in pressure cooker"
-  ],
-  "source": "https://www.budgetbytes.com/2015/12/slow-cooker-chicken-tikka-masala/",
   "ingredients": [
     {
       "category": "All",
@@ -67,5 +31,39 @@
     "After 3 hours on high or 6 hours on low, the chicken should be fall-apart tender. Turn the slow cooker off, then add the heavy cream. Stir gently to combine the cream with the tomato sauce. Taste the sauce and add salt if needed.",
     "To serve, spoon the chicken and tomato sauce over cooked rice and top with fresh cilantro."
   ],
-  "servings": 6
+  "notes": ["Use way more garam masala, works fine in pressure cooker"],
+  "rating": 6,
+  "servings": 6,
+  "slug": "easy-slow-cooker-chicken-tikka-masala",
+  "source": "https://www.budgetbytes.com/2015/12/slow-cooker-chicken-tikka-masala/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Easy Slow Cooker Chicken Tikka Masala"
 }

@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 50,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "pasta-with-5-ingredient-butter-tomato-sauce",
-  "title": "Pasta with 5 Ingredient Butter Tomato Sauce",
-  "servings": 4,
+  "createdDate": "12/17/2020",
   "image": "../images/pasta-with-5-ingredient-butter-tomato-sauce.jpg",
-  "rating": 7,
-  "notes": [
-    "Toasted breadcrumbs don't really add much (plus a half a cup is a lot of breadcrumbs)"
-  ],
-  "source": "https://www.budgetbytes.com/pasta-5-ingredient-butter-tomato-sauce/",
   "ingredients": [
     {
       "category": "TOASTED BREAD CRUMBS (optional)",
@@ -67,5 +31,41 @@
     "While the sauce simmers, cook the pasta according to the package directions. Save about 1/2 cup of the starchy cooking water before draining the pasta in a colander.",
     "After simmering for 30 minutes, the sauce should have thickened and become slightly less acidic and slightly more sweet. Season the sauce with a final 1/2 tsp of salt (or to your liking). Add the cooked and drained pasta to the sauce and toss to coat. Use some of the reserved starchy cooking water to loosen the pasta if it becomes too dry. Top the pasta and sauce with a generous sprinkle of toasted bread crumbs, then serve."
   ],
-  "createdDate": "12/17/2020"
+  "notes": [
+    "Toasted breadcrumbs don't really add much (plus a half a cup is a lot of breadcrumbs)"
+  ],
+  "rating": 7,
+  "servings": 4,
+  "slug": "pasta-with-5-ingredient-butter-tomato-sauce",
+  "source": "https://www.budgetbytes.com/pasta-5-ingredient-butter-tomato-sauce/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Pasta with 5 Ingredient Butter Tomato Sauce"
 }

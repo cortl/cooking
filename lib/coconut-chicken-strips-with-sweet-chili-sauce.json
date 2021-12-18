@@ -1,4 +1,38 @@
 {
+  "createdDate": "7/3/2021",
+  "image": "../images/coconut-chicken-strips-with-sweet-chili-sauce.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1.3 lbs. boneless, skinless chicken breasts",
+        "¼ tsp salt ",
+        "2 Tbsp all-purpose flour ",
+        "2 large eggs ",
+        "1/4 cup coconut milk",
+        "1 cup panko breadcrumbs ",
+        "1 cup sweetened flaked coconut ",
+        "1/2 cup cooking oil, divided*",
+        "1 cup sweet chili sauce "
+      ]
+    }
+  ],
+  "instructions": [
+    "Slice the chicken breasts into ½-inch wide strips, slicing diagonally to maintain a more even length among the strips.",
+    "Sprinkle the salt and flour over top of the sliced chicken. Toss the chicken until they're evenly coated.",
+    "Whisk together the eggs and coconut milk in a bowl. In a separate wide shallow bowl, stir together the breadcrumbs and flaked coconut. ",
+    "To bread the chicken, dip each chicken strip into the egg wash, allow the excess to drip off, then dip it into the breadcrumb mixture until it's fully coated. Place the breaded chicken strips on a clean plate or tray until they're all breaded.",
+    "Once they're all breaded, it's time to fry. Heat ¼ cup cooking oil in a skillet over medium heat. To test the heat of the oil, drop a breadcrumb into the oil. It should begin to sizzle immediately. If the oil begins to smoke at anytime, remove it from the heat and allow it to cool down. ",
+    "Once the oil is hot, add the chicken strips, several at a time, leaving a little space between each one. Cook the chicken strips for about three minutes on on each side, or until they're deeply golden brown. Transfer the cooked chicken to a paper towel lined plate to drain, then repeat with another batch of chicken. Remove any burned pieces of coconut before beginning the next batch, and add more oil as needed, making sure to wait until it is hot before adding more chicken.",
+    "After frying all of the chicken, it's time to serve! Serve hot with a bowl of sweet chili sauce for dipping. "
+  ],
+  "notes": [
+    "Not that difficult, might want to fry in the cast iron so scooping out burnt coconut with a slotted spoon would be easier"
+  ],
+  "rating": 9,
+  "servings": 4,
+  "slug": "coconut-chicken-strips-with-sweet-chili-sauce",
+  "source": "https://www.budgetbytes.com/coconut-chicken-w-sweet-chili-dipping-sauce/",
   "time": [
     {
       "label": "Prep",
@@ -28,39 +62,5 @@
       ]
     }
   ],
-  "slug": "coconut-chicken-strips-with-sweet-chili-sauce",
-  "title": "Coconut Chicken Strips with Sweet Chili Sauce",
-  "servings": 4,
-  "image": "../images/coconut-chicken-strips-with-sweet-chili-sauce.jpg",
-  "rating": 9,
-  "notes": [
-    "Not that difficult, might want to fry in the cast iron so scooping out burnt coconut with a slotted spoon would be easier"
-  ],
-  "source": "https://www.budgetbytes.com/coconut-chicken-w-sweet-chili-dipping-sauce/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1.3 lbs. boneless, skinless chicken breasts",
-        "¼ tsp salt ",
-        "2 Tbsp all-purpose flour ",
-        "2 large eggs ",
-        "1/4 cup coconut milk",
-        "1 cup panko breadcrumbs ",
-        "1 cup sweetened flaked coconut ",
-        "1/2 cup cooking oil, divided*",
-        "1 cup sweet chili sauce "
-      ]
-    }
-  ],
-  "instructions": [
-    "Slice the chicken breasts into ½-inch wide strips, slicing diagonally to maintain a more even length among the strips.",
-    "Sprinkle the salt and flour over top of the sliced chicken. Toss the chicken until they're evenly coated.",
-    "Whisk together the eggs and coconut milk in a bowl. In a separate wide shallow bowl, stir together the breadcrumbs and flaked coconut. ",
-    "To bread the chicken, dip each chicken strip into the egg wash, allow the excess to drip off, then dip it into the breadcrumb mixture until it's fully coated. Place the breaded chicken strips on a clean plate or tray until they're all breaded.",
-    "Once they're all breaded, it's time to fry. Heat ¼ cup cooking oil in a skillet over medium heat. To test the heat of the oil, drop a breadcrumb into the oil. It should begin to sizzle immediately. If the oil begins to smoke at anytime, remove it from the heat and allow it to cool down. ",
-    "Once the oil is hot, add the chicken strips, several at a time, leaving a little space between each one. Cook the chicken strips for about three minutes on on each side, or until they're deeply golden brown. Transfer the cooked chicken to a paper towel lined plate to drain, then repeat with another batch of chicken. Remove any burned pieces of coconut before beginning the next batch, and add more oil as needed, making sure to wait until it is hot before adding more chicken.",
-    "After frying all of the chicken, it's time to serve! Serve hot with a bowl of sweet chili sauce for dipping. "
-  ],
-  "createdDate": "7/3/2021"
+  "title": "Coconut Chicken Strips with Sweet Chili Sauce"
 }

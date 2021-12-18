@@ -1,40 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    }
-  ],
-  "slug": "sticky-ginger-soy-glazed-chicken-meal-prep",
-  "title": "Sticky Ginger Soy Glazed Chicken Meal Prep",
-  "image": "../images/sticky-ginger-soy-glazed-chicken-meal-prep.jpg",
-  "rating": 6,
-  "notes": [],
   "createdDate": "02/05/2019",
-  "source": "https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken-meal-prep/",
+  "image": "../images/sticky-ginger-soy-glazed-chicken-meal-prep.jpg",
   "ingredients": [
     {
       "category": "Sticky Ginger Soy Glazed Chicken",
@@ -66,9 +32,7 @@
     },
     {
       "category": "Sides",
-      "items": [
-        "Broccoli"
-      ]
+      "items": ["Broccoli"]
     }
   ],
   "instructions": [
@@ -80,5 +44,39 @@
     "Noodles: While the pasta cooks, mince the garlic and slice the green onions. Melt the butter in a large skillet over medium-low heat. Once the butter is melted and bubbly, add the garlic and onions (save a few for garnish) and sauté until they are soft and fragrant (1-2 minutes).",
     "Noodles: Remove the skillet from the heat. Add the drained pasta and oyster sauce mixture to the skillet, and stir well to coat the pasta. If your pasta is stiff or sticky making it hard to stir, sprinkle a small amount of hot water over the pasta to loosen it up. Garnish the pasta with any reserved sliced green onions, then serve."
   ],
-  "servings": 4
+  "notes": [],
+  "rating": 6,
+  "servings": 4,
+  "slug": "sticky-ginger-soy-glazed-chicken-meal-prep",
+  "source": "https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken-meal-prep/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Sticky Ginger Soy Glazed Chicken Meal Prep"
 }

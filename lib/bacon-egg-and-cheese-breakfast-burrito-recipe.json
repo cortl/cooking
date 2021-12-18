@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "bacon-egg-and-cheese-breakfast-burrito-recipe",
-  "title": "Bacon, Egg, and Cheese Breakfast Burrito Recipe",
-  "servings": 2,
+  "createdDate": "12/30/2020",
   "image": "../images/bacon-egg-and-cheese-breakfast-burrito-recipe.jpg",
-  "rating": 7,
-  "notes": [
-    "Pretty quick and easy for SeriousEats 😅"
-  ],
-  "source": "https://www.seriouseats.com/recipes/2020/07/bacon-egg-and-cheese-breakfast-burrito.html",
   "ingredients": [
     {
       "category": "All",
@@ -56,5 +29,30 @@
     "Pile half the potatoes on top of the bacon, followed by half the eggs and cheese. Douse with as much hot sauce as you want.",
     "Fold the tortilla sides in over the filling. Then roll the bottom flap of tortilla up over the filling, holding the sides tight as you roll. Continue rolling until the burrito is sealed. Repeat with remaining tortilla and filling ingredients. Serve right away."
   ],
-  "createdDate": "12/30/2020"
+  "notes": ["Pretty quick and easy for SeriousEats 😅"],
+  "rating": 7,
+  "servings": 2,
+  "slug": "bacon-egg-and-cheese-breakfast-burrito-recipe",
+  "source": "https://www.seriouseats.com/recipes/2020/07/bacon-egg-and-cheese-breakfast-burrito.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Bacon, Egg, and Cheese Breakfast Burrito Recipe"
 }

@@ -1,38 +1,4 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 55,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "white-chicken-chili",
-  "title": "White Chicken Chili",
-  "rating": 7,
-  "notes": [],
-  "source": "https://www.thechunkychef.com/slow-cooker-creamy-white-chicken-chili/",
   "image": "../images/white-chicken-chili.jpeg",
   "ingredients": [
     {
@@ -71,5 +37,39 @@
     "Add cream cheese and half and half, stir, then cover and cook on HIGH for 15 minutes, or until chili is creamy and slightly thickened.",
     "Stir well and serve with desired toppings."
   ],
-  "servings": 6
+  "notes": [],
+  "rating": 7,
+  "servings": 6,
+  "slug": "white-chicken-chili",
+  "source": "https://www.thechunkychef.com/slow-cooker-creamy-white-chicken-chili/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "White Chicken Chili"
 }

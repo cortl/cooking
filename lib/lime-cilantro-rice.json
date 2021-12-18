@@ -1,4 +1,30 @@
 {
+  "image": "../images/lime-cilantro-rice.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 cups water",
+        "1 tbsp butter",
+        "1 cup long grain white rice",
+        "1 tsp lime zest",
+        "2 tbsp lime juice",
+        "1/2 cup chopped cilantro"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil; stir the butter and rice into the water. Cover, reduce heat to low, and simmer until the rice is tender, about 20 minutes.",
+    "Stir the lime zest, lime juice, and cilantro into the cooked rice just before serving."
+  ],
+  "notes": [
+    "Not the best, but its a change of pace.",
+    "Does not reheat well due to fresh cilantro"
+  ],
+  "rating": 5,
+  "servings": 4,
+  "slug": "lime-cilantro-rice",
+  "source": "https://www.allrecipes.com/recipe/146000/lime-cilantro-rice/",
   "time": [
     {
       "label": "Prep",
@@ -28,31 +54,5 @@
       ]
     }
   ],
-  "slug": "lime-cilantro-rice",
-  "title": "Lime Cilantro Rice",
-  "rating": 5,
-  "notes": [
-    "Not the best, but its a change of pace.",
-    "Does not reheat well due to fresh cilantro"
-  ],
-  "source": "https://www.allrecipes.com/recipe/146000/lime-cilantro-rice/",
-  "image": "../images/lime-cilantro-rice.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2 cups water",
-        "1 tbsp butter",
-        "1 cup long grain white rice",
-        "1 tsp lime zest",
-        "2 tbsp lime juice",
-        "1/2 cup chopped cilantro"
-      ]
-    }
-  ],
-  "instructions": [
-    "Bring the water to a boil; stir the butter and rice into the water. Cover, reduce heat to low, and simmer until the rice is tender, about 20 minutes.",
-    "Stir the lime zest, lime juice, and cilantro into the cooked rice just before serving."
-  ],
-  "servings": 4
+  "title": "Lime Cilantro Rice"
 }

@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "roasted-broccoli-salad-with-almonds-and-simple-sesame-dressing",
-  "title": "Roasted Broccoli Salad with Almonds and Simple Sesame Dressing",
-  "servings": 2,
+  "createdDate": "2/19/2021",
   "image": "../images/roasted-broccoli-salad-with-almonds-and-simple-sesame-dressing.jpg",
-  "rating": 6,
-  "notes": [
-    "Use at least 2 heads of broccoli if using fresh. Only roasted for about 20 minutes total."
-  ],
-  "source": "https://www.budgetbytes.com/roasted-broccoli-salad-almonds-simple-sesame-dressing/",
   "ingredients": [
     {
       "category": "SIMPLE SESAME DRESSING",
@@ -68,5 +32,41 @@
     "Roast the broccoli for 30 minutes in the preheated oven, stirring after 20 minutes. Sprinkle the sliced almonds over the broccoli after 25 minutes, and allow them to roast together for the final five minutes. Take the broccoli and almonds out of the oven and allow them to cool (5-10 minutes).",
     "Once the broccoli is mostly cooled, add the crunchy lo mein noodles and sliced green onions, and stir to combine. Give the simple sesame dressing another stir or shake, and then drizzle the dressing over the baking sheet. Stir until everything is coated in dressing. Serve immediately."
   ],
-  "createdDate": "2/19/2021"
+  "notes": [
+    "Use at least 2 heads of broccoli if using fresh. Only roasted for about 20 minutes total."
+  ],
+  "rating": 6,
+  "servings": 2,
+  "slug": "roasted-broccoli-salad-with-almonds-and-simple-sesame-dressing",
+  "source": "https://www.budgetbytes.com/roasted-broccoli-salad-almonds-simple-sesame-dressing/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Roasted Broccoli Salad with Almonds and Simple Sesame Dressing"
 }

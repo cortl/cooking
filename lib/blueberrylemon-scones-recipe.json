@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "blueberrylemon-scones-recipe",
-  "title": "Blueberry-Lemon Scones Recipe",
-  "image": "../images/blueberrylemon-scones-recipe.jpg",
-  "rating": 7,
-  "notes": [
-    "Kitchen was probably too warm, should leave in the fridge to chill out a bit more, also be REALLY generous with the sugar on top, also use the amount of blueberries - probably added too much"
-  ],
   "createdDate": "04/26/2019",
-  "source": "https://www.seriouseats.com/recipes/2017/03/lemon-blueberry-scones-vegan-recipe.html",
+  "image": "../images/blueberrylemon-scones-recipe.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -48,5 +21,32 @@
     "For the Dough: Combine flour, baking powder, sugar, salt, and coconut oil in the bowl of a food processor and pulse until oil disappears into a powdery meal. Transfer to a medium bowl, then toss with blueberries and lemon zest. Stir in coconut milk with a flexible spatula to form a soft dough. Turn onto a lightly floured sheet of parchment paper, pat into a 7-inch round, and refrigerate 15 minutes. Meanwhile, adjust oven rack to lower-middle position and preheat oven to 400°F (204°C).",
     "To Bake:Using a chef’s knife, cut chilled wheel of dough into 6 wedges. Sprinkle generously with toasted or turbinado sugar, if using, and arrange on a parchment-lined half sheet pan. Bake until puffed and golden, about 25 minutes, and serve warm."
   ],
-  "servings": 4
+  "notes": [
+    "Kitchen was probably too warm, should leave in the fridge to chill out a bit more, also be REALLY generous with the sugar on top, also use the amount of blueberries - probably added too much"
+  ],
+  "rating": 7,
+  "servings": 4,
+  "slug": "blueberrylemon-scones-recipe",
+  "source": "https://www.seriouseats.com/recipes/2017/03/lemon-blueberry-scones-vegan-recipe.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Blueberry-Lemon Scones Recipe"
 }

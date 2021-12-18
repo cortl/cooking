@@ -1,4 +1,31 @@
 {
+  "image": "../images/smoky-roasted-breakfast-potatoes.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 lbs. russet potatoes",
+        "1 yellow onion",
+        "2 Tbsp olive oil",
+        "1 tsp smoked paprika",
+        "1/2 tsp garlic powder",
+        "1/4 tsp salt",
+        " freshly cracked black pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. Wash the potatoes well, then dice them into 1/2 to 3/4-inch cubes. Dice the onion into similar sized pieces.",
+    "Add the diced potato and onion to a large bowl along with the olive oil, smoked paprika, garlic powder, salt, and pepper (10-15 cranks of a pepper mill). Toss the potatoes until they are well coated in oil and spices.",
+    "Line a large baking sheet with parchment paper. Spread the potatoes and onions out over the parchment so they are in a single layer.",
+    "Roast the potatoes for 40-60 minutes, stirring every 20 minutes, until they are brown and crispy. Total cooking time will depend on the size of your potato pieces and your personal preference for how brown and crispy you like your potatoes. Taste, and add additional salt if needed.",
+    "Serve hot, with ketchup if desired."
+  ],
+  "notes": ["test"],
+  "rating": 1,
+  "servings": 4,
+  "slug": "smoky-roasted-breakfast-potatoes",
+  "source": "https://www.budgetbytes.com/smoky-roasted-breakfast-potatoes/",
   "time": [
     {
       "label": "Prep",
@@ -28,34 +55,5 @@
       ]
     }
   ],
-  "slug": "smoky-roasted-breakfast-potatoes",
-  "title": "Smoky Roasted Breakfast Potatoes",
-  "image": "../images/smoky-roasted-breakfast-potatoes.jpg",
-  "rating": 1,
-  "notes": [
-    "test"
-  ],
-  "source": "https://www.budgetbytes.com/smoky-roasted-breakfast-potatoes/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2 lbs. russet potatoes",
-        "1 yellow onion",
-        "2 Tbsp olive oil",
-        "1 tsp smoked paprika",
-        "1/2 tsp garlic powder",
-        "1/4 tsp salt",
-        " freshly cracked black pepper"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 400ºF. Wash the potatoes well, then dice them into 1/2 to 3/4-inch cubes. Dice the onion into similar sized pieces.",
-    "Add the diced potato and onion to a large bowl along with the olive oil, smoked paprika, garlic powder, salt, and pepper (10-15 cranks of a pepper mill). Toss the potatoes until they are well coated in oil and spices.",
-    "Line a large baking sheet with parchment paper. Spread the potatoes and onions out over the parchment so they are in a single layer.",
-    "Roast the potatoes for 40-60 minutes, stirring every 20 minutes, until they are brown and crispy. Total cooking time will depend on the size of your potato pieces and your personal preference for how brown and crispy you like your potatoes. Taste, and add additional salt if needed.",
-    "Serve hot, with ketchup if desired."
-  ],
-  "servings": 4
+  "title": "Smoky Roasted Breakfast Potatoes"
 }

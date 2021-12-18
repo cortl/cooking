@@ -1,4 +1,32 @@
 {
+  "image": "../images/jerk-chicken-meal-prep.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1.5 pounds chicken breast, cut into 1 inch pieces",
+        "1 tablespoon Jamaican Jerk Seasoning",
+        "2 cups diced pineapple",
+        "1/2 cup diced red onion",
+        "1/4 cup chopped cilantro",
+        "1 can black beans, drained and rinsed",
+        "1 5 oz package yellow rice, cooked"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, mix together pineapple, cilantro and red onion. Set aside.",
+    "Sprinkle jerk seasoning over chicken and stir to coat. ",
+    "Spray pan with non-stick cooking spray and add chicken. Cook over medium heat until cooked through. About 6-7 minutes.",
+    "Spoon rice, black beans, chicken and pineapple salsa into 4 containers or serve in a bowl."
+  ],
+  "notes": [
+    "used this rice recipe, https://www.allrecipes.com/recipe/237593/cindys-yellow-rice/"
+  ],
+  "rating": 7,
+  "servings": 4,
+  "slug": "jerk-chicken-meal-prep-bowls",
+  "source": "https://www.foodlovinfamily.com/jerk-chicken-meal-prep-bowls/",
   "time": [
     {
       "label": "Prep",
@@ -28,33 +56,5 @@
       ]
     }
   ],
-  "slug": "jerk-chicken-meal-prep-bowls",
-  "title": "Jerk Chicken Meal Prep Bowls",
-  "rating": 7,
-  "notes": [
-    "used this rice recipe, https://www.allrecipes.com/recipe/237593/cindys-yellow-rice/"
-  ],
-  "source": "https://www.foodlovinfamily.com/jerk-chicken-meal-prep-bowls/",
-  "image": "../images/jerk-chicken-meal-prep.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1.5 pounds chicken breast, cut into 1 inch pieces",
-        "1 tablespoon Jamaican Jerk Seasoning",
-        "2 cups diced pineapple",
-        "1/2 cup diced red onion",
-        "1/4 cup chopped cilantro",
-        "1 can black beans, drained and rinsed",
-        "1 5 oz package yellow rice, cooked"
-      ]
-    }
-  ],
-  "instructions": [
-    "In a medium bowl, mix together pineapple, cilantro and red onion. Set aside.",
-    "Sprinkle jerk seasoning over chicken and stir to coat. ",
-    "Spray pan with non-stick cooking spray and add chicken. Cook over medium heat until cooked through. About 6-7 minutes.",
-    "Spoon rice, black beans, chicken and pineapple salsa into 4 containers or serve in a bowl."
-  ],
-  "servings": 4
+  "title": "Jerk Chicken Meal Prep Bowls"
 }

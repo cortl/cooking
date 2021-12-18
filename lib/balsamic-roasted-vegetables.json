@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 55,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "balsamic-roasted-vegetables",
-  "title": "Balsamic Roasted Vegetables",
-  "servings": 4,
+  "createdDate": "6/22/2021",
   "image": "../images/balsamic-roasted-vegetables.jpg",
-  "rating": 7,
-  "notes": [
-    "Split it up into two sheet pans for maximum C R I S P. Cut the middle out of parsnips 🤦‍♂️"
-  ],
-  "source": "https://www.budgetbytes.com/balsamic-roasted-vegetables/",
   "ingredients": [
     {
       "category": "Balsamic Marinade",
@@ -69,5 +33,41 @@
     "Transfer the baking sheet to the oven and roast for 20 minutes. Carefully remove the baking sheet from the oven, give the vegetables a good stir, then return them to the oven and roast for an additional 15-20 minutes, or until the vegetables are tender and have browned on the edges. Don't be alarmed if the marinade blackens on the baking sheet, that part will not be scooped up with the vegetables.",
     "While the vegetables are roasting, finely chop a handful of fresh parsley. Transfer the roasted vegetables to a bowl or serving platter and sprinkle the chopped parsley over top just before serving."
   ],
-  "createdDate": "6/22/2021"
+  "notes": [
+    "Split it up into two sheet pans for maximum C R I S P. Cut the middle out of parsnips 🤦‍♂️"
+  ],
+  "rating": 7,
+  "servings": 4,
+  "slug": "balsamic-roasted-vegetables",
+  "source": "https://www.budgetbytes.com/balsamic-roasted-vegetables/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Balsamic Roasted Vegetables"
 }

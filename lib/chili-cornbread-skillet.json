@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    }
-  ],
-  "slug": "chili-cornbread-skillet",
-  "title": "Chili Cornbread Skillet",
-  "servings": 6,
+  "createdDate": "11/4/2020",
   "image": "../images/chili-cornbread-skillet.jpg",
-  "rating": 5,
-  "notes": [
-    "Average, ends up being more cornbread than chili"
-  ],
-  "source": "https://www.budgetbytes.com/chili-cornbread-skillet/",
   "ingredients": [
     {
       "category": "Chili",
@@ -78,5 +42,39 @@
     "Sprinkle the cheddar cheese over top of the simmering chili. Carefully pour the cornbread batter over the chili and cheese, and spread it around until the surface is evenly covered.",
     "Transfer the skillet to the fully preheated oven and bake for 25 minutes, or until the cornbread is golden brown on the surface. To serve, simply scoop the cornbread and chili beneath onto a plate or bowl, and enjoy!"
   ],
-  "createdDate": "11/4/2020"
+  "notes": ["Average, ends up being more cornbread than chili"],
+  "rating": 5,
+  "servings": 6,
+  "slug": "chili-cornbread-skillet",
+  "source": "https://www.budgetbytes.com/chili-cornbread-skillet/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Chili Cornbread Skillet"
 }

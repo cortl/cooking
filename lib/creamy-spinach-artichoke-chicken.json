@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "creamy-spinach-artichoke-chicken",
-  "title": "Creamy Spinach Artichoke Chicken",
-  "image": "../images/creamy-spinach-artichoke-chicken.jpg",
-  "rating": 6,
-  "notes": [
-    "Stop buying GMO chicken it sucks, reheats well for dairy so might be good for meal prep"
-  ],
   "createdDate": "04/26/2019",
-  "source": "https://www.budgetbytes.com/creamy-spinach-artichoke-chicken/",
+  "image": "../images/creamy-spinach-artichoke-chicken.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -67,5 +31,41 @@
     "Add the Parmesan, a pinch of red pepper flakes, and some freshly ground pepper to the skillet. Continue to heat and whisk for a couple minutes more. Finally, stir the spinach into the sauce, a handful or two at a time, until wilted (this should only take about a minute), then stir in the artichoke hearts.",
     "Return the chicken to the skillet and spoon the creamy spinach artichoke sauce over top. Serve hot."
   ],
-  "servings": 4
+  "notes": [
+    "Stop buying GMO chicken it sucks, reheats well for dairy so might be good for meal prep"
+  ],
+  "rating": 6,
+  "servings": 4,
+  "slug": "creamy-spinach-artichoke-chicken",
+  "source": "https://www.budgetbytes.com/creamy-spinach-artichoke-chicken/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Creamy Spinach Artichoke Chicken"
 }

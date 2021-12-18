@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 35,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "crispy-baked-beef-and-black-bean-tacos",
-  "title": "Crispy Baked Beef and Black Bean Tacos",
-  "servings": 5,
+  "createdDate": "3/28/2021",
   "image": "../images/crispy-baked-beef-and-black-bean-tacos.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/baked-beef-black-bean-tacos/",
   "ingredients": [
     {
       "category": "TACO SEASONING",
@@ -80,5 +44,39 @@
     "Fill the tacos with the beef and bean mixture. Sprinkle the shredded cheese over top. Bake the tacos in the preheated oven for 7-10 minutes, or until the cheese is melted and the taco shells are golden brown on the edges.",
     "While the tacos are baking, dice the tomato, slice the jalapeño, and roughly chop the cilantro leaves. Sprinkle the diced tomato, jalapeño, and cilantro over the tacos, and add a dollop of sour cream just before serving."
   ],
-  "createdDate": "3/28/2021"
+  "notes": [""],
+  "rating": 7,
+  "servings": 5,
+  "slug": "crispy-baked-beef-and-black-bean-tacos",
+  "source": "https://www.budgetbytes.com/baked-beef-black-bean-tacos/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Crispy Baked Beef and Black Bean Tacos"
 }

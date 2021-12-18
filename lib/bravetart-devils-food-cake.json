@@ -1,33 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 3,
-          "label": "hours"
-        }
-      ]
-    }
-  ],
-  "slug": "devils-food-cake",
-  "title": "Bravetart Devil's Food Cake",
-  "rating": 9,
-  "servings": 12,
-  "notes": [
-    "A little dry, but the frosting helps quite a bit."
-  ],
   "createdDate": "04/15/2021",
-  "source": "https://www.seriouseats.com/recipes/2018/02/bravetarts-devils-food-cake.html",
   "image": "../images/bravetart-devils-food-cake.jpg",
   "ingredients": [
     {
@@ -63,5 +35,31 @@
     "Use the balloon-whisk attachment to beat the mixture on medium-high until thick and silky. This can take from 75 to 120 seconds, so watch it closely. It’s best to use the frosting right away; the yield is about 5 1/2 cups, all of which will be used for this cake.",
     "When you're ready to assemble the cake, loosen the layers with a knife, invert onto a wire rack, peel off the parchment and then flip over to the original top. Trim the top crusts from the cakes with a serrated knife. Place one layer, cut side up, on a serving plate. Cover with a cup of the frosting, spreading it into an even layer with the back of a spoon. Repeat with the second and third layers, cut side down. Finish the top and sides of the cake with the remaining frosting.",
     "Let cake return to cool room temperature before serving. Under a cake dome or an inverted pot, the frosted cake will keep 24 hours at cool room temperature. After cutting, wrap leftover slices individually and store at cool room temperature up to 3 days more."
-  ]
+  ],
+  "notes": ["A little dry, but the frosting helps quite a bit."],
+  "rating": 9,
+  "servings": 12,
+  "slug": "devils-food-cake",
+  "source": "https://www.seriouseats.com/recipes/2018/02/bravetarts-devils-food-cake.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "Bravetart Devil's Food Cake"
 }

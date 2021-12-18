@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 45,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 1,
-          "label": "hour"
-        }
-      ]
-    }
-  ],
-  "slug": "chicken-stew",
-  "title": "Chicken Stew",
-  "servings": 6,
+  "createdDate": "11/16/2021",
   "image": "../images/chicken-stew.jpg",
-  "rating": 6,
-  "notes": [
-    "It's missing something 🤔"
-  ],
-  "source": "https://www.budgetbytes.com/chicken-stew/",
   "ingredients": [
     {
       "category": "All",
@@ -72,5 +36,39 @@
     "Place a lid on the pot and allow it to come up to a boil. Once it reaches a boil, remove the lid and turn the heat down to medium-low. Allow the stew to simmer over medium-low, without a lid and stirring occasionally, for about 30 minutes or until the potatoes are tender and the broth has thickened. ",
     "Taste the stew and add salt if needed (I did not add any, but it will depend on the salt content of the broth you used). Add a tablespoon of fresh chopped parsley if desired, and serve hot."
   ],
-  "createdDate": "11/16/2021"
+  "notes": ["It's missing something 🤔"],
+  "rating": 6,
+  "servings": 6,
+  "slug": "chicken-stew",
+  "source": "https://www.budgetbytes.com/chicken-stew/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Chicken Stew"
 }

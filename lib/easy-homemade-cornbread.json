@@ -1,4 +1,32 @@
 {
+  "image": "../images/easy-homemade-cornbread.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 cup yellow cornmeal",
+        "1 cup all-purpose flour",
+        "1/4 cup sugar",
+        "4 tsp baking powder",
+        "1/2 tsp salt",
+        "1 cup milk",
+        "1 large egg",
+        "1/4 cup cooking oil"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees and coat the inside of a 9-inch pie plate, cast iron skillet, or 8x8 casserole dish with non-stick spray (or butter for more flavor).",
+    "In a large bowl, stir together the cornmeal, flour, sugar, baking powder, and salt until evenly combined.",
+    "In a separate bowl, whisk together the milk, egg, and oil.",
+    "Pour the bowl of wet ingredients into the bowl of dry ingredients and stir just until everything is moist. Avoid over stirring. It's okay if there are a few lumps.",
+    "Pour the batter into the prepared dish and bake for about 20 minutes, or until the top and edges are golden brown. Cut into 8 pieces and serve."
+  ],
+  "notes": [""],
+  "rating": 8,
+  "servings": 8,
+  "slug": "easy-homemade-cornbread",
+  "source": "https://www.budgetbytes.com/2015/09/everyday-cornbread/",
   "time": [
     {
       "label": "Prep",
@@ -28,35 +56,5 @@
       ]
     }
   ],
-  "slug": "easy-homemade-cornbread",
-  "title": "Easy Homemade Cornbread",
-  "image": "../images/easy-homemade-cornbread.jpg",
-  "rating": 8,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/2015/09/everyday-cornbread/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 cup yellow cornmeal",
-        "1 cup all-purpose flour",
-        "1/4 cup sugar",
-        "4 tsp baking powder",
-        "1/2 tsp salt",
-        "1 cup milk",
-        "1 large egg",
-        "1/4 cup cooking oil"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 425 degrees and coat the inside of a 9-inch pie plate, cast iron skillet, or 8x8 casserole dish with non-stick spray (or butter for more flavor).",
-    "In a large bowl, stir together the cornmeal, flour, sugar, baking powder, and salt until evenly combined.",
-    "In a separate bowl, whisk together the milk, egg, and oil.",
-    "Pour the bowl of wet ingredients into the bowl of dry ingredients and stir just until everything is moist. Avoid over stirring. It's okay if there are a few lumps.",
-    "Pour the batter into the prepared dish and bake for about 20 minutes, or until the top and edges are golden brown. Cut into 8 pieces and serve."
-  ],
-  "servings": 8
+  "title": "Easy Homemade Cornbread"
 }

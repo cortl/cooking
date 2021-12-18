@@ -1,4 +1,35 @@
 {
+  "image": "../images/chorizo-breakfast-hash.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 lb baby red potatoes ",
+        "2 Tbsp cooking oil ",
+        "1/2 lb Mexican chorizo ",
+        "1 yellow onion ",
+        "1 green bell pepper ",
+        " Pinch of salt and pepper ",
+        "1/2 tsp chili powder ",
+        "3 green onions, sliced",
+        "4 large eggs, fried (optional)",
+        "4 Tbsp sour cream (optional)",
+        "4 Tbsp salsa "
+      ]
+    }
+  ],
+  "instructions": [
+    "Wash the potatoes well, then place them in a large sauce pot and cover with water. Place a lid on the pot and bring it up to a boil over high heat. Boil the potatoes just until they are tender enough to pierce with a fork, but not so soft that they'll fall apart when pierced (about 7-10 minutes, depending on the size of the potatoes). Drain the potatoes and let them cool slightly.",
+    "While the potatoes are boiling, begin cooking the chorizo. Heat a large skillet over medium, then add a tablespoon of cooking oil. Swirl the oil to coat the surface, then add the chorizo (if it's in links, squeeze it out of the casing into the skillet). Cook the chorizo, breaking it up into smaller pieces as it cooks, until it's brown, crispy, and cooked through (about 5-7 minutes). Use a slotted spoon to remove the cooked chorizo to a clean bowl.",
+    "While the chorizo is cooking, finely dice the bell pepper and onion. After removing the chorizo from the skillet, add the diced bell pepper and onion to the remaining fat and oil in the skillet, along with a pinch of salt and pepper. Sauté the onion and bell pepper until they are soft and browned on the edges (5-7 minutes). The moisture from the vegetables should help loosen the browned bits from the bottom of the skillet, which will in turn flavor the vegetables. Use the slotted spoon to remove the cooked bell pepper and onion to the bowl with the chorizo.",
+    "While the bell pepper and onion are cooking, dice the boiled potatoes into 1/4-inch cubes. After removing the bell pepper and onion from the skillet, add an additional tablespoon of oil and swirl to coat the surface of the skillet. Add the diced potatoes along with another pinch of salt and pepper, and a 1/2 tsp of chili powder. Cook the potatoes in the hot oil, stirring only occasionally, until the potatoes are brown and crispy (about 10 minutes). Avoid stirring too often as this will prevent the potatoes from forming a brown crispy exterior.",
+    "Finally, add the chorizo, bell pepper, and onion back to the skillet and stir to combine. Top with sliced green onion. Divide the hash between four plates, add a fried egg, and top with a dollop of sour cream and salsa."
+  ],
+  "notes": ["Used turkey chorizo, pretty good"],
+  "rating": 7,
+  "servings": 4,
+  "slug": "chorizo-breakfast-hash",
+  "source": "https://www.budgetbytes.com/2017/04/chorizo-breakfast-hash/",
   "time": [
     {
       "label": "Prep",
@@ -28,38 +59,5 @@
       ]
     }
   ],
-  "slug": "chorizo-breakfast-hash",
-  "title": "Chorizo Breakfast Hash",
-  "image": "../images/chorizo-breakfast-hash.jpg",
-  "rating": 7,
-  "notes": [
-    "Used turkey chorizo, pretty good"
-  ],
-  "source": "https://www.budgetbytes.com/2017/04/chorizo-breakfast-hash/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1 lb baby red potatoes ",
-        "2 Tbsp cooking oil ",
-        "1/2 lb Mexican chorizo ",
-        "1 yellow onion ",
-        "1 green bell pepper ",
-        " Pinch of salt and pepper ",
-        "1/2 tsp chili powder ",
-        "3 green onions, sliced",
-        "4 large eggs, fried (optional)",
-        "4 Tbsp sour cream (optional)",
-        "4 Tbsp salsa "
-      ]
-    }
-  ],
-  "instructions": [
-    "Wash the potatoes well, then place them in a large sauce pot and cover with water. Place a lid on the pot and bring it up to a boil over high heat. Boil the potatoes just until they are tender enough to pierce with a fork, but not so soft that they'll fall apart when pierced (about 7-10 minutes, depending on the size of the potatoes). Drain the potatoes and let them cool slightly.",
-    "While the potatoes are boiling, begin cooking the chorizo. Heat a large skillet over medium, then add a tablespoon of cooking oil. Swirl the oil to coat the surface, then add the chorizo (if it's in links, squeeze it out of the casing into the skillet). Cook the chorizo, breaking it up into smaller pieces as it cooks, until it's brown, crispy, and cooked through (about 5-7 minutes). Use a slotted spoon to remove the cooked chorizo to a clean bowl.",
-    "While the chorizo is cooking, finely dice the bell pepper and onion. After removing the chorizo from the skillet, add the diced bell pepper and onion to the remaining fat and oil in the skillet, along with a pinch of salt and pepper. Sauté the onion and bell pepper until they are soft and browned on the edges (5-7 minutes). The moisture from the vegetables should help loosen the browned bits from the bottom of the skillet, which will in turn flavor the vegetables. Use the slotted spoon to remove the cooked bell pepper and onion to the bowl with the chorizo.",
-    "While the bell pepper and onion are cooking, dice the boiled potatoes into 1/4-inch cubes. After removing the bell pepper and onion from the skillet, add an additional tablespoon of oil and swirl to coat the surface of the skillet. Add the diced potatoes along with another pinch of salt and pepper, and a 1/2 tsp of chili powder. Cook the potatoes in the hot oil, stirring only occasionally, until the potatoes are brown and crispy (about 10 minutes). Avoid stirring too often as this will prevent the potatoes from forming a brown crispy exterior.",
-    "Finally, add the chorizo, bell pepper, and onion back to the skillet and stir to combine. Top with sliced green onion. Divide the hash between four plates, add a fried egg, and top with a dollop of sour cream and salsa."
-  ],
-  "servings": 4
+  "title": "Chorizo Breakfast Hash"
 }

@@ -1,42 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 55,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "smoky-roasted-sausage-and-vegetables",
-  "title": "Smoky Roasted Sausage and Vegetables",
-  "image": "../images/smoky-roasted-sausage-and-vegetables.jpg",
-  "rating": 5,
-  "notes": [
-    "High cal, lots of flavor (from sausage)"
-  ],
   "createdDate": "03/11/2020",
-  "source": "https://www.budgetbytes.com/smoky-roasted-sausage-and-vegetables/",
+  "image": "../images/smoky-roasted-sausage-and-vegetables.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -69,5 +33,39 @@
     "After the sausage and vegetables have finished roasting, add half of the remaining vinaigrette and toss to coat. Season with an extra pinch of salt and pepper if needed.",
     "To serving, add about 3/4 cup rice to each bowl or container along with 1/4 of the roasted sausage and vegetables. Drizzle another spoonful of the vinaigrette over top, then finish with a sprinkle of fresh parsley."
   ],
-  "servings": 4
+  "notes": ["High cal, lots of flavor (from sausage)"],
+  "rating": 5,
+  "servings": 4,
+  "slug": "smoky-roasted-sausage-and-vegetables",
+  "source": "https://www.budgetbytes.com/smoky-roasted-sausage-and-vegetables/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Smoky Roasted Sausage and Vegetables"
 }

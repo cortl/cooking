@@ -1,41 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 10,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 30,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 40,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "salisbury-steak-with-mushroom-gravy",
-  "title": "Salisbury Steak with Mushroom Gravy",
+  "createdDate": "7/11/2020",
   "image": "../images/salisbury-steak-with-mushroom-gravy.jpg",
-  "rating": 8,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/salisbury-steak-with-mushroom-gravy/",
   "ingredients": [
     {
       "category": "All",
@@ -66,6 +31,39 @@
     "Add the beef broth and one tablespoon of Worcestershire sauce to the skillet. Stir to dissolve the flour into the broth, making sure to dissolve any flour that is stuck to the bottom of the skillet. Allow the broth to come up to simmer (still over medium heat), stirring often. Once it reaches a simmer, it will thicken into a gravy.",
     "Once the gravy is simmering, add the beef patties back to the skillet with the broth, mushrooms, and onions. Spoon the gravy over top, and continue to simmer the beef in the gravy for an additional five minutes. Taste the gravy and adjust the salt and pepper to your liking."
   ],
-  "createdDate": "7/11/2020",
-  "servings": 4
+  "notes": [""],
+  "rating": 8,
+  "servings": 4,
+  "slug": "salisbury-steak-with-mushroom-gravy",
+  "source": "https://www.budgetbytes.com/salisbury-steak-with-mushroom-gravy/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Salisbury Steak with Mushroom Gravy"
 }

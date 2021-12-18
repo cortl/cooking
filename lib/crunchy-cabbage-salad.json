@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "crunchy-cabbage-salad",
-  "title": "Crunchy Cabbage Salad",
-  "servings": 6,
+  "createdDate": "4/7/2021",
   "image": "../images/crunchy-cabbage-salad.jpg",
-  "rating": 7,
-  "notes": [
-    "Decent side, salad dressing could be a little tangier. Maybe increase the amount of rice vinegar"
-  ],
-  "source": "https://www.budgetbytes.com/crunchy-asian-salad/",
   "ingredients": [
     {
       "category": "Salad",
@@ -59,5 +32,32 @@
     "To make the dressing, add the salad oil, rice vinegar, soy sauce, honey, tahini, toasted sesame oil, garlic, and ginger to a blender. Blend until the dressing is smooth and creamy.",
     "When you're ready to eat, drizzle the dressing over the salad and toss until coated. Serve immediately"
   ],
-  "createdDate": "4/7/2021"
+  "notes": [
+    "Decent side, salad dressing could be a little tangier. Maybe increase the amount of rice vinegar"
+  ],
+  "rating": 7,
+  "servings": 6,
+  "slug": "crunchy-cabbage-salad",
+  "source": "https://www.budgetbytes.com/crunchy-asian-salad/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Crunchy Cabbage Salad"
 }

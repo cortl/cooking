@@ -1,4 +1,49 @@
 {
+  "createdDate": "6/22/2021",
+  "image": "../images/mediterranean-turkey-burgers.jpg",
+  "ingredients": [
+    {
+      "category": "Lemon Dill Yogurt Sauce",
+      "items": [
+        "1/2 cup plain Greek yogurt",
+        "1/2 Tbsp lemon juice",
+        "1/8 tsp garlic powder",
+        "1/8 tsp dried dill",
+        "1/8 tsp salt"
+      ]
+    },
+    {
+      "category": "Turkey Burgers",
+      "items": [
+        "19 oz. ground turkey*",
+        "1/4 cup sun dried tomatoes",
+        "1/4 cup minced red onion",
+        "2 oz. frozen spinach (1 cup when frozen)",
+        "1/4 cup crumbled feta",
+        "1 tsp dried oregano",
+        "1/4 tsp garlic powder",
+        "1/4 tsp salt",
+        "1 Tbsp cooking oil"
+      ]
+    },
+    {
+      "category": "For Serving",
+      "items": ["5 hamburger buns", "1/2 cucumber, sliced"]
+    }
+  ],
+  "instructions": [
+    "Make the lemon dill yogurt sauce first. Stir together the Greek yogurt, lemon juice, garlic powder, dried dill, and salt. Refrigerate until ready to use.",
+    "Prepare the add-ins for the turkey burgers. Finely chop the sun dried tomatoes, mince or finely dice the red onion, crumble the feta, and then thaw and squeeze all the moisture out of the frozen spinach (2 oz. will be about 1 cup when frozen, ¼ cup when thawed and squeezed dry). ",
+    "Add the ground turkey, sun dried tomatoes, red onion, feta, spinach, dried oregano, garlic powder, and salt to a bowl. Mix the ingredients together until evenly combined.",
+    "Divide and shape the turkey mixture into five burger patties. Make them flatter and wider than usual because they will shrink up and in as they cook.",
+    "Heat ½ Tbsp cooking oil in a skillet over medium. Once hot, add three of the turkey burgers and cook for 5-7 minutes on each side, or until browned and cooked through. Repeat with the remaining cooking oil and the rest of the burger patties. ",
+    "To serve, smear some of the lemon dill yogurt sauce on a bun. Add a turkey burger, some sliced cucumber, and sliced red onion, then enjoy."
+  ],
+  "notes": ["Good, still don't like cucumbers 😅"],
+  "rating": 7,
+  "servings": 5,
+  "slug": "mediterranean-turkey-burgers",
+  "source": "https://www.budgetbytes.com/greek-turkey-burgers/",
   "time": [
     {
       "label": "Prep",
@@ -28,55 +73,5 @@
       ]
     }
   ],
-  "slug": "mediterranean-turkey-burgers",
-  "title": "Mediterranean Turkey Burgers",
-  "servings": 5,
-  "image": "../images/mediterranean-turkey-burgers.jpg",
-  "rating": 7,
-  "notes": [
-    "Good, still don't like cucumbers 😅"
-  ],
-  "source": "https://www.budgetbytes.com/greek-turkey-burgers/",
-  "ingredients": [
-    {
-      "category": "Lemon Dill Yogurt Sauce",
-      "items": [
-        "1/2 cup plain Greek yogurt",
-        "1/2 Tbsp lemon juice",
-        "1/8 tsp garlic powder",
-        "1/8 tsp dried dill",
-        "1/8 tsp salt"
-      ]
-    },
-    {
-      "category": "Turkey Burgers",
-      "items": [
-        "19 oz. ground turkey*",
-        "1/4 cup sun dried tomatoes",
-        "1/4 cup minced red onion",
-        "2 oz. frozen spinach (1 cup when frozen)",
-        "1/4 cup crumbled feta",
-        "1 tsp dried oregano",
-        "1/4 tsp garlic powder",
-        "1/4 tsp salt",
-        "1 Tbsp cooking oil"
-      ]
-    },
-    {
-      "category": "For Serving",
-      "items": [
-        "5 hamburger buns",
-        "1/2 cucumber, sliced"
-      ]
-    }
-  ],
-  "instructions": [
-    "Make the lemon dill yogurt sauce first. Stir together the Greek yogurt, lemon juice, garlic powder, dried dill, and salt. Refrigerate until ready to use.",
-    "Prepare the add-ins for the turkey burgers. Finely chop the sun dried tomatoes, mince or finely dice the red onion, crumble the feta, and then thaw and squeeze all the moisture out of the frozen spinach (2 oz. will be about 1 cup when frozen, ¼ cup when thawed and squeezed dry). ",
-    "Add the ground turkey, sun dried tomatoes, red onion, feta, spinach, dried oregano, garlic powder, and salt to a bowl. Mix the ingredients together until evenly combined.",
-    "Divide and shape the turkey mixture into five burger patties. Make them flatter and wider than usual because they will shrink up and in as they cook.",
-    "Heat ½ Tbsp cooking oil in a skillet over medium. Once hot, add three of the turkey burgers and cook for 5-7 minutes on each side, or until browned and cooked through. Repeat with the remaining cooking oil and the rest of the burger patties. ",
-    "To serve, smear some of the lemon dill yogurt sauce on a bun. Add a turkey burger, some sliced cucumber, and sliced red onion, then enjoy."
-  ],
-  "createdDate": "6/22/2021"
+  "title": "Mediterranean Turkey Burgers"
 }

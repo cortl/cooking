@@ -1,4 +1,34 @@
 {
+  "image": "../images/easy-keto-chicken-parm.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "4 chicken breasts",
+        "1 Cup passata",
+        "1 Cup shredded mozzarella.",
+        "1/2 Cup grated Parmigiano-Regiano or pecorino romano",
+        "3 Tbsp olive oil. extra virgin",
+        "1 minced garlic clove",
+        "1 tsp dried oregano",
+        "1 tsp dried thyme",
+        "1 tsp smoked paprika",
+        "salt & pepper to taste"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400F.",
+    "Warm up a skillet on high heat and add 1 Tbsp of olive oil to it. Sear your chicken breasts on high heat for 3-4 minutes on each side, or until you get a little color on them. Transfer to a baking sheet covered with parchemin paper.",
+    "Warm up a sauce pan on medium heat and add your diced tomatoes and olive oil. Finely mince your garlic and add it to the sauce. Add Salt & Pepper and taste your sauce to see if it is to your liking. ",
+    "Scoop one tbsp of sauce on top of each chicken cutlet, sprinkle some shredded cheese and your dried herbs. Repeat until all the chicken is coated and ready to bake.",
+    "Bake for 15 minutes or until the cheese bubbles and turns a little golden. The more you leave it in the oven, the crispier it's going to get. Take out and let it cool down for 10 minutes before serving."
+  ],
+  "notes": ["Worked great to sear in skillet and finish in oven"],
+  "rating": 7,
+  "servings": 4,
+  "slug": "easy-keto-chicken-parmesan",
+  "source": "https://www.brokefoodies.com/easy-keto-chicken-parmesan/",
   "time": [
     {
       "label": "Prep",
@@ -28,37 +58,5 @@
       ]
     }
   ],
-  "slug": "easy-keto-chicken-parmesan",
-  "title": "Easy Keto Chicken Parmesan",
-  "rating": 7,
-  "notes": [
-    "Worked great to sear in skillet and finish in oven"
-  ],
-  "source": "https://www.brokefoodies.com/easy-keto-chicken-parmesan/",
-  "image": "../images/easy-keto-chicken-parm.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "4 chicken breasts",
-        "1 Cup passata",
-        "1 Cup shredded mozzarella.",
-        "1/2 Cup grated Parmigiano-Regiano or pecorino romano",
-        "3 Tbsp olive oil. extra virgin",
-        "1 minced garlic clove",
-        "1 tsp dried oregano",
-        "1 tsp dried thyme",
-        "1 tsp smoked paprika",
-        "salt & pepper to taste"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat your oven to 400F.",
-    "Warm up a skillet on high heat and add 1 Tbsp of olive oil to it. Sear your chicken breasts on high heat for 3-4 minutes on each side, or until you get a little color on them. Transfer to a baking sheet covered with parchemin paper.",
-    "Warm up a sauce pan on medium heat and add your diced tomatoes and olive oil. Finely mince your garlic and add it to the sauce. Add Salt & Pepper and taste your sauce to see if it is to your liking. ",
-    "Scoop one tbsp of sauce on top of each chicken cutlet, sprinkle some shredded cheese and your dried herbs. Repeat until all the chicken is coated and ready to bake.",
-    "Bake for 15 minutes or until the cheese bubbles and turns a little golden. The more you leave it in the oven, the crispier it's going to get. Take out and let it cool down for 10 minutes before serving."
-  ],
-  "servings": 4
+  "title": "Easy Keto Chicken Parmesan"
 }

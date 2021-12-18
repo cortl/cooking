@@ -1,4 +1,34 @@
 {
+  "createdDate": "7/11/2020",
+  "image": "../images/charred-corn-and-zucchini-salad.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 Tbsp high heat oil*",
+        "3 ears fresh sweet corn",
+        "2 zucchini",
+        "1/2 red onion",
+        "2 pinches salt and pepper",
+        "1/4 cup chopped cilantro**",
+        "2 oz. feta"
+      ]
+    }
+  ],
+  "instructions": [
+    "Remove the husks and silk from the corn cobs, and cut the stems off. Brush the surface of the corn with oil.",
+    "Heat a cast iron skillet or gill pan over medium heat for at least five minutes, giving it plenty of time to build up a lot of heat. Once very hot, add the corn cobs. Allow the corn to cook, turning occasionally, until the kernels have become bright in color and some have developed deep char marks. This should take about 15 minutes total.",
+    "While the corn is cooking, slice the zucchini in half lengthwise and the red onion into thick rings. Brush all sides of the zucchini and onion with oil.",
+    "When the corn is finished cooking, remove it to a cutting board to cool slightly, and add the zucchini in its place. Cook the zucchini on each side until well charred (about 10 minutes total), then remove to the cutting board. Lastly, cook the onion slices until charred on each side (about 5 minutes total). ",
+    "Slice or chop the zucchini into half-rounds or quarter-rounds. Chop the onion into small pieces. Roughly chop about 1/4 cup of cilantro. Place the zucchini, onion, and cilantro in a large bow. ",
+    "Stand the corn cobs on end and use a sharp knife to carefully slice down each side to remove the kernels. Place the kernels in the bowl with the zucchini, onion, and cilantro.",
+    "Season the vegetables with a couple generous pinches of salt and pepper, then toss to combine. Finally, crumble the feta over top and gently toss one more time to combine. Serve immediately or refrigerate for later. This salad can be served slightly warm or cold."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 4,
+  "slug": "charred-corn-and-zucchini-salad",
+  "source": "https://www.budgetbytes.com/charred-corn-and-zucchini-salad/",
   "time": [
     {
       "label": "Prep",
@@ -28,37 +58,5 @@
       ]
     }
   ],
-  "slug": "charred-corn-and-zucchini-salad",
-  "title": "Charred Corn and Zucchini Salad",
-  "image": "../images/charred-corn-and-zucchini-salad.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/charred-corn-and-zucchini-salad/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "2 Tbsp high heat oil*",
-        "3 ears fresh sweet corn",
-        "2 zucchini",
-        "1/2 red onion",
-        "2 pinches salt and pepper",
-        "1/4 cup chopped cilantro**",
-        "2 oz. feta"
-      ]
-    }
-  ],
-  "instructions": [
-    "Remove the husks and silk from the corn cobs, and cut the stems off. Brush the surface of the corn with oil.",
-    "Heat a cast iron skillet or gill pan over medium heat for at least five minutes, giving it plenty of time to build up a lot of heat. Once very hot, add the corn cobs. Allow the corn to cook, turning occasionally, until the kernels have become bright in color and some have developed deep char marks. This should take about 15 minutes total.",
-    "While the corn is cooking, slice the zucchini in half lengthwise and the red onion into thick rings. Brush all sides of the zucchini and onion with oil.",
-    "When the corn is finished cooking, remove it to a cutting board to cool slightly, and add the zucchini in its place. Cook the zucchini on each side until well charred (about 10 minutes total), then remove to the cutting board. Lastly, cook the onion slices until charred on each side (about 5 minutes total). ",
-    "Slice or chop the zucchini into half-rounds or quarter-rounds. Chop the onion into small pieces. Roughly chop about 1/4 cup of cilantro. Place the zucchini, onion, and cilantro in a large bow. ",
-    "Stand the corn cobs on end and use a sharp knife to carefully slice down each side to remove the kernels. Place the kernels in the bowl with the zucchini, onion, and cilantro.",
-    "Season the vegetables with a couple generous pinches of salt and pepper, then toss to combine. Finally, crumble the feta over top and gently toss one more time to combine. Serve immediately or refrigerate for later. This salad can be served slightly warm or cold."
-  ],
-  "createdDate": "7/11/2020",
-  "servings": 4
+  "title": "Charred Corn and Zucchini Salad"
 }

@@ -1,14 +1,6 @@
 {
-  "time": [],
-  "slug": "new-yorkstyle-white-pizza-recipe",
-  "title": "New York-Style White Pizza Recipe",
+  "createdDate": "4/7/2021",
   "image": "../images/new-yorkstyle-white-pizza-recipe.jpg",
-  "rating": 7,
-  "servings": 1,
-  "notes": [
-    "Just used the sauce for the mac and cheese topping for the foolproof pan pizza"
-  ],
-  "source": "https://www.seriouseats.com/recipes/2008/12/new-yorkstyle-white-pizza-recipe.html",
   "ingredients": [
     {
       "category": "All",
@@ -50,5 +42,13 @@
     "In a heavy saucepan, heat the olive oil over medium heat.Add the onion and sauté for 5 or 6 minutes, or until translucent.Add the garlic and stir for 1 minute longer.Add the cream, lower the heat to medium-low, and cook for about 3 minutes, or until the cream thickens and reduces slightly.",
     "Remove from the heat, stir in the thyme, and season to taste with salt and pepper.Let cool completely before using."
   ],
-  "createdDate": "4/7/2021"
+  "notes": [
+    "Just used the sauce for the mac and cheese topping for the foolproof pan pizza"
+  ],
+  "rating": 7,
+  "servings": 1,
+  "slug": "new-yorkstyle-white-pizza-recipe",
+  "source": "https://www.seriouseats.com/recipes/2008/12/new-yorkstyle-white-pizza-recipe.html",
+  "time": [],
+  "title": "New York-Style White Pizza Recipe"
 }

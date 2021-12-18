@@ -1,4 +1,41 @@
 {
+  "createdDate": "12/17/2020",
+  "image": "../images/chicken-parmesan-meatballs.jpg",
+  "ingredients": [
+    {
+      "category": "Chicken Parmesan Meatballs",
+      "items": [
+        "½  cup breadcrumbs",
+        "⅓  cup grated Parmesan",
+        "1/4 tsp garlic powder",
+        "½ tsp dried basil",
+        "½  tsp dried oregano",
+        "¼  tsp salt",
+        "¼  tsp freshly cracked black pepper",
+        "1 lb. ground chicken",
+        "1 large egg",
+        "2 Tbsp cooking oil"
+      ]
+    },
+    {
+      "category": "For Serving",
+      "items": ["12 oz. pasta", "1 24oz. jar pasta sauce"]
+    }
+  ],
+  "instructions": [
+    "Combine the breadcrumbs and seasoning first. In a small bowl, stir together the breadcrumbs, grated Parmesan, garlic powder, basil, oregano, salt, and pepper.",
+    "Add the ground chicken to a large bowl, then add the seasoned breadcrumb mixture and the egg. Use your hands to combine the ingredients until evenly mixed.",
+    "Shape the meat mixture into meatballs, about 1-1.5 Tbsp each. You should get around 20 meatballs.",
+    "Heat 1 Tbsp cooking oil in a large skillet over medium heat. Once the skillet is hot and the oil is shimmering, add half of the meatballs. Cook the meatballs about one minute on each side, until all six sides are browned and the meatballs are cooked through. Transfer the cooked meatballs to a clean plate. Add the second tablespoon of cooking oil to the skillet and cook the second batch of meatballs in the same manner.",
+    "While the meatballs are cooking, begin the pasta and sauce. Bring a large pot of water to boil for the pasta. Once boiling, add the pasta and cook until tender (7-10 minutes). Drain the pasta in a colander. Add the sauce to a medium sauce pot and heat over medium-low, stirring occasionally, until heated through.",
+    "Once all the meatballs are finished cooking, add them to the pot of heated pasta sauce and stir to coat. If needed, allow them to heat for a few minutes in the sauce.",
+    "Serve the cooked and drained pasta topped with sauce and meatballs."
+  ],
+  "notes": [""],
+  "rating": 7,
+  "servings": 4,
+  "slug": "chicken-parmesan-meatballs",
+  "source": "https://www.budgetbytes.com/chicken-parmesan-meatballs/",
   "time": [
     {
       "label": "Prep",
@@ -28,47 +65,5 @@
       ]
     }
   ],
-  "slug": "chicken-parmesan-meatballs",
-  "title": "Chicken Parmesan Meatballs",
-  "servings": 4,
-  "image": "../images/chicken-parmesan-meatballs.jpg",
-  "rating": 7,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.budgetbytes.com/chicken-parmesan-meatballs/",
-  "ingredients": [
-    {
-      "category": "Chicken Parmesan Meatballs",
-      "items": [
-        "½  cup breadcrumbs",
-        "⅓  cup grated Parmesan",
-        "1/4 tsp garlic powder",
-        "½ tsp dried basil",
-        "½  tsp dried oregano",
-        "¼  tsp salt",
-        "¼  tsp freshly cracked black pepper",
-        "1 lb. ground chicken",
-        "1 large egg",
-        "2 Tbsp cooking oil"
-      ]
-    },
-    {
-      "category": "For Serving",
-      "items": [
-        "12 oz. pasta",
-        "1 24oz. jar pasta sauce"
-      ]
-    }
-  ],
-  "instructions": [
-    "Combine the breadcrumbs and seasoning first. In a small bowl, stir together the breadcrumbs, grated Parmesan, garlic powder, basil, oregano, salt, and pepper.",
-    "Add the ground chicken to a large bowl, then add the seasoned breadcrumb mixture and the egg. Use your hands to combine the ingredients until evenly mixed.",
-    "Shape the meat mixture into meatballs, about 1-1.5 Tbsp each. You should get around 20 meatballs.",
-    "Heat 1 Tbsp cooking oil in a large skillet over medium heat. Once the skillet is hot and the oil is shimmering, add half of the meatballs. Cook the meatballs about one minute on each side, until all six sides are browned and the meatballs are cooked through. Transfer the cooked meatballs to a clean plate. Add the second tablespoon of cooking oil to the skillet and cook the second batch of meatballs in the same manner.",
-    "While the meatballs are cooking, begin the pasta and sauce. Bring a large pot of water to boil for the pasta. Once boiling, add the pasta and cook until tender (7-10 minutes). Drain the pasta in a colander. Add the sauce to a medium sauce pot and heat over medium-low, stirring occasionally, until heated through.",
-    "Once all the meatballs are finished cooking, add them to the pot of heated pasta sauce and stir to coat. If needed, allow them to heat for a few minutes in the sauce.",
-    "Serve the cooked and drained pasta topped with sauce and meatballs."
-  ],
-  "createdDate": "12/17/2020"
+  "title": "Chicken Parmesan Meatballs"
 }

@@ -1,41 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Prep",
-      "units": [
-        {
-          "measurement": 5,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Cook",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 25,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "beef-taco-skillet",
-  "title": "Beef Taco Skillet",
+  "createdDate": "9/15/2020",
   "image": "../images/beef-taco-skillet.jpg",
-  "rating": 6,
-  "notes": [
-    "Another taco based meal"
-  ],
-  "source": "https://www.budgetbytes.com/beef-taco-skillet/",
   "ingredients": [
     {
       "category": "Homemade Taco Seasoning",
@@ -70,6 +35,39 @@
     "Finally, add the tortilla chips and stir to combine with the other ingredients in the skillet.",
     "Top the skillet with the shredded cheese, place a lid on top, and let it heat for 1-2 minutes, or just until the cheese is melted. Sprinkle the sliced green onions over top just before serving."
   ],
-  "createdDate": "9/15/2020",
-  "servings": 4
+  "notes": ["Another taco based meal"],
+  "rating": 6,
+  "servings": 4,
+  "slug": "beef-taco-skillet",
+  "source": "https://www.budgetbytes.com/beef-taco-skillet/",
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Beef Taco Skillet"
 }

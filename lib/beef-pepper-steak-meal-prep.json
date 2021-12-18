@@ -1,23 +1,5 @@
 {
-  "time": [
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 20,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "beef-pepper-steak-meal-prep",
-  "title": "Quick Beef Pepper Steak Meal Prep",
-  "rating": 5,
-  "notes": [
-    "Steak and peppers are good, I forgot how nasty arrowroot starch is lol"
-  ],
   "createdDate": "06/16/2020",
-  "source": "https://fitmencook.com/beef-pepper-steak/",
   "image": "../images/quick-beef-pepper-steak-meal-prep.jpg",
   "ingredients": [
     {
@@ -46,5 +28,23 @@
     "Make a hole in the skillet.  Pour in the sauce.  As soon  as it starts to bubble and turn shiny, remove from the skillet from the heat and STIR QUICKLY so the sauce doesn’t clump or become slimy.",
     "Mix and fold everything. Garnish with sesame seeds and enjoy!"
   ],
-  "servings": 4
+  "notes": [
+    "Steak and peppers are good, I forgot how nasty arrowroot starch is lol"
+  ],
+  "rating": 5,
+  "servings": 4,
+  "slug": "beef-pepper-steak-meal-prep",
+  "source": "https://fitmencook.com/beef-pepper-steak/",
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Quick Beef Pepper Steak Meal Prep"
 }

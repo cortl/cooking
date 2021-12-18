@@ -1,33 +1,6 @@
 {
-  "time": [
-    {
-      "label": "Active",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    },
-    {
-      "label": "Total",
-      "units": [
-        {
-          "measurement": 15,
-          "label": "minutes"
-        }
-      ]
-    }
-  ],
-  "slug": "sausage-gravy-recipe",
-  "title": "Sausage Gravy Recipe",
-  "servings": 3,
+  "createdDate": "10/14/2020",
   "image": "../images/sausage-gravy-recipe.jpg",
-  "rating": 8,
-  "notes": [
-    ""
-  ],
-  "source": "https://www.seriouseats.com/recipes/2012/11/sausage-gravy-recipe.html",
   "ingredients": [
     {
       "category": "All",
@@ -48,5 +21,30 @@
     "Whisk flour into sausage drippings and cook, stirring constantly, until mixture turns light brown, about 1 minute. Slowly whisk in milk and bring to a boil. Reduce to a simmer and cook until slightly thickened, about 4 minutes, stirring occasionally.",
     "Stir in sausage, sage (if using), and crushed red pepper (if using). Remove from heat and season with salt and pepper to taste. Use immediately."
   ],
-  "createdDate": "10/14/2020"
+  "notes": [""],
+  "rating": 8,
+  "servings": 3,
+  "slug": "sausage-gravy-recipe",
+  "source": "https://www.seriouseats.com/recipes/2012/11/sausage-gravy-recipe.html",
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Sausage Gravy Recipe"
 }

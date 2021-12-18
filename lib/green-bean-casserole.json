@@ -1,4 +1,38 @@
 {
+  "createdDate": "11/25/2021",
+  "image": "../images/green-bean-casserole.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "12 oz. frozen cut green beans",
+        "2 Tbsp butter",
+        "4 oz. mushrooms",
+        "1 clove garlic",
+        "2 Tbsp all-purpose flour",
+        "1 cup milk",
+        "1 cup vegetable broth",
+        "1/4 tsp salt",
+        "1/4 tsp pepper",
+        "1/2 cup Fried Onions"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350F",
+    "Add the frozen green beans to a pot and cover with water. Place a lid on the pot, then bring the water up to a boil over high heat. Boil the green beans for about 5 minutes, or until tender, then drain in a colander.",
+    "While the green beans are boiling, slice the mushrooms and mince the garlic.",
+    "Add the mushrooms, garlic, and butter to the pot used to boil the green beans. Sauté over medium heat. Once the mushrooms have released all their water and all of it has evaporated off the bottom of the pot, add the flour and continue to stir and cook for about one minute more.",
+    "Whisk in the milk, vegetable broth, salt, and pepper. Make sure to whisk until all of the flour has dissolved off the bottom of the pot. Allow the milk mixture to return to a boil, stirring occasionally. Once it reaches a boil, it will thicken into a sauce.",
+    "Return the drained green beans to the pot with the sauce and stir to combine. Turn the heat down to its lowest setting and allow the green beans to remain heating over low, stirring occasionally, as you make the final recipe (mushroom herb gravy). The sauce will continue to thicken as it heats over low.",
+    "Put the mixture into a 2qt casserole dish and top with the fried onions",
+    "Put into the oven for about 10 minutes and serve."
+  ],
+  "notes": [],
+  "rating": 7,
+  "servings": 4,
+  "slug": "green-bean-casserole",
+  "source": "https://www.budgetbytes.com/wprm_print/recipe/59338",
   "time": [
     {
       "label": "Prep",
@@ -28,39 +62,5 @@
       ]
     }
   ],
-  "slug": "green-bean-casserole",
-  "title": "Green Bean Casserole",
-  "rating": 7,
-  "servings": 4,
-  "notes": [],
-  "createdDate": "11/25/2021",
-  "source": "https://www.budgetbytes.com/wprm_print/recipe/59338",
-  "image": "../images/green-bean-casserole.jpg",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "12 oz. frozen cut green beans",
-        "2 Tbsp butter",
-        "4 oz. mushrooms",
-        "1 clove garlic",
-        "2 Tbsp all-purpose flour",
-        "1 cup milk",
-        "1 cup vegetable broth",
-        "1/4 tsp salt",
-        "1/4 tsp pepper",
-        "1/2 cup Fried Onions"
-      ]
-    }
-  ],
-  "instructions": [
-    "Preheat the oven to 350F",
-    "Add the frozen green beans to a pot and cover with water. Place a lid on the pot, then bring the water up to a boil over high heat. Boil the green beans for about 5 minutes, or until tender, then drain in a colander.",
-    "While the green beans are boiling, slice the mushrooms and mince the garlic.",
-    "Add the mushrooms, garlic, and butter to the pot used to boil the green beans. Sauté over medium heat. Once the mushrooms have released all their water and all of it has evaporated off the bottom of the pot, add the flour and continue to stir and cook for about one minute more.",
-    "Whisk in the milk, vegetable broth, salt, and pepper. Make sure to whisk until all of the flour has dissolved off the bottom of the pot. Allow the milk mixture to return to a boil, stirring occasionally. Once it reaches a boil, it will thicken into a sauce.",
-    "Return the drained green beans to the pot with the sauce and stir to combine. Turn the heat down to its lowest setting and allow the green beans to remain heating over low, stirring occasionally, as you make the final recipe (mushroom herb gravy). The sauce will continue to thicken as it heats over low.",
-    "Put the mixture into a 2qt casserole dish and top with the fried onions",
-    "Put into the oven for about 10 minutes and serve."
-  ]
+  "title": "Green Bean Casserole"
 }

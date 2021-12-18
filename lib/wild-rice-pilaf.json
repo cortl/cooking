@@ -1,4 +1,39 @@
 {
+  "createdDate": "11/13/2021",
+  "image": "../images/wild-rice-pilaf.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2 cup wild rice blend*",
+        "1 cup vegetable broth",
+        "2 Tbsp butter",
+        "1 yellow onion",
+        "3 ribs celery",
+        "1 apple",
+        "1/2 tsp dried sage",
+        "1/2 tsp dried thyme",
+        "1/4 tsp salt",
+        "1/4 tsp freshly cracked black pepper",
+        "1/4 cup chopped walnuts",
+        "1/4 cup dried cranberries",
+        "1 Tbsp chopped parsley"
+      ]
+    }
+  ],
+  "instructions": [
+    "Add the wild rice blend and vegetable broth to a saucepot. Place a lid on top and turn the heat on to medium-high. Allow the broth to come to a full boil. Once boiling, reduce the heat to medium-low and allow to simmer for 45 minutes, or for the amount of time directed on the package.*",
+    "While the rice is cooking, prepare the rest of the pilaf. Dice the onion, celery, and apple. ",
+    "Add the onion to a large skillet with the butter and sauté over medium heat until softened. ",
+    "Add the apples, celery, sage, thyme, salt, and pepper to the skillet with the onions and continue to sauté for about five minutes more, or just until the apples and celery begin to soften (they should still have some bite).",
+    "When the rice has finished cooking, add it to the skillet with the apples, celery, and onion. Also add the chopped walnuts, cranberries, and chopped parsley. Stir until everything is evenly combined.",
+    "Taste the pilaf and adjust the salt or seasonings to your liking. Serve hot."
+  ],
+  "notes": ["Big fall energy 🍁"],
+  "rating": 8,
+  "servings": 4,
+  "slug": "wild-rice-pilaf",
+  "source": "https://www.budgetbytes.com/wild-rice-pilaf/",
   "time": [
     {
       "label": "Prep",
@@ -28,42 +63,5 @@
       ]
     }
   ],
-  "slug": "wild-rice-pilaf",
-  "title": "Wild Rice Pilaf",
-  "servings": 4,
-  "image": "../images/wild-rice-pilaf.jpg",
-  "rating": 8,
-  "notes": [
-    "Big fall energy 🍁"
-  ],
-  "source": "https://www.budgetbytes.com/wild-rice-pilaf/",
-  "ingredients": [
-    {
-      "category": "All",
-      "items": [
-        "1/2 cup wild rice blend*",
-        "1 cup vegetable broth",
-        "2 Tbsp butter",
-        "1 yellow onion",
-        "3 ribs celery",
-        "1 apple",
-        "1/2 tsp dried sage",
-        "1/2 tsp dried thyme",
-        "1/4 tsp salt",
-        "1/4 tsp freshly cracked black pepper",
-        "1/4 cup chopped walnuts",
-        "1/4 cup dried cranberries",
-        "1 Tbsp chopped parsley"
-      ]
-    }
-  ],
-  "instructions": [
-    "Add the wild rice blend and vegetable broth to a saucepot. Place a lid on top and turn the heat on to medium-high. Allow the broth to come to a full boil. Once boiling, reduce the heat to medium-low and allow to simmer for 45 minutes, or for the amount of time directed on the package.*",
-    "While the rice is cooking, prepare the rest of the pilaf. Dice the onion, celery, and apple. ",
-    "Add the onion to a large skillet with the butter and sauté over medium heat until softened. ",
-    "Add the apples, celery, sage, thyme, salt, and pepper to the skillet with the onions and continue to sauté for about five minutes more, or just until the apples and celery begin to soften (they should still have some bite).",
-    "When the rice has finished cooking, add it to the skillet with the apples, celery, and onion. Also add the chopped walnuts, cranberries, and chopped parsley. Stir until everything is evenly combined.",
-    "Taste the pilaf and adjust the salt or seasonings to your liking. Serve hot."
-  ],
-  "createdDate": "11/13/2021"
+  "title": "Wild Rice Pilaf"
 }
