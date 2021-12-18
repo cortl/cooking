@@ -4,20 +4,54 @@
   "ingredients": [
     {
       "category": "Sauce",
-      "items": ["1Tbsp Soy Sauce"]
+      "items": [
+        "1Tbsp Soy Sauce"
+      ]
     }
   ],
-  "instructions": ["Assembly instructions"],
-  "notes": ["anything additional people should know about this recipe"],
+  "instructions": [
+    "Assembly instructions"
+  ],
+  "notes": [
+    "anything additional people should know about this recipe"
+  ],
   "rating": "0-10 as a number",
   "servings": "serving size as a number",
   "slug": "page url",
   "source": "source of the recipe, if possible",
   "time": [
     {
-      "label": "name for the time: e.g. prep time, cook time, etc",
-      "units": "number of minutes/hrs (string)"
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
     }
+  ],
+  "tags": [
+    "Dinner",
+    "Slow Cooker",
+    "etc"
   ],
   "title": "Recipe name"
 }
