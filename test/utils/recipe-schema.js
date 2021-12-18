@@ -20,7 +20,8 @@ const TIME_MEASUREMENTS = ["day", "days", "hour", "hours", "minute", "minutes"];
 const TAGS = [
   "Vegan",
   "Vegetarian",
-  "Chicken",
+  "Poultry",
+  "Fish",
   "Beef",
   "Pork",
   "Drink",
@@ -37,6 +38,7 @@ const TAGS = [
   "Topping",
   "Thanksgiving",
   "Christmas",
+  "Super Bowl",
   "Baking",
   "Roasting",
   "Frying",
@@ -44,23 +46,27 @@ const TAGS = [
   "Braising & Stewing",
   "No Cook",
   "Stovetop",
+  "Fermenting",
+  "Pressure Cooker",
+  "Seasoning Blend",
+  "Grilling"
 ];
 
 const Joi = joi.extend({
   type: "file",
   validate: (value) => {
     if (value === "") {
-      return { value, errors: [new Error(`image field was empty`)] };
+      return {value, errors: [new Error(`image field was empty`)]};
     }
     const imagePath = path.normalize(`lib/${value}`);
     const exists = fs.existsSync(imagePath);
 
     return exists
-      ? { value, errors: [] }
+      ? {value, errors: []}
       : {
-          value,
-          errors: [new Error(`${imagePath} does note exist`)],
-        };
+        value,
+        errors: [new Error(`${imagePath} does note exist`)],
+      };
   },
 });
 
@@ -78,7 +84,7 @@ const schema = Joi.object({
     items: Joi.array().items(Joi.string()),
   }),
   tags: Joi.array()
-    .valid(...TAGS)
+    .items(Joi.string().valid(...TAGS))
     .required(),
   time: Joi.array()
     .items({

@@ -23,7 +23,9 @@
     "Place a lid on the pot, turn the heat up to medium-high, and allow the water to come up to a boil. Once it reaches a full boil, turn the heat down to low, and let the rice simmer for 15 minutes. After 15 minutes, turn the heat off and let the pot rest, without removing the lid, for an additional five minutes.",
     "Fluff the rice with a fork, gently folding the spinach back into the rice (it tends to float to the top during cooking). Finall, sprinkle the feta over top and fold to combine again. Serve hot!"
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 7,
   "servings": 6,
   "slug": "spinach-rice-with-feta",
@@ -56,6 +58,11 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Stovetop"
   ],
   "title": "Spinach Rice with Feta"
 }

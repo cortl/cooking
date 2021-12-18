@@ -17,7 +17,10 @@
     },
     {
       "category": "Optional Garnishes",
-      "items": [" cilantro", " sriracha"]
+      "items": [
+        " cilantro",
+        " sriracha"
+      ]
     }
   ],
   "instructions": [
@@ -28,7 +31,9 @@
     "Turn the heat off and remove the pot from the hot stove top to facilitate cooling (to another area on the stove is fine). Add the coconut milk and stir to combine. You can reserve a tablespoon or two of the coconut milk to garnish the finished soup, if desired.",
     "Use an immersion blender, or allow the soup to cool further and carefully purée in batches using a traditional blender. Once the soup is puréed, give it a taste and add salt or pepper if desired (this will depend largely on the type of broth used). Garnish with fresh cilantro and a drizzle of sriracha, if desired."
   ],
-  "notes": [""],
+  "notes": [
+    ""
+  ],
   "rating": 9,
   "servings": 6,
   "slug": "thai-coconut-curry-carrot-soup",
@@ -61,6 +66,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Soup",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Thai Coconut Curry Carrot Soup"
 }

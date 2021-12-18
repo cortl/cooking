@@ -32,7 +32,9 @@
     },
     {
       "category": "Sides",
-      "items": ["Broccoli"]
+      "items": [
+        "Broccoli"
+      ]
     }
   ],
   "instructions": [
@@ -77,6 +79,13 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "Poultry",
+    "Pasta",
+    "Meal Prep",
+    "Dinner",
+    "Stovetop"
   ],
   "title": "Sticky Ginger Soy Glazed Chicken Meal Prep"
 }
