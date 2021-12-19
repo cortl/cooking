@@ -1,0 +1,60 @@
+{
+    "createdDate": "12/16/2021",
+    "image": "../images/soft-boiled-eggs.jpg",
+    "ingredients": [
+        {
+            "category": "All",
+            "items": [
+                "1 large egg"
+            ]
+        }
+    ],
+    "instructions": [
+        "Add 1 inch of water to a sauce pot, cover, and bring to a boil over high heat.",
+        "Once boiling, add an egg (or however many you'd like as long as they are in a single layer in the bottom of the pot), straight from the refrigerator into the pot. Replace the lid and let it continue to boil for exactly six minutes.",
+        "After six minutes, remove the egg(s) from the pot and place them in an ice water bath or run under cool water until they are cool enough to handle. Peel, and enjoy!"
+    ],
+    "notes": [],
+    "rating": 8,
+    "servings": 1,
+    "slug": "soft-boiled-eggs",
+    "source": "https://www.budgetbytes.com/make-soft-boiled-eggs/",
+    "tags": [
+        "Vegetarian",
+        "Quick",
+        "Appetizer",
+        "Breakfast",
+        "Topping",
+        "Stovetop"
+    ],
+    "time": [
+        {
+            "label": "Prep",
+            "units": [
+                {
+                    "measurement": 4,
+                    "label": "minutes"
+                }
+            ]
+        },
+        {
+            "label": "Cook",
+            "units": [
+                {
+                    "measurement": 6,
+                    "label": "minutes"
+                }
+            ]
+        },
+        {
+            "label": "Total",
+            "units": [
+                {
+                    "measurement": 10,
+                    "label": "minutes"
+                }
+            ]
+        }
+    ],
+    "title": "Soft Boiled Eggs"
+}
