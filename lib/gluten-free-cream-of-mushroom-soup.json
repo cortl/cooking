@@ -1,0 +1,74 @@
+{
+    "archived": false,
+    "createdDate": "12/25/2021",
+    "image": "../images/gluten-free-cream-of-mushroom-soup.jpeg",
+    "ingredients": [
+        {
+            "category": "All",
+            "items": [
+                "1 tablespoon (14 g) extra-virgin olive oil",
+                "1 pound fresh button mushrooms cleaned and sliced thickly",
+                "2 small shallots peeled and sliced finely",
+                "4 tablespoons (56 g) unsalted butter",
+                "3 tablespoons (30 g) superfine white rice flour",
+                "⅛ teaspoon freshly ground black pepper",
+                "¾ teaspoon kosher salt",
+                "1 ½ cups (12 fluid ounces) vegetable stock",
+                "12 fluid ounces evaporated milk low-fat or whole, plus more to thin (optional)",
+                "Fresh parsley chopped, for garnish (optional)"
+            ]
+        }
+    ],
+    "instructions": [
+        "In a medium-size saucepan, heat the olive oil over medium-high heat. Add the mushrooms and shallots, stirring to combine after each addition.",
+        "Cover the pot and cook until the shallots are translucent and the mushrooms are fork tender (about 4 minutes). Remove the lid, transfer about 1/2 cup of the cooked mushroom mixture to a small bowl. Set it aside.",
+        "To the same medium-size saucepan, add the butter and melt over medium heat. Add the rice flour, pepper, and salt, and whisk to combine well.",
+        "The mixture will clump at first, and then smooth. Cook this roux over medium heat, whisking constantly, until the mixture smells more fragrant (about 1 minute).",
+        "Stirring constantly, add the stock to the roux. Continue to break up any lumps that might form. Add the evaporated milk, and continue to stir until the mixture is smooth.",
+        "Bring the mixture to a simmer, and cook, uncovered, stirring occasionally. Continue to cook until the soup is reduced by about one-quarter (about 7 minutes).",
+        "Remove the saucepan from the heat. Using an immersion blender, puree the soup until smooth. To thin the soup, add more stock by the tablespoon until it reaches the desired consistency.",
+        "Add the remaining mushrooms, and stir to combine. Serve immediately with the optional fresh chopped parsley for garnish."
+    ],
+    "notes": [],
+    "rating": 8,
+    "servings": 3,
+    "slug": "gluten-free-cream-of-mushroom-soup",
+    "source": "https://glutenfreeonashoestring.com/gluten-free-cream-of-mushroom-soup/",
+    "tags": [
+        "Vegetarian",
+        "Soup",
+        "Quick",
+        "Dinner",
+        "Stovetop"
+    ],
+    "time": [
+        {
+            "label": "Prep",
+            "units": [
+                {
+                    "measurement": 15,
+                    "label": "minutes"
+                }
+            ]
+        },
+        {
+            "label": "Cook",
+            "units": [
+                {
+                    "measurement": 25,
+                    "label": "minutes"
+                }
+            ]
+        },
+        {
+            "label": "Total",
+            "units": [
+                {
+                    "measurement": 40,
+                    "label": "minutes"
+                }
+            ]
+        }
+    ],
+    "title": "Gluten Free Cream of Mushroom Soup"
+}
