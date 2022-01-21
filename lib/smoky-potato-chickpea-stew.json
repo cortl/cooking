@@ -1,0 +1,78 @@
+{
+    "archived": false,
+    "createdDate": "01/20/2022",
+    "image": "../images/smoky-potato-chickpea-stew.jpg",
+    "ingredients": [
+        {
+            "category": "Soup",
+            "items": [
+                "2 Tbsp olive oil",
+                "2 cloves garlic",
+                "1 tsp grated fresh ginger",
+                "1 yellow onion",
+                "1 Tbsp curry powder",
+                "1 Tbsp smoked paprika",
+                "pinch crushed red pepper",
+                "1 15oz. can fire roasted diced tomatoes",
+                "2 russet potatoes (1.75-2 lbs total)",
+                "1 15oz. can chickpeas",
+                "4 cups vegetable broth",
+                "1/4 lb. fresh kale, chopped"
+            ]
+        }
+    ],
+    "instructions": [
+        "Finely dice the onion, mince the garlic, and grate the ginger. Add the onion, garlic, and ginger to a large soup pot with the olive oil and sauté over medium heat until the onions are soft and transparent.",
+        "Add the curry powder, smoked paprika, and red pepper flakes to the pot and continue to stir and cook for 1-2 minutes more to toast the spices.",
+        "While the onion, garlic, and ginger are sautéing, peel the potatoes and cut them into 1-inch cubes. Drain the chickpeas.",
+        "Once the spices are toasted, add the potatoes, fire roasted diced tomatoes (with juices), and chickpeas to the pot. Pour the vegetable broth over top, then stir until everything is combined.",
+        "Place a lid on the pot, turn the heat up to medium-high, and allow it to come to a boil. Once boiling, turn the heat down to low and allow the soup to simmer with the lid in place for 45 minutes, stirring occasionally.",
+        "After 45 minutes, stir the stew well and smash the potatoes against the side of the pot to help them break down and thicken the stew. Add the chopped kale and stir it into the stew until it has wilted. Taste the soup and adjust the salt or other spices if desired. Serve hot with crusty bread or crackers."
+    ],
+    "notes": [],
+    "rating": 7,
+    "servings": 6,
+    "slug": "smoky-potato-chickpea-stew",
+    "source": "https://www.budgetbytes.com/smoky-potato-chickpea-stew/",
+    "tags": [
+        "Vegan",
+        "Vegetarian",
+        "Soup",
+        "Dinner",
+        "Stovetop"
+    ],
+    "time": [
+        {
+            "label": "Prep",
+            "units": [
+                {
+                    "measurement": 10,
+                    "label": "minutes"
+                }
+            ]
+        },
+        {
+            "label": "Cook",
+            "units": [
+                {
+                    "measurement": 1,
+                    "label": "hour"
+                }
+            ]
+        },
+        {
+            "label": "Total",
+            "units": [
+                {
+                    "measurement": 1,
+                    "label": "hour"
+                },
+                {
+                    "measurement": 10,
+                    "label": "minutes"
+                }
+            ]
+        }
+    ],
+    "title": "Smoky Potato Chickpea Stew"
+}
