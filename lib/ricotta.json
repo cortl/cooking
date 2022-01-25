@@ -1,0 +1,54 @@
+{
+    "archived": false,
+    "createdDate": "01/23/2022",
+    "image": "../images/ricotta.jpg",
+    "ingredients": [
+        {
+            "category": "Ricotta",
+            "items": [
+                "1/2 gallon (1.9L) whole milk, not ultra-pasteurized",
+                "Pinch kosher salt, optional",
+                "2 tablespoons plus 2 teaspoons (40ml) distilled white vinegar or fresh lemon juice"
+            ]
+        }
+    ],
+    "instructions": [
+        "Fill a pot with the milk. Stir in salt, if using. Heat over medium heat until milk registers 185°F (85°C) on an instant-read thermometer. Add vinegar or lemon juice and stir briefly to incorporate. Curds should begin forming almost immediately; stop stirring as soon as they've formed throughout the pot.",
+        "Without stirring, continue to hold curdled-milk mixture at 185°F for 20 minutes. It's okay if the temperature fluctuates down to 175°F (79°C) or up to 190°F (88°C), but try to keep it in that zone for the full 20 minutes.",
+        "Line a fine-mesh strainer with paper towels or cheesecloth. Using a slotted spoon, transfer curds to strainer and let stand until excess liquid has drained away. Exactly how long to let it drain depends on whether you want a moister final product or a drier one. Do not try to pour all the milky liquid through the strainer, as this will clog it and prevent the liquid from flowing through.",
+        "Drained ricotta can be refrigerated, covered, for up to 2 days, though it is best when freshly made."
+    ],
+    "notes": [],
+    "rating": 9,
+    "servings": 4,
+    "slug": "ricotta",
+    "source": "https://www.seriouseats.com/homemade-ricotta",
+    "tags": [
+        "Vegetarian",
+        "Appetizer",
+        "Breakfast",
+        "Topping",
+        "Stovetop"
+    ],
+    "time": [
+        {
+            "label": "Cook",
+            "units": [
+                {
+                    "measurement": 1,
+                    "label": "hour"
+                }
+            ]
+        },
+        {
+            "label": "Total",
+            "units": [
+                {
+                    "measurement": 1,
+                    "label": "hour"
+                }
+            ]
+        }
+    ],
+    "title": "Homemade Ricotta"
+}
