@@ -1,65 +1,59 @@
 {
-    "createdDate": "12/16/2021",
-    "image": "../images/vegan-creamy-mushroom-ramen.jpg",
-    "ingredients": [
+  "createdDate": "12/16/2021",
+  "image": "../images/vegan-creamy-mushroom-ramen.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2 Tbsp cooking oil",
+        "4 oz. baby bella mushrooms",
+        "1.5 cups vegetable broth",
+        "1 handful fresh spinach",
+        "1 package ramen noodles",
+        "1/2 cup coconut milk (canned)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Slice the mushrooms. Add them to a small sauce pot with the cooking oil and sauté over medium heat until the mushrooms are soft, dark, and all the moisture in the bottom of the pot has evaporated.",
+    "Add the vegetable broth, turn the heat up to medium-high, and bring the broth up to a boil. Once boiling, add the ramen noodles (without the seasoning packet) to the broth. Cook the noodles in the boiling broth for about 3 minutes, or until tender.",
+    "Turn the heat off, add a heaping handful of fresh spinach, and stir until the spinach is wilted (about 30 seconds). Pour the coconut milk into the pot and stir to combine.",
+    "Serve the Vegan Creamy Coconut Ramen as-is, or with garnishes like green onion or chili garlic sauce."
+  ],
+  "notes": [],
+  "rating": 8,
+  "servings": 1,
+  "slug": "vegan-creamy-mushroom-ramen",
+  "source": "https://www.budgetbytes.com/vegan-creamy-mushroom-ramen/",
+  "tags": ["Vegetarian", "Vegan", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
         {
-            "category": "All",
-            "items": [
-                "1/2 Tbsp cooking oil",
-                "4 oz. baby bella mushrooms",
-                "1.5 cups vegetable broth",
-                "1 handful fresh spinach",
-                "1 package ramen noodles",
-                "1/2 cup coconut milk (canned)"
-            ]
+          "measurement": 3,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "Slice the mushrooms. Add them to a small sauce pot with the cooking oil and sauté over medium heat until the mushrooms are soft, dark, and all the moisture in the bottom of the pot has evaporated.",
-        "Add the vegetable broth, turn the heat up to medium-high, and bring the broth up to a boil. Once boiling, add the ramen noodles (without the seasoning packet) to the broth. Cook the noodles in the boiling broth for about 3 minutes, or until tender.",
-        "Turn the heat off, add a heaping handful of fresh spinach, and stir until the spinach is wilted (about 30 seconds). Pour the coconut milk into the pot and stir to combine.",
-        "Serve the Vegan Creamy Coconut Ramen as-is, or with garnishes like green onion or chili garlic sauce."
-    ],
-    "notes": [],
-    "rating": 8,
-    "servings": 1,
-    "slug": "vegan-creamy-mushroom-ramen",
-    "source": "https://www.budgetbytes.com/vegan-creamy-mushroom-ramen/",
-    "tags": [
-        "Vegetarian",
-        "Vegan",
-        "Quick",
-        "Dinner",
-        "Stovetop"
-    ],
-    "time": [
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
         {
-            "label": "Prep",
-            "units": [
-                {
-                    "measurement": 3,
-                    "label": "minutes"
-                }
-            ]
-        },
-        {
-            "label": "Cook",
-            "units": [
-                {
-                    "measurement": 12,
-                    "label": "minutes"
-                }
-            ]
-        },
-        {
-            "label": "Total",
-            "units": [
-                {
-                    "measurement": 15,
-                    "label": "minutes"
-                }
-            ]
+          "measurement": 12,
+          "label": "minutes"
         }
-    ],
-    "title": "Vegan Creamy Mushroom Ramen"
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Vegan Creamy Mushroom Ramen"
 }

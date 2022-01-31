@@ -1,80 +1,80 @@
 {
-    "archived": false,
-    "createdDate": "12/25/2021",
-    "image": "../images/gluten-free-green-bean-casserole.jpg",
-    "ingredients": [
+  "archived": false,
+  "createdDate": "12/25/2021",
+  "image": "../images/gluten-free-green-bean-casserole.jpg",
+  "ingredients": [
+    {
+      "category": "Soup",
+      "items": [
+        "2 pounds fresh green beans cleaned (See Recipe Notes)",
+        "3 cups gluten free cream of mushroom soup (1 recipe homemade, without extra stock added) mushrooms reserved"
+      ]
+    },
+    {
+      "category": "Topping",
+      "items": [
+        "1 ½ cups (180 g) coarse gluten free bread crumbs homemade or store bought",
+        "4 tablespoons (56 g) unsalted butter melted",
+        "2 ounces finely grated Parmigiano-Reggiano cheese optional",
+        "1 ½ cups gluten free crispy fried onions homemade or store bought"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F. Grease a 9-inch by 13-inch baking dish, and set it aside.",
+    "Bring a large stockpot of salted water to a boil, and add the prepared fresh green beans. Boil until the beans are bright green and almost fork tender (about 3 minutes).",
+    "Drain the beans of the water, and scatter on clean paper towels to drain.",
+    "Blot the beans dry, return them to the large stockpot or a large bowl, and set it aside.",
+    "Pour the cream of mushroom soup over the blanched green beans. Stir gently to coat the beans in the cream sauce (without crushing any of the beans). Add about 3/4 of the optional grated cheese, and mix to combine.",
+    "Pour the entire contents of the stockpot into the prepared 9-inch by 13-inch baking dish. Spread into an even layer, and then scatter the remaining mushrooms on top in an even layer. (See Recipe Notes)",
+    "Sprinkle about half of the remaining optional cheese on top of the mushrooms.",
+    "See Recipe Notes for make-ahead instructions.",
+    "In a small bowl, combine the bread crumbs with the melted butter, and stir to combine.",
+    "Scatter the bread crumbs evenly over the top of the green bean mixture in the baking dish. Top with the remaining optional cheese.",
+    "Place the baking dish in the center of the preheated oven, and bake until the topping is lightly golden brown and the sauce is bubbling (about 15 minutes).",
+    "Remove from the oven and top with the crushed crispy fried onions. Press the onions down gently, and serve immediately."
+  ],
+  "notes": [],
+  "rating": 8,
+  "servings": 6,
+  "slug": "gluten-free-green-bean-casserole",
+  "source": "https://glutenfreeonashoestring.com/gluten-free-green-bean-casserole/",
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Dinner",
+    "Thanksgiving",
+    "Christmas",
+    "Stovetop"
+  ],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
         {
-            "category": "Soup",
-            "items": [
-                "2 pounds fresh green beans cleaned (See Recipe Notes)",
-                "3 cups gluten free cream of mushroom soup (1 recipe homemade, without extra stock added) mushrooms reserved"
-            ]
-        },
-        {
-            "category": "Topping",
-            "items": [
-                "1 ½ cups (180 g) coarse gluten free bread crumbs homemade or store bought",
-                "4 tablespoons (56 g) unsalted butter melted",
-                "2 ounces finely grated Parmigiano-Reggiano cheese optional",
-                "1 ½ cups gluten free crispy fried onions homemade or store bought"
-            ]
+          "measurement": 25,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "Preheat your oven to 375°F. Grease a 9-inch by 13-inch baking dish, and set it aside.",
-        "Bring a large stockpot of salted water to a boil, and add the prepared fresh green beans. Boil until the beans are bright green and almost fork tender (about 3 minutes).",
-        "Drain the beans of the water, and scatter on clean paper towels to drain.",
-        "Blot the beans dry, return them to the large stockpot or a large bowl, and set it aside.",
-        "Pour the cream of mushroom soup over the blanched green beans. Stir gently to coat the beans in the cream sauce (without crushing any of the beans). Add about 3/4 of the optional grated cheese, and mix to combine.",
-        "Pour the entire contents of the stockpot into the prepared 9-inch by 13-inch baking dish. Spread into an even layer, and then scatter the remaining mushrooms on top in an even layer. (See Recipe Notes)",
-        "Sprinkle about half of the remaining optional cheese on top of the mushrooms.",
-        "See Recipe Notes for make-ahead instructions.",
-        "In a small bowl, combine the bread crumbs with the melted butter, and stir to combine.",
-        "Scatter the bread crumbs evenly over the top of the green bean mixture in the baking dish. Top with the remaining optional cheese.",
-        "Place the baking dish in the center of the preheated oven, and bake until the topping is lightly golden brown and the sauce is bubbling (about 15 minutes).",
-        "Remove from the oven and top with the crushed crispy fried onions. Press the onions down gently, and serve immediately."
-    ],
-    "notes": [],
-    "rating": 8,
-    "servings": 6,
-    "slug": "gluten-free-green-bean-casserole",
-    "source": "https://glutenfreeonashoestring.com/gluten-free-green-bean-casserole/",
-    "tags": [
-        "Vegetarian",
-        "Appetizer",
-        "Dinner",
-        "Thanksgiving",
-        "Christmas",
-        "Stovetop"
-    ],
-    "time": [
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
         {
-            "label": "Prep",
-            "units": [
-                {
-                    "measurement": 25,
-                    "label": "minutes"
-                }
-            ]
-        },
-        {
-            "label": "Cook",
-            "units": [
-                {
-                    "measurement": 25,
-                    "label": "minutes"
-                }
-            ]
-        },
-        {
-            "label": "Total",
-            "units": [
-                {
-                    "measurement": 50,
-                    "label": "minutes"
-                }
-            ]
+          "measurement": 25,
+          "label": "minutes"
         }
-    ],
-    "title": "Gluten Free Green Bean Casserole"
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Gluten Free Green Bean Casserole"
 }
