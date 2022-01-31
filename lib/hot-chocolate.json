@@ -1,0 +1,67 @@
+{
+    "archived": false,
+    "createdDate": "01/29/2022",
+    "image": "../images/hot-chocolate",
+    "ingredients": [
+        {
+            "category": "All",
+            "items": [
+                "1/8 cup (13g) unsweetened cocoa powder",
+                "1 oz. (27g) semi-sweet chocolate",
+                "1/8 (27g) cup sugar",
+                "1/16 tsp salt",
+                "1 cups whole milk",
+                "1 cups half and half",
+                "1/2 tsp vanilla extract"
+            ]
+        }
+    ],
+    "instructions": [
+        "Add the cocoa powder, semi-sweet chocolate, sugar, and salt to a medium saucepot. Pour the milk and half and half over top.",
+        "Place the saucepot over medium heat. Heat the ingredients over medium while whisking until the chocolate has fully melted into the milk and the milk is beginning to steam (but not simmering).",
+        "Once the chocolate is fully melted into the milk and the milk is has begun to steam, remove it from the heat and stir in the vanilla extract. Taste and adjust the sugar or chocolate to your liking.",
+        "Serve hot with your favorite toppings."
+    ],
+    "notes": [],
+    "rating": 9,
+    "servings": 2,
+    "slug": "hot-chocolate",
+    "source": "https://www.budgetbytes.com/homemade-hot-chocolate/",
+    "tags": [
+        "Vegetarian",
+        "Drink",
+        "Quick",
+        "Dessert",
+        "Stovetop"
+    ],
+    "time": [
+        {
+            "label": "Prep",
+            "units": [
+                {
+                    "measurement": 5,
+                    "label": "minutes"
+                }
+            ]
+        },
+        {
+            "label": "Cook",
+            "units": [
+                {
+                    "measurement": 10,
+                    "label": "minutes"
+                }
+            ]
+        },
+        {
+            "label": "Total",
+            "units": [
+                {
+                    "measurement": 15,
+                    "label": "minutes"
+                }
+            ]
+        }
+    ],
+    "title": "Hot Chocolate"
+}
