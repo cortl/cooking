@@ -15,14 +15,6 @@ workflows:
   commit:
     jobs:
       - publish
-  nightly:
-    triggers:
-      - schedule:
-          cron: "0 0 * * *"
-          filters:
-            branches:
-              only:
-                - master
     jobs:
       - update:
           filters:
@@ -55,9 +47,6 @@ jobs:
           paths:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
-      - run: echo $GCP_KEY > credentials.json
-      - run: rm README.md
-      # - run: npm start
       - run: npm test
       - run: npm run format
       - run: git add .
