@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "format": "prettier --write .",
-    "build": "node src/build.js"
+
+    "build": "node src/readme.js && node src/build.js"
   },
   "repository": {
     "type": "git",

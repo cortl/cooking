@@ -46,6 +46,7 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: npm test
+      - run: npm run build
       - run: npm run format
       - run: git add .
       - run: git commit -m 'formatting recipes [skip ci]'
