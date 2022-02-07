@@ -1,7 +1,7 @@
 {
   "archived": false,
   "createdDate": "01/7/2022",
-  "image": "../images/chicken-noodle-soup.jpg",
+  "image": "chicken-noodle-soup.jpg",
   "ingredients": [
     {
       "category": "Soup",
