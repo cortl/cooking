@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "build": "node src/build.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,7 @@
   },
   "files": [
     "images",
-    "lib"
+    "index.js"
   ],
   "type": "module",
   "homepage": "https://github.com/cortl/recipes#readme",
