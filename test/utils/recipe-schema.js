@@ -1,5 +1,4 @@
 const joi = require("joi");
-const path = require("path");
 const fs = require("fs");
 
 const TIME_LABELS = [
@@ -63,8 +62,7 @@ const Joi = joi
       if (value === "") {
         return { value, errors: [new Error(`image field was empty`)] };
       }
-      const imagePath = path.normalize(`lib/${value}`);
-      const exists = fs.existsSync(imagePath);
+      const exists = fs.existsSync(`images/${value}`);
 
       return exists
         ? { value, errors: [] }
