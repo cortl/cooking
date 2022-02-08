@@ -60,16 +60,16 @@ const Joi = joi
     type: "file",
     validate: (value) => {
       if (value === "") {
-        return {value, errors: [new Error(`image field was empty`)]};
+        return { value, errors: [new Error(`image field was empty`)] };
       }
       const exists = fs.existsSync(`images/${value}`);
 
       return exists
-        ? {value, errors: []}
+        ? { value, errors: [] }
         : {
-          value,
-          errors: [new Error(`${imagePath} does note exist`)],
-        };
+            value,
+            errors: [new Error(`${imagePath} does note exist`)],
+          };
     },
   })
   .extend({
@@ -96,7 +96,7 @@ const Joi = joi
         };
       }
 
-      return {value, errors: []};
+      return { value, errors: [] };
     },
   });
 
@@ -116,7 +116,8 @@ const schema = Joi.object({
       items: Joi.array().items(Joi.string()),
     })
     .required(),
-  tags: Joi.array().unique()
+  tags: Joi.array()
+    .unique()
     .items(Joi.string().valid(...TAGS))
     .required(),
   time: Joi.array()
