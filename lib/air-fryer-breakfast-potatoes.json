@@ -1,73 +1,65 @@
 {
-    "archived": false,
-    "createdDate": "02/13/2022",
-    "image": "air-fryer-breakfast-potatoes.jpg",
-    "ingredients": [
+  "archived": false,
+  "createdDate": "02/13/2022",
+  "image": "air-fryer-breakfast-potatoes.jpg",
+  "ingredients": [
+    {
+      "category": "Seasoning Mix",
+      "items": [
+        "1/2 tsp kosher salt",
+        "1/2 tsp smoked paprika",
+        "1/2 tsp garlic powder",
+        "1/4 tsp black ground pepper"
+      ]
+    },
+    {
+      "category": "Potatoes",
+      "items": [
+        "5 medium potatoes, peeled and cut to 1-inch cubes",
+        "1 tbsp oil"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer for about 2-3 minutes at 400F degrees. This will give you the crispiest potatoes. ",
+    "Meanwhile, toss the potatoes with breakfast potato seasoning and oil until thoroughly coated. ",
+    "Spray the air fryer basket with a nonstick spray. Add the potatoes and cook for about 15 minutes, stopping and shaking the basket 2-3 times throughout to promote even cooking.",
+    "Transfer to a plate and serve right away."
+  ],
+  "notes": ["Yukon gold potatoes work best."],
+  "rating": 6,
+  "servings": 3,
+  "slug": "air-fryer-breakfast-potatoes",
+  "source": "https://letthebakingbegin.com/breakfast-potatoes-in-the-air-fryer/",
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Breakfast", "Roasting"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
         {
-            "category": "Seasoning Mix",
-            "items": [
-                "1/2 tsp kosher salt",
-                "1/2 tsp smoked paprika",
-                "1/2 tsp garlic powder",
-                "1/4 tsp black ground pepper"
-            ]
-        },
-        {
-            "category": "Potatoes",
-            "items": [
-                "5 medium potatoes, peeled and cut to 1-inch cubes",
-                "1 tbsp oil"
-            ]
+          "measurement": 5,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "Preheat the air fryer for about 2-3 minutes at 400F degrees. This will give you the crispiest potatoes. ",
-        "Meanwhile, toss the potatoes with breakfast potato seasoning and oil until thoroughly coated. ",
-        "Spray the air fryer basket with a nonstick spray. Add the potatoes and cook for about 15 minutes, stopping and shaking the basket 2-3 times throughout to promote even cooking.",
-        "Transfer to a plate and serve right away."
-    ],
-    "notes": [
-        "Yukon gold potatoes work best."
-    ],
-    "rating": 6,
-    "servings": 3,
-    "slug": "air-fryer-breakfast-potatoes",
-    "source": "https://letthebakingbegin.com/breakfast-potatoes-in-the-air-fryer/",
-    "tags": [
-        "Vegan",
-        "Vegetarian",
-        "Appetizer",
-        "Breakfast",
-        "Roasting"
-    ],
-    "time": [
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
         {
-            "label": "Prep",
-            "units": [
-                {
-                    "measurement": 5,
-                    "label": "minutes"
-                }
-            ]
-        },
-        {
-            "label": "Cook",
-            "units": [
-                {
-                    "measurement": 15,
-                    "label": "minutes"
-                }
-            ]
-        },
-        {
-            "label": "Total",
-            "units": [
-                {
-                    "measurement": 20,
-                    "label": "minutes"
-                }
-            ]
+          "measurement": 15,
+          "label": "minutes"
         }
-    ],
-    "title": "Air Fryer Breakfast Potatoes"
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Air Fryer Breakfast Potatoes"
 }

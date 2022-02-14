@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Absolutely Ultimate Potato Soup](lib/absolutely-ultimate-potato-soup.json)
+- [Air Fryer Breakfast Potatoes](lib/air-fryer-breakfast-potatoes.json)
 - [Aji Verde](lib/aji-verde.json)
 - [Alton Brown Royal Icing](lib/alton-brown-royal-icing.json)
 - [Alton Brown Sugar Cookies](lib/alton-brown-sugar-cookies.json)
