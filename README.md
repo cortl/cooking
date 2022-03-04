@@ -151,6 +151,7 @@
 - [Lemon Basil Grilled Chicken](lib/lemon-basil-grilled-chicken.json)
 - [Lemon Parsley Pasta](lib/lemon-parsley-pasta.json)
 - [Lime Cilantro Rice](lib/lime-cilantro-rice.json)
+- [Loaded Potato Soup](lib/loaded-potato-soup.json)
 - [Louisiana Style Red Beans & Rice](lib/louisiana-style-red-beans-and-rice.json)
 - [Mediterranean Turkey Burgers](lib/mediterranean-turkey-burgers.json)
 - [Mini Garden Turkey Loaves](lib/mini-garden-turkey-loaves.json)

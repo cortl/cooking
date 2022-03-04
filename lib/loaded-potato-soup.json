@@ -1,78 +1,73 @@
 {
-    "archived": false,
-    "createdDate": "03/04/2022",
-    "image": "loaded-potato-soup.jpg",
-    "ingredients": [
+  "archived": false,
+  "createdDate": "03/04/2022",
+  "image": "loaded-potato-soup.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "4 oz. bacon",
+        "1 yellow onion, diced",
+        "4 cloves garlic, minced",
+        "3 Tbsp butter",
+        "1/4 cup all-purpose flour",
+        "2 cups chicken broth",
+        "2 cups whole milk",
+        "2 lbs. russet potatoes, peeled & diced",
+        "1/2 tsp smoked paprika",
+        "1/4 tsp cayenne pepper",
+        "1/2 tsp salt",
+        "1/4 tsp freshly cracked black pepper",
+        "1/2 cup sour cream",
+        "4 oz. cheddar cheese, shredded",
+        "3 green onions, sliced"
+      ]
+    }
+  ],
+  "instructions": [
+    "Add the bacon to a large soup pot and cook over medium heat until brown and crispy. Use a slotted spoon to transfer the bacon to a clean bowl or plate, leaving the bacon grease in the pot.",
+    "While the bacon is cooking, dice the onion and mince the garlic. Add the onion and garlic to the pot after the bacon has been removed and cook over medium heat in the bacon grease until the onions are soft and translucent.",
+    "Add the butter and flour to the pot and continue to stir and cook over medium heat for about two minutes to form a roux.",
+    "Add the chicken broth and milk to the pot and whisk to dissolve all of the flour and butter.",
+    "Add the diced potatoes to the pot, cover, and turn the heat up to medium-high to bring the broth up to a boil. Once boiling, turn the heat down to medium-low and let the potatoes simmer for 15 minutes, or until they are very tender (easily pierced with a fork).",
+    "Use a potato masher or immersion blender to mash the potatoes until the soup is to your desired thickness.",
+    "Season the soup with smoked paprika, cayenne, salt, and pepper. Once seasoned, stir in the sour cream.",
+    "Serve the soup hot and top each bowl with the crumbled bacon, sliced green onions, and cheddar cheese."
+  ],
+  "notes": [],
+  "rating": 8,
+  "servings": 6,
+  "slug": "loaded-potato-soup",
+  "source": "https://www.budgetbytes.com/loaded-potato-soup/",
+  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
         {
-            "category": "All",
-            "items": [
-                "4 oz. bacon",
-                "1 yellow onion, diced",
-                "4 cloves garlic, minced",
-                "3 Tbsp butter",
-                "1/4 cup all-purpose flour",
-                "2 cups chicken broth",
-                "2 cups whole milk",
-                "2 lbs. russet potatoes, peeled & diced",
-                "1/2 tsp smoked paprika",
-                "1/4 tsp cayenne pepper",
-                "1/2 tsp salt",
-                "1/4 tsp freshly cracked black pepper",
-                "1/2 cup sour cream",
-                "4 oz. cheddar cheese, shredded",
-                "3 green onions, sliced"
-            ]
+          "measurement": 15,
+          "label": "minutes"
         }
-    ],
-    "instructions": [
-        "Add the bacon to a large soup pot and cook over medium heat until brown and crispy. Use a slotted spoon to transfer the bacon to a clean bowl or plate, leaving the bacon grease in the pot.",
-        "While the bacon is cooking, dice the onion and mince the garlic. Add the onion and garlic to the pot after the bacon has been removed and cook over medium heat in the bacon grease until the onions are soft and translucent.",
-        "Add the butter and flour to the pot and continue to stir and cook over medium heat for about two minutes to form a roux.",
-        "Add the chicken broth and milk to the pot and whisk to dissolve all of the flour and butter.",
-        "Add the diced potatoes to the pot, cover, and turn the heat up to medium-high to bring the broth up to a boil. Once boiling, turn the heat down to medium-low and let the potatoes simmer for 15 minutes, or until they are very tender (easily pierced with a fork).",
-        "Use a potato masher or immersion blender to mash the potatoes until the soup is to your desired thickness.",
-        "Season the soup with smoked paprika, cayenne, salt, and pepper. Once seasoned, stir in the sour cream.",
-        "Serve the soup hot and top each bowl with the crumbled bacon, sliced green onions, and cheddar cheese."
-    ],
-    "notes": [],
-    "rating": 8,
-    "servings": 6,
-    "slug": "loaded-potato-soup",
-    "source": "https://www.budgetbytes.com/loaded-potato-soup/",
-    "tags": [
-        "Pork",
-        "Soup",
-        "Dinner",
-        "Stovetop"
-    ],
-    "time": [
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
         {
-            "label": "Prep",
-            "units": [
-                {
-                    "measurement": 15,
-                    "label": "minutes"
-                }
-            ]
-        },
-        {
-            "label": "Cook",
-            "units": [
-                {
-                    "measurement": 40,
-                    "label": "minutes"
-                }
-            ]
-        },
-        {
-            "label": "Total",
-            "units": [
-                {
-                    "measurement": 55,
-                    "label": "minutes"
-                }
-            ]
+          "measurement": 40,
+          "label": "minutes"
         }
-    ],
-    "title": "Loaded Potato Soup"
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Loaded Potato Soup"
 }
