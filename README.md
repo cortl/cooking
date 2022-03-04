@@ -130,6 +130,7 @@
 - [Healthy Chicken Fajitas Meal Prep](lib/healthy-chicken-fajitas-meal-prep.json)
 - [Hearty Black Bean Quesadillas](lib/hearty-black-bean-quesadillas.json)
 - [Herb Butter Chicken Thighs](lib/herb-butter-chicken-thighs.json)
+- [Herb Roasted Chicken Breast](lib/herb-roasted-chicken-breasts.json)
 - [Herb Roasted Pork Tenderloin](lib/herb-roasted-pork-tenderloin.json)
 - [Homemade Chicken Yakisoba](lib/homemade-chicken-yakisoba.json)
 - [Homemade Naan](lib/homemade-naan.json)
