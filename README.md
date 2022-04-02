@@ -263,6 +263,7 @@
 - [The World's Easiest Cranberry Sauce](lib/cranberry-sauce.json)
 - [Thin and Crispy French Fries](lib/thin-and-crispy-french-fries.json)
 - [Three Ingredient Stovetop Macaroni and Cheese](lib/three-ingredient-stovetop-macaroni-and-cheese.json)
+- [Tomato Basil Chicken](lib/tomato-basil-chicken.json)
 - [Tomato Lentil Soup](lib/tomato-lentil-soup.json)
 - [Turkey Chili Smothered Sweet Potatoes](lib/turkey-chili-smothered-sweet-potatoes.json)
 - [Twice-Baked Potatoes](lib/twice-baked-potatoes.json)
