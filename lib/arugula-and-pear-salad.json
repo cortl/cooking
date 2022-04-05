@@ -1,0 +1,63 @@
+{
+  "archived": false,
+  "createdDate": "04/02/2022",
+  "ingredients": [
+    {
+      "category": "Pears",
+      "items": [
+        "2x ripe but firm Bosc pears, halved, cored, and cut into 1/4 slices",
+        "1 tablespoon sugar",
+        "1 tablespoon unsalted butter"
+      ]
+    },
+    {
+      "category": "Salad",
+      "items": [
+        "2 quarts (8oz) arugula, mizuna, or watercress, washed and dried",
+        "2 ounces Parmigiano-Reggiano shaved with a vegetable peeler into slivers",
+        "Kosher salt and black prepper",
+        "1/2 cup sharp balsamic-soy vinaigrette"
+      ]
+    }
+  ],
+  "instructions": [
+    "Toss the pear slices with the sugar in a medium bowl until evenly coated. Heat the butter in a 12-inch nonstick skillet over medium-high heat until the foaming subsides. Add the pear slices in a single layer and cook, shaking the pan gently, until browned on the first side, about 1 minute. Carefully flip the slices with a thin flexible offset spatula and continue cooking until the second side is browned, about 1 minute longer. Slide the pears onto a large plate and allow to cool for 5 minutes",
+    "Combine the pears, arugula, cheese, a pinch of salt, a few cracks of pepper, and the vinaigrette in a large bowl and gently toss with clean hands until evenly coated. Serve immediately."
+  ],
+  "notes": [],
+  "rating": 8,
+  "servings": 4,
+  "slug": "arugula-and-pear-salad",
+  "source": "J. Kenji Lopez-Alt",
+  "tags": ["Vegetarian", "Quick", "Salad", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Arugula and Pear Salad"
+}
