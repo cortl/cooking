@@ -202,6 +202,7 @@
 - [Roasted Vegetable Couscous Meal Prep](lib/roasted-vegetable-couscous-meal-prep.json)
 - [Rosemary Roasted Potatoes](lib/rosemary-roasted-potatoes.json)
 - [Salisbury Steak with Mushroom Gravy](lib/salisbury-steak-with-mushroom-gravy.json)
+- [Salsa Chicken Meal Prep](lib/salsa-chicken-meal-prep.json)
 - [Easy Sausage and Rice Casserole](lib/sausage-and-rice-casserole.json)
 - [Sausage Gravy](lib/sausage-gravy.json)
 - [Sausage Stuffed Jalapenos](lib/sausage-stuffed-jalapenos.json)
