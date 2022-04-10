@@ -11,6 +11,7 @@
   "instructions": ["Assembly instructions"],
   "notes": ["anything additional people should know about this recipe"],
   "rating": "0-10 as a number",
+  "related": ["related-recipe-slug"],
   "servings": "serving size as a number",
   "slug": "page url",
   "source": "source of the recipe, if possible",
