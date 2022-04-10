@@ -31,13 +31,7 @@
     "url": "https://www.seriouseats.com/recipes/2017/03/lemon-blueberry-scones-vegan-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Baking",
-    "Dessert",
-    "Breakfast"
-  ],
+  "tags": ["Vegan", "Vegetarian", "Baking", "Dessert", "Breakfast"],
   "time": [
     {
       "label": "Active",

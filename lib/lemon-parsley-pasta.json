@@ -32,12 +32,7 @@
     "url": "https://www.budgetbytes.com/lemon-parsley-pasta/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Vegetarian",
-    "Pasta",
-    "Appetizer",
-    "Stovetop"
-  ],
+  "tags": ["Vegetarian", "Pasta", "Appetizer", "Stovetop"],
   "time": [
     {
       "label": "Prep",

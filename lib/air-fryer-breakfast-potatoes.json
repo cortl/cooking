@@ -26,9 +26,7 @@
     "Spray the air fryer basket with a nonstick spray. Add the potatoes and cook for about 15 minutes, stopping and shaking the basket 2-3 times throughout to promote even cooking.",
     "Transfer to a plate and serve right away."
   ],
-  "notes": [
-    "Yukon gold potatoes work best."
-  ],
+  "notes": ["Yukon gold potatoes work best."],
   "rating": 6,
   "servings": 3,
   "slug": "air-fryer-breakfast-potatoes",
@@ -36,13 +34,7 @@
     "url": "https://letthebakingbegin.com/breakfast-potatoes-in-the-air-fryer/",
     "name": "Let the Baking Begin"
   },
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Breakfast",
-    "Roasting"
-  ],
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Breakfast", "Roasting"],
   "time": [
     {
       "label": "Prep",

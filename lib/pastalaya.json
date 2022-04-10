@@ -40,12 +40,7 @@
     "url": "https://www.budgetbytes.com/2015/02/pastalaya/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Pork",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Pork", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

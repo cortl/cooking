@@ -36,12 +36,7 @@
     "url": "https://www.allrecipes.com/recipe/13062/cheeseburger-soup-i/",
     "name": "AllRecipes"
   },
-  "tags": [
-    "Beef",
-    "Soup",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Beef", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

@@ -34,12 +34,7 @@
     "url": "https://www.seriouseats.com/recipes/2016/11/brown-turkey-stock-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Poultry",
-    "Soup",
-    "Thanksgiving",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Soup", "Thanksgiving", "Stovetop"],
   "time": [
     {
       "label": "Active",

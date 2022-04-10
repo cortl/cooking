@@ -30,13 +30,7 @@
     "url": "https://www.budgetbytes.com/homemade-hot-chocolate/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Vegetarian",
-    "Drink",
-    "Quick",
-    "Dessert",
-    "Stovetop"
-  ],
+  "tags": ["Vegetarian", "Drink", "Quick", "Dessert", "Stovetop"],
   "time": [
     {
       "label": "Prep",

@@ -4,9 +4,7 @@
   "ingredients": [
     {
       "category": "All",
-      "items": [
-        "1 large egg"
-      ]
+      "items": ["1 large egg"]
     }
   ],
   "instructions": [

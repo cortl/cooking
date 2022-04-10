@@ -29,12 +29,7 @@
     "url": "https://www.seriouseats.com/recipes/2012/11/sausage-gravy-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Pork",
-    "Breakfast",
-    "Quick",
-    "Stovetop"
-  ],
+  "tags": ["Pork", "Breakfast", "Quick", "Stovetop"],
   "time": [
     {
       "label": "Active",

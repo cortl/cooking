@@ -31,9 +31,7 @@
     "After 3 hours on high or 6 hours on low, the chicken should be fall-apart tender. Turn the slow cooker off, then add the heavy cream. Stir gently to combine the cream with the tomato sauce. Taste the sauce and add salt if needed.",
     "To serve, spoon the chicken and tomato sauce over cooked rice and top with fresh cilantro."
   ],
-  "notes": [
-    "Use way more garam masala, works fine in pressure cooker"
-  ],
+  "notes": ["Use way more garam masala, works fine in pressure cooker"],
   "rating": 6,
   "servings": 6,
   "slug": "easy-slow-cooker-chicken-tikka-masala",
@@ -41,11 +39,7 @@
     "url": "https://www.budgetbytes.com/2015/12/slow-cooker-chicken-tikka-masala/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Slow Cooker"
-  ],
+  "tags": ["Poultry", "Dinner", "Slow Cooker"],
   "time": [
     {
       "label": "Prep",

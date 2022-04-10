@@ -42,13 +42,7 @@
     "url": "https://www.budgetbytes.com/crunchy-asian-salad/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Vegetarian",
-    "Vegan",
-    "Salad",
-    "Appetizer",
-    "No Cook"
-  ],
+  "tags": ["Vegetarian", "Vegan", "Salad", "Appetizer", "No Cook"],
   "time": [
     {
       "label": "Prep",

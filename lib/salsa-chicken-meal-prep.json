@@ -5,11 +5,7 @@
   "ingredients": [
     {
       "category": "Rice",
-      "items": [
-        "1 cup white rice",
-        "1/2 tsp salt",
-        "2 cups water"
-      ]
+      "items": ["1 cup white rice", "1/2 tsp salt", "2 cups water"]
     },
     {
       "category": "Salsa Chicken",
@@ -22,18 +18,11 @@
     },
     {
       "category": "Bell Peppers",
-      "items": [
-        "3 bell peppers",
-        "1 Tbsp oil",
-        "pinch salt"
-      ]
+      "items": ["3 bell peppers", "1 Tbsp oil", "pinch salt"]
     },
     {
       "category": "Toppings",
-      "items": [
-        "2 green onions, sliced",
-        "4 Tbsp sour cream"
-      ]
+      "items": ["2 green onions, sliced", "4 Tbsp sour cream"]
     }
   ],
   "instructions": [
@@ -56,13 +45,7 @@
     "url": "https://www.budgetbytes.com/salsa-chicken-meal-prep-bowls/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Quick",
-    "Dinner",
-    "Meal Prep",
-    "Roasting"
-  ],
+  "tags": ["Poultry", "Quick", "Dinner", "Meal Prep", "Roasting"],
   "time": [
     {
       "label": "Prep",

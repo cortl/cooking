@@ -40,12 +40,7 @@
     "url": "https://www.budgetbytes.com/basic-chili/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Beef",
-    "Soup",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Beef", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

@@ -27,12 +27,7 @@
     "url": "https://www.seriouseats.com/recipes/2010/05/perfect-french-fries-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Frying"
-  ],
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Frying"],
   "time": [
     {
       "label": "Active",

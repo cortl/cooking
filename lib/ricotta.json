@@ -26,13 +26,7 @@
     "url": "https://www.seriouseats.com/homemade-ricotta",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Vegetarian",
-    "Appetizer",
-    "Breakfast",
-    "Topping",
-    "Stovetop"
-  ],
+  "tags": ["Vegetarian", "Appetizer", "Breakfast", "Topping", "Stovetop"],
   "time": [
     {
       "label": "Cook",

@@ -38,12 +38,7 @@
     "url": "https://www.seriouseats.com/recipes/2020/04/cuban-style-pollo-a-la-plancha-marinated-and-griddled-chicken.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Poultry",
-    "Meal Prep",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Meal Prep", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Active",

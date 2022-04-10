@@ -37,12 +37,7 @@
     "url": "https://www.budgetbytes.com/chicken-noodle-soup/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Dinner",
-    "Poultry",
-    "Soup",
-    "Stovetop"
-  ],
+  "tags": ["Dinner", "Poultry", "Soup", "Stovetop"],
   "time": [
     {
       "label": "Prep",

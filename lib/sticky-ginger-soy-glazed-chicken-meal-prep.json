@@ -32,9 +32,7 @@
     },
     {
       "category": "Sides",
-      "items": [
-        "Broccoli"
-      ]
+      "items": ["Broccoli"]
     }
   ],
   "instructions": [
@@ -54,13 +52,7 @@
     "url": "https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken-meal-prep/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Pasta",
-    "Meal Prep",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Pasta", "Meal Prep", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

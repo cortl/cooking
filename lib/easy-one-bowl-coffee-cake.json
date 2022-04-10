@@ -41,11 +41,7 @@
     "url": "https://www.seriouseats.com/recipes/2017/05/easy-coffee-cake-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Vegetarian",
-    "Dessert",
-    "Baking"
-  ],
+  "tags": ["Vegetarian", "Dessert", "Baking"],
   "time": [
     {
       "label": "Active",

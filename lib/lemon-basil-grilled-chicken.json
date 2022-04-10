@@ -23,9 +23,7 @@
     "Grill for 4 to 6 minutes per side or until cooked through.",
     "Transfer to serving plate and garnish with additional basil, if desired."
   ],
-  "notes": [
-    "good way to cook chicken, cooks well in a pan with olive oil"
-  ],
+  "notes": ["good way to cook chicken, cooks well in a pan with olive oil"],
   "rating": 7,
   "servings": 6,
   "slug": "lemon-basil-grilled-chicken",
@@ -33,11 +31,7 @@
     "url": "https://www.allrecipes.com/recipe/236708/lemon-basil-grilled-chicken/",
     "name": "AllRecipes"
   },
-  "tags": [
-    "Grilling",
-    "Poultry",
-    "Dinner"
-  ],
+  "tags": ["Grilling", "Poultry", "Dinner"],
   "time": [
     {
       "label": "Prep",

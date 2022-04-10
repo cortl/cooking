@@ -36,11 +36,7 @@
     "url": "https://delightbaking.com/little-fluffy-dinner-rolls/",
     "name": "Delight Baking"
   },
-  "tags": [
-    "Vegetarian",
-    "Appetizer",
-    "Baking"
-  ],
+  "tags": ["Vegetarian", "Appetizer", "Baking"],
   "time": [
     {
       "label": "Active",

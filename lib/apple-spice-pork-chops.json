@@ -24,9 +24,7 @@
     "Add the broth, brown sugar, cinnamon and nutmeg to the skillet with the apples and onions. Stir until everything is combined, then return the chops to the pan, along with any juices that may have collected on the plate. Nestle the chops down in the mixture, making sure some onions and apples are on top of the chops.",
     "Simmer the chops in the apple and onion mixture for about 10 minutes, or until the liquid has reduced by half, the apples are soft, and the pork chops are cooked through. Stir occasionally, moving the apples and onions around so they all have a chance to simmer and soften. Serve each chop with apples, onions and sauce spooned over top."
   ],
-  "notes": [
-    "cook the apples less"
-  ],
+  "notes": ["cook the apples less"],
   "rating": 7,
   "servings": 4,
   "slug": "apple-spice-pork-chops",
@@ -34,11 +32,7 @@
     "url": "https://www.budgetbytes.com/apple-spice-pork-chops/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Pork",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Pork", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

@@ -33,11 +33,7 @@
     "url": "https://civilizedcaveman.com/recipes/poultry/jalapeno-dijon-grilled-chicken/",
     "name": "Civilized Caveman"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Grilling"
-  ],
+  "tags": ["Poultry", "Dinner", "Grilling"],
   "time": [
     {
       "label": "Marinate",

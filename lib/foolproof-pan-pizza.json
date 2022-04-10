@@ -37,10 +37,7 @@
     "url": "https://www.seriouseats.com/recipes/2013/01/foolproof-pan-pizza-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Dinner",
-    "Baking"
-  ],
+  "tags": ["Dinner", "Baking"],
   "time": [
     {
       "label": "Active",

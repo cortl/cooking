@@ -29,14 +29,7 @@
     "url": "https://www.seriouseats.com/soy-balsamic-vinaigrette-recipe",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Salad",
-    "Topping",
-    "Dinner",
-    "No Cook"
-  ],
+  "tags": ["Vegan", "Vegetarian", "Salad", "Topping", "Dinner", "No Cook"],
   "time": [
     {
       "label": "Prep",

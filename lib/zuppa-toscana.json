@@ -38,12 +38,7 @@
     "url": "https://www.myrecipes.com/recipe/zuppa-toscana",
     "name": "MyRecipes"
   },
-  "tags": [
-    "Pork",
-    "Soup",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

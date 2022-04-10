@@ -34,12 +34,7 @@
     "url": "https://www.foodnetwork.com/recipes/ree-drummond/twice-baked-potatoes-recipe-1925596",
     "name": "Food Network"
   },
-  "tags": [
-    "Pork",
-    "Appetizer",
-    "Dinner",
-    "Baking"
-  ],
+  "tags": ["Pork", "Appetizer", "Dinner", "Baking"],
   "time": [
     {
       "label": "Prep",

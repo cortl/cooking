@@ -33,11 +33,7 @@
     "url": "https://www.budgetbytes.com/bbq-cheddar-baked-chicken/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Roasting"
-  ],
+  "tags": ["Poultry", "Dinner", "Roasting"],
   "time": [
     {
       "label": "Prep",

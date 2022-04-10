@@ -28,13 +28,7 @@
     "url": "https://www.budgetbytes.com/vegan-creamy-mushroom-ramen/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Vegetarian",
-    "Vegan",
-    "Quick",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Vegetarian", "Vegan", "Quick", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

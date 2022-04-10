@@ -41,12 +41,7 @@
     "url": "https://www.seriouseats.com/recipes/2017/09/bravetart-easy-apple-pie-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Vegetarian",
-    "Dessert",
-    "Thanksgiving",
-    "Baking"
-  ],
+  "tags": ["Vegetarian", "Dessert", "Thanksgiving", "Baking"],
   "time": [
     {
       "label": "Active",

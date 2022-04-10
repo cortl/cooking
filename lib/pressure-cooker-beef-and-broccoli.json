@@ -40,12 +40,7 @@
     "url": "https://www.pressurecookingtoday.com/pressure-cooker-beef-and-broccoli/",
     "name": "Pressure Cooking Today"
   },
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Meal Prep",
-    "Pressure Cooker"
-  ],
+  "tags": ["Beef", "Dinner", "Meal Prep", "Pressure Cooker"],
   "time": [
     {
       "label": "Prep",

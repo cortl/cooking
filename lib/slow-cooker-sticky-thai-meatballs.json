@@ -48,11 +48,7 @@
     "url": "https://www.seriouseats.com/recipes/2016/01/slow-cooker-thai-chicken-meatball-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Slow Cooker"
-  ],
+  "tags": ["Poultry", "Dinner", "Slow Cooker"],
   "time": [
     {
       "label": "Active",

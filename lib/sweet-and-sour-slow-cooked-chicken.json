@@ -40,11 +40,7 @@
     "url": "https://www.bodybuilding.com/recipes/sweet-and-sour-slow-cooked-chicken",
     "name": "Bodybuilding"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Slow Cooker"
-  ],
+  "tags": ["Poultry", "Dinner", "Slow Cooker"],
   "time": [
     {
       "label": "Prep",

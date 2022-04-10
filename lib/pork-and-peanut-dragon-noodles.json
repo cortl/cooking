@@ -30,12 +30,7 @@
     "url": "https://www.budgetbytes.com/2018/01/pork-peanut-dragon-noodles/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Pork",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Pork", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

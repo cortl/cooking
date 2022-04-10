@@ -38,12 +38,7 @@
     "url": "https://www.budgetbytes.com/chicken-yakisoba/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

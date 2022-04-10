@@ -28,13 +28,7 @@
     "url": "https://www.seriouseats.com/recipes/2010/02/the-best-buffalo-wings-oven-fried-wings-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Poultry",
-    "Appetizer",
-    "Dinner",
-    "Super Bowl",
-    "Roasting"
-  ],
+  "tags": ["Poultry", "Appetizer", "Dinner", "Super Bowl", "Roasting"],
   "time": [
     {
       "label": "Inactive",

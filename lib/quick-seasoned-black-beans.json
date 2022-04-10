@@ -26,13 +26,7 @@
     "url": "https://www.budgetbytes.com/quick-seasoned-black-beans/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Appetizer",
-    "Stovetop",
-    "Quick"
-  ],
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Stovetop", "Quick"],
   "time": [
     {
       "label": "Prep",

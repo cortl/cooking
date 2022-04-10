@@ -37,13 +37,7 @@
     "url": "https://mealprepmanual.com/pineapple-bbq-chicken/",
     "name": "Meal Prep Manual"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Baking",
-    "Roasting"
-  ],
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Baking", "Roasting"],
   "time": [
     {
       "label": "Prep",

@@ -41,12 +41,7 @@
     "url": "https://www.budgetbytes.com/creamy-spinach-artichoke-chicken/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Pasta",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Dinner", "Pasta", "Stovetop"],
   "time": [
     {
       "label": "Prep",

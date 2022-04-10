@@ -37,12 +37,7 @@
     "url": "https://fitmencook.com/healthy-chicken-recipes/",
     "name": "Fit Men Cook"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",

@@ -28,9 +28,7 @@
     "When the beef is nearly finished, reduce the heat to low then pour in the sauce.  Stir and ensure all the beef is covered in the sauce.  Remove from the heat.",
     "Garnish with sesame oil, green onion, sesame seeds and jalapeño (if desired)."
   ],
-  "notes": [
-    "Healthier than the other recipe on this site"
-  ],
+  "notes": ["Healthier than the other recipe on this site"],
   "rating": 7,
   "servings": 4,
   "slug": "fmk-korean-beef-and-rice",
@@ -38,13 +36,7 @@
     "url": "https://fitmencook.com/korean-beef-and-rice/",
     "name": "Fit Men Cook"
   },
-  "tags": [
-    "Beef",
-    "Meal Prep",
-    "Dinner",
-    "Quick",
-    "Stovetop"
-  ],
+  "tags": ["Beef", "Meal Prep", "Dinner", "Quick", "Stovetop"],
   "time": [
     {
       "label": "Total",

@@ -32,11 +32,7 @@
     "url": "https://www.bodybuilding.com/recipes/spinach-tomato-feta-cheese-stuffed-chicken-breast",
     "name": "Bodybuilding"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Roasting"
-  ],
+  "tags": ["Poultry", "Dinner", "Roasting"],
   "time": [
     {
       "label": "Prep",

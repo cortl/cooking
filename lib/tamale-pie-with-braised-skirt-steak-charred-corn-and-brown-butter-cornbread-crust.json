@@ -61,13 +61,7 @@
     "url": "https://www.seriouseats.com/recipes/2015/01/best-tamale-pie-braised-skirt-steak-beef-charred-corn-brown-butter-cornbread-crust-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Meal Prep",
-    "Baking",
-    "Roasting"
-  ],
+  "tags": ["Beef", "Dinner", "Meal Prep", "Baking", "Roasting"],
   "time": [
     {
       "label": "Active",

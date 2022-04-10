@@ -28,10 +28,7 @@
     },
     {
       "category": "For Serving",
-      "items": [
-        "5 hamburger buns",
-        "1/2 cucumber, sliced"
-      ]
+      "items": ["5 hamburger buns", "1/2 cucumber, sliced"]
     }
   ],
   "instructions": [
@@ -42,9 +39,7 @@
     "Heat ½ Tbsp cooking oil in a skillet over medium. Once hot, add three of the turkey burgers and cook for 5-7 minutes on each side, or until browned and cooked through. Repeat with the remaining cooking oil and the rest of the burger patties. ",
     "To serve, smear some of the lemon dill yogurt sauce on a bun. Add a turkey burger, some sliced cucumber, and sliced red onion, then enjoy."
   ],
-  "notes": [
-    "Good, still don't like cucumbers 😅"
-  ],
+  "notes": ["Good, still don't like cucumbers 😅"],
   "rating": 7,
   "servings": 5,
   "slug": "mediterranean-turkey-burgers",
@@ -52,12 +47,7 @@
     "url": "https://www.budgetbytes.com/greek-turkey-burgers/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Sandwich",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Dinner", "Sandwich", "Stovetop"],
   "time": [
     {
       "label": "Prep",

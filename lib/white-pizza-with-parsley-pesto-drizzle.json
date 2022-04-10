@@ -28,9 +28,7 @@
     "Arrange the tomato slices evenly over the pizza dough, then top with torn slices of mozzarella. ",
     "Bake the pizza in the fully preheated 500ºF oven for 10 minutes, or just until the outer crust is golden brown and the cheese is melted, but not browned. After removing the pizza from the oven, drizzle the parsley pesto over top, slice into eight pieces, and serve."
   ],
-  "notes": [
-    "dough is good, only do like 12\" crust"
-  ],
+  "notes": ["dough is good, only do like 12\" crust"],
   "rating": 7,
   "servings": 8,
   "slug": "white-pizza-with-parsley-pesto-drizzle",
@@ -38,11 +36,7 @@
     "url": "https://www.budgetbytes.com/2017/07/white-pizza-with-parsley-pesto-drizzle/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Vegetarian",
-    "Dinner",
-    "Baking"
-  ],
+  "tags": ["Vegetarian", "Dinner", "Baking"],
   "time": [
     {
       "label": "Prep",

@@ -34,12 +34,7 @@
     "url": "https://www.budgetbytes.com/skillet-cheeseburger-pasta/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Beef",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Beef", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

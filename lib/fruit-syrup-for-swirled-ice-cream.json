@@ -28,13 +28,7 @@
     "url": "https://www.seriouseats.com/recipes/2018/08/fruit-syrup-for-swirled-ice-cream.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Vegetarian",
-    "Vegan",
-    "Topping",
-    "Dessert",
-    "Stovetop"
-  ],
+  "tags": ["Vegetarian", "Vegan", "Topping", "Dessert", "Stovetop"],
   "time": [
     {
       "label": "Active",

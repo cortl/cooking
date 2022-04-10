@@ -20,9 +20,7 @@
     },
     {
       "category": "Optional Garnish",
-      "items": [
-        "2 Tbsp chopped parsley"
-      ]
+      "items": ["2 Tbsp chopped parsley"]
     }
   ],
   "instructions": [
@@ -34,9 +32,7 @@
     "Allow the broth to come up to a full boil, then turn the heat down to low or just above low to reduce the broth to a simmer. Let the chicken and rice simmer for 15 minutes without lifting the lid or stirring. After 15 minutes, remove the skillet from the heat and let it rest, undisturbed, for five minutes more.",
     "Finally, lift the lid, fluff the rice with a fork, and gently redistribute the chicken and artichoke hearts throughout the rice. Top the skillet with crumbled feta, another pinch of lemon zest, and chopped parsley (if desired). Serve hot and enjoy!"
   ],
-  "notes": [
-    "Pretty good for a one pot meal"
-  ],
+  "notes": ["Pretty good for a one pot meal"],
   "rating": 7,
   "servings": 4,
   "slug": "one-pot-lemon-artichoke-chicken-and-rice",
@@ -44,12 +40,7 @@
     "url": "https://www.budgetbytes.com/one-pot-lemon-artichoke-chicken-and-rice/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",

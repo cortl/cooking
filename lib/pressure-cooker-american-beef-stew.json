@@ -48,12 +48,7 @@
     "url": "https://www.seriouseats.com/recipes/2016/10/pressure-cooker-beef-stew-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Braising & Stewing",
-    "Soup"
-  ],
+  "tags": ["Beef", "Dinner", "Braising & Stewing", "Soup"],
   "time": [
     {
       "label": "Active",

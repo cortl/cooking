@@ -34,9 +34,7 @@
     },
     {
       "category": "Vegetables",
-      "items": [
-        "Grean beans"
-      ]
+      "items": ["Grean beans"]
     }
   ],
   "instructions": [
@@ -59,13 +57,7 @@
     "url": "https://www.budgetbytes.com/garden-vegetable-turkey-loaf-meal-prep/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Meal Prep",
-    "Dinner",
-    "Baking",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Meal Prep", "Dinner", "Baking", "Stovetop"],
   "time": [
     {
       "label": "Total",

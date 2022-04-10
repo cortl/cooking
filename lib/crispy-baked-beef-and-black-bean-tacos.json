@@ -52,12 +52,7 @@
     "url": "https://www.budgetbytes.com/baked-beef-black-bean-tacos/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Baking",
-    "Stovetop"
-  ],
+  "tags": ["Beef", "Dinner", "Baking", "Stovetop"],
   "time": [
     {
       "label": "Prep",

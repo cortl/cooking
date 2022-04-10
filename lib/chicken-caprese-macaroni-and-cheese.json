@@ -38,12 +38,7 @@
     "url": "https://therecipecritic.com/chicken-caprese-macaroni-and-cheese/",
     "name": "The Recipe Critic"
   },
-  "tags": [
-    "Poultry",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

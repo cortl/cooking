@@ -38,11 +38,7 @@
     "url": "https://www.budgetbytes.com/cheddar-cheeseburger-meatloaf/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Baking"
-  ],
+  "tags": ["Beef", "Dinner", "Baking"],
   "time": [
     {
       "label": "Prep",

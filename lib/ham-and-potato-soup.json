@@ -30,12 +30,7 @@
     "url": "http://allrecipes.com/recipe/56927/delicious-ham-and-potato-soup/",
     "name": "AllRecipes"
   },
-  "tags": [
-    "Soup",
-    "Pork",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Soup", "Pork", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

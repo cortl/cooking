@@ -28,9 +28,7 @@
     },
     {
       "category": "Toppings",
-      "items": [
-        "Cherry tomatoes"
-      ]
+      "items": ["Cherry tomatoes"]
     }
   ],
   "instructions": [
@@ -52,13 +50,7 @@
     "url": "https://www.budgetbytes.com/garlic-parmesan-kale-pasta-meal-prep/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Pasta",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Pasta", "Stovetop"],
   "time": [
     {
       "label": "Prep",

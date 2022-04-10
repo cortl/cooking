@@ -41,12 +41,7 @@
     "url": "https://www.budgetbytes.com/pasta-5-ingredient-butter-tomato-sauce/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Vegetarian",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Vegetarian", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

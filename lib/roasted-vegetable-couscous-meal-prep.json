@@ -33,9 +33,7 @@
     },
     {
       "category": "Optional Dressing",
-      "items": [
-        "1/2 cup ranch dressing"
-      ]
+      "items": ["1/2 cup ranch dressing"]
     }
   ],
   "instructions": [
@@ -49,9 +47,7 @@
     "When the vegetables are finally finished roasting, pull out the whole garlic cloves from the baking sheet and mince them. Combine the partially cooled couscous, the roasted vegetables, garlic, and chopped parsley in a large bowl. Stir to combine. ",
     "Divide the Roasted Vegetable Couscous between four containers and top with sliced chicken or 1/4 of the Garlic Herb Chickpeas. Serve each portion with 2 Tbsp ranch dressing."
   ],
-  "notes": [
-    "Use \"stick\" sheet pan"
-  ],
+  "notes": ["Use \"stick\" sheet pan"],
   "rating": 7,
   "servings": 4,
   "slug": "roasted-vegetable-couscous-meal-prep",
@@ -59,14 +55,7 @@
     "url": "https://www.budgetbytes.com/roasted-vegetable-couscous-meal-prep/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Poultry",
-    "Meal Prep",
-    "Dinner",
-    "Roasting"
-  ],
+  "tags": ["Vegan", "Vegetarian", "Poultry", "Meal Prep", "Dinner", "Roasting"],
   "time": [
     {
       "label": "Prep",

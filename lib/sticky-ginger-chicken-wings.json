@@ -34,12 +34,7 @@
     "url": "https://www.budgetbytes.com/sticky-ginger-chicken-wings/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Appetizer",
-    "Dinner",
-    "Roasting"
-  ],
+  "tags": ["Poultry", "Appetizer", "Dinner", "Roasting"],
   "time": [
     {
       "label": "Prep",

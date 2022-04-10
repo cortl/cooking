@@ -42,12 +42,7 @@
     "url": "https://www.budgetbytes.com/loaded-potato-soup/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Pork",
-    "Soup",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

@@ -28,12 +28,7 @@
     "url": "https://www.allrecipes.com/recipe/14689/french-dip-sandwiches/",
     "name": "AllRecipes"
   },
-  "tags": [
-    "Beef",
-    "Sandwich",
-    "Slow Cooker",
-    "Dinner"
-  ],
+  "tags": ["Beef", "Sandwich", "Slow Cooker", "Dinner"],
   "time": [
     {
       "label": "Prep",

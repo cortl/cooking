@@ -37,13 +37,7 @@
     "url": "https://www.budgetbytes.com/smoky-potato-chickpea-stew/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Vegan",
-    "Vegetarian",
-    "Soup",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Vegan", "Vegetarian", "Soup", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

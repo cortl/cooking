@@ -25,9 +25,7 @@
     "To cook, bring a large pot of salted water to a boil. Heat sauce in a separate saucepan until hot but not simmering. Add gnocchi to pot, stir gently, and cook until gnocchi float for 30 seconds, about 3 minutes total. Drain gnocchi, reserving 1/2 cup of pasta cooking water. Add gnocchi and 1/4 cup of cooking water to pot with sauce and bring to a hard boil, stirring gently. Add more pasta water to thin sauce to desired consistency. Season to taste with salt and pepper.",
     "Stir in a big drizzle of olive oil and a handful of chopped fresh herbs. Transfer to a large serving plate. Sprinkle with more herbs and Parmesan cheese. Drizzle with more olive oil. Serve immediately."
   ],
-  "notes": [
-    "Really simple and can be frozen for later use"
-  ],
+  "notes": ["Really simple and can be frozen for later use"],
   "rating": 10,
   "servings": 3,
   "slug": "quick-and-easy-homemade-ricotta-gnocchi",
@@ -35,12 +33,7 @@
     "url": "https://www.seriouseats.com/recipes/2015/03/ricotta-gnocchi-homemade-food-lab-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Vegetarian",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Vegetarian", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Active",

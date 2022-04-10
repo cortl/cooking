@@ -35,9 +35,7 @@
     "Finally, add the tortilla chips and stir to combine with the other ingredients in the skillet.",
     "Top the skillet with the shredded cheese, place a lid on top, and let it heat for 1-2 minutes, or just until the cheese is melted. Sprinkle the sliced green onions over top just before serving."
   ],
-  "notes": [
-    "Another taco based meal"
-  ],
+  "notes": ["Another taco based meal"],
   "rating": 6,
   "servings": 4,
   "slug": "beef-taco-skillet",
@@ -45,12 +43,7 @@
     "url": "https://www.budgetbytes.com/beef-taco-skillet/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Quick",
-    "Stovetop"
-  ],
+  "tags": ["Beef", "Dinner", "Quick", "Stovetop"],
   "time": [
     {
       "label": "Prep",

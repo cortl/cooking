@@ -42,12 +42,7 @@
     "url": "https://www.budgetbytes.com/chipotle-lime-chicken-and-rice/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Dinner",
-    "Meal Prep",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",

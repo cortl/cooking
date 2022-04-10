@@ -33,11 +33,7 @@
     "url": "https://cooking.nytimes.com/recipes/1016071-homemade-pita-bread",
     "name": "New York Times"
   },
-  "tags": [
-    "Vegetarian",
-    "Appetizer",
-    "Baking"
-  ],
+  "tags": ["Vegetarian", "Appetizer", "Baking"],
   "time": [
     {
       "label": "Total",

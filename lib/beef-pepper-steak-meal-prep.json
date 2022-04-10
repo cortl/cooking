@@ -38,13 +38,7 @@
     "url": "https://fitmencook.com/beef-pepper-steak/",
     "name": "Fit Men Cook"
   },
-  "tags": [
-    "Beef",
-    "Meal Prep",
-    "Dinner",
-    "Stovetop",
-    "Quick"
-  ],
+  "tags": ["Beef", "Meal Prep", "Dinner", "Stovetop", "Quick"],
   "time": [
     {
       "label": "Total",

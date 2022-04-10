@@ -39,12 +39,7 @@
     "url": "https://www.budgetbytes.com/goulash/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Beef",
-    "Pasta",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Beef", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

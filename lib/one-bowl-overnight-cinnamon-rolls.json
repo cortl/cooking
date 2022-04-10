@@ -46,11 +46,7 @@
     "url": "https://www.seriouseats.com/recipes/2017/12/bravetart-homemade-cinnamon-rolls-recipe.html",
     "name": "Serious Eats"
   },
-  "tags": [
-    "Vegetarian",
-    "Dessert",
-    "Baking"
-  ],
+  "tags": ["Vegetarian", "Dessert", "Baking"],
   "time": [
     {
       "label": "Active",

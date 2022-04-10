@@ -44,11 +44,7 @@
     "url": "https://kitchenswagger.com/beef-and-broccoli-recipe/",
     "name": "Kitchen Swagger"
   },
-  "tags": [
-    "Beef",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Beef", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

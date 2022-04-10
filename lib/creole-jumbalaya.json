@@ -49,12 +49,7 @@
     "url": "https://cafedelites.com/jambalaya/",
     "name": "Cafe Delites"
   },
-  "tags": [
-    "Poultry",
-    "Pork",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Pork", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",

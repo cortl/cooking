@@ -24,9 +24,7 @@
     "Combine the mayonnaise, yogurt, Dijon, red wine vinegar, salt, and pepper in a bowl. Stir until smooth.",
     "Pour the dressing over the salad ingredients in the bowl and stir until everything is coated. Serve immediately or refrigerate until ready to eat. "
   ],
-  "notes": [
-    "Decent, gotta dice that stuff super small next time"
-  ],
+  "notes": ["Decent, gotta dice that stuff super small next time"],
   "rating": 6,
   "servings": 4,
   "slug": "chicken-salad-with-apples",
@@ -34,12 +32,7 @@
     "url": "https://www.budgetbytes.com/chicken-n-apple-salad/",
     "name": "Budgetbytes"
   },
-  "tags": [
-    "Poultry",
-    "Salad",
-    "Sandwich",
-    "No Cook"
-  ],
+  "tags": ["Poultry", "Salad", "Sandwich", "No Cook"],
   "time": [
     {
       "label": "Prep",
