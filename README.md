@@ -68,6 +68,7 @@
 - [Coconut Chicken Strips with Sweet Chili Sauce](lib/coconut-chicken-strips-with-sweet-chili-sauce.json)
 - [Cowboy Caviar](lib/cowboy-caviar.json)
 - [Creamy Chicken Fajita Pasta](lib/creamy-chicken-fajita-pasta.json)
+- [Creamy Pesto Chicken](lib/creamy-pesto-chicken.json)
 - [Creamy Salsa Chicken Skillet](lib/creamy-salsa-chicken-skillet.json)
 - [Creamy Spinach Artichoke Chicken](lib/creamy-spinach-artichoke-chicken.json)
 - [Creamy Tuscan Garlic Chicken](lib/creamy-tuscan-garlic-chicken.json)
