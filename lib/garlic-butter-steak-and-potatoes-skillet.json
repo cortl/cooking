@@ -34,7 +34,10 @@
   "rating": 9,
   "servings": 4,
   "slug": "garlic-butter-steak-and-potatoes-skillet",
-  "source": "https://www.reddit.com/r/recipes/comments/8f1xrm/garlic_butter_steak_and_potatoes_skillet/",
+  "source": {
+    "name": "/u/Divider1",
+    "url": "https://www.reddit.com/r/recipes/comments/8f1xrm/garlic_butter_steak_and_potatoes_skillet/"
+  },
   "tags": ["Beef", "Dinner", "Stovetop"],
   "time": [
     {

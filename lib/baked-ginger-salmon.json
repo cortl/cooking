@@ -24,8 +24,15 @@
   "rating": 7,
   "servings": 4,
   "slug": "baked-ginger-salmon",
-  "source": "https://www.budgetbytes.com/ginger-salmon/",
-  "tags": ["Fish", "Dinner", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/ginger-salmon/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Fish",
+    "Dinner",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -36,8 +36,16 @@
   "rating": 6,
   "servings": 6,
   "slug": "pastalaya",
-  "source": "https://www.budgetbytes.com/2015/02/pastalaya/",
-  "tags": ["Pork", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2015/02/pastalaya/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

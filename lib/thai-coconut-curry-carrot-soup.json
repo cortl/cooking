@@ -17,7 +17,10 @@
     },
     {
       "category": "Optional Garnishes",
-      "items": [" cilantro", " sriracha"]
+      "items": [
+        " cilantro",
+        " sriracha"
+      ]
     }
   ],
   "instructions": [
@@ -32,8 +35,17 @@
   "rating": 9,
   "servings": 6,
   "slug": "thai-coconut-curry-carrot-soup",
-  "source": "https://www.budgetbytes.com/thai-coconut-curry-carrot-soup/",
-  "tags": ["Vegan", "Vegetarian", "Soup", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/thai-coconut-curry-carrot-soup/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Soup",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

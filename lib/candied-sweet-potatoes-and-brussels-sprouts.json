@@ -34,7 +34,10 @@
   "rating": 7,
   "servings": 2,
   "slug": "candied-sweet-potatoes-and-roasted-brussels-sprouts",
-  "source": "https://www.budgetbytes.com/wprm_print/recipe/59268",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/wprm_print/recipe/59268"
+  },
   "tags": ["Vegetarian", "Vegan", "Thanksgiving", "Appetizer", "Roasting"],
   "time": [
     {

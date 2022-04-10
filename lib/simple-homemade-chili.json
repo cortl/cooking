@@ -36,8 +36,16 @@
   "rating": 7,
   "servings": 6,
   "slug": "simple-homemade-chili",
-  "source": "https://www.budgetbytes.com/basic-chili/",
-  "tags": ["Beef", "Soup", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/basic-chili/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Beef",
+    "Soup",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

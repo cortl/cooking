@@ -40,8 +40,15 @@
   "rating": 8,
   "servings": 4,
   "slug": "beef-and-broccoli",
-  "source": "https://kitchenswagger.com/beef-and-broccoli-recipe/",
-  "tags": ["Beef", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://kitchenswagger.com/beef-and-broccoli-recipe/",
+    "name": "Kitchen Swagger"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

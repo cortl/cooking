@@ -33,8 +33,17 @@
   "rating": 7,
   "servings": 6,
   "slug": "smoky-potato-chickpea-stew",
-  "source": "https://www.budgetbytes.com/smoky-potato-chickpea-stew/",
-  "tags": ["Vegan", "Vegetarian", "Soup", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/smoky-potato-chickpea-stew/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Soup",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

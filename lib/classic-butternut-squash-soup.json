@@ -36,8 +36,18 @@
   "rating": 8,
   "servings": 2,
   "slug": "classic-butternut-squash-soup",
-  "source": "https://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html",
-  "tags": ["Vegetarian", "Vegan", "Soup", "Dinner", "Stovetop", "Roasting"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Soup",
+    "Dinner",
+    "Stovetop",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Active",

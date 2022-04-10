@@ -26,7 +26,10 @@
   "rating": 9,
   "servings": 2,
   "slug": "new-york-style-pizza-sauce",
-  "source": "https://www.seriouseats.com/recipes/2010/10/new-york-style-pizza-sauce.html",
+  "source": {
+    "name": "Serious Eats",
+    "url": "https://www.seriouseats.com/recipes/2010/10/new-york-style-pizza-sauce.html"
+  },
   "tags": ["Vegetarian", "Topping", "Stovetop"],
   "time": [
     {

@@ -27,8 +27,16 @@
   "rating": 6,
   "servings": 4,
   "slug": "one-pot-sausage-and-sun-dried-tomato-pasta",
-  "source": "https://www.budgetbytes.com/2017/03/one-pot-sausage-sun-dried-tomato-pasta/",
-  "tags": ["Pork", "Dinner", "Meal Prep", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2017/03/one-pot-sausage-sun-dried-tomato-pasta/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Dinner",
+    "Meal Prep",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

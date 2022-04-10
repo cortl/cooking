@@ -34,8 +34,16 @@
   "rating": 6,
   "servings": 6,
   "slug": "chicken-caprese-macaroni-and-cheese",
-  "source": "https://therecipecritic.com/chicken-caprese-macaroni-and-cheese/",
-  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://therecipecritic.com/chicken-caprese-macaroni-and-cheese/",
+    "name": "The Recipe Critic"
+  },
+  "tags": [
+    "Poultry",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -25,8 +25,15 @@
   "rating": 7,
   "servings": 4,
   "slug": "small-batch-mashed-potatoes",
-  "source": "https://www.budgetbytes.com/wprm_print/recipe/59275",
-  "tags": ["Vegetarian", "Appetizer", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/wprm_print/recipe/59275",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

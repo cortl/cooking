@@ -36,8 +36,15 @@
   "rating": 6,
   "servings": 6,
   "slug": "mini-garden-turkey-loaves",
-  "source": "https://www.budgetbytes.com/mini-garden-turkey-loaves/",
-  "tags": ["Poultry", "Dinner", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/mini-garden-turkey-loaves/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

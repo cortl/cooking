@@ -31,8 +31,16 @@
   "rating": "7",
   "servings": "4",
   "slug": "tomato-basil-chicken",
-  "source": "https://www.budgetbytes.com/tomato-basil-chicken/",
-  "tags": ["Dinner", "Poultry", "Quick", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/tomato-basil-chicken/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Dinner",
+    "Poultry",
+    "Quick",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

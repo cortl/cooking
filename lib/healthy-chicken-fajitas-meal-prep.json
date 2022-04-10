@@ -70,8 +70,17 @@
   "rating": 7,
   "servings": 6,
   "slug": "healthy-chicken-fajitas-meal-prep",
-  "source": "https://www.asweetpeachef.com/healthy-chicken-fajitas-meal-prep/",
-  "tags": ["Poultry", "Meal Prep", "Dinner", "Baking", "Stovetop"],
+  "source": {
+    "url": "https://www.asweetpeachef.com/healthy-chicken-fajitas-meal-prep/",
+    "name": "Sweet Pea Chef"
+  },
+  "tags": [
+    "Poultry",
+    "Meal Prep",
+    "Dinner",
+    "Baking",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Marinate",

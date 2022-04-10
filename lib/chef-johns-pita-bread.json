@@ -32,8 +32,16 @@
   "rating": 7,
   "servings": 8,
   "slug": "chef-johns-pita-bread",
-  "source": "https://www.allrecipes.com/recipe/232719/chef-johns-pita-bread/",
-  "tags": ["Vegetarian", "Vegan", "Appetizer", "Baking"],
+  "source": {
+    "url": "https://www.allrecipes.com/recipe/232719/chef-johns-pita-bread/",
+    "name": "AllRecipes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Appetizer",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

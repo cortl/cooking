@@ -29,7 +29,10 @@
   "rating": 9,
   "servings": 2,
   "slug": "bravetart-graham-crackers",
-  "source": "https://www.epicurious.com/recipes/food/views/crispy-whole-wheat-graham-crackers",
+  "source": {
+    "name": "Stella Parks",
+    "url": "https://www.epicurious.com/recipes/food/views/crispy-whole-wheat-graham-crackers"
+  },
   "tags": ["Vegetarian", "Dessert", "Baking"],
   "time": [
     {

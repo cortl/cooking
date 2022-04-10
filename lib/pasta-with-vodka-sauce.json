@@ -33,8 +33,16 @@
   "rating": 8,
   "servings": 4,
   "slug": "pasta-with-vodka-sauce",
-  "source": "https://www.seriouseats.com/recipes/2020/04/pasta-with-vodka-sauce.html",
-  "tags": ["Vegetarian", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2020/04/pasta-with-vodka-sauce.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegetarian",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Active",

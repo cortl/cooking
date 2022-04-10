@@ -38,7 +38,10 @@
   "rating": 8,
   "servings": 6,
   "slug": "gluten-free-green-bean-casserole",
-  "source": "https://glutenfreeonashoestring.com/gluten-free-green-bean-casserole/",
+  "source": {
+    "url": "https://glutenfreeonashoestring.com/gluten-free-green-bean-casserole/",
+    "name": "Gluten Free on a Shoestring"
+  },
   "tags": [
     "Vegetarian",
     "Appetizer",

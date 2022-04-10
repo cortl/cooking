@@ -33,8 +33,17 @@
   "rating": 7,
   "servings": 4,
   "slug": "easy-oven-fajitas",
-  "source": "https://www.budgetbytes.com/2013/02/oven-fajitas/",
-  "tags": ["Poultry", "Dinner", "Meal Prep", "Baking", "Roasting"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2013/02/oven-fajitas/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep",
+    "Baking",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -23,8 +23,16 @@
   "rating": 10,
   "servings": 4,
   "slug": "thin-and-crispy-french-fries",
-  "source": "https://www.seriouseats.com/recipes/2010/05/perfect-french-fries-recipe.html",
-  "tags": ["Vegan", "Vegetarian", "Appetizer", "Frying"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2010/05/perfect-french-fries-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Appetizer",
+    "Frying"
+  ],
   "time": [
     {
       "label": "Active",

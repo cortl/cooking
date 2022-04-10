@@ -37,12 +37,22 @@
     "Place stuffed green bell pepper halves in the baking dish over tomato sauce; sprinkle with remaining Parmigiano-Reggiano, cover baking dish with aluminum foil, and bake in the preheated oven for 45 minutes.                            ",
     "Remove aluminum foil and bake until the meat is no longer pink, the green peppers are tender and the cheese is browned on top, an addition 20 to 25 minutes.                            "
   ],
-  "notes": ["eh"],
+  "notes": [
+    "eh"
+  ],
   "rating": 4,
   "servings": 8,
   "slug": "chef-johns-stuffed-peppers",
-  "source": "http://allrecipes.com/recipe/222002/chef-johns-stuffed-peppers/",
-  "tags": ["Beef", "Pork", "Dinner", "Baking"],
+  "source": {
+    "url": "http://allrecipes.com/recipe/222002/chef-johns-stuffed-peppers/",
+    "name": "AllRecipes"
+  },
+  "tags": [
+    "Beef",
+    "Pork",
+    "Dinner",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

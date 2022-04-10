@@ -31,8 +31,16 @@
   "rating": 8,
   "servings": 8,
   "slug": "italian-american-red-tomato-sauce",
-  "source": "https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe",
-  "tags": ["Vegetarian", "Pasta", "Braising & Stewing", "Stovetop"],
+  "source": {
+    "url": "https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegetarian",
+    "Pasta",
+    "Braising & Stewing",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

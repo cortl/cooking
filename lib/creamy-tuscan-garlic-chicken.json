@@ -20,12 +20,22 @@
     "In a large skillet add olive oil and cook the chicken on medium high heat for 3-5 minutes on each side or until brown on each side and cooked until no longer pink in center. Remove chicken and set aside on a plate.",
     "Add the heavy cream, chicken broth, garlic powder, italian seasoning, and parmesan cheese. Whisk over medium high heat until it starts to thicken. Add the spinach and sundried tomatoes and let it simmer until the spinach starts to wilt. Add the chicken back to the pan and serve over pasta if desired."
   ],
-  "notes": ["serves well on top of pasta"],
+  "notes": [
+    "serves well on top of pasta"
+  ],
   "rating": 6,
   "servings": 6,
   "slug": "creamy-tuscan-garlic-chicken",
-  "source": "https://therecipecritic.com/2016/05/creamy-tuscan-garlic-chicken",
-  "tags": ["Poultry", "Dinner", "Pasta", "Stovetop"],
+  "source": {
+    "url": "https://therecipecritic.com/2016/05/creamy-tuscan-garlic-chicken",
+    "name": "The Recipe Critic"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Pasta",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

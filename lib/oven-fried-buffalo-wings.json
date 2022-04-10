@@ -24,8 +24,17 @@
   "rating": 8,
   "servings": 4,
   "slug": "oven-fried-buffalo-wings",
-  "source": "https://www.seriouseats.com/recipes/2010/02/the-best-buffalo-wings-oven-fried-wings-recipe.html",
-  "tags": ["Poultry", "Appetizer", "Dinner", "Super Bowl", "Roasting"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2010/02/the-best-buffalo-wings-oven-fried-wings-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Poultry",
+    "Appetizer",
+    "Dinner",
+    "Super Bowl",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Inactive",

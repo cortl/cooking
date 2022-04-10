@@ -39,7 +39,10 @@
   "rating": 6,
   "servings": 4,
   "slug": "deconstructed-chicken-pot-pie",
-  "source": "https://mealprepmanual.com/deconstructed-chicken-pot-pie-2/",
+  "source": {
+    "name": "Meal Prep Manual",
+    "url": "https://mealprepmanual.com/deconstructed-chicken-pot-pie-2/"
+  },
   "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {

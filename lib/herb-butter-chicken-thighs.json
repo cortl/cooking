@@ -22,12 +22,21 @@
     "Pour in the chicken broth and stir, dissolving all the browned bits off the bottom of the skillet. Let the broth simmer (still over medium heat) for about 5 minutes, or until it has reduced by half.",
     "Once the broth has reduced, add the butter and stir until it has melted into the sauce. Add the chicken pieces back to the skillet with the sauce and spoon the sauce over each piece. Garnish with a sprinkle of chopped parsley, if desired. Serve while hot."
   ],
-  "notes": ["if you need chicken, breasts work fine when butterflied"],
+  "notes": [
+    "if you need chicken, breasts work fine when butterflied"
+  ],
   "rating": 6,
   "servings": 5,
   "slug": "herb-butter-chicken-thighs",
-  "source": "https://www.budgetbytes.com/2018/02/herb-butter-chicken-thighs/",
-  "tags": ["Poultry", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2018/02/herb-butter-chicken-thighs/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -45,8 +45,16 @@
   "rating": 7,
   "servings": 8,
   "slug": "spinach-lasagna",
-  "source": "https://www.seriouseats.com/recipes/2014/11/food-lab-creamy-cheesy-ultimate-spinach-lasagna-recipe.html",
-  "tags": ["Vegetarian", "Dinner", "Pasta", "Baking"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2014/11/food-lab-creamy-cheesy-ultimate-spinach-lasagna-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegetarian",
+    "Dinner",
+    "Pasta",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Active",

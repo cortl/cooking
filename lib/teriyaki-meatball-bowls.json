@@ -49,8 +49,15 @@
   "rating": 8,
   "servings": 4,
   "slug": "teriyaki-meatball-bowls",
-  "source": "https://www.budgetbytes.com/teriyaki-meatball-bowls/",
-  "tags": ["Pork", "Dinner", "Meal Prep"],
+  "source": {
+    "url": "https://www.budgetbytes.com/teriyaki-meatball-bowls/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Dinner",
+    "Meal Prep"
+  ],
   "time": [
     {
       "label": "Prep",

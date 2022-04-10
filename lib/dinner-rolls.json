@@ -32,8 +32,15 @@
   "rating": 8,
   "servings": 20,
   "slug": "dinner-rolls",
-  "source": "https://delightbaking.com/little-fluffy-dinner-rolls/",
-  "tags": ["Vegetarian", "Appetizer", "Baking"],
+  "source": {
+    "url": "https://delightbaking.com/little-fluffy-dinner-rolls/",
+    "name": "Delight Baking"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Active",

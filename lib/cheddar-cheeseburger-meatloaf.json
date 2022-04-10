@@ -34,8 +34,15 @@
   "rating": 7,
   "servings": 4,
   "slug": "cheddar-cheeseburger-meatloaf",
-  "source": "https://www.budgetbytes.com/cheddar-cheeseburger-meatloaf/",
-  "tags": ["Beef", "Dinner", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/cheddar-cheeseburger-meatloaf/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

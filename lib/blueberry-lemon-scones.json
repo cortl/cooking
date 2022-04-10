@@ -27,8 +27,17 @@
   "rating": 7,
   "servings": 4,
   "slug": "blueberry-lemon-scones",
-  "source": "https://www.seriouseats.com/recipes/2017/03/lemon-blueberry-scones-vegan-recipe.html",
-  "tags": ["Vegan", "Vegetarian", "Baking", "Dessert", "Breakfast"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2017/03/lemon-blueberry-scones-vegan-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Baking",
+    "Dessert",
+    "Breakfast"
+  ],
   "time": [
     {
       "label": "Active",

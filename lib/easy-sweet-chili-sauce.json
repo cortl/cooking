@@ -22,8 +22,16 @@
   "rating": 8,
   "servings": 4,
   "slug": "easy-sweet-chili-sauce",
-  "source": "https://www.budgetbytes.com/easy-sweet-chili-sauce/",
-  "tags": ["Vegan", "Vegetarian", "Topping", "No Cook"],
+  "source": {
+    "url": "https://www.budgetbytes.com/easy-sweet-chili-sauce/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Topping",
+    "No Cook"
+  ],
   "time": [
     {
       "label": "Prep",

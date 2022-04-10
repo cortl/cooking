@@ -26,8 +26,16 @@
   "rating": 7,
   "servings": 2,
   "slug": "garlic-parmesan-oven-fries",
-  "source": "https://www.budgetbytes.com/thick-cut-garlic-parmesan-oven-fries/",
-  "tags": ["Vegetarian", "Appetizer", "Roasting", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/thick-cut-garlic-parmesan-oven-fries/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Roasting",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

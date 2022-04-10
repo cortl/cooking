@@ -35,7 +35,10 @@
   "rating": 5,
   "servings": 10,
   "slug": "coconut-almond-granola",
-  "source": "https://lmld.org/coconut-almond-granola/",
+  "source": {
+    "url": "https://lmld.org/coconut-almond-granola/",
+    "name": "Like Mother Like Daughter"
+  },
   "tags": [
     "Vegetarian",
     "Vegan",

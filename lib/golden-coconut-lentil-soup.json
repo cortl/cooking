@@ -28,12 +28,23 @@
     "After 20 minutes the lentils should be soft and broken down. Stir the coconut milk into the soup. Use an immersion blender or carefully blend the warm soup in small batches until about half of the soup is puréed (or all of it if you want it completely smooth). Once blended, begin adding salt, 1/2 tsp at a time, until the soup is properly seasoned. I used 1.5 tsp or 1/2 Tbsp of salt. Also adjust the red pepper flakes, if desired.",
     "To serve the soup, ladle about 1.5 cups into a bowl and top with 1/2 cup cooked rice, some fresh cilantro leaves, and a sprinkle of toasted coconut flakes."
   ],
-  "notes": ["added 2 chicken breasts, blend before shredding breast"],
+  "notes": [
+    "added 2 chicken breasts, blend before shredding breast"
+  ],
   "rating": 6,
   "servings": 4,
   "slug": "golden-coconut-lentil-soup",
-  "source": "https://www.budgetbytes.com/2017/02/golden-coconut-lentil-soup/",
-  "tags": ["Vegetarian", "Vegan", "Soup", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2017/02/golden-coconut-lentil-soup/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Soup",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

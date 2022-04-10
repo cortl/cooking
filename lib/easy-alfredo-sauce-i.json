@@ -16,7 +16,10 @@
   "rating": 6,
   "servings": 8,
   "slug": "alfredo-sauce",
-  "source": "http://allrecipes.com/recipe/11945/easy-alfredo-sauce-i/",
+  "source": {
+    "name": "AllRecipes",
+    "url": "http://allrecipes.com/recipe/11945/easy-alfredo-sauce-i/"
+  },
   "tags": ["Vegetarian", "Pasta", "Dinner", "Stovetop"],
   "time": [
     {

@@ -33,8 +33,16 @@
   "rating": 5,
   "servings": 4,
   "slug": "pressure-cooker-chicken-shawarma",
-  "source": "https://www.pressurecookingtoday.com/pressure-cooker-chicken-shawarma/",
-  "tags": ["Poultry", "Dinner", "Meal Prep", "Pressure Cooker"],
+  "source": {
+    "url": "https://www.pressurecookingtoday.com/pressure-cooker-chicken-shawarma/",
+    "name": "Pressure Cooking Today"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep",
+    "Pressure Cooker"
+  ],
   "time": [
     {
       "label": "Prep",

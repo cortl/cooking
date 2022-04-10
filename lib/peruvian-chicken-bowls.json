@@ -68,7 +68,10 @@
   "rating": 9,
   "servings": 4,
   "slug": "peruvian-chicken-bowls",
-  "source": "https://www.reddit.com/r/recipes/comments/l6hxl6/peruvian_chicken_bowls_with_butterroasted_potatoes/",
+  "source": {
+    "name": "/u/BushyEyes",
+    "url": "https://www.reddit.com/r/recipes/comments/l6hxl6/peruvian_chicken_bowls_with_butterroasted_potatoes/"
+  },
   "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop", "Roasting"],
   "time": [
     {

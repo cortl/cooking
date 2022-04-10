@@ -43,8 +43,17 @@
   "rating": 8,
   "servings": 4,
   "slug": "the-ultimate-beef-stroganoff",
-  "source": "https://www.seriouseats.com/recipes/2015/01/ultimate-beef-stroganof-recipe.html",
-  "tags": ["Beef", "Dinner", "Meal Prep", "Pasta", "Stovetop"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2015/01/ultimate-beef-stroganof-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Meal Prep",
+    "Pasta",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Active",

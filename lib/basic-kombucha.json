@@ -20,7 +20,10 @@
   "rating": 6,
   "servings": 4,
   "slug": "basic-kombucha",
-  "source": "https://www.youtube.com/watch?v=sDpK0gl14fk&list=PLO5DT10UM-ctucnH2RQ-RqD6tSicb5jBt&index=6&t=0s",
+  "source": {
+    "name": "Josh Weissman",
+    "url": "https://www.youtube.com/watch?v=sDpK0gl14fk&list=PLO5DT10UM-ctucnH2RQ-RqD6tSicb5jBt&index=6&t=0s"
+  },
   "tags": ["Vegan", "Vegetarian", "Drink", "No Cook", "Fermenting"],
   "time": [
     {

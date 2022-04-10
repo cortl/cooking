@@ -25,8 +25,17 @@
   "rating": 7,
   "servings": 4,
   "slug": "smoky-roasted-breakfast-potatoes",
-  "source": "https://www.budgetbytes.com/smoky-roasted-breakfast-potatoes/",
-  "tags": ["Vegan", "Vegetarian", "Breakfast", "Appetizer", "Roasting"],
+  "source": {
+    "url": "https://www.budgetbytes.com/smoky-roasted-breakfast-potatoes/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Breakfast",
+    "Appetizer",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

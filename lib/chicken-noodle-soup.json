@@ -33,8 +33,16 @@
   "rating": 8,
   "servings": 6,
   "slug": "chicken-noodle-soup",
-  "source": "https://www.budgetbytes.com/chicken-noodle-soup/",
-  "tags": ["Dinner", "Poultry", "Soup", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/chicken-noodle-soup/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Dinner",
+    "Poultry",
+    "Soup",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

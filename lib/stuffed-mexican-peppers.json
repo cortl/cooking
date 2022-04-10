@@ -24,12 +24,21 @@
     "Place the steamed peppers into the prepared baking dish, and fill lightly with the meat filling. Press 1 cube of Colby-Jack cheese into the center of the filling in each pepper, and spoon the remaining can of tomato sauce over the peppers. Cover the dish with aluminum foil.                            ",
     "Bake in the preheated oven until the peppers are tender and the filling is hot, 25 to 30 minutes.                            "
   ],
-  "notes": ["user other stuffed pepper recipe"],
+  "notes": [
+    "user other stuffed pepper recipe"
+  ],
   "rating": 4,
   "servings": 6,
   "slug": "stuffed-mexican-peppers",
-  "source": "http://allrecipes.com/recipe/216899/stuffed-mexican-peppers/",
-  "tags": ["Beef", "Dinner", "Roasting"],
+  "source": {
+    "url": "http://allrecipes.com/recipe/216899/stuffed-mexican-peppers/",
+    "name": "AllRecipes"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -55,7 +55,10 @@ const schema = Joi.object({
   servings: Joi.number().required(),
   rating: Joi.number().required(),
   slug: Joi.string().required(),
-  source: Joi.string().required(),
+  source: Joi.object({
+    name: Joi.string().required(),
+    url: Joi.string().uri().required(),
+  }).required(),
   createdDate: Joi.date().optional(),
   instructions: Joi.array().items(Joi.string()).min(1).required(),
   notes: Joi.array().items(Joi.string()).required(),

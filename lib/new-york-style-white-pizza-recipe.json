@@ -48,7 +48,10 @@
   "rating": 7,
   "servings": 1,
   "slug": "new-york-style-white-pizza",
-  "source": "https://www.seriouseats.com/recipes/2008/12/new-yorkstyle-white-pizza-recipe.html",
+  "source": {
+    "name": "Serious Eats",
+    "url": "https://www.seriouseats.com/recipes/2008/12/new-yorkstyle-white-pizza-recipe.html"
+  },
   "tags": ["Vegetarian", "Dinner", "Baking"],
   "time": [
     {

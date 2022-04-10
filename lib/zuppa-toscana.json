@@ -34,8 +34,16 @@
   "rating": 8,
   "servings": 6,
   "slug": "zuppa-toscana",
-  "source": "https://www.myrecipes.com/recipe/zuppa-toscana",
-  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.myrecipes.com/recipe/zuppa-toscana",
+    "name": "MyRecipes"
+  },
+  "tags": [
+    "Pork",
+    "Soup",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -26,8 +26,17 @@
   "rating": 9,
   "servings": 2,
   "slug": "hot-chocolate",
-  "source": "https://www.budgetbytes.com/homemade-hot-chocolate/",
-  "tags": ["Vegetarian", "Drink", "Quick", "Dessert", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/homemade-hot-chocolate/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Drink",
+    "Quick",
+    "Dessert",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

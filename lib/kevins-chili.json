@@ -37,8 +37,17 @@
   "rating": 7,
   "servings": 6,
   "slug": "kevins-chili",
-  "source": "https://www.bingingwithbabish.com/recipes/2017/1/18/kevinschili",
-  "tags": ["Beef", "Dinner", "Soup", "Stovetop", "Braising & Stewing"],
+  "source": {
+    "url": "https://www.bingingwithbabish.com/recipes/2017/1/18/kevinschili",
+    "name": "Binging with Babish"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Soup",
+    "Stovetop",
+    "Braising & Stewing"
+  ],
   "time": [
     {
       "label": "Prep",

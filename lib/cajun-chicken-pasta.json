@@ -28,12 +28,22 @@
     "Add the red bell pepper, green bell pepper, mushrooms and green onion. Saute and stir for 2 to 3 minutes. Reduce heat.",
     "Add the cream, basil, lemon pepper, salt, garlic powder and ground black pepper. Heat through. Add the cooked linguine, toss and heat through. Sprinkle with grated Parmesan cheese and serve."
   ],
-  "notes": ["do not reheat"],
+  "notes": [
+    "do not reheat"
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "cajun-chicken-pasta",
-  "source": "http://allrecipes.com/recipe/8778/cajun-chicken-pasta/",
-  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "http://allrecipes.com/recipe/8778/cajun-chicken-pasta/",
+    "name": "AllRecipes"
+  },
+  "tags": [
+    "Poultry",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

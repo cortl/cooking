@@ -41,8 +41,16 @@
   "rating": 8,
   "servings": 4,
   "slug": "smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep",
-  "source": "https://www.budgetbytes.com/smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep/",
-  "tags": ["Poultry", "Dinner", "Meal Prep", "Roasting"],
+  "source": {
+    "url": "https://www.budgetbytes.com/smoky-chicken-and-cinnamon-roasted-sweet-potato-meal-prep/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

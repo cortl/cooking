@@ -28,8 +28,15 @@
   "rating": 7,
   "servings": 6,
   "slug": "beef-burrito-casserole",
-  "source": "https://www.budgetbytes.com/2016/10/beef-burrito-casserole/",
-  "tags": ["Beef", "Dinner", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2016/10/beef-burrito-casserole/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

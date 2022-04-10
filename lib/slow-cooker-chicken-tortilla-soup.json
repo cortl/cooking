@@ -40,8 +40,16 @@
   "rating": 7,
   "servings": 6,
   "slug": "slow-cooker-chicken-tortilla-soup",
-  "source": "https://www.budgetbytes.com/slow-cooker-chicken-tortilla-soup/",
-  "tags": ["Poultry", "Soup", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/slow-cooker-chicken-tortilla-soup/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Soup",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

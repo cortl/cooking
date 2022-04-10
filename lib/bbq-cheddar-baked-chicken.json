@@ -29,8 +29,15 @@
   "rating": 7,
   "servings": 4,
   "slug": "bbq-cheddar-baked-chicken",
-  "source": "https://www.budgetbytes.com/bbq-cheddar-baked-chicken/",
-  "tags": ["Poultry", "Dinner", "Roasting"],
+  "source": {
+    "url": "https://www.budgetbytes.com/bbq-cheddar-baked-chicken/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

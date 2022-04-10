@@ -24,8 +24,17 @@
   "rating": 8,
   "servings": 1,
   "slug": "vegan-creamy-mushroom-ramen",
-  "source": "https://www.budgetbytes.com/vegan-creamy-mushroom-ramen/",
-  "tags": ["Vegetarian", "Vegan", "Quick", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/vegan-creamy-mushroom-ramen/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Quick",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

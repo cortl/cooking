@@ -50,8 +50,15 @@
   "rating": 10,
   "servings": 8,
   "slug": "epic-new-york-cheesecake-from-bravetart-recipe",
-  "source": "https://www.seriouseats.com/recipes/2019/07/epic-new-york-cheesecake-from-bravetart.html",
-  "tags": ["Vegetarian", "Dessert", "Baking"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2019/07/epic-new-york-cheesecake-from-bravetart.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegetarian",
+    "Dessert",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Active",

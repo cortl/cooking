@@ -33,8 +33,15 @@
   "rating": 6,
   "servings": 6,
   "slug": "instant-pot-mashed-potatoes",
-  "source": "https://thesaltymarshmallow.com/instant-pot-mashed-potatoes/",
-  "tags": ["Pressure Cooker", "Vegetarian", "Appetizer"],
+  "source": {
+    "url": "https://thesaltymarshmallow.com/instant-pot-mashed-potatoes/",
+    "name": "The Salty Marshmallow"
+  },
+  "tags": [
+    "Pressure Cooker",
+    "Vegetarian",
+    "Appetizer"
+  ],
   "time": [
     {
       "label": "Prep",

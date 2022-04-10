@@ -55,7 +55,10 @@
   "rating": 9,
   "servings": 2,
   "slug": "no-knead-sourdough-bread",
-  "source": "https://www.youtube.com/watch?v=eod5cUxAHRM",
+  "source": {
+    "name": "Joshua Weissman",
+    "url": "https://www.youtube.com/watch?v=eod5cUxAHRM"
+  },
   "tags": ["Fermenting", "Vegan", "Vegetarian", "Appetizer", "Baking"],
   "time": [
     {

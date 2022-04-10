@@ -34,8 +34,16 @@
   "rating": 7,
   "servings": 4,
   "slug": "crunchy-kale-and-chicken-salad",
-  "source": "https://www.budgetbytes.com/crunchy-kale-chicken-salad/",
-  "tags": ["Poultry", "Salad", "Sandwich", "No Cook"],
+  "source": {
+    "url": "https://www.budgetbytes.com/crunchy-kale-chicken-salad/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Salad",
+    "Sandwich",
+    "No Cook"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -26,8 +26,16 @@
   "rating": 7,
   "servings": 4,
   "slug": "korean-ground-beef-and-rice-bowls",
-  "source": "https://therecipecritic.com/korean-ground-beef-rice-bowls/",
-  "tags": ["Beef", "Dinner", "Meal Prep", "Stovetop"],
+  "source": {
+    "url": "https://therecipecritic.com/korean-ground-beef-rice-bowls/",
+    "name": "The Recipe Critic"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Meal Prep",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

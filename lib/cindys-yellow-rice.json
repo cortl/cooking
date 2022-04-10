@@ -18,12 +18,21 @@
   "instructions": [
     "Bring water to a boil in a saucepan. Add rice, onion, olive oil, turmeric, garlic powder, black pepper, and salt. Cover the saucepan, reduce heat to low, and simmer until water is absorbed and rice is cooked, about 20 minutes. Fluff rice with a fork."
   ],
-  "notes": ["Basic yellow rice"],
+  "notes": [
+    "Basic yellow rice"
+  ],
   "rating": 6,
   "servings": 4,
   "slug": "cindys-yellow-rice",
-  "source": "https://www.allrecipes.com/recipe/237593/cindys-yellow-rice/",
-  "tags": ["Vegetarian", "Appetizer", "Stovetop"],
+  "source": {
+    "url": "https://www.allrecipes.com/recipe/237593/cindys-yellow-rice/",
+    "name": "AllRecipes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

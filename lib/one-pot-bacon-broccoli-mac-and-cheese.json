@@ -24,12 +24,22 @@
     "Once the evaporated milk is hot, turn the heat to low and begin whisking in the shredded cheddar, one handful at a time, waiting until the cheese is fully melted before adding the next handful. Once all of the cheese has been melted into the sauce, taste the cheese sauce and adjust the salt or hot sauce if desired. If the sauce becomes too thick, simply stir in one to two tablespoons of the remaining evaporated milk in the can.",
     "Return the cooked pasta, crispy bacon (crumble into smaller pieces if desired), and chopped broccoli to the pot with the cheese sauce. Stir to combine. Serve immediately."
   ],
-  "notes": ["too rich, taste not worth it lol"],
+  "notes": [
+    "too rich, taste not worth it lol"
+  ],
   "rating": 4,
   "servings": 4,
   "slug": "one-pot-bacon-broccoli-mac-and-cheese",
-  "source": "https://www.budgetbytes.com/2017/05/one-pot-bacon-broccoli-mac-cheese/",
-  "tags": ["Pork", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2017/05/one-pot-bacon-broccoli-mac-cheese/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

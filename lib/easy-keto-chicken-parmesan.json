@@ -24,12 +24,23 @@
     "Scoop one tbsp of sauce on top of each chicken cutlet, sprinkle some shredded cheese and your dried herbs. Repeat until all the chicken is coated and ready to bake.",
     "Bake for 15 minutes or until the cheese bubbles and turns a little golden. The more you leave it in the oven, the crispier it's going to get. Take out and let it cool down for 10 minutes before serving."
   ],
-  "notes": ["Worked great to sear in skillet and finish in oven"],
+  "notes": [
+    "Worked great to sear in skillet and finish in oven"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "easy-keto-chicken-parmesan",
-  "source": "https://www.brokefoodies.com/easy-keto-chicken-parmesan/",
-  "tags": ["Poultry", "Dinner", "Stovetop", "Roasting", "Baking"],
+  "source": {
+    "url": "https://www.brokefoodies.com/easy-keto-chicken-parmesan/",
+    "name": "Broke Foodies"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop",
+    "Roasting",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

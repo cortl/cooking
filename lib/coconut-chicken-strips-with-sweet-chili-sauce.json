@@ -32,8 +32,15 @@
   "rating": 9,
   "servings": 4,
   "slug": "coconut-chicken-strips-with-sweet-chili-sauce",
-  "source": "https://www.budgetbytes.com/coconut-chicken-w-sweet-chili-dipping-sauce/",
-  "tags": ["Poultry", "Dinner", "Frying"],
+  "source": {
+    "url": "https://www.budgetbytes.com/coconut-chicken-w-sweet-chili-dipping-sauce/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Frying"
+  ],
   "time": [
     {
       "label": "Prep",

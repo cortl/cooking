@@ -35,7 +35,10 @@
   "rating": 8,
   "servings": 4,
   "slug": "spanish-chickpeas-and-rice",
-  "source": "https://www.budgetbytes.com/spanish-chickpeas-and-rice/",
+  "source": {
+    "url": "https://www.budgetbytes.com/spanish-chickpeas-and-rice/",
+    "name": "Budgetbytes"
+  },
   "tags": [
     "Vegan",
     "Vegetarian",

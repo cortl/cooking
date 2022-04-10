@@ -14,7 +14,10 @@
   "related": ["related-recipe-slug"],
   "servings": "serving size as a number",
   "slug": "page url",
-  "source": "source of the recipe, if possible",
+  "source": {
+    "name": "name of the author or site",
+    "url": "source of the recipe, if possible"
+  },
   "tags": ["Dinner", "Slow Cooker", "etc"],
   "time": [
     {

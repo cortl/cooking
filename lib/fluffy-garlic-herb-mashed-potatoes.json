@@ -30,8 +30,15 @@
   "rating": 6,
   "servings": 6,
   "slug": "fluffy-garlic-herb-mashed-potatoes",
-  "source": "https://www.budgetbytes.com/fluffy-garlic-herb-mashed-potatoes/",
-  "tags": ["Vegetarian", "Appetizer", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/fluffy-garlic-herb-mashed-potatoes/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

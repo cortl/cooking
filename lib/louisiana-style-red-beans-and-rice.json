@@ -47,8 +47,17 @@
   "rating": 6,
   "servings": 6,
   "slug": "louisiana-style-red-beans-and-rice",
-  "source": "https://www.budgetbytes.com/2010/03/louisiana-red-beans-rice/",
-  "tags": ["Pork", "Soup", "Dinner", "Braising & Stewing", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2010/03/louisiana-red-beans-rice/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Soup",
+    "Dinner",
+    "Braising & Stewing",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -19,12 +19,23 @@
   "instructions": [
     "Stir the tomatoes, onion, cilantro, jalapeno pepper, lime juice, garlic, garlic powder, cumin, salt, and pepper together in a bowl. Refrigerate at least 3 hours before serving.                            "
   ],
-  "notes": ["Use a whole jalepeno no seeds"],
+  "notes": [
+    "Use a whole jalepeno no seeds"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "pico-de-gallo",
-  "source": "https://www.allrecipes.com/recipe/203800/pico-de-gallo/",
-  "tags": ["Vegan", "Vegetarian", "Appetizer", "Topping", "No Cook"],
+  "source": {
+    "url": "https://www.allrecipes.com/recipe/203800/pico-de-gallo/",
+    "name": "AllRecipes"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Appetizer",
+    "Topping",
+    "No Cook"
+  ],
   "time": [
     {
       "label": "Prep",

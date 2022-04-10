@@ -26,8 +26,15 @@
   "rating": 7,
   "servings": 4,
   "slug": "sweet-and-spicy-glazed-chicken-thighs",
-  "source": "https://www.budgetbytes.com/sweet-and-spicy-glazed-chicken-thighs/",
-  "tags": ["Poultry", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/sweet-and-spicy-glazed-chicken-thighs/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

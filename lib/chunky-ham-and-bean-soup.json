@@ -33,8 +33,17 @@
   "rating": 6,
   "servings": 4,
   "slug": "chunky-ham-and-bean-soup",
-  "source": "https://www.budgetbytes.com/chunky-ham-and-bean-soup/",
-  "tags": ["Pork", "Soup", "Dinner", "Stovetop", "Slow Cooker"],
+  "source": {
+    "url": "https://www.budgetbytes.com/chunky-ham-and-bean-soup/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Soup",
+    "Dinner",
+    "Stovetop",
+    "Slow Cooker"
+  ],
   "time": [
     {
       "label": "Prep",

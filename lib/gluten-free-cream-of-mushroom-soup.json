@@ -33,8 +33,17 @@
   "rating": 8,
   "servings": 3,
   "slug": "gluten-free-cream-of-mushroom-soup",
-  "source": "https://glutenfreeonashoestring.com/gluten-free-cream-of-mushroom-soup/",
-  "tags": ["Vegetarian", "Soup", "Quick", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://glutenfreeonashoestring.com/gluten-free-cream-of-mushroom-soup/",
+    "name": "Gluten Free on a Shoestring"
+  },
+  "tags": [
+    "Vegetarian",
+    "Soup",
+    "Quick",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

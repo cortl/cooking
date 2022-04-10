@@ -35,8 +35,16 @@
   "rating": 6,
   "servings": 6,
   "slug": "easy-one-pot-american-goulash",
-  "source": "https://www.budgetbytes.com/goulash/",
-  "tags": ["Beef", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/goulash/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Beef",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

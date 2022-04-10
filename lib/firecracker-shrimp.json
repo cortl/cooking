@@ -28,7 +28,10 @@
   "rating": 8,
   "servings": 4,
   "slug": "firecracker-shrimp",
-  "source": "https://www.reddit.com/r/recipes/comments/8sk5wf/firecracker_shrimp/",
+  "source": {
+    "name": "/u/artzyfoodie",
+    "url": "https://www.reddit.com/r/recipes/comments/8sk5wf/firecracker_shrimp/"
+  },
   "tags": ["Fish", "Frying", "Dinner"],
   "time": [
     {

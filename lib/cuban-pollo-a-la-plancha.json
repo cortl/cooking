@@ -34,8 +34,16 @@
   "rating": 7,
   "servings": 4,
   "slug": "cuban-pollo-a-la-plancha",
-  "source": "https://www.seriouseats.com/recipes/2020/04/cuban-style-pollo-a-la-plancha-marinated-and-griddled-chicken.html",
-  "tags": ["Poultry", "Meal Prep", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2020/04/cuban-style-pollo-a-la-plancha-marinated-and-griddled-chicken.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Poultry",
+    "Meal Prep",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Active",

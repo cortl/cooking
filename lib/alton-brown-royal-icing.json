@@ -20,8 +20,17 @@
   "rating": 8,
   "servings": 0,
   "slug": "alton-brown-royal-icing",
-  "source": "https://www.foodnetwork.com/recipes/alton-brown/royal-icing-recipe-1941917",
-  "tags": ["Vegetarian", "Topping", "Dessert", "Christmas", "No Cook"],
+  "source": {
+    "url": "https://www.foodnetwork.com/recipes/alton-brown/royal-icing-recipe-1941917",
+    "name": "Food Network"
+  },
+  "tags": [
+    "Vegetarian",
+    "Topping",
+    "Dessert",
+    "Christmas",
+    "No Cook"
+  ],
   "time": [
     {
       "label": "Prep",

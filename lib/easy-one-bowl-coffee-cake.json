@@ -37,8 +37,15 @@
   "rating": 8,
   "servings": 12,
   "slug": "easy-one-bowl-coffee-cake",
-  "source": "https://www.seriouseats.com/recipes/2017/05/easy-coffee-cake-recipe.html",
-  "tags": ["Vegetarian", "Dessert", "Baking"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2017/05/easy-coffee-cake-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegetarian",
+    "Dessert",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Active",

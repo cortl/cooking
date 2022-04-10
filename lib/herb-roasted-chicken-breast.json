@@ -29,7 +29,10 @@
   "rating": 7,
   "servings": 2,
   "slug": "herb-roasted-chicken-breasts",
-  "source": "https://www.budgetbytes.com/herb-roasted-chicken-breasts/",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/herb-roasted-chicken-breasts/"
+  },
   "tags": ["Poultry", "Dinner", "Roasting", "Stovetop"],
   "time": [
     {

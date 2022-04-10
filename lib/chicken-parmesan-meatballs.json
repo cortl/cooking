@@ -19,7 +19,10 @@
     },
     {
       "category": "For Serving",
-      "items": ["12 oz. pasta", "1 24oz. jar pasta sauce"]
+      "items": [
+        "12 oz. pasta",
+        "1 24oz. jar pasta sauce"
+      ]
     }
   ],
   "instructions": [
@@ -35,8 +38,15 @@
   "rating": 7,
   "servings": 4,
   "slug": "chicken-parmesan-meatballs",
-  "source": "https://www.budgetbytes.com/chicken-parmesan-meatballs/",
-  "tags": ["Poultry", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/chicken-parmesan-meatballs/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -28,12 +28,22 @@
     "Preheat oven on broiler setting.                            ",
     "Divide the meat between the bottoms of 4 rolls, layer with onion and green pepper, then top with sliced cheese. Place on cookie sheet, and broil until cheese is melted. Cover with tops of rolls, and serve.                            "
   ],
-  "notes": ["Broil for like 2 seconds yo"],
+  "notes": [
+    "Broil for like 2 seconds yo"
+  ],
   "rating": 7,
   "servings": 4,
   "slug": "philly-steak-sandwich",
-  "source": "https://www.allrecipes.com/recipe/36621/philly-steak-sandwich/",
-  "tags": ["Beef", "Sandwich", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.allrecipes.com/recipe/36621/philly-steak-sandwich/",
+    "name": "AllRecipes"
+  },
+  "tags": [
+    "Beef",
+    "Sandwich",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

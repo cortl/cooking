@@ -39,8 +39,16 @@
   "rating": 7,
   "servings": 4,
   "slug": "balsamic-roasted-vegetables",
-  "source": "https://www.budgetbytes.com/balsamic-roasted-vegetables/",
-  "tags": ["Vegan", "Vegetarian", "Appetizer", "Roasting"],
+  "source": {
+    "url": "https://www.budgetbytes.com/balsamic-roasted-vegetables/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Appetizer",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

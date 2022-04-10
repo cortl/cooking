@@ -26,8 +26,16 @@
   "rating": 7,
   "servings": 3,
   "slug": "pork-and-peanut-dragon-noodles",
-  "source": "https://www.budgetbytes.com/2018/01/pork-peanut-dragon-noodles/",
-  "tags": ["Pork", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2018/01/pork-peanut-dragon-noodles/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

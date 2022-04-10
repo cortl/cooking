@@ -38,12 +38,22 @@
     "Remove the sheet pan with the meatballs and use the brush to lightly coat the meatballs with the remaining 2 Tbsp BBQ sauce. Return the sheet pan to the oven. Finish roasting both sheet pans for an additional 10 minutes.",
     "After the meatballs, peppers, onions, and pineapple have finished roasting, it's time to serve! Fluff the rice with a fork, then add about ¾ cup rice to each bowl or meal prep container. Divide the meatballs, peppers, onions, and pineapple slices between the four bowls. Top with sliced green onion, then enjoy! "
   ],
-  "notes": ["Meatballs are good, peppers/onions was meh"],
+  "notes": [
+    "Meatballs are good, peppers/onions was meh"
+  ],
   "rating": 6,
   "servings": 4,
   "slug": "sheet-pan-bbq-meatballs",
-  "source": "https://www.budgetbytes.com/sheet-pan-bbq-meatballs/",
-  "tags": ["Beef", "Dinner", "Meal Prep", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/sheet-pan-bbq-meatballs/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Meal Prep",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

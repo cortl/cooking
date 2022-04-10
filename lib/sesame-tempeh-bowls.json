@@ -32,8 +32,18 @@
   "rating": 7,
   "servings": 4,
   "slug": "sesame-tempeh-bowls",
-  "source": "https://www.budgetbytes.com/sesame-tempeh-bowls/",
-  "tags": ["Vegan", "Vegetarian", "Quick", "Dinner", "Meal Prep", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/sesame-tempeh-bowls/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Quick",
+    "Dinner",
+    "Meal Prep",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

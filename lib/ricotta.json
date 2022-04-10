@@ -22,8 +22,17 @@
   "rating": 9,
   "servings": 4,
   "slug": "ricotta",
-  "source": "https://www.seriouseats.com/homemade-ricotta",
-  "tags": ["Vegetarian", "Appetizer", "Breakfast", "Topping", "Stovetop"],
+  "source": {
+    "url": "https://www.seriouseats.com/homemade-ricotta",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Breakfast",
+    "Topping",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Cook",

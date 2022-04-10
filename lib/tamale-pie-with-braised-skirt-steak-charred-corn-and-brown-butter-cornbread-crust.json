@@ -57,8 +57,17 @@
   "rating": 8,
   "servings": 4,
   "slug": "tamale-pie-with-braised-skirt-steak-charred-corn-and-brown-butter-cornbread-crust",
-  "source": "https://www.seriouseats.com/recipes/2015/01/best-tamale-pie-braised-skirt-steak-beef-charred-corn-brown-butter-cornbread-crust-recipe.html",
-  "tags": ["Beef", "Dinner", "Meal Prep", "Baking", "Roasting"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2015/01/best-tamale-pie-braised-skirt-steak-beef-charred-corn-brown-butter-cornbread-crust-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Meal Prep",
+    "Baking",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Active",

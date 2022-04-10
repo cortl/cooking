@@ -34,8 +34,15 @@
   "rating": 6,
   "servings": 4,
   "slug": "taco-salad-skillet",
-  "source": "https://www.budgetbytes.com/2015/07/taco-salad-skillet/",
-  "tags": ["Beef", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2015/07/taco-salad-skillet/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

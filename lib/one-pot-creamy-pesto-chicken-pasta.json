@@ -33,8 +33,16 @@
   "rating": 7,
   "servings": 4,
   "slug": "one-pot-creamy-pesto-chicken-pasta",
-  "source": "https://www.budgetbytes.com/one-pot-creamy-pesto-chicken-pasta/",
-  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/one-pot-creamy-pesto-chicken-pasta/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

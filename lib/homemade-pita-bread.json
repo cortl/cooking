@@ -29,8 +29,15 @@
   "rating": 8,
   "servings": 7,
   "slug": "homemade-pita-bread",
-  "source": "https://cooking.nytimes.com/recipes/1016071-homemade-pita-bread",
-  "tags": ["Vegetarian", "Appetizer", "Baking"],
+  "source": {
+    "url": "https://cooking.nytimes.com/recipes/1016071-homemade-pita-bread",
+    "name": "New York Times"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Total",

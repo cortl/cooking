@@ -43,7 +43,10 @@
   "rating": 10,
   "servings": 4,
   "slug": "easy-homemade-french-onion-soup",
-  "source": "https://www.youtube.com/watch?v=LIy6Bhg7nH8",
+  "source": {
+    "name": "Joshua Weissman",
+    "url": "https://www.youtube.com/watch?v=LIy6Bhg7nH8"
+  },
   "tags": ["Vegetarian", "Soup", "Stovetop"],
   "time": [
     {

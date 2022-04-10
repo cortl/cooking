@@ -30,8 +30,16 @@
   "rating": 4,
   "servings": 2,
   "slug": "sticky-ginger-chicken-wings",
-  "source": "https://www.budgetbytes.com/sticky-ginger-chicken-wings/",
-  "tags": ["Poultry", "Appetizer", "Dinner", "Roasting"],
+  "source": {
+    "url": "https://www.budgetbytes.com/sticky-ginger-chicken-wings/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Appetizer",
+    "Dinner",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

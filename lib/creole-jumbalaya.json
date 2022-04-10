@@ -45,8 +45,16 @@
   "rating": 7,
   "servings": 6,
   "slug": "creole-jumbalaya",
-  "source": "https://cafedelites.com/jambalaya/",
-  "tags": ["Poultry", "Pork", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://cafedelites.com/jambalaya/",
+    "name": "Cafe Delites"
+  },
+  "tags": [
+    "Poultry",
+    "Pork",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

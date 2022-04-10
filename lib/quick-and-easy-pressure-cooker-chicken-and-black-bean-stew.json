@@ -28,7 +28,10 @@
   "rating": 5,
   "servings": 4,
   "slug": "quick-and-easy-pressupre-cooker-chicken-and-black-bean-stew",
-  "source": "https://www.seriouseats.com/recipes/2015/01/quick-and-easy-pressure-cooker-chicken-black-bean-stew-recipe.html",
+  "source": {
+    "name": "Serious Eats",
+    "url": "https://www.seriouseats.com/recipes/2015/01/quick-and-easy-pressure-cooker-chicken-black-bean-stew-recipe.html"
+  },
   "tags": ["Poultry", "Dinner", "Meal Prep", "Soup", "Pressure Cooker"],
   "time": [
     {

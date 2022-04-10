@@ -35,8 +35,15 @@
   "rating": 8,
   "servings": 4,
   "slug": "salisbury-steak-with-mushroom-gravy",
-  "source": "https://www.budgetbytes.com/salisbury-steak-with-mushroom-gravy/",
-  "tags": ["Beef", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/salisbury-steak-with-mushroom-gravy/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

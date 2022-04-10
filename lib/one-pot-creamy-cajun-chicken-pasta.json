@@ -36,8 +36,16 @@
   "rating": 6,
   "servings": 4,
   "slug": "one-pot-creamy-cajun-chicken-pasta",
-  "source": "https://www.budgetbytes.com/one-pot-creamy-cajun-chicken-pasta",
-  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/one-pot-creamy-cajun-chicken-pasta",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

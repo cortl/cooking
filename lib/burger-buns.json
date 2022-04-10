@@ -25,7 +25,10 @@
     },
     {
       "category": "Egg Wash",
-      "items": ["1 whole egg", "splash of whole milk"]
+      "items": [
+        "1 whole egg",
+        "splash of whole milk"
+      ]
     }
   ],
   "instructions": [
@@ -46,8 +49,15 @@
   "rating": 9,
   "servings": 6,
   "slug": "burger-buns",
-  "source": "https://www.youtube.com/watch?v=gTGSUYMu6Ns",
-  "tags": ["Vegetarian", "Baking", "Sandwich"],
+  "source": {
+    "name": "Joshua Weissman",
+    "url": "https://www.youtube.com/watch?v=gTGSUYMu6Ns"
+  },
+  "tags": [
+    "Vegetarian",
+    "Baking",
+    "Sandwich"
+  ],
   "time": [
     {
       "label": "Active",

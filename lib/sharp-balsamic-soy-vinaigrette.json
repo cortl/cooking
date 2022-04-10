@@ -25,8 +25,18 @@
   "rating": 8,
   "servings": 32,
   "slug": "sharp-balsamic-soy-vinaigrette",
-  "source": "https://www.seriouseats.com/soy-balsamic-vinaigrette-recipe",
-  "tags": ["Vegan", "Vegetarian", "Salad", "Topping", "Dinner", "No Cook"],
+  "source": {
+    "url": "https://www.seriouseats.com/soy-balsamic-vinaigrette-recipe",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Salad",
+    "Topping",
+    "Dinner",
+    "No Cook"
+  ],
   "time": [
     {
       "label": "Prep",

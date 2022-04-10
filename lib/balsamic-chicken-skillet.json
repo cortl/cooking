@@ -30,8 +30,15 @@
   "rating": 6,
   "servings": 6,
   "slug": "balsamic-chicken-skillet",
-  "source": "https://www.budgetbytes.com/2016/08/balsamic-chicken-skillet/",
-  "tags": ["Poultry", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2016/08/balsamic-chicken-skillet/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

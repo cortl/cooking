@@ -47,7 +47,10 @@
   "rating": 9,
   "servings": 4,
   "slug": "butter-chicken",
-  "source": "https://www.reddit.com/r/recipes/comments/a9bxuo/butter_chicken/",
+  "source": {
+    "name": "/u/Cyanide_Neil",
+    "url": "https://www.reddit.com/r/recipes/comments/a9bxuo/butter_chicken/"
+  },
   "tags": ["Poultry", "Dinner", "Stovetop"],
   "time": [
     {

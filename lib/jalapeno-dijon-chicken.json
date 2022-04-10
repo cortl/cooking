@@ -29,8 +29,15 @@
   "rating": 7,
   "servings": 6,
   "slug": "jalapeno-dijon-chicken",
-  "source": "https://civilizedcaveman.com/recipes/poultry/jalapeno-dijon-grilled-chicken/",
-  "tags": ["Poultry", "Dinner", "Grilling"],
+  "source": {
+    "url": "https://civilizedcaveman.com/recipes/poultry/jalapeno-dijon-grilled-chicken/",
+    "name": "Civilized Caveman"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Grilling"
+  ],
   "time": [
     {
       "label": "Marinate",

@@ -56,12 +56,22 @@
     "For the sauce: In a small bowl, combine the mayonnaise, yogurt, sugar, vinegar, lemon juice, parsley, and 2 teaspoons black pepper. Whisk to combine. Season to taste with salt.",
     "To serve: Return the entire contents of the chicken bowl (chicken, marinade, and all juices) to the skillet. Cook over medium-high heat, stirring occasionally, until heated through. To serve, divide the rice, lettuce, tomato, and toasted pita bread evenly among four to six plates. Pile the chicken on top of the rice. Top with the white sauce and hot sauce. Serve immediately, passing extra sauce at the table.Note: Do not marinate the chicken longer than 4 hours or it’ll get a mushy texture. If you must delay cooking the chicken for any reason, remove it from the marinade, pat it dry with paper towels, and refrigerate until ready to cook."
   ],
-  "notes": ["Good, Use sour cream instead of mayo in the sauce"],
+  "notes": [
+    "Good, Use sour cream instead of mayo in the sauce"
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "serious-eats-halal-cartstyle-chicken-and-rice-with-white-sauce",
-  "source": "https://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html",
-  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Marinate",

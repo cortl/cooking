@@ -28,7 +28,10 @@
   "rating": 8,
   "servings": 4,
   "slug": "arugula-and-pear-salad",
-  "source": "J. Kenji Lopez-Alt",
+  "source": {
+    "name": "J. Kenji Lopez-Alt",
+    "url": "https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087"
+  },
   "tags": ["Vegetarian", "Quick", "Salad", "Dinner", "Stovetop"],
   "time": [
     {

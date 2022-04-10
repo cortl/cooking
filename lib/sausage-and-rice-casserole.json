@@ -19,12 +19,21 @@
     "Preheat oven to 350 degrees. In a [url:1]medium-sized skillet[/url] over medium-high heat add the sausage and cook halfway. Add the onion, celery, and garlic and continue to cook until the vegetables are tender and the sausage is no longer pink.",
     "Add the sausage to a 2-quart casserole dish. In a [url:2]small bowl[/url], whisk together the chicken broth and cream of celery. Add the rice to the sausage and soup. Mix together until incorporated. Top with slivered almonds. Cover tightly with aluminum foil and bake for 60 minutes. Let rest for 10 minutes before serving."
   ],
-  "notes": ["plain, really easy to make tho"],
+  "notes": [
+    "plain, really easy to make tho"
+  ],
   "rating": 5,
   "servings": 6,
   "slug": "sausage-and-rice-casserole",
-  "source": "https://therecipecritic.com/sausage-and-rice-casserole/",
-  "tags": ["Pork", "Baking", "Dinner"],
+  "source": {
+    "url": "https://therecipecritic.com/sausage-and-rice-casserole/",
+    "name": "The Recipe Critic"
+  },
+  "tags": [
+    "Pork",
+    "Baking",
+    "Dinner"
+  ],
   "time": [
     {
       "label": "Prep",

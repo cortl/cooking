@@ -4,7 +4,9 @@
   "ingredients": [
     {
       "category": "All",
-      "items": ["1 large egg"]
+      "items": [
+        "1 large egg"
+      ]
     }
   ],
   "instructions": [
@@ -16,7 +18,10 @@
   "rating": 8,
   "servings": 1,
   "slug": "soft-boiled-eggs",
-  "source": "https://www.budgetbytes.com/make-soft-boiled-eggs/",
+  "source": {
+    "url": "https://www.budgetbytes.com/make-soft-boiled-eggs/",
+    "name": "Budgetbytes"
+  },
   "tags": [
     "Vegetarian",
     "Quick",

@@ -38,8 +38,15 @@
   "rating": 7,
   "servings": 10,
   "slug": "classic-homemade-meatloaf",
-  "source": "https://www.budgetbytes.com/classic-homemade-meatloaf/",
-  "tags": ["Beef", "Dinner", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/classic-homemade-meatloaf/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Beef",
+    "Dinner",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

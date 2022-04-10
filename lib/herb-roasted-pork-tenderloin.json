@@ -25,8 +25,15 @@
   "rating": 8,
   "servings": 4,
   "slug": "herb-roasted-pork-tenderloin",
-  "source": "https://www.budgetbytes.com/herb-roasted-pork-loin/",
-  "tags": ["Pork", "Dinner", "Roasting"],
+  "source": {
+    "url": "https://www.budgetbytes.com/herb-roasted-pork-loin/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Dinner",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Prep",

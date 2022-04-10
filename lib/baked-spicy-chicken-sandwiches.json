@@ -33,7 +33,9 @@
     },
     {
       "category": "For Serving",
-      "items": ["2 buns"]
+      "items": [
+        "2 buns"
+      ]
     }
   ],
   "instructions": [
@@ -51,8 +53,16 @@
   "rating": 8,
   "servings": 2,
   "slug": "baked-spicy-chicken-sandwiches",
-  "source": "https://www.budgetbytes.com/baked-spicy-chicken-sandwiches/",
-  "tags": ["Poultry", "Sandwich", "Dinner", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/baked-spicy-chicken-sandwiches/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Sandwich",
+    "Dinner",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

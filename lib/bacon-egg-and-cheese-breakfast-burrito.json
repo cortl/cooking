@@ -29,12 +29,21 @@
     "Pile half the potatoes on top of the bacon, followed by half the eggs and cheese. Douse with as much hot sauce as you want.",
     "Fold the tortilla sides in over the filling. Then roll the bottom flap of tortilla up over the filling, holding the sides tight as you roll. Continue rolling until the burrito is sealed. Repeat with remaining tortilla and filling ingredients. Serve right away."
   ],
-  "notes": ["Pretty quick and easy for SeriousEats 😅"],
+  "notes": [
+    "Pretty quick and easy for SeriousEats 😅"
+  ],
   "rating": 7,
   "servings": 2,
   "slug": "bacon-egg-and-cheese-breakfast-burrito",
-  "source": "https://www.seriouseats.com/recipes/2020/07/bacon-egg-and-cheese-breakfast-burrito.html",
-  "tags": ["Pork", "Breakfast", "Stovetop"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2020/07/bacon-egg-and-cheese-breakfast-burrito.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Pork",
+    "Breakfast",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Active",

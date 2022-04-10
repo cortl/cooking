@@ -26,12 +26,21 @@
     "After removing the chicken from the skillet, turn the heat down to medium-low and add the butter and minced garlic. Sauté the garlic in the butter for about one minute. Add the chicken broth and lemon juice to the skillet and whisk to dissolve (or “deglaze”) the brown bits off of the bottom of the pan.",
     "Add the capers and half of the chopped parsley to the skillet. Increase the heat to medium, add the chicken back to the skillet, and spoon the sauce over top. Allow the chicken to simmer in the sauce for 3-5 minutes, without a lid, or until the sauce reduces by half. The flour on the chicken will help thicken the sauce as it simmers. Sprinkle the remaining parsley over top just before serving."
   ],
-  "notes": ["(optional) swap out chicken broth for white wine"],
+  "notes": [
+    "(optional) swap out chicken broth for white wine"
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "chicken-piccata",
-  "source": "https://www.budgetbytes.com/chicken-piccata/",
-  "tags": ["Poultry", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/chicken-piccata/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

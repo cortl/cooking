@@ -25,8 +25,17 @@
   "rating": 7,
   "servings": 2,
   "slug": "will-it-skillet-mac-and-cheese",
-  "source": "https://www.budgetbytes.com/will-skillet-mac-cheese/",
-  "tags": ["Vegetarian", "Appetizer", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/will-skillet-mac-cheese/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

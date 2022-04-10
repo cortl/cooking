@@ -51,8 +51,17 @@
   "rating": 6,
   "servings": 4,
   "slug": "peanut-tofu-noodle-bowls",
-  "source": "https://www.budgetbytes.com/peanut-tofu-noodle-bowls/",
-  "tags": ["Vegan", "Vegetarian", "Dinner", "Meal Prep", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/peanut-tofu-noodle-bowls/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Dinner",
+    "Meal Prep",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -34,7 +34,10 @@
   "rating": 8,
   "servings": 6,
   "slug": "slow-cooker-hamburger-stew",
-  "source": "https://www.budgetbytes.com/slow-cooker-hamburger-stew/",
+  "source": {
+    "url": "https://www.budgetbytes.com/slow-cooker-hamburger-stew/",
+    "name": "Budgetbytes"
+  },
   "tags": [
     "Beef",
     "Soup",

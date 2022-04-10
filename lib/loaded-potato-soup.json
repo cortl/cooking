@@ -38,8 +38,16 @@
   "rating": 8,
   "servings": 6,
   "slug": "loaded-potato-soup",
-  "source": "https://www.budgetbytes.com/loaded-potato-soup/",
-  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/loaded-potato-soup/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Soup",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

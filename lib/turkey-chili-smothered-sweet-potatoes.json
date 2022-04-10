@@ -38,8 +38,17 @@
   "rating": 8,
   "servings": 4,
   "slug": "turkey-chili-smothered-sweet-potatoes",
-  "source": "https://www.budgetbytes.com/turkey-chili-smothered-sweet-potatoes/",
-  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/turkey-chili-smothered-sweet-potatoes/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep",
+    "Stovetop",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

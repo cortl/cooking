@@ -42,8 +42,15 @@
   "rating": 9,
   "servings": 12,
   "slug": "one-bowl-overnight-cinnamon-rolls",
-  "source": "https://www.seriouseats.com/recipes/2017/12/bravetart-homemade-cinnamon-rolls-recipe.html",
-  "tags": ["Vegetarian", "Dessert", "Baking"],
+  "source": {
+    "url": "https://www.seriouseats.com/recipes/2017/12/bravetart-homemade-cinnamon-rolls-recipe.html",
+    "name": "Serious Eats"
+  },
+  "tags": [
+    "Vegetarian",
+    "Dessert",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Active",

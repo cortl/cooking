@@ -30,8 +30,16 @@
   "rating": 7,
   "servings": 4,
   "slug": "cheeseburger-pasta-skillet",
-  "source": "https://www.budgetbytes.com/skillet-cheeseburger-pasta/",
-  "tags": ["Beef", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/skillet-cheeseburger-pasta/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Beef",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

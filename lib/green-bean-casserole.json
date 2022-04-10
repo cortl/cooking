@@ -32,8 +32,17 @@
   "rating": 7,
   "servings": 4,
   "slug": "green-bean-casserole",
-  "source": "https://www.budgetbytes.com/wprm_print/recipe/59338",
-  "tags": ["Vegetarian", "Appetizer", "Baking", "Stovetop", "Thanksgiving"],
+  "source": {
+    "url": "https://www.budgetbytes.com/wprm_print/recipe/59338",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Baking",
+    "Stovetop",
+    "Thanksgiving"
+  ],
   "time": [
     {
       "label": "Prep",

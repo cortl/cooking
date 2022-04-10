@@ -37,8 +37,15 @@
   "rating": 7,
   "servings": 4,
   "slug": "tex-mex-chicken-meal-prep-bowls",
-  "source": "https://www.fromvalerieskitchen.com/tex-mex-chicken-meal-prep-bowls/",
-  "tags": ["Poultry", "Dinner", "Meal Prep"],
+  "source": {
+    "url": "https://www.fromvalerieskitchen.com/tex-mex-chicken-meal-prep-bowls/",
+    "name": "From Valeries' Kitchen"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Meal Prep"
+  ],
   "time": [
     {
       "label": "Prep",

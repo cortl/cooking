@@ -28,8 +28,17 @@
   "rating": 7,
   "servings": 4,
   "slug": "creamy-pesto-chicken",
-  "source": "https://www.budgetbytes.com/creamy-pesto-chicken/",
-  "tags": ["Poultry", "Dinner", "Quick", "Pasta", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/creamy-pesto-chicken/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Quick",
+    "Pasta",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -31,12 +31,22 @@
     "Turn the heat off under the skillet and pour on the prepared orange sauce. Stir to coat the chicken pieces in sauce.",
     "Serve the chicken and sauce over cooked rice, garnished with sliced green onions and any left over orange zest."
   ],
-  "notes": ["dank asf with chicken breasts"],
+  "notes": [
+    "dank asf with chicken breasts"
+  ],
   "rating": 8,
   "servings": 4,
   "slug": "easy-homemade-orange-chicken",
-  "source": "https://www.budgetbytes.com/2017/02/easy-orange-chicken/",
-  "tags": ["Poultry", "Stovetop", "Dinner", "Meal Prep"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2017/02/easy-orange-chicken/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Stovetop",
+    "Dinner",
+    "Meal Prep"
+  ],
   "time": [
     {
       "label": "Prep",

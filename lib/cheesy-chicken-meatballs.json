@@ -27,8 +27,16 @@
   "rating": 6,
   "servings": 15,
   "slug": "cheesy-chicken-meatballs",
-  "source": "https://fitmencook.com/cheesy-chicken-meatballs-recipe/",
-  "tags": ["Poultry", "Dinner", "Baking", "Roasting"],
+  "source": {
+    "url": "https://fitmencook.com/cheesy-chicken-meatballs-recipe/",
+    "name": "Fit Men Cook"
+  },
+  "tags": [
+    "Poultry",
+    "Dinner",
+    "Baking",
+    "Roasting"
+  ],
   "time": [
     {
       "label": "Total",

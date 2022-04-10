@@ -34,8 +34,16 @@
   "rating": 7,
   "servings": 6,
   "slug": "homemade-chicken-yakisoba",
-  "source": "https://www.budgetbytes.com/chicken-yakisoba/",
-  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/chicken-yakisoba/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Pasta",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -31,8 +31,15 @@
   "rating": 8,
   "servings": 8,
   "slug": "potatoes-au-gratin",
-  "source": "https://www.budgetbytes.com/potatoes-au-gratin/",
-  "tags": ["Vegetarian", "Appetizer", "Baking"],
+  "source": {
+    "url": "https://www.budgetbytes.com/potatoes-au-gratin/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Appetizer",
+    "Baking"
+  ],
   "time": [
     {
       "label": "Prep",

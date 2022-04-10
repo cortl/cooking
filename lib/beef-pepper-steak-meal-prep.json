@@ -34,8 +34,17 @@
   "rating": 5,
   "servings": 4,
   "slug": "beef-pepper-steak-meal-prep",
-  "source": "https://fitmencook.com/beef-pepper-steak/",
-  "tags": ["Beef", "Meal Prep", "Dinner", "Stovetop", "Quick"],
+  "source": {
+    "url": "https://fitmencook.com/beef-pepper-steak/",
+    "name": "Fit Men Cook"
+  },
+  "tags": [
+    "Beef",
+    "Meal Prep",
+    "Dinner",
+    "Stovetop",
+    "Quick"
+  ],
   "time": [
     {
       "label": "Total",

@@ -24,8 +24,16 @@
   "rating": 5,
   "servings": 4,
   "slug": "lime-cilantro-rice",
-  "source": "https://www.allrecipes.com/recipe/146000/lime-cilantro-rice/",
-  "tags": ["Vegan", "Vegetarian", "Appetizer", "Stovetop"],
+  "source": {
+    "url": "https://www.allrecipes.com/recipe/146000/lime-cilantro-rice/",
+    "name": "AllRecipes"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Appetizer",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -28,8 +28,17 @@
   "rating": 7,
   "servings": 4,
   "slug": "charred-corn-and-zucchini-salad",
-  "source": "https://www.budgetbytes.com/charred-corn-and-zucchini-salad/",
-  "tags": ["Vegetarian", "Vegan", "Salad", "Appetizer", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/charred-corn-and-zucchini-salad/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Vegetarian",
+    "Vegan",
+    "Salad",
+    "Appetizer",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

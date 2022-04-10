@@ -41,8 +41,15 @@
   "rating": 8,
   "servings": 7,
   "slug": "chicken-pot-pie",
-  "source": "https://girlwiththeironcast.com/chicken-pot-pie/",
-  "tags": ["Poultry", "Baking", "Dinner"],
+  "source": {
+    "url": "https://girlwiththeironcast.com/chicken-pot-pie/",
+    "name": "Girl with the Iron Cast"
+  },
+  "tags": [
+    "Poultry",
+    "Baking",
+    "Dinner"
+  ],
   "time": [
     {
       "label": "Prep",

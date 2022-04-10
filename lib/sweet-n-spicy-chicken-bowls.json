@@ -37,8 +37,16 @@
   "rating": 6,
   "servings": 4,
   "slug": "sweet-n-spicy-chicken-bowls",
-  "source": "https://www.budgetbytes.com/2015/05/sweet-n-spicy-chicken-bowls/",
-  "tags": ["Poultry", "Meal Prep", "Dinner", "Stovetop"],
+  "source": {
+    "url": "https://www.budgetbytes.com/2015/05/sweet-n-spicy-chicken-bowls/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Poultry",
+    "Meal Prep",
+    "Dinner",
+    "Stovetop"
+  ],
   "time": [
     {
       "label": "Prep",

@@ -26,8 +26,17 @@
   "rating": 8,
   "servings": 6,
   "slug": "slow-cooker-chili-rubbed-pulled-pork",
-  "source": "https://www.budgetbytes.com/chili-rubbed-pulled-pork/",
-  "tags": ["Pork", "Dinner", "Sandwich", "Slow Cooker", "Meal Prep"],
+  "source": {
+    "url": "https://www.budgetbytes.com/chili-rubbed-pulled-pork/",
+    "name": "Budgetbytes"
+  },
+  "tags": [
+    "Pork",
+    "Dinner",
+    "Sandwich",
+    "Slow Cooker",
+    "Meal Prep"
+  ],
   "time": [
     {
       "label": "Prep",
