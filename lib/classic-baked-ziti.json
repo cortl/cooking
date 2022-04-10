@@ -61,6 +61,10 @@
       "label": "Total",
       "units": [
         {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
           "measurement": 5,
           "label": "minutes"
         }
