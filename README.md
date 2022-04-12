@@ -64,6 +64,7 @@
 - [Classic Baked Ziti](lib/classic-baked-ziti.json)
 - [Classic Butternut Squash Soup](lib/classic-butternut-squash-soup.json)
 - [Classic Homemade Meatloaf](lib/classic-homemade-meatloaf.json)
+- [Classic Southern Style Potato Salad](lib/classic-southern-style-potato-salad.json)
 - [Coconut Almond Granola](lib/coconut-almond-granola.json)
 - [Coconut Chicken Strips with Sweet Chili Sauce](lib/coconut-chicken-strips-with-sweet-chili-sauce.json)
 - [Cowboy Caviar](lib/cowboy-caviar.json)

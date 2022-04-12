@@ -29,6 +29,7 @@
   ],
   "notes": ["a little bland"],
   "rating": 6,
+  "related": ["bbq-cheddar-baked-chicken"],
   "servings": 8,
   "slug": "classic-southern-style-potato-salad",
   "source": {
@@ -65,6 +66,5 @@
       ]
     }
   ],
-  "title": "Classic Southern Style Potato Salad",
-  "related": ["bbq-cheddar-baked-chicken"]
+  "title": "Classic Southern Style Potato Salad"
 }
