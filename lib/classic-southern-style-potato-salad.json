@@ -1,0 +1,70 @@
+{
+  "createdDate": "4/11/2022",
+  "image": "classic-southern-style-potato-salad.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 lbs. Yukon Gold potatoes ",
+        "1 tsp. salt ",
+        "2 large eggs ",
+        "3/4 cup mayonnaise ",
+        "1 Tbsp yellow mustard ",
+        "1 Tbsp sweet relish ",
+        "1 Tbsp red wine vinegar ",
+        "1/2 tsp Tony Chachere’s seasoning*",
+        "1/4 tsp Freshly cracked black pepper",
+        "2 green onions ",
+        "2 ribs celery (1 cup chopped)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Peel, wash, and chop your potatoes into one inch cubes. Briefly rinse the cubed potatoes with cool water in a colander to remove excess starch. Place the potatoes in a large pot and cover with cold water. Add 1 tsp of salt to the water and bring it to a boil over high heat. Boil the potatoes until they are tender (about ten minutes). Pierce the potatoes with a fork to make sure they are tender, then drain in a colander. Briefly rinse with cool water to cool the potatoes.",
+    "While the potatoes are boiling, cook the eggs. Place the eggs in a small pot and cover them with cold water, then bring the pot to a boil over high heat. Let them boil for one minute before turning off the heat. Cover the pot with a lid and let the eggs sit in the hot water for 15 minutes, then carefully pour out the hot water and run cool water into the pot to stop the cooking process. Once cooled, peel and dice the eggs.",
+    "While the potatoes and eggs are cooking, make the dressing. Stir together the mayonnaise, mustard, relish, red wine vinegar, Tony’s (or seasoning salt), and freshly cracked pepper. ",
+    "Finely dice the celery, and slice the green onions.",
+    "Add the cooked, cooled, and drained potatoes to a large bowl along with the diced celery, sliced green onion, diced eggs, and dressing. Stir until everything is combined and coated in the dressing. If you prefer a softer, less chunky potato salad, mash the potatoes slightly. ",
+    "Taste and adjust the mustard or seasoning to your liking, then serve."
+  ],
+  "notes": ["a little bland"],
+  "rating": 6,
+  "servings": 8,
+  "slug": "classic-southern-style-potato-salad",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/southern-style-potato-salad/"
+  },
+  "tags": ["Vegetarian", "Salad", "Appetizer", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "label": "minutes",
+          "measurement": "15"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "label": "minutes",
+          "measurement": "20"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "label": "minutes",
+          "measurement": "35"
+        }
+      ]
+    }
+  ],
+  "title": "Classic Southern Style Potato Salad",
+  "related": ["bbq-cheddar-baked-chicken"]
+}
