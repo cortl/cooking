@@ -1,0 +1,70 @@
+{
+  "createdDate": "4/15/2022",
+  "image": "beef-taco-pasta.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 Tbsp olive oil",
+        "1 yellow onion",
+        "2 cloves garlic, minced",
+        "1/2 lb. ground beef",
+        "1 packet taco seasoning*",
+        "1 15oz. can diced tomatoes",
+        "1 4oz. can diced green chiles",
+        "1/2 lb. small pasta shells",
+        "2 cups beef broth",
+        "1 cup shredded cheddar cheese",
+        "2 green onions, sliced"
+      ]
+    }
+  ],
+  "instructions": [
+    "Dice the onion and mince the garlic. Add the onion, garlic, and olive oil to a deep skillet or wide-bottomed pot. Sauté over medium heat until the onions are soft.",
+    "Add the ground beef and taco seasoning and continue to cook and stir until the ground beef is cooked through.",
+    "Add the diced tomatoes (with juices) and diced green chiles (with juices) to the beef and stir to combine.",
+    "Finally, add the pasta and beef broth and stir to combine once again. It's okay if the pasta is not fully submerged under the broth.",
+    "Place a lid on the pot and turn the heat up to medium-high. Allow the broth to come up to a full boil. Once boiling, give the pasta a stir, place the lid back on top, and turn the heat down to medium-low.",
+    "Let the pasta continue to simmer, stirring every few minutes and always replacing the lid, for about 10 minutes or until the pasta is tender. There should be some thick saucy liquid left in the pot once the pasta is cooked.",
+    "Add the shredded cheddar cheese and stir until it has melted into the sauce. Top with sliced green onions and serve! "
+  ],
+  "notes": [],
+  "rating": 6,
+  "servings": 4,
+  "slug": "beef-taco-pasta",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/beef-taco-pasta/"
+  },
+  "tags": ["Beef", "Dinner", "Quick", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "label": "minutes",
+          "measurement": "5"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "label": "minutes",
+          "measurement": "25"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "label": "minutes",
+          "measurement": "30"
+        }
+      ]
+    }
+  ],
+  "title": "Beef Taco Pasta"
+}
