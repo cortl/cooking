@@ -1,0 +1,78 @@
+{
+  "createdDate": "4/15/2022",
+  "image": "ground-turkey-stir-fry.jpg",
+  "ingredients": [
+    {
+      "category": "Stir Fry Sauce",
+      "items": [
+        "1/4 cup soy sauce",
+        "1/2 Tbsp toasted sesame oil",
+        "1/2 Tbsp brown sugar",
+        "1 pinch red pepper flakes (optional)",
+        "1 Tbsp  water"
+      ]
+    },
+    {
+      "category": "Stir Fry",
+      "items": [
+        "2 bell peppers",
+        "4 green onions",
+        "2 oz. spinach (two large handfuls, or 1/4 of an 8oz. bag)",
+        "2 Tbsp cooking oil of choice",
+        "2 cloves garlic, minced",
+        "19 oz. ground turkey*"
+      ]
+    },
+    {
+      "category": "For Serving",
+      "items": ["1/4 cup chopped peanuts", "2.5 cups cooked brown rice"]
+    }
+  ],
+  "instructions": [
+    "Make the stir fry sauce by stirring together the soy sauce, toasted sesame oil, brown sugar, red pepper, and water until the sugar is dissolved. Set the sauce aside.",
+    "Dice the bell peppers and slice the green onions.",
+    "Heat the cooking oil in a very large skillet over medium heat. Once hot, add the ground turkey and minced garlic. Stir and cook until the turkey is cooked through and no water is left pooling on the bottom of the skillet (8-10 minutes).",
+    "Once the turkey is cooked and the moisture has evaporated, add the bell pepper and green onions to the skillet. Stir and cook for about 2 minutes more, then add the spinach and continue to cook just until it is about half wilted (1-2 minutes).",
+    "Pour the stir fry sauce into the skillet. Continue to stir and cook the turkey and vegetables until everything is coated in sauce and the spinach is fully wilted (about 2 minutes more).",
+    "Serve about 1 cup of the stir fry mixture with 1/2 cup rice and a sprinkle of chopped peanuts over top. "
+  ],
+  "notes": [],
+  "rating": 7,
+  "servings": 4,
+  "slug": "ground-turkey-stir-fry",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/ground-turkey-stir-fry/"
+  },
+  "tags": ["Poultry", "Meal Prep", "Dinner", "Quick", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "label": "minutes",
+          "measurement": "10"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "label": "minutes",
+          "measurement": "15"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "label": "minutes",
+          "measurement": "25"
+        }
+      ]
+    }
+  ],
+  "title": "Ground Turkey Stir Fry"
+}
