@@ -1,0 +1,102 @@
+{
+  "archived": false,
+  "createdDate": "04/17/2022",
+  "image": "red-wine-velvet-cake.jpg",
+  "ingredients": [
+    {
+      "category": "Frosting:",
+      "items": [
+        "1 recipe Cream Cheese Frosting"
+      ]
+    },
+    {
+      "category": "Cake Batter:",
+      "items": [
+        "2 2/3 cups | 12 ounces all-purpose flour, such as Gold Medal",
+        "3/4 cup | 2 1/4 ounces raw cocoa powder, such as Navitas Naturals",
+        "3 1/2 sticks | 14 ounces unsalted butter, soft but cool - about 65°F",
+        "2 cups gently packed | 16 ounces light brown sugar",
+        "2 1/4 teaspoons baking soda",
+        "1 teaspoon Diamond Crystal kosher salt (half as much if iodized)",
+        "1/2 teaspoon ground cinnamon",
+        "2 tablespoons | 1 ounce vanilla extract",
+        "6 large eggs, brought to about 70°F",
+        "1 1/2 cups | 12 ounces dry red wine, such as California Cabernet Sauvignon"
+      ]
+    },
+    {
+      "category": "To Finish:",
+      "items": [
+        "One 3 or 4-ounce block or bar white chocolate",
+        "2 tablespoons | 1/2 ounce cocoa nibs"
+      ]
+    }
+  ],
+  "instructions": [
+    "To better synchronize the downtime in both recipes, make the cream cheese frosting (see headnote for link) before the cake. While it’s cooling, adjust oven rack to the lower-middle position and preheat to 350°F. Line three 8-by-3-inch anodized aluminum cake pans with parchment and grease with pan spray. (If you don’t have three pans, the remaining batter can be held at room temperature for up to 3 hours.)",
+    "Sift flour and cocoa (if using cup measures, spoon into the cups and level with a knife before sifting); set aside.",
+    "Combine butter, brown sugar, baking soda, salt, cinnamon, and vanilla extract in the bowl of a stand mixer fitted with a paddle attachment. Mix on low speed to moisten, then increase to medium and cream until fluffy and light, about 5 minutes, pausing to scrape the bowl and beater halfway through. With the mixer running, add the eggs one at a time, mixing until each is fully incorporated before adding the next.",
+    "Reduce speed to low and sprinkle in one-third of the flour/cocoa, followed by a third of the red wine. Alternate between the two, allowing each addition to be roughly incorporated before adding the next. Fold batter with a flexible spatula to ensure it’s well mixed from the bottom up. Divide among the prepared cake pans (about 22 ounces each).",
+    "Bake until the cakes are domed and firm when gently pressed, about 30 minutes. A toothpick inserted into the center will emerge with a few crumbs still attached. Cool until no trace of warmth remains (the domes will level off in time), about 90 minutes.",
+    "Loosen the cakes from their pans with a knife, invert onto a wire rack, peel off the parchment, and reinvert.",
+    "Crumb-coat and frost the cake with the cream cheese frosting. Slide a dozen 2-inch-wide strips of wax paper under the bottom edge of the cake to shield the plate. Shave the white chocolate with a coarse-bladed Microplane and use a spoon to sprinkle white chocolate over the top and sides of the cake. When fully covered, scatter the cocoa nibs on top to mimic ermine “spots”: If you take a step back and fling the nibs like you would a Frisbee, they’ll stick to the sides in a random yet natural pattern (spoiler alert: It’s really, really fun).",
+    "Under a cake dome or an inverted pot, the frosted cake will keep for up to 24 hours at room temperature. After cutting, wrap leftover slices individually and store at room temperature for up to 3 days more."
+  ],
+  "notes": [
+    "it is definitely browner than I thought it would be",
+    "a little dense, maybe I did somethng wrong -- the pictures also show a dense cake"
+  ],
+  "rating": 8,
+  "related": [
+    "cream-cheese-frosting"
+  ],
+  "servings": 16,
+  "slug": "red-wine-velvet-cake",
+  "source": {
+    "name": "Stella Parks",
+    "url": "https://food52.com/recipes/83631-best-red-velvet-cake-recipe"
+  },
+  "tags": [
+    "Vegetarian",
+    "Dessert",
+    "Baking"
+  ],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Red (Wine) Velvet Cake"
+}

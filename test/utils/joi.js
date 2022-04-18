@@ -18,7 +18,7 @@ const Joi = joi
         ? { value, errors: [] }
         : {
             value,
-            errors: [new Error(`${imagePath} does note exist`)],
+            errors: [new Error(`${value} does note exist`)],
           };
     },
   })

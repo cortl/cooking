@@ -1,0 +1,73 @@
+{
+  "archived": false,
+  "createdDate": "04/17/2022",
+  "image": "cream-cheese-frosting.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 1/2 cups | 12 ounces milk (any percentage will do)",
+        "1 vanilla bean, split lengthwise",
+        "1 cup plus 2 tablespoons | 8 ounces sugar",
+        "1/3 cup | 1 1/2 ounces cornstarch",
+        "3 large eggs, straight from the fridge",
+        "1 tablespoon vanilla extract",
+        "2 cups | 16 ounces full-fat cream cheese, cool but soft - about 62°F",
+        "3 sticks | 12 ounces unsalted butter, cool but soft - about 62°F",
+        "2 tablespoons | 1 ounce freshly squeezed lemon juice"
+      ]
+    }
+  ],
+  "instructions": [
+    "Make the custard: In a 3-quart stainless steel saucier, bring the milk and vanilla bean to a simmer over medium heat. Remove from heat, cover and steep for 30 minutes. Alternatively cover and refridgerate for up to 24 hours to extract the deepest vanilla flavor",
+    "Whisk the sugar and cornstarch together in a medium bowl, followed by the eggs",
+    "Return the milk to a simmer. Remove vanilla bean, scrape the flavorful pulp into the milk, and discard the pod. Lade 1/2 cup of hot milk into the eggs, whisking to combine. Repeat with a second and third ladleful then pour the warmed eggs into the pot and cook over medium heat whisking constantly, until the custard turns thick and lumpy, about 3 minutes.",
+    "Once it begins to bubble sluggishly, continue cooking and whisking for 2 full minutes, to neutralize a starch-dissolving portein found in the yolks; the custard should be very smooth. Remove from heeat and stir in vanilla extract",
+    "Pour the custard into a baking dish about 7-by-11 inches to speed the cooling process. Press a sheet of plastic against the surface and refridgerate until thick and cool, about 1 hour (or roughly 68°F). Alternatively, refridgerate for up to 1 week, then let stand at room temperature until warmed to 68°F before proceeding",
+    "Finish the buttercream: In the bowl of a stand mxer fitted with the paddle attachment, beat the cream cheese and butter on medium speed until fluffly and light, about 5 minutes. Meanwhile, stir the thick pudding until smooth. Scrape the bowl and beater with a flexible spatula, then switch to the whisk attachment. Whipping on medium speed, add pudding a few tablespoons at a time, then drizzle in the lemon juice.",
+    "Scrape the bowl once more and whip for a few seconds to ensure that no lumps remain. The buttercream should be light and creamy, but thick enough to hang upside down from a spoon."
+  ],
+  "notes": [
+    "I had a hard time with the custard, with the cornstarch it turned very rubbery. I had to use a blender with some whole milk to get it to thin out and not be so booger-y. I was able to debug and fix the custad though 😅",
+    "Next time try making the custad sans cornstarch (and without the vanilla pod to see if I can get it to work better before trying for real)"
+  ],
+  "rating": 9,
+  "related": ["red-wine-velvet-cake"],
+  "servings": 6,
+  "slug": "cream-cheese-frosting",
+  "source": {
+    "name": "Stella Parks",
+    "url": "https://www.seriouseats.com/cream-cheese-buttercream-recipe"
+  },
+  "tags": ["Dessert", "Topping", "Vegetarian"],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "Cream Cheese Frosting"
+}
