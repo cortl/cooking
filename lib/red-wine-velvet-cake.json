@@ -5,9 +5,7 @@
   "ingredients": [
     {
       "category": "Frosting:",
-      "items": [
-        "1 recipe Cream Cheese Frosting"
-      ]
+      "items": ["1 recipe Cream Cheese Frosting"]
     },
     {
       "category": "Cake Batter:",
@@ -47,20 +45,14 @@
     "a little dense, maybe I did somethng wrong -- the pictures also show a dense cake"
   ],
   "rating": 8,
-  "related": [
-    "cream-cheese-frosting"
-  ],
+  "related": ["cream-cheese-frosting"],
   "servings": 16,
   "slug": "red-wine-velvet-cake",
   "source": {
     "name": "Stella Parks",
     "url": "https://food52.com/recipes/83631-best-red-velvet-cake-recipe"
   },
-  "tags": [
-    "Vegetarian",
-    "Dessert",
-    "Baking"
-  ],
+  "tags": ["Vegetarian", "Dessert", "Baking"],
   "time": [
     {
       "label": "Active",
