@@ -105,6 +105,7 @@
 - [Easy Sesame Chicken](lib/easy-sesame-chicken.json)
 - [Easy Slow Cooker Chicken Tikka Masala](lib/easy-slow-cooker-chicken-tikka-masala.json)
 - [Easy Sweet Chili Sauce](lib/easy-sweet-chili-sauce.json)
+- [Easy Teriyaki Chicken](lib/easy-teriyaki-chicken.json)
 - [Enchilada Bubble Up Casserole](lib/enchilada-bubble-up-casserole.json)
 - [New York Cheesecake](lib/epic-new-york-cheesecake-from-bravetart-recipe.json)
 - [Firecracker Shrimp](lib/firecracker-shrimp.json)

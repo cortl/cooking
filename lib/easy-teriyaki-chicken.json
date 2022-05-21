@@ -32,13 +32,7 @@
     "name": "Budgetbytes",
     "url": "https://www.budgetbytes.com/easy-teriyaki-chicken/"
   },
-  "tags": [
-      "Poultry",
-      "Quick",
-      "Dinner",
-      "Meal Prep",
-      "Stovetop"
-  ],
+  "tags": ["Poultry", "Quick", "Dinner", "Meal Prep", "Stovetop"],
   "time": [
     {
       "label": "Prep",
