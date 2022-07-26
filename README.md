@@ -71,6 +71,7 @@
 - [Cowboy Caviar](lib/cowboy-caviar.json)
 - [Cream Cheese Frosting](lib/cream-cheese-frosting.json)
 - [Creamy Chicken Fajita Pasta](lib/creamy-chicken-fajita-pasta.json)
+- [Creamy Mushroom Chicken with Crispy Onions](lib/creamy-mushroom-chicken.json)
 - [Creamy Pesto Chicken](lib/creamy-pesto-chicken.json)
 - [Creamy Salsa Chicken Skillet](lib/creamy-salsa-chicken-skillet.json)
 - [Creamy Spinach Artichoke Chicken](lib/creamy-spinach-artichoke-chicken.json)
