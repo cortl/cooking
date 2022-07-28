@@ -1,0 +1,68 @@
+{
+  "archived": false,
+  "createdDate": "07/08/2022",
+  "image": "black-pepper-tempeh.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 tablespoons extra virgin olive oil",
+        "3 medium sized shallots, thinly sliced",
+        "1 teaspoon crushed red pepper flakes",
+        "10 medium sized cloves of garlic, smashed",
+        "1 tablespoon fresh ginger, peeled and grated",
+        "3 tablespoons soy sauce",
+        "1/4 cup sugar",
+        "2 tablespoons water",
+        "8 ounces tempeh, sliced pencil thick",
+        "12 ounces caulflower, very finely chopped",
+        "1 teaspoon freshly ground black pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Place a large skillet over medium low heat. Add the olive oil, shallots, red pepper flakes, garlic, and ginger. Cook slowly, stirring occasionally, until the garlic is soft. This should take 15-20 minutes.",
+    "As the aromatics are cooking, whisk the soy sauce, sugar, and water together.",
+    "When the garlic softens, increase the heat to medium high and add the tempeh and stir to coat with the oil. Add the soy sauce mixture and stir again to coat. Fry this mixture for 2-3 minutes before adding the cauliflower. Stir the cauliflower to mix thoroughly, then cover and cook for a few minutes. Uncover and cook until the tempeh and cauliflower begin to brown. You may need to add more water to the pan to prevent sticking; do so one tablespoon at a time. Remove from the heat and stir in the black pepper before serving."
+  ],
+  "notes": [],
+  "rating": 6,
+  "related": [],
+  "servings": 4,
+  "slug": "black-pepper-tempeh",
+  "source": {
+    "name": "Heidi Swanson",
+    "url": "https://www.amazon.com/Super-Natural-Every-Day-Well-Loved/dp/1580082777"
+  },
+  "tags": ["Vegan", "Vegetarian", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Black Pepper Tempeh"
+}
