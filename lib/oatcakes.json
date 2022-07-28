@@ -1,0 +1,70 @@
+{
+  "archived": false,
+  "createdDate": "07/18/2022",
+  "image": "oatcakes.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 cups rolled oats",
+        "2 cups whole wheat pastry flour",
+        "1/2 tsp baking soda",
+        "2 tsp salt",
+        "1/4 cup flax seeds",
+        "3/4 cup walnuts, chopped",
+        "1/3 cup extra-virgin coconut oil",
+        "1/3 cup unsalted butter",
+        "3/4 cup maple syrup (or honey or combination)",
+        "1/2 cup natural cane sugar (or brown sugar)",
+        "2 large eggs, slightly beaten"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine dry ingredients, oats flour, baking soda, flax seeds, and walnuts in a bowl.",
+    "Over low heat, melt coconut oil, butter, maple syrup and sugar until dissolved.",
+    "Pour wet ingredients over dry and mix until moistened. Add beaten egg and mix until just combined. Do not overmix.",
+    "Divide mixture evenly among the 12 cups in the muffin pan, filling each one nearly to the top.",
+    "Bake at 350 degrees for 25-30 minutes until edges of oatcakes are golden brown"
+  ],
+  "notes": [],
+  "rating": 9,
+  "related": [],
+  "servings": 12,
+  "slug": "oatcakes",
+  "source": {
+    "name": "Heidi Swanson",
+    "url": "https://www.amazon.com/Super-Natural-Every-Day-Well-Loved/dp/1580082777"
+  },
+  "tags": ["Vegetarian", "Breakfast", "Dessert", "Baking"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Oatcakes"
+}

@@ -1,0 +1,70 @@
+{
+  "archived": false,
+  "createdDate": "07/27/2022",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 tablespoons extra-virgin olive oil",
+        "2 small onions",
+        "8 ounces / 225g baby potatoes, unpeeled, sliced into paper thin rounds",
+        "2 shallots, chopped",
+        "Fine-grain sea salt",
+        "8 ounces / 225g seasonal vegetable, such as summer squash, broccoli, or asparagus, cut into 1/2 inch / 1cm pieces",
+        "10 large eggs, well beaten",
+        "1/4 cup / 1oz / 30g crumbled goat or feta cheese"
+      ]
+    },
+    {
+      "category": "Garnish",
+      "items": ["small bunch of chives, chopped"]
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a heavy ovenproof 12-inch skilet over medium-high heat. Stir in the onions, potatoes, half of the shallots, and two big pinches of salt. Cover and cook, stirring occasionally, until the potatoes are just cooked through, about 5 minutes.",
+    "Stir in the vegetables and cook for another minute or two, until they soften up a bit. Set aside half of this mixture on a plate",
+    "Whisk 1/2 teaspoon salt into the eggs, and pour the eggs into the skilet. Cook over medium-low heat until the eggs are just set and there isn't a lot of liquid in the pan, about 5 minutes. To facilitate this, run a spatula underneath the perimeter of the frittata and tilt the pan so the uncooked eggs run to the underside. The key is to aviod browning on the bottom. Top with the reserved vegetable mixture and sprinkle with the cheese and the remaining shallot.",
+    "Place under a broiler (a low setting will give you more control, if you have that option) for a couple of minuets, or just until the top of the frittata is puffed up and set.",
+    "Remove from the broiler and let it set for a minute or two. Sprinkle with chives, drizzle with a bit of oliev oil, and serve warm or at room temperature, right out of the pan."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": "6",
+  "slug": "fritatta",
+  "source": {
+    "name": "Heidi Swanson",
+    "url": "https://www.amazon.com/Super-Natural-Every-Day-Well-Loved/dp/1580082777"
+  },
+  "tags": ["Vegetarian", "Quick", "Breakfast", "Baking", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Frittata"
+}
