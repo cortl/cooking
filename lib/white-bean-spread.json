@@ -1,0 +1,66 @@
+{
+  "archived": false,
+  "createdDate": "07/20/2022",
+  "image": "white-bean-spread.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/4 cup (60ml) extra-virgin olive oil",
+        "1 teaspoon chopped fresh rosemary",
+        "1 clove garlic, finely chopped",
+        "2 cups (12oz/340g) cooked white beans, or 1 (15oz/425g) can, rinsed and drained",
+        "3/4 cup (70g) sliced almonds, toasted (I used whole natural almonds; they were great too)",
+        "sea salt",
+        "1 tablespoon lemon juice, plus more to taste",
+        "1/4 to 3/4 cup (60-180ml) hot water",
+        "grated zest of 1/2 lemon"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine the olive oil, rosemary and garlic. Over medium-low heat, slowly warm the mixture until the oil just barely starts to sizzle, 1 to 2 minutes. Remove from the heat and set aside for 10 minutes. Pour the oil through a strainer and discard the garlic and rosemary bits.",
+    "In a food processor, combine the beans, two-thirds of the almonds, 1/2 teaspoon salt, the lemon juice and two-thirds of the rosemary oil. Pulse a couple of times to bring the ingredients together. Add the water 1/4 cup (60ml) at a time, pulsing all the while, until the mixture is the consistency of thick frosting. You might not need all the water; it really depends on how starchy your beans are and how thick you want your spread to be. Taste the mixture and add more salt and/or lemon juice to taste.",
+    "Scoop the beans into a small serving dish and make a few indentations in the top. Sprinkle with the lemon zest and the remaining almonds and drizzle with the remaining rosemary oil. Serve at room temperature with bread, crackers, crudites, etc."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": 4,
+  "slug": "white-bean-spread",
+  "source": {
+    "name": "Heidi Swanson",
+    "url": "https://www.amazon.com/Super-Natural-Every-Day-Well-Loved/dp/1580082777"
+  },
+  "tags": ["Quick", "Vegetarian", "Vegan", "Appetizer", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "White Bean Spread"
+}
