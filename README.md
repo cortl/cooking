@@ -138,6 +138,7 @@
 - [Green Chile Mac and Cheese](lib/green-chile-mac-and-cheese.json)
 - [Ground Turkey Stir Fry](lib/ground-turkey-stir-fry.json)
 - [Ham and Potato Soup](lib/ham-and-potato-soup.json)
+- [Hashbrowns](lib/hashbrowns.json)
 - [Healthy Chicken Fajitas Meal Prep](lib/healthy-chicken-fajitas-meal-prep.json)
 - [Hearty Black Bean Quesadillas](lib/hearty-black-bean-quesadillas.json)
 - [Herb Butter Chicken Thighs](lib/herb-butter-chicken-thighs.json)
