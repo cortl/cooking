@@ -69,6 +69,7 @@
 - [Classic Southern Style Potato Salad](lib/classic-southern-style-potato-salad.json)
 - [Coconut Almond Granola](lib/coconut-almond-granola.json)
 - [Coconut Chicken Strips with Sweet Chili Sauce](lib/coconut-chicken-strips-with-sweet-chili-sauce.json)
+- [Corn Chowder](lib/corn-chowder.json)
 - [Cowboy Caviar](lib/cowboy-caviar.json)
 - [Cream Cheese Frosting](lib/cream-cheese-frosting.json)
 - [Creamy Chicken Fajita Pasta](lib/creamy-chicken-fajita-pasta.json)
