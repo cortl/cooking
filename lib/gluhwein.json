@@ -1,0 +1,75 @@
+{
+  "archived": false,
+  "createdDate": "11/15/2021",
+  "image": "gluhwein.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 bottle Red Wine (700 ml to 1 liter)",
+        "1 Orange, organic",
+        "1 Lemon, organic",
+        "100 g Sugar",
+        "500 ml Grape Juice",
+        "5 Cloves, whole",
+        "1 Bay Leaf",
+        "1 Star Anise",
+        "10 Juniper Berries",
+        "1 stick Cinnamon"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pour the sugar into a large pot and heat it until the sugar melts.",
+    "Let the sugar caramelize until it is medium brown.",
+    "Add the grape juice – careful it will steam and be loud for a moment.",
+    "Stir for a minute to make sure the caramelized sugar dissolves in the juice.",
+    "Cut the orange and lemon into ⅛ and add all into the pot.",
+    "Also, add the spices.",
+    "Let this boil slightly for about 15 minutes, then reduce the heat.",
+    "Add the wine, make sure the temperature of the Glühwein doesn't exceed 70°C / 158°F.",
+    "Remove the fruits and spices.",
+    "Serve hot in a mug, maybe add some honey and stir with a stick of cinnamon.",
+    "Prost!"
+  ],
+  "notes": [],
+  "rating": 9,
+  "related": [],
+  "servings": 4,
+  "slug": "gluhwein",
+  "source": {
+    "name": "My German Recipes",
+    "url": "https://mygerman.recipes/gluhwein-german-mulled-wine-christmas-markets/"
+  },
+  "tags": ["Drink", "Stovetop", "Vegan", "Vegetarian"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Gluhwein"
+}

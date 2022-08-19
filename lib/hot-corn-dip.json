@@ -1,0 +1,73 @@
+{
+  "archived": false,
+  "createdDate": "11/20/2021",
+  "image": "hot-corn-dip.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 red bell pepper",
+        "1 jalapeño",
+        "2 cloves garlic",
+        "3 green onions",
+        "2 Tbsp butter",
+        "12 oz. frozen corn",
+        "4 oz. cream cheese",
+        "1/4 cup sour cream",
+        "2 Tbsp mayonnaise",
+        "1/2 tsp ground cumin",
+        "1/2 tsp hot sauce",
+        "4 oz. pepper jack cheese, shredded (1 cup)",
+        "2 Tbsp grated Parmesan"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375ºF. Remove the seeds and stems from the red bell pepper and jalapeño, then finely dice both. Mince the garlic and slice the green onion.",
+    "Add the butter to a large skillet and melt over medium heat. Once melted, add the red bell pepper, jalapeño, and garlic. Sauté over medium for a few minutes, or just until the red bell pepper begins to soften.",
+    "Add the frozen corn and continue to sauté until the corn has heated through.",
+    "Cut the cream cheese into chunks, then add it to the skillet along with the sour cream and mayonnaise. Stir and heat the mixture until everything is melted together and smooth.",
+    "Finally, add the sliced green onions, cumin, hot sauce, half of the shredded pepper jack (½ cup) , and Parmesan. Stir until the cheese has melted into the sauce.",
+    "Spread the corn dip into a 2 quart casserole dish, then top with the remaining pepper jack. Transfer the dish to the oven and bake the corn dip for about 20 minutes in the preheated 375ºF oven, or until the cheese on top is melted and the dip is bubbling around the edges. Serve hot."
+  ],
+  "notes": [],
+  "rating": 9,
+  "related": [],
+  "servings": 6,
+  "slug": "hot-corn-dip",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/hot-corn-dip/"
+  },
+  "tags": ["Vegetarian", "Appetizer", "Baking", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Hot Corn Dip"
+}
