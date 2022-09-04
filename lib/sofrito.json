@@ -1,0 +1,52 @@
+{
+  "archived": false,
+  "createdDate": "08/30/2022",
+  "image": "sofrito.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 yellow onion",
+        "1 green bell pepper",
+        "1 bunch fresh cilantro",
+        "6 cloves garlic"
+      ]
+    }
+  ],
+  "instructions": [
+    "Peel the onion and deseed bell pepper, then quarter them. Rinse the cilantro and chop the bunch roughly.",
+    "Add the onion, bell pepper, cilantro, and garlic to the bowl of a food processor. Pulse until a smooth, thick puree forms.",
+    "Use the sofrito in a recipe immediately, store in an air-tight container for up to a month in the fridge, or portion into ice cube trays and store in the freezer for up to three months."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": ["arroz-con-pollo"],
+  "servings": 7,
+  "slug": "sofrito",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/how-to-make-sofrito/"
+  },
+  "tags": ["Vegan", "Vegetarian", "Quick", "Seasoning Blend", "No Cook"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Sofrito"
+}
