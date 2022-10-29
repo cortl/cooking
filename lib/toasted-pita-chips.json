@@ -1,0 +1,63 @@
+{
+  "archived": false,
+  "createdDate": "10/28/2022",
+  "image": "toasted-pita-chips.jpg",
+  "ingredients": [
+    {
+      "category": "Chips",
+      "items": [
+        "2 to 3 pita bread with pockets store-bought or homemade",
+        "Extra virgin olive oil I used Greek Private Reserve extra virgin olive oil",
+        "Kosher Salt",
+        "Seasoning of choice I used a generous sprinkle of Za'atar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 425 degrees F. And prepare a large sheet pan (do not line with parchment).",
+    "Split the pita pockets in half to make single rounds of pita. Place each pita flat on your cutting board and split them in half from the seam with a sharp knife or kitchen shears (you should end up with 2 single rounds of pita). Note: If your pitas are the thick, single-layer kind, you can skip this step as you can't split them.",
+    "Brush with extra virgin olive oil & Season. Brush the pita rounds with extra virgin olive oil and season with kosher salt and za'atar (do this on both sides).",
+    "Cut into triangles. Using a knife or a pair of kitchen shears again, cut each round of pita into 8 triangles.",
+    "Bake! Arrange the pita triangles on the prepared sheet pan. Bake anywhere from 5 to 10 minutes, checking occasionally to turn over the pita triangles that have gained color, until you have pita chips that are crispy and golden brown to your liking."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["hummus"],
+  "servings": 6,
+  "slug": "toasted-pita-chips",
+  "source": {
+    "name": "The Mediterranean Dish",
+    "url": "https://www.themediterraneandish.com/homemade-pita-chips/"
+  },
+  "tags": ["Vegan", "Vegetarian", "Quick", "Appetizer", "Roasting"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Toasted Pita Chips"
+}
