@@ -1,88 +1,87 @@
 {
-    "archived": false,
-    "createdDate": "10/18/2022",
-    "image": "peanut-tofu-bowl.jpg",
-    "ingredients": [
-      {
-        "category": "Peanut Sauce",
-        "items": [
-          "1/2 cup natural peanut butter",
-          "2 Tbsp sriracha",
-          "2 Tbsp brown sugar",
-          "1 lime (2 Tbsp juice)",
-          "2 tsp soy sauce",
-          "2 cloves garlic, minced",
-          "1/2 cup vegetable broth"
-        ]
-      },
-      {
-        "category": "Tofu Stir Fry",
-        "items": [
-          "14 oz. extra firm tofu*",
-          "1 Tbsp soy sauce",
-          "1 Tbsp toasted sesame oil",
-          "1 Tbsp cornstarch",
-          "2 Tbsp cooking oil, divided",
-          "16 oz. frozen stir fry vegetables"
-        ]
-      },
-      {
-        "category": "Serving",
-        "items": ["3 cups cooked rice", "1 handful cilantro"]
-      }
-    ],
-    "instructions": [
-      "Make the peanut sauce first so the flavors have time to blend. Whisk together the peanut butter, sriracha, brown sugar, 2 Tbsp lime juice, soy sauce, minced garlic, and vegetable broth.",
-      "Press the tofu for 30 minutes to expel the excess water or use previously frozen tofu and squeeze the water out with your hands. Cut the tofu block into 24 triangles (12 squares, then cut diagonally into triangles).",
-      "In a large bowl, whisk together the soy sauce, toasted sesame oil, and cornstarch. Add the tofu pieces and gently toss until they are coated in the mixture.",
-      "Add 1 Tbsp cooking oil to a large non-stick skillet and heat over medium. Once hot, add the tofu and cook until browned on all sides (about 10 minutes total). Remove the tofu from the skillet.",
-      "Add 1 Tbsp cooking oil to the skillet then add the frozen stir fry vegetables. Cook over medium heat until heated through.",
-      "Add the cooked tofu back to the skillet with the vegetables, then pour the prepared peanut sauce over top. Stir to combine and heat through.",
-      "Slice any remaining lime into wedges. Top the peanut tofu with the lime wedges and fresh cilantro (if desired) before serving over cooked rice or noodles."
-    ],
-    "notes": [],
-    "rating": 7,
-    "related": [],
-    "servings": "4",
-    "slug": "peanut-tofu-bowl",
-    "source": {
-      "name": "BudgetBytes",
-      "url": "https://www.budgetbytes.com/peanut-tofu/"
+  "archived": false,
+  "createdDate": "10/18/2022",
+  "image": "peanut-tofu-bowl.jpg",
+  "ingredients": [
+    {
+      "category": "Peanut Sauce",
+      "items": [
+        "1/2 cup natural peanut butter",
+        "2 Tbsp sriracha",
+        "2 Tbsp brown sugar",
+        "1 lime (2 Tbsp juice)",
+        "2 tsp soy sauce",
+        "2 cloves garlic, minced",
+        "1/2 cup vegetable broth"
+      ]
     },
-    "tags": ["Vegan", "Vegetarian", "Quick", "Meal Prep", "Stovetop"],
-    "time": [
-      {
-        "label": "Prep",
-        "units": [
-          {
-            "measurement": 45,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Cook",
-        "units": [
-          {
-            "measurement": 20,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Total",
-        "units": [
-          {
-            "measurement": 1,
-            "label": "hour"
-          },
-          {
-            "measurement": 5,
-            "label": "minutes"
-          }
-        ]
-      }
-    ],
-    "title": "Peanut Tofu Bowl"
-  }
-  
+    {
+      "category": "Tofu Stir Fry",
+      "items": [
+        "14 oz. extra firm tofu*",
+        "1 Tbsp soy sauce",
+        "1 Tbsp toasted sesame oil",
+        "1 Tbsp cornstarch",
+        "2 Tbsp cooking oil, divided",
+        "16 oz. frozen stir fry vegetables"
+      ]
+    },
+    {
+      "category": "Serving",
+      "items": ["3 cups cooked rice", "1 handful cilantro"]
+    }
+  ],
+  "instructions": [
+    "Make the peanut sauce first so the flavors have time to blend. Whisk together the peanut butter, sriracha, brown sugar, 2 Tbsp lime juice, soy sauce, minced garlic, and vegetable broth.",
+    "Press the tofu for 30 minutes to expel the excess water or use previously frozen tofu and squeeze the water out with your hands. Cut the tofu block into 24 triangles (12 squares, then cut diagonally into triangles).",
+    "In a large bowl, whisk together the soy sauce, toasted sesame oil, and cornstarch. Add the tofu pieces and gently toss until they are coated in the mixture.",
+    "Add 1 Tbsp cooking oil to a large non-stick skillet and heat over medium. Once hot, add the tofu and cook until browned on all sides (about 10 minutes total). Remove the tofu from the skillet.",
+    "Add 1 Tbsp cooking oil to the skillet then add the frozen stir fry vegetables. Cook over medium heat until heated through.",
+    "Add the cooked tofu back to the skillet with the vegetables, then pour the prepared peanut sauce over top. Stir to combine and heat through.",
+    "Slice any remaining lime into wedges. Top the peanut tofu with the lime wedges and fresh cilantro (if desired) before serving over cooked rice or noodles."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": [],
+  "servings": "4",
+  "slug": "peanut-tofu-bowl",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/peanut-tofu/"
+  },
+  "tags": ["Vegan", "Vegetarian", "Quick", "Meal Prep", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Peanut Tofu Bowl"
+}

@@ -1,78 +1,77 @@
 {
-    "archived": false,
-    "createdDate": "09/18/2022",
-    "image": "honey-chipotle-chicken.jpg",
-    "ingredients": [
-      {
-        "category": "All",
-        "items": [
-          "3 chipotle peppers in adobo sauce",
-          "2 Tbsp honey",
-          "2 Tbsp lime juice (about one lime)",
-          "1 clove garlic, minced",
-          "1/2 tsp salt",
-          "2 Tbsp cooking oil, divided",
-          "6 boneless, skinless chicken thighs",
-          "2 sliced green onions (optional)"
-        ]
-      }
-    ],
-    "instructions": [
-      "Mince the chipotle peppers. Combine the minced peppers in a bowl with the honey, lime juice, minced garlic, salt, and 1 Tbsp cooking oil.",
-      "Place the chicken thighs in a shallow dish and pour the marinade over top. Toss the chicken in the marinade until evenly coated.",
-      "Marinate the chicken for a minimum of 30 minutes, up to one day. If marinating longer than one hour, refrigerate the chicken as it marinates.",
-      "When ready to cook the chicken, heat a large skillet over medium. Once hot, add the remaining 1 Tbsp cooking oil and swirl to coat the surface of the skillet.",
-      "Add the marinated chicken to the skillet and cook on one side until the water released by the chicken evaporates, the marinade has reduced to a glaze, and the chicken has browned. Flip the chicken over and cook on the second side until browned and cooked through.",
-      "Top with sliced green onions and serve."
-    ],
-    "notes": [],
-    "rating": 6,
-    "related": ["cowboy-caviar"],
-    "servings": 4,
-    "slug": "honey-chipotle-chicken",
-    "source": {
-      "name": "BudgetBytes",
-      "url": "https://www.budgetbytes.com/honey-chipotle-chicken/"
+  "archived": false,
+  "createdDate": "09/18/2022",
+  "image": "honey-chipotle-chicken.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 chipotle peppers in adobo sauce",
+        "2 Tbsp honey",
+        "2 Tbsp lime juice (about one lime)",
+        "1 clove garlic, minced",
+        "1/2 tsp salt",
+        "2 Tbsp cooking oil, divided",
+        "6 boneless, skinless chicken thighs",
+        "2 sliced green onions (optional)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Mince the chipotle peppers. Combine the minced peppers in a bowl with the honey, lime juice, minced garlic, salt, and 1 Tbsp cooking oil.",
+    "Place the chicken thighs in a shallow dish and pour the marinade over top. Toss the chicken in the marinade until evenly coated.",
+    "Marinate the chicken for a minimum of 30 minutes, up to one day. If marinating longer than one hour, refrigerate the chicken as it marinates.",
+    "When ready to cook the chicken, heat a large skillet over medium. Once hot, add the remaining 1 Tbsp cooking oil and swirl to coat the surface of the skillet.",
+    "Add the marinated chicken to the skillet and cook on one side until the water released by the chicken evaporates, the marinade has reduced to a glaze, and the chicken has browned. Flip the chicken over and cook on the second side until browned and cooked through.",
+    "Top with sliced green onions and serve."
+  ],
+  "notes": [],
+  "rating": 6,
+  "related": ["cowboy-caviar"],
+  "servings": 4,
+  "slug": "honey-chipotle-chicken",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/honey-chipotle-chicken/"
+  },
+  "tags": ["Poultry", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     },
-    "tags": ["Poultry", "Dinner", "Stovetop"],
-    "time": [
-      {
-        "label": "Prep",
-        "units": [
-          {
-            "measurement": 5,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Marinate",
-        "units": [
-          {
-            "measurement": 30,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Cook",
-        "units": [
-          {
-            "measurement": 15,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Total",
-        "units": [
-          {
-            "measurement": 1,
-            "label": "hour"
-          }
-        ]
-      }
-    ],
-    "title": "Honey Chipotle Chicken"
-  }
-  
+    {
+      "label": "Marinate",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Honey Chipotle Chicken"
+}

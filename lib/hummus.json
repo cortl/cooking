@@ -1,56 +1,55 @@
 {
-    "archived": false,
-    "createdDate": "10/10/2022",
-    "image": "hummus.jpg",
-    "ingredients": [
-      {
-        "category": "Hummus",
-        "items": [
-          "1 15oz. can chickpeas",
-          "2 Tbsp olive oil",
-          "1/4 cup lemon juice",
-          "1/4 cup tahini",
-          "1 clove garlic",
-          "1/2 tsp salt",
-          "1/4 tsp ground cumin"
-        ]
-      }
-    ],
-    "instructions": [
-      "Drain the chickpeas. Place the drained chickpeas in a food processor along with the olive oil, lemon juice, tahini, garlic, salt, and cumin.",
-      "Pulse the mixture until it is fairly smooth. If the mixture is too dry to process smoothly, add a couple tablespoons of water, extra olive oil, or liquid from the canned chickpeas.",
-      "Taste the hummus and adjust the salt, cumin, lemon, or garlic to your liking."
-    ],
-    "notes": [],
-    "rating": 8,
-    "related": ["mediterranean-hummus-bowls", "toasted-pita-chips"],
-    "servings": 6,
-    "slug": "hummus",
-    "source": {
-      "name": "BudgetBytes",
-      "url": "https://www.budgetbytes.com/hummus-four-flavors/"
+  "archived": false,
+  "createdDate": "10/10/2022",
+  "image": "hummus.jpg",
+  "ingredients": [
+    {
+      "category": "Hummus",
+      "items": [
+        "1 15oz. can chickpeas",
+        "2 Tbsp olive oil",
+        "1/4 cup lemon juice",
+        "1/4 cup tahini",
+        "1 clove garlic",
+        "1/2 tsp salt",
+        "1/4 tsp ground cumin"
+      ]
+    }
+  ],
+  "instructions": [
+    "Drain the chickpeas. Place the drained chickpeas in a food processor along with the olive oil, lemon juice, tahini, garlic, salt, and cumin.",
+    "Pulse the mixture until it is fairly smooth. If the mixture is too dry to process smoothly, add a couple tablespoons of water, extra olive oil, or liquid from the canned chickpeas.",
+    "Taste the hummus and adjust the salt, cumin, lemon, or garlic to your liking."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["mediterranean-hummus-bowls", "toasted-pita-chips"],
+  "servings": 6,
+  "slug": "hummus",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/hummus-four-flavors/"
+  },
+  "tags": ["Dinner", "Vegan", "Vegetarian", "Appetizer", "Quick", "No Cook"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     },
-    "tags": ["Dinner", "Vegan", "Vegetarian", "Appetizer", "Quick", "No Cook"],
-    "time": [
-      {
-        "label": "Prep",
-        "units": [
-          {
-            "measurement": 5,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Total",
-        "units": [
-          {
-            "measurement": 5,
-            "label": "minutes"
-          }
-        ]
-      }
-    ],
-    "title": "Hummus"
-  }
-  
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Hummus"
+}
