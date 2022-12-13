@@ -1,0 +1,85 @@
+{
+  "archived": false,
+  "createdDate": "12/12/2022",
+  "image": "swedish-meatballs.jpg",
+  "ingredients": [
+    {
+      "category": "Meatballs",
+      "items": [
+        "1/4 cup plain breadcrumbs",
+        "1/4 tsp nutmeg",
+        "1/4 tsp allspice",
+        "1/4 tsp garlic powder",
+        "1/4 tsp salt",
+        "1/2 lb. ground pork",
+        "1/2 lb. ground beef",
+        "1 large egg, lightly whisked"
+      ]
+    },
+    {
+      "category": "Gravy",
+      "items": [
+        "4 Tbsp butter, divided",
+        "4 Tbsp all-purpose flour",
+        "2 cups beef broth",
+        "1 tsp Worcestershire sauce",
+        "1/8 tsp nutmeg",
+        "1/3 cup heavy cream",
+        "1/4 tsp freshly cracked pepper",
+        "1 Tbsp chopped fresh parsley (optional garnish)"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine the breadcrumbs, nutmeg, allspice, garlic powder, and salt. (Note: Mixing the dry ingredients first will ensure the seasoning is evenly distributed throughout the meatballs and prevent you from overworking the meat mixture.)",
+    "Meanwhile, add the pork and beef to a large bowl. Lightly whisk the egg, then add it to the bowl with the meat. Lastly, add the breadcrumb mixture.",
+    "Use your hands to mix the meat and seasonings together until evenly combined, but avoid overmixing.",
+    "Divide and shape the meat mixture into 16 meatballs, about 1.5 Tbsp each.",
+    "Add 1 Tbsp of the butter to a large skillet and heat over medium. When the butter is melted and foaming, add the meatballs. Cook for a minute or two on each side, or until well browned. The meatballs do not need to be cooked through at this point.",
+    "Remove the browned meatballs from the skillet. Add the remaining 3 Tbsp butter and the flour. Whisk the butter and flour together as the butter melts. Cook the butter and flour mixture for about two minutes.",
+    "Slowly whisk in the beef broth, making sure to release all of the browned bits off the bottom of the skillet. Allow the broth to come up to a simmer, at which point it will thicken.",
+    "Stir in the Worcestershire sauce, pepper, nutmeg, and heavy cream. Taste the gravy and adjust the salt or seasonings to your liking.",
+    "Return the meatballs to the skillet and stir to coat in the sauce. Heat the meatballs over low, stirring occasionally, until heated through (about 5 minutes).",
+    "Serve the meatballs over mashed potatoes or egg noodles with a little chopped fresh parsley and cracked pepper for garnish."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["fluffy-garlic-herb-mashed-potatoes"],
+  "servings": 4,
+  "slug": "swedish-meatballs",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/swedish-meatballs/"
+  },
+  "tags": ["Beef", "Pork", "Dinner", "Meal Prep", "Roasting", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Swedish Meatballs"
+}
