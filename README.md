@@ -273,6 +273,7 @@
 - [Sticky Ginger Chicken Wings](lib/sticky-ginger-chicken-wings.json)
 - [Sticky Ginger Soy Glazed Chicken Meal Prep](lib/sticky-ginger-soy-glazed-chicken-meal-prep.json)
 - [Stuffed Mexican Peppers](lib/stuffed-mexican-peppers.json)
+- [Swedish Meatballs](lib/swedish-meatballs.json)
 - [Sweet and Sour Slow Cooked Chicken](lib/sweet-and-sour-slow-cooked-chicken.json)
 - [Sweet and Spicy Glazed Chicken Thighs](lib/sweet-and-spicy-glazed-chicken-thighs.json)
 - [Sweet and Spicy Tempeh Bowls](lib/sweet-and-spicy-tempeh-bowls.json)
