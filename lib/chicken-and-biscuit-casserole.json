@@ -1,0 +1,94 @@
+{
+  "archived": false,
+  "createdDate": "12/24/2022",
+  "image": "chicken-and-biscuit-casserole.jpg",
+  "ingredients": [
+    {
+      "category": "Casserole Base",
+      "items": [
+        "4 Tbsp salted butter, divided",
+        "1 lb. ground chicken",
+        "1/2 tsp red pepper flakes",
+        "1 tsp rubbed sage",
+        "1/4 tsp salt",
+        "1/4 tsp black pepper",
+        "1 yellow onion, diced",
+        "2 cloves garlic, minced",
+        "3 carrots, sliced",
+        "3 stalks celery, sliced",
+        "1 cup frozen corn",
+        "2 Tbsp all-purpose flour",
+        "1 1/2 cups chicken broth*"
+      ]
+    },
+    {
+      "category": "Biscuit Topping",
+      "items": [
+        "3 Tbsp salted butter, divided",
+        "1/2 cup buttermilk",
+        "2/3 cup all-purpose flour",
+        "1 tsp baking powder",
+        "1/2 tsp salt",
+        "1/2 tsp granulated sugar",
+        "1/4 tsp black pepper",
+        "1/2 cup shredded cheddar cheese"
+      ]
+    }
+  ],
+  "instructions": [
+    "Dice the onion, carrots, and celery. Mince the garlic, and set the vegetables aside.",
+    "Add 1 Tbsp of butter to a deep-sided skillet and melt over medium heat. Add the ground chicken to the skillet and season with salt, pepper, red pepper flakes, and sage.",
+    "Let the chicken cook, stirring only occasionally to allow time for the chicken to brown. Once fully cooked, remove the chicken from the skillet with a slotted spoon, leaving the extra fat in the pan. If no fat remains, add an additional 1 Tbsp of butter.",
+    "After removing the chicken from the skillet, add the diced onion to the skillet. Saute until the onions are translucent. Add chopped carrots, celery, corn, garlic, and a pinch of salt and pepper. Saute the vegetables for about 5 minutes until the carrots are slightly soft.",
+    "Break the chicken into smaller pieces and add back to the skillet and stir to combine.",
+    "Add 2 Tbsp of butter and 2 Tbsp of flour to the skillet. Stir and cook this mixture for about 2 minutes, continuing to stir until the butter has melted and the flour is coating the vegetables.",
+    "Stir in the chicken broth, making sure to dissolve all of the flour and browned bits off the bottom of the skillet. Bring the broth to a simmer, at which point the broth will thicken slightly. Taste the mixture and adjust seasonings if necessary.",
+    "Remove the skillet from heat and transfer the mixture to a casserole dish. Set aside.",
+    "Preheat the oven to 425°F.",
+    "Add the flour, baking powder, salt, pepper, and sugar to a medium bowl and whisk to combine. Sprinkle grated cheese into dry ingredients and toss to coat.",
+    "Melt 2 Tbsp of butter and stir it into the buttermilk. (It’s okay if the mixture curdles.) Fold the buttermilk mixture into the dry ingredients until just combined.",
+    "Drop dollops of the biscuit mixture evenly around the top of the casserole.",
+    "Cut 1 Tbsp of chilled butter into very small pieces and sprinkle over the biscuits.",
+    "Bake the casserole for about 25 minutes or until the biscuits are golden brown."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": [],
+  "servings": 6,
+  "slug": "chicken-and-biscuit-casserole",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/chicken-and-biscuit-casserole/"
+  },
+  "tags": ["Poultry", "Dinner", "Baking", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Chicken and Biscuit Casserole"
+}
