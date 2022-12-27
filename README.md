@@ -50,6 +50,7 @@
 - [Cheesy Chicken Meatballs](lib/cheesy-chicken-meatballs.json)
 - [Chef John's Pita Bread](lib/chef-johns-pita-bread.json)
 - [Chef John's Stuffed Peppers](lib/chef-johns-stuffed-peppers.json)
+- [Chicken and Biscuit Casserole](lib/chicken-and-biscuit-casserole.json)
 - [Chicken Caprese Macaroni and Cheese](lib/chicken-caprese-macaroni-and-cheese.json)
 - [Chicken Noodle Soup](lib/chicken-noodle-soup.json)
 - [Chicken Parmesan Meatballs](lib/chicken-parmesan-meatballs.json)
