@@ -20,6 +20,7 @@
   "notes": ["Not crispy but pretty good!"],
   "rating": 8,
   "servings": 4,
+  "related": ["bbq-chicken-quesadillas"],
   "slug": "spicy-sweet-potato-fries",
   "source": {
     "url": "https://www.budgetbytes.com/spicy-sweet-potato-fries/",
