@@ -23,6 +23,7 @@
 - [Balsamic Roasted Vegetables](lib/balsamic-roasted-vegetables.json)
 - [Basic Kombucha](lib/basic-kombucha.json)
 - [BBQ Cheddar Baked Chicken](lib/bbq-cheddar-baked-chicken.json)
+- [BBQ Chicken Quesadillas](lib/bbq-chicken-quesadillas.json)
 - [Beef and Broccoli](lib/beef-and-broccoli.json)
 - [Beef and Cabbage Stir Fry](lib/beef-and-cabbage-stir-fry.json)
 - [Beef Burrito Casserole](lib/beef-burrito-casserole.json)

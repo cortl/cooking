@@ -33,12 +33,7 @@
     "name": "BudgetBytes",
     "url": "https://www.budgetbytes.com/ultimate-bbq-chicken-quesadillas/"
   },
-  "tags": [
-    "Poultry",
-    "Quick",
-    "Dinner",
-    "Stovetop"
-  ],
+  "tags": ["Poultry", "Quick", "Dinner", "Stovetop"],
   "time": [
     {
       "label": "Prep",
