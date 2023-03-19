@@ -1,6 +1,7 @@
 # Recipes
 
 ## Table of Contents
+
 - [Absolutely Ultimate Potato Soup](lib/absolutely-ultimate-potato-soup.json)
 - [Air Fryer Breakfast Potatoes](lib/air-fryer-breakfast-potatoes.json)
 - [Aji Verde](lib/aji-verde.json)
