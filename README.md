@@ -1,7 +1,6 @@
 # Recipes
 
 ## Table of Contents
-
 - [Absolutely Ultimate Potato Soup](lib/absolutely-ultimate-potato-soup.json)
 - [Air Fryer Breakfast Potatoes](lib/air-fryer-breakfast-potatoes.json)
 - [Aji Verde](lib/aji-verde.json)
@@ -31,6 +30,7 @@
 - [Quick Beef Pepper Steak Meal Prep](lib/beef-pepper-steak-meal-prep.json)
 - [Beef Taco Pasta](lib/beef-taco-pasta.json)
 - [Beef Taco Skillet](lib/beef-taco-skillet.json)
+- [Black Bean Burgers](lib/black-bean-burgers.json)
 - [Black Bean Burritos](lib/black-bean-burritos.json)
 - [Black Pepper Tempeh](lib/black-pepper-tempeh.json)
 - [Blackened Salmon with Zucchini](lib/blackened-salmon-with-zucchini.json)
@@ -82,6 +82,7 @@
 - [Creamy Pesto Chicken](lib/creamy-pesto-chicken.json)
 - [Creamy Salsa Chicken Skillet](lib/creamy-salsa-chicken-skillet.json)
 - [Creamy Spinach Artichoke Chicken](lib/creamy-spinach-artichoke-chicken.json)
+- [Creamy Tortellini Soup](lib/creamy-tortellini-soup.json)
 - [Creamy Tuscan Garlic Chicken](lib/creamy-tuscan-garlic-chicken.json)
 - [Jumbalaya (Creole)](lib/creole-jumbalaya.json)
 - [Crispy Baked Beef and Black Bean Tacos](lib/crispy-baked-beef-and-black-bean-tacos.json)
@@ -218,6 +219,7 @@
 - [Quick and Easy Homemade Ricotta Gnocchi](lib/quick-and-easy-homemade-ricotta-gnocchi.json)
 - [Quick and Easy Pressure Cooker Chicken and Black Bean Stew](lib/quick-and-easy-pressupre-cooker-chicken-and-black-bean-stew.json)
 - [Quick Seasoned Black Beans](lib/quick-seasoned-black-beans.json)
+- [Ranch Chicken Meal Prep](lib/ranch-chicken-meal-prep.json)
 - [Red (Wine) Velvet Cake](lib/red-wine-velvet-cake.json)
 - [Reddit Beef Barbacoa](lib/reddit-beef-barbacoa.json)
 - [Reddit Zuppa Toscana](lib/reddit-zuppa-toscana.json)
@@ -229,6 +231,7 @@
 - [Salisbury Steak with Mushroom Gravy](lib/salisbury-steak-with-mushroom-gravy.json)
 - [Salsa Chicken Meal Prep](lib/salsa-chicken-meal-prep.json)
 - [Easy Sausage and Rice Casserole](lib/sausage-and-rice-casserole.json)
+- [Sausage and Vegetable Skillet](lib/sausage-and-vegetable-skillet.json)
 - [Sausage Gravy](lib/sausage-gravy.json)
 - [Sausage Stuffed Jalapenos](lib/sausage-stuffed-jalapenos.json)
 - [Secret Ingredient Tomato Soup](lib/secret-ingredient-tomato-soup.json)
