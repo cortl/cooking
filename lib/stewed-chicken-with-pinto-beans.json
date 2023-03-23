@@ -1,0 +1,93 @@
+{
+  "archived": false,
+  "createdDate": "03/22/2023",
+  "image": "stewed-chicken-with-pinto-beans.jpg",
+  "ingredients": [
+    {
+      "category": "Stewed Chicken",
+      "items": [
+        "1 tablespoon neutral oil for frying",
+        "1 yellow onion peeled and thinly sliced",
+        "2 pounds boneless skinless chicken a mix of thighs and tenders or one or the other, chopped into bite-sized pieces",
+        "2 tablespoons butter",
+        "1½ tablespoons mexican spice blend",
+        "15- ounce can pinto beans drained and rinsed",
+        "15- ounce can fire-roasted diced tomatoes",
+        "1½ cups water or chicken stock",
+        "Salt and pepper"
+      ]
+    },
+    {
+      "category": "Charred Jalapeño Cream Cheese Sauce",
+      "items": [
+        "1 tablespoon neutral oil",
+        "8- ounces spreadable cream cheese or use block cream cheese at room temperature",
+        "1 small bunch of cilantro",
+        "2 limes juiced",
+        "1–2 jalapeños",
+        "Salt to taste"
+      ]
+    },
+    {
+      "category": "For serving",
+      "items": [
+        "Cooked white rice",
+        "Sliced cucumber or diced avocado",
+        "4 lime wedges",
+        "Fresh cilantro"
+      ]
+    }
+  ],
+  "instructions": [
+    "Sauté the onion: Heat 1 tablespoon neutral oil in a deep skillet over medium-high heat. Add the onion and cook for 3–5 minutes until it begins to sweat and turn translucent",
+    "Fry the chicken: Pat the chicken dry and season all over with salt and pepper. Add the chicken to the onion and cook in an even layer for 6–7 minutes per side until golden brown.",
+    "Melt the butter into the chicken. Add the Sweet Chilifire blend to the chicken and toss to coat. Cook for 1 minute until fragrant.",
+    "Add the beans, tomatoes, and water to the skillet and bring to a boil. Season with salt and pepper, then reduce heat and simmer for 35 minutes until reduced and thickened. Taste and season with salt and pepper once more.",
+    "Prepare the charred jalapeño cream cheese: Place the lime juice and cilantro in a food processor and pulse until minced. Add the cream cheese and pulse until smooth.",
+    "Turn on the broiler. Remove the stems from the jalapeños. Place them in a small, ovenproof skillet and drizzle with 1 tablespoon of neutral oil. Place under the broiler for 2–5 minutes until charred all over. Keep an eye on them, so they don’t burn!",
+    "Place the charred jalapeños in the food processor with the cream cheese and pulse until completely blended and smooth. Taste and season with salt.",
+    "To serve: Divide warm, cooked rice between bowls. Spoon the stewed chicken on top and drizzle each bowl with the charred jalapeño cream cheese. Garnish with fresh cilantro and serve with lime wedges. Enjoy!"
+  ],
+  "notes": [
+    "Cream cheese might be overkill, cilantro lime crema would work fine"
+  ],
+  "rating": 8,
+  "related": ["mexican-seasoning-mix"],
+  "servings": 4,
+  "slug": "stewed-chicken-with-pinto-beans",
+  "source": {
+    "name": "Tried & True Recipe",
+    "url": "https://www.triedandtruerecipe.com/stewed-chicken-with-pinto-beans/"
+  },
+  "tags": ["Poultry", "Dinner", "Meal Prep", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Stewed Chicken with Pinto Beans"
+}

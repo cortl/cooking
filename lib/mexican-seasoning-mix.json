@@ -1,0 +1,57 @@
+{
+  "archived": false,
+  "createdDate": "03/22/2023",
+  "image": "mexican-seasoning-mix.jpg",
+  "ingredients": [
+    {
+      "category": "Seasoning",
+      "items": [
+        "1 teaspoon chili powder",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder (or 2 teaspoons crushed dried fried onions)",
+        "1⁄2 teaspoon crushed red pepper flakes",
+        "1⁄2 teaspoon dried oregano",
+        "2 teaspoons paprika",
+        "1 1⁄2 teaspoons ground cumin",
+        "1⁄2 teaspoon sea salt",
+        "1⁄2 teaspoon black pepper",
+        "1 pinch ground cinnamon",
+        "1 pinch ground cloves"
+      ]
+    }
+  ],
+  "instructions": [
+    "Mix together ingredients thoroughly in a bowl and store in a cool place in an airtight container."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": ["stewed-chicken-with-pinto-beans"],
+  "servings": 1,
+  "slug": "mexican-seasoning-mix",
+  "source": {
+    "name": "Food.com: Artandkitchen",
+    "url": "https://www.food.com/recipe/mexican-seasoning-mix-456146"
+  },
+  "tags": ["Seasoning Blend", "No Cook"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Mexican Seasoning Mix"
+}
