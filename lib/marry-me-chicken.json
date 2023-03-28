@@ -1,0 +1,80 @@
+{
+  "archived": false,
+  "createdDate": "01/01/2023",
+  "image": "marry-me-chicken.jpg",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "3 medium-sized chicken breasts, each breast sliced into cutlets",
+        "30g (1oz) of plain flour (in the bowl)",
+        "2tbsp of olive oil (you can use oil from sun-dried tomatoes)",
+        "30g (1oz) of butter"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
+        "4 garlic cloves, finely diced",
+        "200ml (0.21quarts) of veg stock",
+        "300ml (0.31quarts) of heavy cream",
+        "30g (1oz) of grated parmesan cheese (plus 10g more for garnish)",
+        "1 tsp tomato paste",
+        "150g (5.3oz) of sun-dried tomatoes, finely diced",
+        "1 tbsp oregano",
+        "1/2 tsp of chilli flakes (optional)"
+      ]
+    },
+    {
+      "category": "Garnish",
+      "items": [
+        "10 cherry tomatoes, sliced in half",
+        "fresh basil, a few leaves for garnish"
+      ]
+    }
+  ],
+  "instructions": ["Assembly instructions"],
+  "notes": [
+    "I would cook the chicken in larger pieces, then cut afterwards",
+    "Not all 100g of the flour was needed, cutting to 30g"
+  ],
+  "rating": 8,
+  "related": [],
+  "servings": 4,
+  "slug": "marry-me-chicken",
+  "source": {
+    "name": "/u/mienczaczek",
+    "url": "https://www.reddit.com/r/recipes/comments/10ua6iz/marry_me_chicken/"
+  },
+  "tags": ["Poultry", "Pasta", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Marry Me Chicken"
+}
