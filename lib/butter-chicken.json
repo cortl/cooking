@@ -5,11 +5,11 @@
     {
       "category": "All",
       "items": [
-        "400g Chicken breast",
+        "400g/1lb Chicken breast, cut into 1 in pieces",
         "1 Tbsp Ginger paste",
         "1 Tbsp Garlic",
         "1/2 Tsp Salt",
-        "1 Tsp Red Chili Flakes",
+        "1 Tsp Chili powder (Red chili flakes)",
         "1 Tsp Paprika",
         "3-4 Tbsp Butter",
         "60g Cashews",
@@ -19,7 +19,7 @@
         "1 Tbsp Ginger paste",
         "1 Tbsp garlic paste",
         "1/2 Tsp Paprika",
-        "1/2 Tsp Red Chili powder",
+        "1/2 Tsp Chili powder (Red Chili powder)",
         "1/2 Tbsp + 1 Tsp Garam Massala",
         "1 Tsp Salt",
         "4 Tbsp Heavy Cream"
@@ -43,7 +43,7 @@
     "Add kasoori methi, 1 tsp garam masala and 3 tbsp heavy cream",
     "Mix well. turn off heat let is rest for 5 mins"
   ],
-  "notes": ["Try marinating the chicken in yogurt first too"],
+  "notes": ["Try marinating the chicken in yogurt first too", "Kasoori methi is the same thing as fenugreek"],
   "rating": 9,
   "servings": 4,
   "slug": "butter-chicken",
