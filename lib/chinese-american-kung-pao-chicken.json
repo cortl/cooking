@@ -1,0 +1,101 @@
+{
+  "archived": false,
+  "createdDate": "04/28/2023",
+  "image": "chinese-american-kung-pao-chicken.jpg",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "1lb (450g) boneless, skinless chicken thighs, cut into 1/2-3/4\" chunks",
+        "1/2 teaspoon (1.5g) kosher salt",
+        "1 teaspoon (5ml) light soy sauce",
+        "1 teaspoon (5ml) Shaoxing wine or dry sherry",
+        "1/2 teaspoon (2g) sugar",
+        "1/2 teaspoon (3ml) roasted sesame oil",
+        "1/2 teaspoon (1.5g) cornstarch"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
+        "1 tablespoon (15ml) light soy sauce or shoyu",
+        "2 teaspoons (10ml) dark soy sauce",
+        "1 tablespoon (12g) sugar",
+        "2 teaspoons (10ml) rice vinegar",
+        "1 tablespoon (15ml) Shaoxing wine",
+        "1 teaspoon (5ml) roasted sesame oil"
+      ]
+    },
+    {
+      "category": "Cornstarch slurry",
+      "items": ["2 teaspoons (6g) cornstarch", "1 tablespoon (15ml) water"]
+    },
+    {
+      "category": "Stir-fry",
+      "items": [
+        "3 tablespoons (45ml) peanut (preferred), rice bran, or other neutral oil",
+        "2 coin-sized slices (10g) fresh ginger",
+        "2 medium garlic cloves (5g), smashed",
+        "8 small dried red Chinese or árbol chiles, snipped into 1/2\" segments, or 1/4 teaspoon hot red pepper flakes",
+        "1 small zucchini (about 5oz/145g), cut into 1/2\" dice",
+        "1 medium red bell pepper (about 5oz/145g), cut into 1/2\" dice",
+        "2 scallions, sliced 1/2\" thick",
+        "1/2 cup (about 3oz/90g) roasted peanuts"
+      ]
+    }
+  ],
+  "instructions": [
+    "For the chicken: Place the chicken in a medium bowl, cover with cold water, and vigorously agitate it. Drain through a fine-mesh strainer set in the sink and press on the chicken with your hands to remove excess water. Return the chicken to the bowl and add the salt, soy sauce, wine, sugar, seasme oil, and cornstarch. Stir vigorously with your finger-tips or chopsticks for 30 seconds. Set aside while you prepare the remaining stir-fry ingredients (at least 15 minutes)",
+    "For the sauce: combine the soy sauce, sugar, vinegar, wine, and sesame oil in a small bowl and stir together until homogenous. Set aside. Combine the cornstarch and water in a separate bowl and stir with a fork until the cornstarch is dissolved.",
+    "BEFORE YOU STIR-FRY, GET YOUR BOWLS READY. 1. Marinated chicken, 2. Ginger, garlic, and dry chiles, 3. Zucchini and bell peppers, 4. Scallions and peanuts, 5. Sauce, 6. Sauce, 7. Cornstarch slurry, 8. Empty bowl for cooked ingredients, 9. Serving platter",
+    "For the stir-fry: Using a paper towel, rub a thin film of oil into a wok and set it over high heat until smoking. Add 1 tablespoon of the oil and swirl to coat. Immediately add the chicken, spread into a single layer, and cook without moving until lightly browned, about 1 minute. Continue cooking, tossing and stirring frequently, until the exterior is opaque but the chicken is still slightly raw in the center, about 2 minutes longer. Transfer to a clean bowl and set aside.",
+    "Wipe out the wok and reheat over high heat until lightly smoking. Add the remaining 2 tablespoons oil and swirl to coat. Immediately add the ginger, garlic, and chiles and stir-fry until the chiles darken in color, about 10 seconds. Immediately add the zucchini and peppers and stir-fry until the vegetables are tender-crisp, about 1 minute. Add the scallions and peanuts and toss to combine.",
+    "Return the chicken to the wok and toss everything to combine. Stir the sauce and add to the wok by pouring it around the edges. Stir the cornstarch slurry and add a splash. Cook, tossing, until the sauce thickens and chicken is cooked through, about 30 seconds longer. Adjust the sauce consistency with more cornstarch slurry if it is too thin or a splash of water if it is too thick. Transfer to a serving platter and serve immediately with steamed rice."
+  ],
+  "notes": [
+    "Home burners aren't that powerful, so times vary wildly. You will absolutely need the highest heat possible -- cook the chicken and vegetables in batches.",
+    "Vegetable oil works fine, but peanut oil has more saturated fat which makes the end product more crispy",
+    "Even dice is very important here, smaller peices is definitely better than larger here.",
+    "Vegetables are configurable, celery can work, a green bell pepper could work (in addition to red bell pepper, replacement for zucchini)",
+    "I used thai chiles for the peppers, which worked great."
+  ],
+  "rating": 9,
+  "related": [],
+  "servings": 4,
+  "slug": "kung-pao-chicken",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.amazon.com/Wok-Techniques-J-Kenji-L%C3%B3pez-Alt/dp/0393541215"
+  },
+  "tags": ["Poultry", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Chinese American Kung Pao Chicken"
+}
