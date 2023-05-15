@@ -1,0 +1,90 @@
+{
+  "archived": false,
+  "createdDate": "05/13/2023",
+  "image": "gong-bao-ji-ding.jpg",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "1 pound boneless, skinless chicken breast, cut into 1/2-inch cubes",
+        "1 teaspoon (5ml) Shaoxing wine or dry sherry",
+        "1 teaspoon (5ml) light soy sauce or shoyu",
+        "1 teaspoon (about 3g) cornstarch",
+        "1 large pinch kosher salt"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
+        "1 tablespoon (15ml) honey",
+        "1 tablespoon (15ml) Chinkiang vinegar",
+        "1 tablespoon (15ml) Shaoxing wine or dry sherry",
+        "1 tablespoon (15ml) light soy sauce or shoyu"
+      ]
+    },
+    {
+      "category": "Cornstarch Slurry",
+      "items": ["1 teaspoon (3g) cornstarch", "1 tablespoon (15ml) water"]
+    },
+    {
+      "category": "Stir-Fry",
+      "items": [
+        "3 tablespoons (45ml) peanut, rice bran, or other neutral oil",
+        "6 to 12 small dried hot red chiles (such as Sichuan, jing tiao, or árbol), stems removed, cut into 1/2-inch pieces with scissors, and seeds discarded",
+        "1 teaspoon (about 2g) Sichuan peppercorns, reddish husks only (stems and black seeds discarded)",
+        "4 medium garlic cloves (10g), thinly sliced",
+        "One 1-inch knob fresh ginger (20g), preferably young ginger, peeled and cut into fine matchsticks",
+        "6 scallions, white and pale green parts only, cut into 1/2-inch pieces",
+        "3/4 cup (about 4oz/120g) roasted peanuts"
+      ]
+    }
+  ],
+  "instructions": [
+    "For the Chicken: Place the chicken in a medium bowl, cover with cold water, and vigorously agitate it. Drain through a fine-mesh strainer set in the sink and press on the chicken with your hands to remove excess water. Combine the chicken, wine, soy sauce, cornstarch, and salt in a small bowl and stir vigorously with your fingertips or chopsticks for 30 seconds. Set aside.",
+    "For the Sauce: Combine the honey, vinegar, wine, and soy sauce in a small bowl and stir together until homogenous. Set aside. Combine the cornstarch and water in a separate small bowl and stir with a fork until the cornstarch is dissolved.",
+    "BEFORE YOU STIR-FRY, GET YOUR BOWLS READY: a. Dried chiles and Sichuan peppercorn, b. Marinated chicken, c. Garlic and ginger, d. Scallions and peanuts, e. Sauce, f. Cornstarch slurry, g. Empty bowl for cooked ingredients, h. Serving platter",
+    "To Stir-Fry: Pour a small amount of oil into the bottom of a large wok or skillet and rub around with a paper towel. Place over high heat and preheat until smoking. Add 1 tablespoon oil and immediately add the chiles and Sichuan peppercorns. Stir-fry until fragrant but not burnt, about 5 seconds. Immediately add the chicken and stir-fry constantly until there are no pink spots on the exterior (chicken will still be raw in center at this stage), 2 to 2 ½ minutes. Transfer to an empty bowl.",
+    "Wipe out the wok and add the remaining 2 tablespoons oil. Heat over high heat until shimmering. Add the garlic and ginger and stir-fry until fragrant, about 10 seconds. Add the scallions and peanuts and stir-fry for 30 seconds.",
+    "Return the chicken to the wok and toss everything to combine. Stir the sauce and add to the wok by pouring it around the edges. Stir the cornstarch slurry and add a splash. Cook, tossing, until the sauce thickens and the chicken is cooked through, about 30 seconds longer. Adjust the sauce consistency with more cornstarch slurry if it is too thin or a splash of water if it is too thick. Transfer to a serving platter and serve immediately with steamed rice."
+  ],
+  "notes": [],
+  "rating": 9,
+  "related": [],
+  "servings": 4,
+  "slug": "gong-bao-ji-ding",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.amazon.com/Wok-Techniques-J-Kenji-L%C3%B3pez-Alt/dp/0393541215"
+  },
+  "tags": ["Poultry", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Gong Bao Ji Ding"
+}
