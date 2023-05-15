@@ -1,0 +1,63 @@
+{
+  "archived": false,
+  "createdDate": "05/14/2023",
+  "image": "perfectly-grilled-steaks.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 large ribeye or strip steaks, 1 1/2 to 2 inches thick, about 2 pounds (900g) total (see note)",
+        "Kosher salt and freshly ground black pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Season steaks liberally with salt. Set on a plate and let rest for at least 40 minutes or up to 4 days. If resting longer than 40 minutes, transfer to a wire rack set in a rimmed baking sheet and refrigerate, uncovered, until ready to cook.",
+    "Light one chimney full of charcoal. When all charcoal is lit and covered with gray ash, pour out and arrange coals on one side of charcoal grate. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes. Clean and oil grilling grate. Season steak with pepper and place on cooler side of grill. Cover and cook, with all vents open, flipping and taking temperature every few minutes, until steaks register 105°F (41°C) for medium-rare or 115°F (46°C) for medium on an instant-read thermometer, 10 to 15 minutes total.",
+    "Transfer steaks to hot side of grill and cook, flipping frequently, until a deep char has developed and internal temperature registers 125°F (52°C) for medium-rare or 135°F (57°C) for medium, about 2 minutes total. Transfer steaks to a cutting board and allow to rest for at least 5 minutes and up to 10. Carve and serve immediately."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["grilled-asparagus", "rosemary-roasted-potatoes"],
+  "servings": "2",
+  "slug": "perfectly-grilled-steaks",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.seriouseats.com/the-food-labs-perfect-grilled-ribeye-steaks"
+  },
+  "tags": ["Beef", "Grilling", "Quick", "Dinner"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Grilled Steaks"
+}

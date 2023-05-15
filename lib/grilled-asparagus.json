@@ -1,0 +1,60 @@
+{
+  "archived": false,
+  "createdDate": "05/14/2023",
+  "image": "grilled-asparagus.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 pound (455g) asparagus, trimmed and peeled (if desired)",
+        "3 tablespoons (45ml) extra-virgin olive oil",
+        "Kosher salt and freshly ground black pepper",
+        "1 lemon, halved crosswise (optional)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and spread the coals evenly over half of the coal grate. Set cooking grate in place, cover grill and allow to preheat for 5 minutes. Clean and oil the grilling grate. If using a gas grill, preheat half the grill to high.",
+    "Toss asparagus with 2 tablespoons olive oil and season with salt and pepper. Add asparagus to hot side of grill and cook, turning occasionally, until well-charred and tender, 5 to 8 minutes. Meanwhile, if desired, place lemon halves cut side down on grill and cook until charred, about 3 minutes. Transfer asparagus to a large serving plate, drizzle with remaining olive oil, squeeze lemon over top (if desired), and serve immediately."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["perfectly-grilled-steaks", "tarragon-and-lemon-aioli"],
+  "servings": 4,
+  "slug": "grilled-asparagus",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.seriouseats.com/simple-grilled-asparagus-recipe"
+  },
+  "tags": ["Appetizer", "Quick", "Grilling"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Grilled Asparagus"
+}

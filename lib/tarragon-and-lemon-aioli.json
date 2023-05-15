@@ -1,0 +1,70 @@
+{
+  "archived": false,
+  "createdDate": "05/14/2023",
+  "image": "tarragon-and-lemon-aioli.jpg",
+  "ingredients": [
+    {
+      "category": "Aioli",
+      "items": [
+        "1 whole egg",
+        "4 medium cloves garlic, minced",
+        "2 teaspoons juice from 1 lemon",
+        "1/2 cup canola, vegetable, or light olive oil",
+        "1/2 cup extra virgin olive oil",
+        "Kosher salt and freshly ground black pepper"
+      ]
+    },
+    {
+      "category": "Add-ins",
+      "items": [
+        "2 tablespoons minced fresh tarragon leaves",
+        "1 teaspoon zest and 1 teaspoon juice from 1 lemon"
+      ]
+    }
+  ],
+  "instructions": [
+    "Place egg, garlic, and lemon juice in the bottom of an immersion blender cup. Pour canola (or vegetable or light olive) oil on top and allow to settle for 15 seconds. Place head of immersion blender at bottom of cup and switch it on. As aioli forms, slowly tilt and lift the head of the immersion blender until all oil is emulsified. (For food processor instructions, see note).",
+    "Transfer aioli to a medium bowl. Whisking constantly, slowly drizzle in extra-virgin olive oil. Season to taste with salt and pepper. Store in a sealed container in the refrigerator for up to two weeks.",
+    "Combine aioli, tarragon, and lemon zest and juice in a small bowl and stir until roughly combined. Drizzle with olive oil and serve with grilled vegetables, meats, or sandwiches. Aioli can be stored in a sealed container in the refrigerator for up to 2 weeks."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": ["grilled-asparagus"],
+  "servings": 8,
+  "slug": "tarragon-and-lemon-aioli",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.seriouseats.com/tarragon-lemon-aioli"
+  },
+  "tags": ["Vegetarian", "Quick", "Topping", "No Cook"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Tarragon and Lemon Aioli"
+}
