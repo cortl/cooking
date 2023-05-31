@@ -1,0 +1,75 @@
+{
+  "archived": false,
+  "createdDate": "05/29/2023",
+  "image": "nyt-ice-cream.jpg",
+  "ingredients": [
+    {
+      "category": "Base",
+      "items": [
+        "2 cups heavy cream",
+        "1 cup whole milk",
+        "2/3 cup sugar",
+        "1/8 teaspoon fine sea salt",
+        "6 large egg yolks",
+        "Your choice of flavoring (see grid below, or invent your own)"
+      ]
+    },
+    {
+      "category": "Flavorings",
+      "items": [
+        "Vanilla, Coffee, or Green Tea: If making vanilla ice cream, slice 2 vanilla beans in half lengthwise and scrape down the sides. Add seeds and pods; or 1/2 cup whole coffee beans ground coarsely in a coffee grinder or food processor; or 1/4 cup green tea leaves to the cold milk and cream mixture. Let custard steep off the heat for 30 minutes before straining. Chill.",
+        "Mint or Basil: In a food processor, pulse together 1 cup clean and dry mint or basil leaves with 2/3 cup granulated sugar until pulverized and bright green. Use herb sugar instead of plain sugar to make the base. Let custard steep off the heat for 30 minutes before straining. Chill.",
+        "Cinnamon: Break a 4-inch-long cinnamon stick (preferably a fragrant variety like Ceylon or canela) into a food processor. Add 2/3 cup granulated sugar and pulse until finely ground. Use cinnamon sugar instead of plain sugar to make the base. Let custard steep off the heat for 30 minutes before straining. Chill.",
+        "Lemon or Lime: In a food processor, pulse together zest of 3 lemons or limes with 2/3 cup granulated sugar until smooth and brightly colored. Use citrus sugar instead of plain sugar to make the base. Let custard steep off the heat for 30 minutes before straining. Stir in the juice and zest of 1 lemon or lime. Chill."
+      ]
+    }
+  ],
+  "instructions": [
+    "In a small pot, simmer cream, milk, sugar and salt until sugar completely dissolves, about 5 minutes. Remove pot from heat. In a separate bowl, whisk yolks. Whisking constantly, slowly whisk about a third of the hot cream into the yolks, then whisk the yolk mixture back into the pot with the cream. Return pot to medium-low heat and gently cook until mixture is thick enough to coat the back of a spoon (about 170 degrees on an instant-read thermometer).",
+    "Strain through a fine-mesh sieve into a bowl. Cool mixture to room temperature. Cover and chill at least 4 hours or overnight.",
+    "Churn in an ice cream machine according to manufacturer’s instructions. Serve directly from the machine for soft serve, or store in freezer until needed."
+  ],
+  "notes": [
+    "Churn just until the right consistency (soft serve), machine really bogs down at this point -- don't over churn",
+    "Ice cream machine bowl needs to be frozen at least 24 hours in advance, just leave the bowl in the freezer until needed"
+  ],
+  "rating": 8,
+  "related": ["strawberry-rhubarb-compote"],
+  "servings": 6,
+  "slug": "nyt-ice-cream",
+  "source": {
+    "name": "New York Times",
+    "url": "https://archive.ph/2023.05.27-203318/https://www.nytimes.com/interactive/2014/07/01/dining/the-master-ice-cream-recipe.html"
+  },
+  "tags": ["Dessert"],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 4,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "Ice Cream"
+}

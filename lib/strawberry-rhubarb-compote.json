@@ -1,0 +1,68 @@
+{
+  "archived": false,
+  "createdDate": "05/30/2023",
+  "image": "strawberry-rhubarb-compote.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2 cup water",
+        "1/4 - 1/2 cup granulated sugar adjust total amount based on the sweetness of fruit and your preference",
+        "pinch salt optional",
+        "1/2 vanilla bean split in half, seeds scraped OR 1/2 teaspoon vanilla extract",
+        "2 cups rhubarb approximately 8 ounces, peeled and chopped into 1-inch pieces",
+        "4 cups strawberries approximately 20 ounces, fresh, hulled, quartered",
+        "1 teaspoon lemon zest"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the water with the granulated sugar, a pinch of salt, and ½ vanilla bean.",
+    "Bring to a simmer over medium heat and stir until the sugar is dissolved.",
+    "Stir in the chopped rhubarb. Gently combine the ingredients. Cook the rhubarb for about 5 minutes or until it begins to break down and soften, and the sauce thickens.",
+    "Turn off the heat.",
+    "Add the strawberries and 1 teaspoon of grated lemon zest to the pan and gently stir to combine.",
+    "Use a spoon to remove the vanilla bean. Transfer the strawberry rhubarb compote to a serving dish or clean jar.",
+    "Serve warm, at room temperature or chilled. Keep refrigerated."
+  ],
+  "notes": ["Keeps in fridge up to one week"],
+  "rating": 9,
+  "related": ["nyt-ice-cream"],
+  "servings": 6,
+  "slug": "strawberry-rhubarb-compote",
+  "source": {
+    "name": "She Loves Biscotti",
+    "url": "https://www.shelovesbiscotti.com/strawberry-rhubarb-compote/"
+  },
+  "tags": ["Dessert", "Topping", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Strawberry Rhubarb Compote"
+}
