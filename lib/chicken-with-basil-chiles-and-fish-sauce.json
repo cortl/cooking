@@ -1,0 +1,89 @@
+{
+  "archived": false,
+  "createdDate": "05/18/2023",
+  "image": "chicken-with-basil-chiles-and-fish-sauce.jpg",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "1 pound (450 g) boneless, skinless chicken breasts, cut into ⅛-inch slices",
+        "1/2 teaspoon (1.5 g) kosher salt",
+        "1 teaspoon (5 ml) fish sauce",
+        "1/4 teaspoon freshly ground white pepper",
+        "1 teaspoon (2 g) sugar",
+        "1/2 teaspoon (2 g) baking soda",
+        "1/2 teaspoon (1.5 g) cornstarch"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
+        "1 tablespoon (15 ml) fish sauce, plus more to taste",
+        "1 tablespoon (12 g) sugar, plus more to taste",
+        "1/8 teaspoon freshly ground white pepper",
+        "Hot red pepper flakes or Thai chile flakes to taste, plus more to taste"
+      ]
+    },
+    {
+      "category": "Stir-Fry",
+      "items": [
+        "2 tablespoons (30 ml) peanut, rice bran, or other neutral oil",
+        "4 medium garlic cloves, 2 gently smashed, 2 minced (about 2 teaspoons/5 g minced)",
+        "1 teaspoon (4 g) minced fresh ginger",
+        "1 medium shallot, sliced (about 1½ ounces/45 g)",
+        "2 cups loosely packed fresh basil or Thai basil leaves (about 2 ounces/60 g)"
+      ]
+    }
+  ],
+  "instructions": [
+    "For the Chicken: Place chicken in a medium bowl, cover with cold water, and vigorously agitate it. Drain through a fine-mesh strainer set in the sink and press on the chicken with your hands to remove excess water. Return the chicken to the bowl and add the fish sauce, white pepper, sugar, baking soda, and cornstarch. Stir vigorously with your fingertips or chopsticks for 30 seconds. Set aside while you prepare the remaining stir-fry ingredients (at least 15 minutes)",
+    "For the Sauce: Combine the fish sauce, sugar, white pepper, and chile flakes.",
+    "BEFORE YOU STIR-FRY, GET YOUR BOWLS READY: a. Smashed garlic cloves, b. Marinated chicken, c. Minced garlic, ginger, and shallots, d. Sauce, e. Basil leaves, f. Serving platter",
+    "To Stir-Fry: Heat 1 tablespoon oil and the smashed garlic cloves in a wok over high heat until the garlic is sizzling and starts to brown. Add the chicken, spread it into a single layer, and cook without moving until lightly browned, about 1 minute. Continue cooking, tossing and stirring frequently, until the exterior is opaque, about 1 minute longer. Transfer to a bowl.",
+    "Wipe out the wok, and the remaining tablespoon of oil, and heat over high heat until shimmering. Add the minced garlic, ginger, and shallots and stir-fry until fragrant, about 30 seconds.",
+    "Return the chicken to the wok and stir-fry until the chicken is just cooked through and the shallots are softened, about 2 minutes longer.",
+    "Add the sauce and toss to coat. Add the basil leaves and toss a couple times until they’re wilted. Taste and adjust seasoning with more fish sauce, sugar, and chiles as desired, then transfer to a plate and serve immediately with jasmine or other rice and sliced cucumbers, if desired."
+  ],
+  "notes": [
+    "Bit of an issue with chicken breast sticking on this one, no worries"
+  ],
+  "rating": 8,
+  "related": [],
+  "servings": 4,
+  "slug": "chicken-with-basil-and-fish-sauce.jpg",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.amazon.com/Wok-Techniques-J-Kenji-L%C3%B3pez-Alt/dp/0393541215"
+  },
+  "tags": ["Poultry", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Chicken with Basil, Chiles, and Fish Sauce"
+}
