@@ -1,0 +1,95 @@
+{
+  "archived": false,
+  "createdDate": "05/20/2023",
+  "image": "sweet-and-sour-chicken-or-pork.jpg",
+  "ingredients": [
+    {
+      "category": "Chicken/Pork",
+      "items": [
+        "1 pound (450 g) boneless, skinless chicken breasts or thighs or pork loin, cut into ⅛-inch slices",
+        "1 teaspoon (3 g) kosher salt",
+        "2 teaspoons (10 ml) light soy sauce or shoyu",
+        "2 teaspoons (10 ml) Shaoxing wine or dry sherry",
+        "1/2 teaspoon (2 g) sugar",
+        "1/2 teaspoon (2 g) baking soda",
+        "1 large egg white",
+        "2 teaspoons (6 g) cornstarch"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
+        "Juice from one 8- or 10-ounce (225 to 290 g) can pineapple chunks or rings",
+        "3 tablespoons (45 ml) ketchup",
+        "2 tablespoons (30 ml) distilled white or apple cider vinegar",
+        "1 teaspoon (5 ml) light soy sauce or shoyu",
+        "2 tablespoons (25 g) sugar"
+      ]
+    },
+    {
+      "category": "Cornstarch Slurry",
+      "items": ["2 teaspoons (6 g) cornstarch", "1 tablespoon (15 ml) water"]
+    },
+    {
+      "category": "Stir-Fry",
+      "items": [
+        "3 tablespoons (45 ml) peanut, rice bran, or other neutral oil",
+        "1 large red bell pepper, cut into ¾-inch dice",
+        "1 large green bell pepper, cut into ¾-inch dice",
+        "1 small white or yellow onion, cut into ¾-inch dice",
+        "4 medium garlic cloves, minced (about 4 teaspoons/10 g)",
+        "2 teaspoons (5 g) minced fresh ginger (about ½-inch segment)",
+        "Chunks from one 8- or 10-ounce can (225 to 290 g) pineapple or pineapple rings cut into chunks",
+        "1 cup cashews (optional)"
+      ]
+    }
+  ],
+  "instructions": [
+    "For the Chicken: Place the chicken in a medium bowl, cover with cold water, and vigorously agitate it. Drain through a fine-mesh strainer set in the sink and press on the chicken with your hands to remove excess water. Combine the chicken, salt, soy sauce, wine, sugar, baking soda, egg white, and cornstarch in a medium bowl and stir vigorously with fingertips or chopsticks. Set aside for at least 15 minutes.",
+    "For the Sauce: Combine the pineapple juice, ketchup, soy sauce, and sugar in a small bowl and stir together until homogenous. Set aside. Combine the cornstarch and water in a separate small bowl and stir with a fork until the cornstarch is dissolved.",
+    "To Velvet the Chicken: Bring 1 quart (1 liter) water to a boil in a wok over high heat. Add the chicken, dropping it in a piece at a time to prevent sticking. Cook, stirring occasionally, until the water returns to a brief simmer and chicken is mostly cooked through, 30 to 60 seconds. Transfer the chicken to a rimmed baking sheet using a spider and spread it into a single layer to dry. Set aside. Dump out the contents of the wok and wipe clean.",
+    "BEFORE YOU STIR-FRY, GET YOUR BOWLS READY: a. Bell peppers and onions, b. Garlic and ginger, c. Velveted chicken on a rimmed baking sheet, d. Pineapple chunks and cashews (if using), e. Sauce, f. Cornstarch slurry, g. Serving platter",
+    "For the Stir-Fry: Rub a thin film of oil into a wok and set it over high heat until smoking. Add 2 tablespoons of the oil and swirl to coat. Add the bell peppers and onion and cook, stirring and tossing occasionally, until brightly colored and browned in spots, about 1 minute. Make a space in the center of the wok, add the remaining tablespoon of oil, then add the garlic and ginger and cook, stirring, until fragrant, about 30 seconds.",
+    "Return the chicken to the wok. Add the pineapple chunks and cashews (if using). Stir the sauce and add to the wok by pouring it around the edges. Stir the cornstarch slurry and add a splash. Cook, tossing, until the sauce thickens and the chicken is cooked through, about 30 seconds longer. Adjust the sauce consistency with more cornstarch slurry if it is too thin or a splash of water if it is too thick. Transfer to a serving platter and serve immediately with steamed rice."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": 4,
+  "slug": "sweet-and-sour-chicken-or-pork",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.amazon.com/Wok-Techniques-J-Kenji-L%C3%B3pez-Alt/dp/0393541215"
+  },
+  "tags": ["Poultry", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Sweet and Sour Chicken or Pork"
+}
