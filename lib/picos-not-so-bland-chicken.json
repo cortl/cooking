@@ -1,0 +1,90 @@
+{
+  "archived": false,
+  "createdDate": "05/15/2023",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "1 pound (450 g) boneless, skinless chicken breasts, cut into ¼-inch slices",
+        "1 teaspoon (3 g) kosher salt",
+        "4 teaspoons (20 ml) Shaoxing wine or dry sherry",
+        "½ teaspoon (2 g) baking soda",
+        "1 large egg white",
+        "2 teaspoons (6 g) cornstarch"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
+        "1 tablespoon (15 ml) light soy sauce or shoyu",
+        "2 tablespoons (30 ml) Shaoxing wine or dry sherry",
+        "¼ cup (60 ml) low-sodium homemade or store-bought chicken stock or water",
+        "2 teaspoons (8 g) sugar",
+        "¼ teaspoon freshly ground white pepper"
+      ]
+    },
+    {
+      "category": "Cornstarch Slurry",
+      "items": ["2 teaspoons (6 g) cornstarch", "1 tablespoon (15 ml) water"]
+    },
+    {
+      "category": "Stir-Fry",
+      "items": [
+        "3 tablespoons (15 ml) peanut, rice bran, or other neutral oil",
+        "2 medium garlic cloves (5 g), smashed",
+        "2 coin-sized slices fresh ginger",
+        "½ pound button, cremini, or shiitake mushrooms, cut into ¼-inch slices",
+        "One 8-ounce can sliced water chestnuts, drained (about 5 ounces dry sliced water chestnuts)",
+        "Kosher salt to taste"
+      ]
+    }
+  ],
+  "instructions": [
+    "For the Velvet Chicken: Place the chicken in a medium bowl, cover with cold water, and vigorously agitate it. Drain through a fine-mesh strainer set in the sink and press on the chicken with your hands to remove excess water. Return the chicken to the bowl and add the salt, wine, baking soda, egg white, and cornstarch. Stir vigorously with your fingertips or chopsticks for 30 seconds. Let marinate in the fridge for at least 15 minutes and up to 8 hours.",
+    "For the Sauce: Combine the soy sauce, wine, chicken stock, sugar, and white pepper in a small bowl and stir together until homogenous. Set aside. Combine the cornstarch and water in a separate small bowl and stir with a fork until the cornstarch is dissolved.",
+    "To Velvet the Chicken: Bring 1 quart (1 liter) of water to a boil in a wok over high heat. Add the chicken, dropping it in a piece at a time to prevent sticking. Cook, stirring occasionally, until the water returns to a brief simmer and the chicken is mostly cooked through, 30 to 60 seconds. Transfer the chicken to a rimmed baking sheet using a spider and spread it into a single layer to dry. Set aside. Dump out the contents of the wok and wipe clean.",
+    "BEFORE YOU STIR-FRY, GET YOUR BOWLS READY: a. Smashed garlic and ginger, b. Mushrooms, c. Velveted chicken on its baking sheet, d. Water chestnuts, e. Sauce, f. Cornstarch slurry, g. Empty bowl for cooked ingredients, h. Serving platter",
+    "To Stir-Fry: Heat the wok over high heat until lightly smoking. Add the oil and swirl to coat. Add the garlic and ginger and let sizzle for 15 seconds. Add the mushrooms and stir-fry until most of their moisture has evaporated and they are starting to brown, about 4 minutes.",
+    "Return the chicken to the wok, add the water chestnuts, and toss everything to combine. Stir the sauce and add to the wok by pouring it around the edges. Stir the cornstarch slurry and add a splash. Cook, tossing, until the sauce thickens and the chicken is cooked through, about 30 seconds longer. Adjust the sauce consistency with more cornstarch slurry if it is too thin or a splash of water if it is too thick. Transfer to a serving platter and serve immediately with steamed rice."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": 4,
+  "slug": "picos-not-so-bland-chicken",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.amazon.com/Wok-Techniques-J-Kenji-L%C3%B3pez-Alt/dp/0393541215"
+  },
+  "tags": ["Poultry", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Pico's Not-So-Bland Chicken"
+}
