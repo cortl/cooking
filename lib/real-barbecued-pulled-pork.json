@@ -1,0 +1,76 @@
+{
+  "archived": false,
+  "createdDate": "07/02/2023",
+  "image": "real-barbecued-pulled-pork.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "One 10-pound (4.5kg) skinless, bone-in pork butt, or one 6-pound (2.7kg) skinless, boneless pork butt (see note)",
+        "Kosher salt",
+        "Brown or yellow mustard, for slathering",
+        "Hot sauce, such as Texas Pete, for slathering (optional)",
+        "Lean and Mean Dry Rub for Pulled Pork",
+        "Eastern North Carolina Vinegar-and-Pepper Barbecue Sauce",
+        "Potato buns, for serving",
+        "Coleslaw, for serving"
+      ]
+    }
+  ],
+  "instructions": [
+    "The Day Before You Begin Smoking: Set a wire rack over a rimmed baking sheet. Season pork shoulder generously all over with salt and set on the wire rack. Refrigerate at least overnight (8 hours) or up to 24 hours.",
+    "Lift pork shoulder and remove wire rack, then set shoulder directly on rimmed baking sheet. Turn pork shoulder fat cap side down. Rub a generous and even coating of mustard and hot sauce (if desired) all over the exposed sides of the pork shoulder.",
+    "Sprinkle dry rub evenly all over the slathered sides of the shoulder, creating a coating that's thorough but not too heavy. Turn pork shoulder fat cap side up. Repeat slathering and sprinkling of dry rub on that final side.",
+    "Preheat smoker to 225°F (105°C) and prepare with the hardwood of your choice. (How you do this will depend on your smoker; some burn logs of wood, some burn charcoal with wood chunks or chips sprinkled on top, some burn pellets, some are electric, and some use gas.) You'll want to maintain a relatively even 225°F temperature for the duration of the cooking time, with a continuous supply of clean smoke. (The smoke should look like thin blue wisps, not heavy white clouds.)",
+    "Set pork in smoker, fat cap side up. Fill a disposable aluminum roasting pan with an inch or two of water and set it in the smoker as well. If your smoker doesn't have a drip tray, put the pan of water below the pork to catch grease; if it does, set the tray wherever there's space.",
+    "The seasoned pork shoulder is place on the grill grate of a smoker beside an aluminum tray containing water.",
+    "Smoke pork shoulder until a leave-in probe thermometer registers 195°F (91°C) in the center; make sure the thermometer is not touching a bone. This can take roughly 12 to 15 hours. It's impossible to give a more precise time estimate, since this depends on several variables, including how even the smoker temperature is, the size and thickness of the shoulder, and other factors. A boneless shoulder will cook faster than a bone-in one, but in either case, monitor the temperature frequently as it approaches its goal. Remove pork shoulder from smoker and let rest 20 minutes.",
+    "Using two forks or a set of bear claws, shred pork into thin, stringy strands, breaking up any un-rendered fat into small pieces. Discard bones and/or butcher's twine used to truss a deboned shoulder (see note) as you find them. Break up the bark (the dark crust on the pork) into small pieces and mix into the pulled pork. Mix well again to distribute the bark and fat. Chop pork more finely, if desired.",
+    "Sprinkle barbecue sauce on top of pork to your taste, stirring to mix it in thoroughly. Season with additional salt, if desired.",
+    "Pile pulled pork onto potato buns, then top with coleslaw. Close sandwiches and serve, passing more barbecue sauce at the table."
+  ],
+  "notes": [
+    "This can take a long time, start really early in the morning the day before you want to eat",
+    "I used the snake method on a weber kettle, use 12-15 briquettes to start temperature (250-ish) and the snake coals to keep the heat in, check temp 3 hours add more charcoal as necessary",
+    "I used 2-3 mesquite wood chunks"
+  ],
+  "rating": 9,
+  "related": ["lean-and-mean-dry-rub-pulled-pork"],
+  "servings": 8,
+  "slug": "real-barbecued-pulled-pork",
+  "source": {
+    "name": "Daniel Gritzer",
+    "url": "https://www.seriouseats.com/real-barbecued-pulled-pork"
+  },
+  "tags": ["Dinner", "Slow Cooker", "Grilling", "Pork"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 16,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 26,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "title": "Real Barbecued Pulled Pork"
+}
