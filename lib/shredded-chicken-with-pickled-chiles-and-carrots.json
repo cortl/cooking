@@ -1,0 +1,98 @@
+{
+  "archived": false,
+  "createdDate": "07/01/2023",
+  "image": "shredded-chicken-with-pickled-chiles-and-carrots.png",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "1 pound (450 g) boneless, skinless chicken breast or pork loin, cut into ¼-inch slivers",
+        "1 teaspoon (3 g) kosher salt",
+        "4 teaspoons (20 ml) Shaoxing wine or dry sherry",
+        "½ teaspoon (2 g) baking soda",
+        "1 large egg white",
+        "2 teaspoons (6 g) cornstarch"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
+        "1 to 6 store-bought or homemade pickled chiles, plus 1 tablespoon (15 ml) pickling liquid (see Notes)",
+        "2 tablespoons (30 ml) Shaoxing wine or dry sherry",
+        "1 tablespoon (12 g) sugar",
+        "2 teaspoons (10 ml) light soy sauce or shoyu",
+        "1 tablespoon (15 ml) Chinkiang vinegar"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": ["2 teaspoons (6 g) cornstarch", "1 tablespoon (15 ml) water"]
+    },
+    {
+      "category": "Stir-Fry",
+      "items": [
+        "3 tablespoons (45 ml) peanut, rice bran, or other neutral oil",
+        "1 medium carrot (about 4 ounces/120 g), peeled and cut into fine matchsticks",
+        "1 long green chile such as cowhorn or Anaheim (about 4 ounces/120 g), cut on a sharp bias into long, thin slices (see Notes)",
+        "4 ounces (120 g) bamboo shoots, cut into fine matchsticks (see Notes)",
+        "2 teaspoons (5 g) minced garlic (about 2 medium cloves)",
+        "2 teaspoons (5 g) minced fresh ginger (about ½-inch segment)",
+        "2 scallions, cut into 2-inch segments and quartered lengthwise to form fine slivers",
+        "2 tablespoons (20 g) Sichuan broad bean chile paste (doubanjiang)",
+        "Handful of roughly chopped fresh cilantro leaves, for garnish"
+      ]
+    }
+  ],
+  "instructions": [
+    "For the Velvet Chicken: Place the chicken in a medium bowl, cover with cold water, and vigorously agitate it. Drain through a fine-mesh strainer set in the sink and press on the chicken with your hands to remove excess water. Return the chicken to the bowl and add the salt, wine, baking soda, egg white, and cornstarch. Stir vigorously with your fingertips or chopsticks for 30 seconds. Let marinate in the fridge for at least 15 minutes and up to 8 hours.",
+    "Meanwhile, Make the Sauce: Combine the pickled chiles, wine, sugar, soy sauce, and vinegar in a small bowl and stir together until homogenous. Set aside. Combine the cornstarch and water in a separate small bowl and stir with a fork until the cornstarch is dissolved.",
+    "To Velvet the Chicken: Bring 1 quart (1 liter) water to a boil in a wok over high heat. Add the chicken, dropping it in a piece at a time to prevent sticking. Cook, stirring occasionally, until the water returns to a brief simmer and the chicken is mostly cooked through, 30 to 60 seconds. Transfer the chicken to a rimmed baking sheet using a spider and spread it into a single layer to dry. Set aside. Dump out the contents of the wok and wipe clean.",
+    "BEFORE YOU STIR-FRY, GET YOUR BOWLS READY: a. Carrots, chiles, and bamboo shoots, b. Ginger, garlic, and scallions, c. Broad bean chile paste, d. Velveted chicken on its baking sheet, e. Sauce, f. Cornstarch slurry, g. Serving platter",
+    "For the Stir-Fry: Heat the wok over high heat until lightly smoking. Add 2 tablespoons (30 ml) of the oil and swirl to coat. Add the carrots, chiles, and bamboo shoots and cook, stirring and tossing constantly until the vegetables are tender-crisp, about 1 minute. Transfer to the baking sheet with the velveted chicken.",
+    "Wipe out the wok and return to high heat until lightly smoking. Add the remaining 1 tablespoon (15 ml) oil and swirl to coat. Add the ginger, garlic, and scallions and stir-fry until fragrant, about 10 seconds. Add the broad bean chili paste and cook, stirring constantly, until the oil breaks out and turns deep red, about 30 seconds. Return the chicken and vegetables to the wok and toss to coat thoroughly in the red oil.",
+    "Stir the sauce and add to the wok by pouring it around the edges. Stir the cornstarch slurry and add a splash. Cook, tossing, until the sauce thickens and the chicken is cooked through, about 30 seconds longer. Adjust the sauce consistency with more cornstarch slurry if it is too thin or a splash of water if it is too thick. Transfer to a serving platter and serve immediately with steamed rice."
+  ],
+  "notes": [
+    "Used fresh bamboo shoots for this, not a huge fan of the flavor, canned might be different",
+    "Better the second day"
+  ],
+  "rating": 7,
+  "related": ["pickled-chiles"],
+  "servings": 4,
+  "slug": "shredded-chicken-with-pickled-chiles-and-carrots",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.amazon.com/Wok-Techniques-J-Kenji-L%C3%B3pez-Alt/dp/0393541215"
+  },
+  "tags": ["Poultry", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Shredded Chicken with Pickled Chiles and Carrots"
+}

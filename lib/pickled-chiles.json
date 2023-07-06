@@ -1,0 +1,58 @@
+{
+  "archived": false,
+  "createdDate": "07/01/2023",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 ounces hot red chiles, such as Thai bird, Fresno, or cayenne, tops cut off and discarded to expose their centers",
+        "2 medium garlic cloves (5 g), roughly smashed",
+        "½ cup (120 ml) distilled white vinegar",
+        "2 teaspoons (12 g) kosher salt"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine all the ingredients in a small saucepan and bring to a brief simmer over high heat. Transfer to a heatproof container and place a folded paper towel over the top, soaking it to keep the chiles submerged. (The chiles may bump up above the surface of the liquid, but so long as the paper towel is soaked in brine and covers them, you’re good.) The chiles will be ready to use in about 5 minutes, or they can be transferred to a sealed container and stored in the refrigerator indefinitely."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["shredded-chicken-with-pickled-chiles-and-carrots"],
+  "servings": 1,
+  "slug": "pickled-chiles",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.amazon.com/Wok-Techniques-J-Kenji-L%C3%B3pez-Alt/dp/0393541215"
+  },
+  "tags": ["Vegan", "Vegetarian", "Quick", "Topping", "Seasoning Blend"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Pickled Chiles"
+}
