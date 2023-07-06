@@ -1,0 +1,75 @@
+{
+  "archived": false,
+  "createdDate": "06/23/2023",
+  "image": "beef-and-tomato-rice-bowl.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 Tbsp cooking oil",
+        "1/2 lb ground beef",
+        "1 3/4 tsp salt, divided",
+        "1 yellow onion, diced",
+        "2 cloves garlic, minced ",
+        "1/2 tsp oregano",
+        "1/4 tsp ground cumin",
+        "1 tsp Worcestershire sauce",
+        "1 15 oz. can diced tomatoes",
+        "1/2 cup chicken broth",
+        "1 15 oz. can chickpeas, drained",
+        "2 cups rice",
+        "3 cups water",
+        "2 Tbsp salted butter",
+        "1 pinch red pepper flakes"
+      ]
+    }
+  ],
+  "instructions": [
+    "Set a deep stainless steel skillet over medium-high heat and add the cooking oil. Once the oil has warmed, add the ground beef and sprinkle it with a 1/2 teaspoon salt. Once the beef has browned, remove it from the pan and set aside. Keep about 2 tablespoons of rendered fat in the pan.",
+    "Add the diced onion to the pan and cook until translucent, about 2 minutes. Add the minced garlic to the pan and cook until fragrant, about 1 minute.",
+    "Add the beef back to the pan with oregano, ground cumin, and Worcestershire sauce. Top the meat with the diced tomatoes and their juices. Stir to combine.",
+    "Add the chicken broth and drained chickpeas to the beef mixture. Sprinkle with 1/4 teaspoon salt and stir to combine. Cover the pan and cook until the chickpeas soften, about 15 to 20 minutes.",
+    "While the beef mixture cooks, add the rice to a rice cooker, along with the water, salted butter, and remaining 1 teaspoon of salt.",
+    "When the beef and tomato mixture finishes cooking, sprinkle with red pepper flakes. Divide the rice into four bowls and top with the beef mixture. Enjoy!"
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": [],
+  "servings": 4,
+  "slug": "beef-and-tomato-rice-bowl",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/beef-and-tomato-rice-bowl/"
+  },
+  "tags": ["Beef", "Quick", "Dinner", "Meal Prep", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Beef and Tomato Rice Bowl"
+}
