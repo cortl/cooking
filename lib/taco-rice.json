@@ -1,0 +1,68 @@
+{
+  "archived": false,
+  "createdDate": "08/09/2023",
+  "image": "taco-rice.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 Tbsp cooking oil",
+        "1 small onion",
+        "1 clove garlic",
+        "2 cups long grain white rice",
+        "1/2 Tbsp chili powder",
+        "1/2 tsp cumin",
+        "1/4 tsp oregano",
+        "3 cups water",
+        "1 tsp salt",
+        "2 green onions, sliced"
+      ]
+    }
+  ],
+  "instructions": [
+    "Finely dice the onion and mince the garlic. Add the onion, garlic, and cooking oil to a medium sauce pot. Sauté the onion and garlic over medium heat until the onions are soft and transparent.",
+    "Add the uncooked rice, chili powder, cumin, and oregano to the pot. Continue to stir and cook for about 2 minutes to toast the rice and spices. You should hear the rice making crackling noises.",
+    "Finally, add the water and salt, and give everything a brief stir. Place a lid on the pot, turn the heat up to medium-high, and allow it to come to a boil. As soon as it reaches a full boil, turn the heat down to low, or slightly above low, and let it simmer for 15 minutes.",
+    "After 15 minutes, turn the heat off and let it sit for 10 minutes without removing the lid. After letting it rest for 10 minutes, fluff the rice with a fork. Sprinkle sliced green onions over top just before serving."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": ["quick-seasoned-black-beans", "fish-tacos-with-coleslaw"],
+  "servings": 6,
+  "slug": "taco-rice",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/easy-taco-rice/"
+  },
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Taco Rice"
+}

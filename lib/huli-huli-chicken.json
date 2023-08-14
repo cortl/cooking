@@ -1,0 +1,49 @@
+{
+  "archived": false,
+  "createdDate": "08/04/2023",
+  "image": "huli-huli-chicken.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/3 cup ketchup",
+        "1/3 cup soy sauce",
+        "1/4 cup brown sugar",
+        "1/4 cup honey",
+        "1/4 cup sherry",
+        "1-2 Tbsp. sesame oil",
+        "1-2-more pieces ginger root, crushed",
+        "3 cloves garlic, crushed",
+        "Worchestershire sauce to taste",
+        "Sriracha or Asian chili paste (or red pepper flakes) to taste",
+        "1/2 Lemon"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine ingredients",
+    "Marinate chicken for at least half an hour, brush on while grilling"
+  ],
+  "notes": ["This is enough for 3 whole chickens"],
+  "rating": 8,
+  "related": [],
+  "servings": 3,
+  "slug": "huli-huli-chicken",
+  "source": {
+    "name": "Hawaii Magazine",
+    "url": "https://www.hawaiimagazine.com/how-to-make-hawaii-style-huli-huli-chicken/"
+  },
+  "tags": ["Dinner", "Poultry", "Grilling"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Huli Huli Chicken"
+}
