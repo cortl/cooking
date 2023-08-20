@@ -43,6 +43,10 @@
       ]
     },
     {
+      "label": "Bulk Ferment",
+      "units": [{ "measurement": 1, "label": "hour" }]
+    },
+    {
       "label": "Cook",
       "units": [
         {

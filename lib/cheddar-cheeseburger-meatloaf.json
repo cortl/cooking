@@ -66,6 +66,10 @@
         {
           "measurement": 5,
           "label": "minutes"
+        },
+        {
+          "measurement": 1,
+          "label": "hour"
         }
       ]
     }
