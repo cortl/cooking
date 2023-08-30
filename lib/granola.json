@@ -1,0 +1,70 @@
+{
+  "archived": false,
+  "createdDate": "08/22/2023",
+  "image": "granola.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "¼ cup coconut oil",
+        "¼ cup honey or pure maple syrup for vegan option",
+        "½ tsp pure vanilla extract",
+        "2 cups old-fashioned oats",
+        "½ cup unsweetened shredded coconut",
+        "½ cup raw pecans chopped",
+        "2 tsp ground cinnamon",
+        "½ tsp sea salt"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees F. Lightly grease a baking sheet, set aside.",
+    "In a large bowl mix together oats, coconut, cinnamon, salt and pecans. Set aside.",
+    "Melt honey and coconut oil together in the microwave or on the stovetop over low heat until smooth.",
+    "Remove from heat and add vanilla to warm coconut oil/honey mixture. Stir until combined.",
+    "Mix wet ingredients into dry ingredients until all dry ingredients are evenly coated.",
+    "Spread on prepared baking sheet.",
+    "Bake for 30 minutes or until golden brown, stirring the granola half way through baking time. It may feel soft when you remove it from the oven, but it gets harder and crunchier as it cools so please be careful and do not over bake!",
+    "Allow the granola to cool and eat it with your favorite yogurt or milk! Store in an airtight container at room temperature."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": [],
+  "servings": 12,
+  "slug": "granola",
+  "source": {
+    "name": "Laura",
+    "url": "https://joyfoodsunshine.com/coconut-pecan-granola/"
+  },
+  "tags": ["Vegan", "Breakfast", "Dessert", "Baking"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Granola"
+}
