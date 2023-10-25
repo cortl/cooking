@@ -1,0 +1,75 @@
+{
+  "archived": false,
+  "createdDate": "10/22/2023",
+  "image": "one-pot-chicken-and-rice.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 tsp paprika",
+        "1 tsp dried oregano",
+        "1 tsp dried thyme",
+        "1/2 tsp garlic powder",
+        "1/2 tsp onion powder",
+        "1/4 tsp salt",
+        "1/4 tsp pepper",
+        "1.25 lbs. boneless, skinless chicken thighs (4-5 thighs)",
+        "2 Tbsp cooking oil, divided",
+        "1 yellow onion, diced",
+        "1 cup long-grain white rice (uncooked)",
+        "1.75 cups vegetable broth",
+        "1 Tbsp chopped parsley (optional garnish)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine the paprika, oregano, thyme, garlic powder, onion powder, salt, and pepper in a small bowl. Coat both sides of the chicken thighs in the seasoning mix.",
+    "Add 1 Tbsp cooking oil to a deep skillet and heat over medium. Once hot, swirl to coat the surface of the skillet, then add the chicken thighs. Cook the thighs for a few minutes on each side, or until well browned. The chicken does not need to be cooked through at this point.",
+    "Remove the browned chicken to a clean plate. Reduce the heat to medium-low, add an additional 1 Tbsp cooking oil to the skillet, then add the diced onion. Sauté the onion for about 5 minutes, or until softened. Allow the moisture from the onion to dissolve the browned bits from the skillet as you stir.",
+    "Add the uncooked rice to the skillet and continue to sauté for 1-2 minutes more to toast the rice.",
+    "Add the vegetable broth to the skillet and briefly stir to dissolve any remaining brown bits from the bottom of the skillet.",
+    "Return the chicken to the skillet, setting it on top of the rice. Place a lid on the skillet, turn the heat up to medium-high, and allow the broth to come up to a full boil.",
+    "Once boiling, turn the heat down to low and let the chicken and rice continue to simmer over low, without lifting the lid or stirring, for 20 minutes. After 20 minutes, turn off the heat and let it rest, without lifting the lid, for an additional 5 minutes.",
+    "Finally, remove the lid and fluff the rice around the chicken. Garnish with chopped parsley, if desired, then serve and enjoy!"
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": 5,
+  "slug": "one-pot-chicken-and-rice",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/one-pot-chicken-and-rice/"
+  },
+  "tags": ["Poultry", "Meal Prep", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "One Pot Chicken and Rice"
+}
