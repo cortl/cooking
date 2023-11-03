@@ -1,0 +1,94 @@
+{
+  "archived": false,
+  "createdDate": "10/29/2023",
+  "image": "chicken-and-dumplings.jpeg",
+  "ingredients": [
+    {
+      "category": "Chicken and Gravy",
+      "items": [
+        "4 boneless, skinless chicken thighs (about 1 lb.)",
+        "1 Tbsp olive oil",
+        "1 yellow onion, diced",
+        "2 cloves garlic, minced",
+        "2 stalks celery, diced",
+        "2 carrots, diced",
+        "1/4 cup all-purpose flour",
+        "4 Tbsp butter",
+        "1 tsp dried parsley",
+        "1/2 tsp dried thyme",
+        "1/2 tsp dried rosemary",
+        "1/2 tsp dried sage",
+        "1/4 tsp freshly cracked black pepper",
+        "2 cups chicken broth",
+        "1 cup whole milk",
+        "1/2 tsp salt"
+      ]
+    },
+    {
+      "category": "Dumplings",
+      "items": [
+        "1 cup all-purpose flour",
+        "1.5 tsp baking powder",
+        "1 tsp dried parsley",
+        "1/2 tsp sugar",
+        "1/2 tsp salt",
+        "1/8 tsp garlic powder",
+        "1/8 tsp freshly cracked black pepper",
+        "1/2 cup milk",
+        "2 Tbsp butter, melted"
+      ]
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a deep skillet or Dutch oven over medium heat. Once hot, add the chicken thighs and brown on each side. The chicken does not need to be cooked through at this point, just make sure they get very brown on the outside. Transfer the partially cooked chicken to a clean bowl.",
+    "After removing the chicken from the skillet, add the diced onion and minced garlic and sauté over medium heat until the onions have softened. Stir to dissolve the browned bits off the bottom of the skillet as the onions cook.",
+    "Add the diced carrot and celery to the skillet with the onion and garlic and continue to sauté for about five minutes more.",
+    "Add the butter and flour to the skillet and stir until the butter has melted and created a paste with the flour that coats the vegetables. Continue to cook and stir this mixture for about two minutes.",
+    "Add the parsley, thyme, rosemary, sage, salt, pepper, chicken broth, and milk to the skillet. Turn the heat up to medium-high and continue to stir and cook until the mixture comes up to a simmer and thickens into a gravy.",
+    "Dice the chicken and add it back to the skillet with the vegetables and gravy. Cover with a lid and let the chicken simmer in the gravy over medium heat while you prepare the dumplings.",
+    "To prepare the dumplings, combine the flour, parsley, sugar, salt, baking powder, garlic powder, and pepper in a bowl.",
+    "Pour the milk and melted butter into the flour mixture, then stir until a soft, scoopable batter is formed. Do not over stir.",
+    "Remove the lid from the chicken and gravy and drop the dumpling batter onto the surface of the gravy in 2 tablespoon dollops. You should get about 12 dumplings.",
+    "Make sure the gravy is still simmering, then place the lid back on the skillet and allow the dumplings to simmer for 15 minutes. Make sure they're simmering the entire time. After 15 minutes the dumplings should have doubled in size and will be fluffy and cooked in the center. Serve hot and enjoy!"
+  ],
+  "notes": ["Definitely safe to thin out the gravy just a lil bit"],
+  "rating": 8,
+  "related": [],
+  "servings": 4,
+  "slug": "chicken-and-dumplings",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/chicken-and-dumplings/"
+  },
+  "tags": ["Poultry", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Chicken and Dumplings"
+}
