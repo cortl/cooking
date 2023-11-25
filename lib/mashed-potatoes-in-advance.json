@@ -1,0 +1,71 @@
+{
+  "archived": false,
+  "createdDate": "11/25/2023",
+  "image": "mashed-potatoes-in-advance.jpg",
+  "ingredients": [
+    {
+      "category": "Mashed Potatoes",
+      "items": [
+        "5 pounds (2.3kg) russet potatoes, peeled and cut into 3/4-inch cubes",
+        "Kosher salt",
+        "1 stick unsalted butter (4 ounces; 115g), cubed and slightly softened"
+      ]
+    },
+    {
+      "category": "For Reheating",
+      "items": [
+        "1 cup (8 ounces) sour cream (see notes)",
+        "1 cup (240ml) heavy cream"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Set cubed potatoes in a colander and rinse under cold water until water runs clear. Transfer to a large saucepan and cover with cold water by at least 2 inches. Season water with salt until water is salty like tears. Bring water to a boil over high heat, then reduce heat to medium-low and simmer until a knife easily pierces potatoes with no resistance, 10 to 15 minutes. Drain potatoes in colander, then rinse with hot running water for 30 seconds.",
+    "Spread potatoes in an even layer on 2 rimmed baking sheets and transfer to oven until excess moisture has evaporated and surface of potatoes is dry, about 6 minutes.",
+    "If using a potato masher, transfer cooked potatoes to a large mixing bowl, add butter and mash until only very small lumps remain. Refridgerate until ready to serve (or keep warm for a few hours)",
+    "Before reheating the mashed potatoes, set them out for an hour or two to help them come to room temperature",
+    "Combine sour cream and and heavy cream in a large saucepan and bring to a boil.",
+    "Fold potatoes into the boiling cream mixture.",
+    "If the potatoes are not hot enough, push the mashed potatoes to the edge of the pan and bring more cream mixture to a boil in the center of the saucepan. Fold in."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": "12",
+  "slug": "mashed-potatoes-in-advance",
+  "source": {
+    "name": "J. Kenji López-Alt",
+    "url": "https://www.seriouseats.com/ways-to-make-mashed-potatoes-in-advance-thanksgiving-easy"
+  },
+  "tags": ["Vegetarian", "Stovetop", "Thanksgiving"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Mashed Potatoes in Advance"
+}
