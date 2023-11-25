@@ -1,0 +1,90 @@
+{
+  "archived": false,
+  "createdDate": "11/24/2023",
+  "image": "sliced-pork-and-cucumbers.jpg",
+  "ingredients": [
+    {
+      "category": "Pork",
+      "items": [
+        "1 pound boneless pork loin, cut into 2-inch matchsticks",
+        "¼ teaspoon (2 g) sugar",
+        "¼ teaspoon (1 g) freshly ground white pepper",
+        "1 teaspoon (5 ml) Shaoxing wine or dry sherry",
+        "1 teaspoon (5 ml) light soy sauce or shoyu",
+        "1 teaspoon (5 ml) roasted sesame oil",
+        "½ teaspoon (2 g) baking soda",
+        "1 teaspoon (3 g) cornstarch"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
+        "½ teaspoon (2 g) freshly ground white pepper",
+        "1½ tablespoons (about 25 ml) water",
+        "1½ tablespoons (about 25 ml) light soy sauce or shoyu"
+      ]
+    },
+    {
+      "category": "Cornstarch Slurry",
+      "items": ["1 teaspoon (3 g) cornstarch", "1 tablespoon (15 ml) water"]
+    },
+    {
+      "category": "Stir-Fry",
+      "items": [
+        "3 tablespoons (45 ml) peanut, rice bran, or other neutral oil",
+        "2 medium garlic cloves (5 g), smashed",
+        "2 slices (10 g) fresh ginger",
+        "1 teaspoon chopped homemade or store-bought pickled chiles (optional)",
+        "2 scallions, white and pale green parts only, cut into 1-inch segments",
+        "One 8-ounce American or English cucumber, peeled, halved lengthwise, seeds removed, and cut on a bias into ¼-inch-thick half-moons"
+      ]
+    }
+  ],
+  "instructions": [
+    "For the Pork: Place the pork in a medium bowl, cover with cold water, and vigorously agitate it. Drain through a fine-mesh strainer set in the sink and press on the pork with your hands to remove excess water. Return the pork to the bowl and add the sugar, white pepper, wine, soy sauce, sesame oil, baking soda, and cornstarch. Stir vigorously with your fingertips or chopsticks for 30 seconds. Set aside for 15 minutes at room temperature or refrigerate for up to 8 hours.",
+    "Meanwhile, Make the Sauce: Combine the white pepper, water, and soy sauce in a small bowl and stir together until homogenous. Set aside. Combine the cornstarch and water in a separate small bowl and stir with a fork until the cornstarch is dissolved.",
+    "BEFORE YOU STIR-FRY, GET YOUR BOWLS READY: a. Marinated pork, b. Ginger, garlic, and pickled chiles, c. Cucumber and scallions, d. Sauce, e. Cornstarch slurry, f. Empty bowl for cooked ingredients, g. Serving platter",
+    "For the Stir-Fry: Heat a wok over high heat until lightly smoking. Add 1 tablespoon (15 ml) of the oil and swirl to coat. Add half of the pork, spread into a single layer, and cook without moving until lightly browned, about 45 seconds. Cook, tossing and stirring frequently until barely cooked through, about 30 seconds longer. Transfer to a clean bowl and set aside.",
+    "Wipe out the wok and return it to high heat until lightly smoking. Add 1 tablespoon (15 ml) of the remaining oil and swirl to coat. Stir-fry the remaining pork in the same manner and add it to the same bowl."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": [],
+  "servings": 4,
+  "slug": "sliced-pork-and-cucumbers",
+  "source": {
+    "name": "J. Kenji López-Alt",
+    "url": "https://www.amazon.com/Wok-Techniques-J-Kenji-L%C3%B3pez-Alt/dp/0393541215"
+  },
+  "tags": ["Pork", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Sliced Pork and Cucumbers"
+}
