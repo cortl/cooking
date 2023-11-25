@@ -1,0 +1,70 @@
+{
+  "archived": false,
+  "createdDate": "11/25/2023",
+  "image": "maple-roasted-sweet-potatoes.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 lbs. sweet potatoes",
+        "2 Tbsp butter",
+        "1/4 cup brown sugar",
+        "1/4 cup maple syrup",
+        "1/4 tsp cinnamon",
+        "1/8 tsp ground cloves",
+        "1/4 tsp salt",
+        "1/2 cup pecans"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400ºF. Peel and dice the sweet potatoes into 3/4 inch cubes. Place the sweet potato cubes in a large casserole dish (11×15\" or 5 quart).",
+    "Combine the butter, brown sugar, maple syrup, cinnamon, cloves, and salt in a small bowl. Microwave for about 30 seconds, or until the butter is melted, then stir until combined. Pour the butter mixture over the sweet potatoes in the casserole dish, and stir to coat.",
+    "Transfer the casserole dish to the preheated oven and roast for 20 minutes. While the sweet potatoes are roasting, roughly chop the pecans. After roasting for 20 minutes, add the chopped pecans, give everything a good stir, and then roast for an additional 15-20 minutes, or until the sweet potatoes are very soft and the liquid in the casserole dish has reduced to a sticky candy coating. Serve hot."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": 6,
+  "slug": "maple-roasted-sweet-potatoes",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/maple-roasted-sweet-potatoes-with-pecans/"
+  },
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Thanksgiving",
+    "Roasting"
+  ],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 55,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Maple Roasted Sweet Potatoes"
+}
