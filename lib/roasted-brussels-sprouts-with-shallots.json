@@ -1,0 +1,66 @@
+{
+  "archived": false,
+  "createdDate": "11/25/2023",
+  "image": "roasted-brussels-sprouts-and-shallots.jpg",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "3 pounds (1.4kg) Brussels sprouts, bottoms trimmed, outer leaves removed, split in half (see notes)",
+        "8 medium shallots, sliced thinly",
+        "1/4 cup (60ml) extra-virgin olive oil (see notes)",
+        "Diamond Crystal kosher salt and freshly ground black pepper",
+        "2 tablespoons (30ml) balsamic vinegar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Adjust oven racks to upper and lower middle positions and place a heavy rimmed baking sheet on each. Preheat oven to 500°F.",
+    "Toss sprouts, shallots, olive oil, and salt and pepper to taste in a large bowl and toss to combine. When oven is hot, working quickly, remove the baking sheets with a dish towel or oven mitt. Divide Brussels sprouts mixture evenly between both trays, shaking to distribute into a single even layer. Return pans to oven. Roast until Brussels sprouts are deeply charred and fully tender, about 20 minutes total, tossing sprouts and rotating and swapping pans top to bottom half way through cooking.",
+    "Immediately after removing from oven, drizzle sprouts with balsamic vinegar and shake to coat. Season to taste with more salt and pepper if desired and serve."
+  ],
+  "notes": [
+    "Look for sprouts about one and a half inches in diameter, with tight heads.",
+    "Chicken, turkey, or duck fat can be used in place of the olive oil.",
+    "Crisped bacon or fatback can be added to the Brussels sprouts after roasting."
+  ],
+  "rating": 8,
+  "related": [],
+  "servings": "8",
+  "slug": "roasted-brussels-sprouts-with-shallots",
+  "source": {
+    "name": "J. Kenji López-Alt",
+    "url": "https://www.seriouseats.com/roasted-brussels-sprouts-and-shallots-with-balsamic-vinegar-thanksgiving-recipe"
+  },
+  "tags": ["Vegan", "Vegetarian", "Thanksgiving", "Roasting"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 50,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Roasted Brussels Sprouts and Shallots With Balsamic Vinegar"
+}
