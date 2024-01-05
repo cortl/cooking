@@ -1,0 +1,84 @@
+{
+  "archived": false,
+  "createdDate": "12/13/2023",
+  "image": "italian-wedding-soup.jpg",
+  "ingredients": [
+    {
+      "category": "Meatballs",
+      "items": [
+        "1/4 cup plain breadcrumbs",
+        "1/4 cup grated Parmesan",
+        "1/2 tsp Italian seasoning",
+        "1/8 tsp salt",
+        "1/8 tsp black pepper",
+        "1 lb. ground Italian sausage (hot, mild, or sweet)",
+        "1 large egg"
+      ]
+    },
+    {
+      "category": "Soup",
+      "items": [
+        "1 yellow onion",
+        "2 cloves garlic",
+        "3 carrots",
+        "3 stalks celery",
+        "2 Tbsp olive oil",
+        "1 tsp Italian seasoning",
+        "6 cups chicken broth",
+        "1/2 cup small pasta*",
+        "4 cups fresh spinach"
+      ]
+    }
+  ],
+  "instructions": [
+    "Begin by making the meatballs. Combine the breadcrumbs, Parmesan, Italian seasoning, salt, and pepper in a bowl.",
+    "Add the Italian sausage, breadcrumb mixture, and egg to a large bowl and use your hands to mix them together until evenly combined. Divide and shape the mixture into 32 small meatballs, about 1 Tbsp each. Set the meatballs aside.",
+    "Finely dice the onion, carrots, and celery, and mince the garlic. Add the olive oil to a large soup pot and heat over medium. Add the onion and garlic and sauté until the onion is soft. Add the carrot and celery and continue to sauté for a few minutes more, or until the celery begins to soften.",
+    "Add the Italian seasoning and chicken broth to the soup, stir to combine, then place a lid on top and bring it up to a boil.",
+    "Once the soup is boiling, add the meatballs to the soup and continue to boil until the meatballs are cooked through (about 10 minutes). Or, if you prefer browned meatballs, you can cook them in a skillet with butter first over medium heat until browned on the outside, then transfer to the boiling soup to finish cooking.",
+    "Add the pasta to the soup and continue to boil until the pasta is tender (about 7 minutes).",
+    "Finally, stir in the fresh spinach until wilted. Give the soup a taste and adjust the seasonings to your liking. Serve hot and enjoy!"
+  ],
+  "notes": [
+    "Use any very small-shaped pasta like acini de pepe, pearl couscous, orzo, ditalini, pastina, or any other tiny-shaped pasta. If using a slightly larger pasta, you may want to increase the quantity to one cup."
+  ],
+  "rating": 8,
+  "related": [],
+  "servings": 6,
+  "slug": "italian-wedding-soup",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/italian-wedding-soup/"
+  },
+  "tags": ["Pork", "Soup", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Italian Wedding Soup"
+}
