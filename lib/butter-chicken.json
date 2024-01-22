@@ -5,9 +5,9 @@
     {
       "category": "All",
       "items": [
-        "400g/1lb Chicken breast, cut into 1 in pieces",
-        "1 Tbsp Ginger paste",
-        "1 Tbsp Garlic",
+        "400g/1lb Chicken breast, cut into 1in pieces",
+        "2 Tbsp Ginger paste, divided",
+        "2 Tbsp Garlic paste, divided",
         "1/2 Tsp Salt",
         "1 Tsp Chili powder (Red chili flakes)",
         "1 Tsp Paprika",
@@ -16,8 +16,6 @@
         "150g Red Onion",
         "450g Tomatoes",
         "1 Tbsp Sugar",
-        "1 Tbsp Ginger paste",
-        "1 Tbsp garlic paste",
         "1/2 Tsp Paprika",
         "1/2 Tsp Chili powder (Red Chili powder)",
         "1/2 Tbsp + 1 Tsp Garam Massala",
@@ -27,11 +25,11 @@
     }
   ],
   "instructions": [
-    "Marinade the chicken with 1 Tbsp ginger paste, 1 Tbsp garlic, 1/2 tsp salt, 1 tsp red chili peppers, 1 tsp paprika for 1-2 hours.",
+    "Marinade the chicken with 1 Tbsp ginger paste, 1 Tbsp garlic paste, 1/2 tsp salt, 1 tsp red chili peppers, 1 tsp paprika for 1-2 hours.",
     "Melt 1 tbsp butter and 1 tbsp oil in a pan",
     "Add the cashew and fry 30 secs",
     "Add the chopped onion and tomato. Cook 5 mins",
-    "Add the sugar, ginger and garlic paste, paprika, red chili powder, Garam masala,salt and 1 tbsp heavy cream and 1 cup warm water",
+    "Add the sugar, 1 Tbsp ginger and 1 Tbsp garlic paste, paprika, red chili powder, Garam masala,salt and 1 tbsp heavy cream and 1 cup warm water",
     "cover and cook for 10 mins.",
     "Cool a bit and blend to a smooth paste in a mixer",
     "Strain the mixture. Discard the seeds and skin that will be leftover once completely strained.",
@@ -57,11 +55,42 @@
   "tags": ["Poultry", "Dinner", "Stovetop"],
   "time": [
     {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Marinate",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
       "label": "Total",
       "units": [
         {
           "measurement": 1,
           "label": "hour"
+        },
+        {
+          "measurement": 45,
+          "label": "minutes"
         }
       ]
     }
