@@ -2,7 +2,7 @@ const joi = require("joi");
 const fs = require("fs");
 
 const FORBIDDEN_TITLE_WORDS = ["bravetart", "best", "recipe", "delicious"].map(
-  (word) => word.toUpperCase()
+  (word) => word.toUpperCase(),
 );
 
 const Joi = joi
@@ -40,7 +40,7 @@ const Joi = joi
           value,
           errors: [
             new Error(
-              `Recipe contains forbidden word(s): ${matches.join(", ")}`
+              `Recipe contains forbidden word(s): ${matches.join(", ")}`,
             ),
           ],
         };

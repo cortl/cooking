@@ -10,7 +10,7 @@ const generateBuiltString = (asArray, asMap) =>
   const files = fs.readdirSync("lib");
   console.log("Reading...");
   const recipes = files.map((file) =>
-    JSON.parse(fs.readFileSync(`lib/${file}`))
+    JSON.parse(fs.readFileSync(`lib/${file}`)),
   );
 
   console.log("Building array...");
@@ -22,7 +22,7 @@ const generateBuiltString = (asArray, asMap) =>
       acc[recipe.slug] = recipe;
 
       return acc;
-    }, {})
+    }, {}),
   );
 
   console.log("Building bundle...");
