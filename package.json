@@ -8,6 +8,7 @@
     "test": "jest",
     "format": "prettier --write .",
     "build": "node src/readme.js && node src/build.js",
+    "upload": "node src/update-firestore.js",
     "tag": "npm version patch -m \"v%s\" && git push --follow-tags origin HEAD"
   },
   "repository": {
@@ -25,8 +26,8 @@
   ],
   "type": "module",
   "homepage": "https://github.com/cortl/recipes#readme",
-  "dependencies": {},
   "devDependencies": {
+    "@google-cloud/firestore": "^7.3.0",
     "jest": "^29.7.0",
     "joi": "^17.12.1",
     "nodemon": "^3.0.3",

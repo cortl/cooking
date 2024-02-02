@@ -50,3 +50,24 @@ jobs:
           path: "images"
           destination: "cortl-recipe-images"
           parent: false
+
+  upload-recipes:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - id: "checkout"
+        uses: actions/checkout@v4
+
+      - id: "auth"
+        uses: "google-github-actions/auth@v2"
+        with:
+          credentials_json: "${{ secrets.GCP_SA_KEY }}"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: https://registry.npmjs.org/
+
+      - run: npm run upload
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: "${{ secrets.GCP_SA_KEY }}"
