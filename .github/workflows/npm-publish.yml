@@ -68,6 +68,5 @@ jobs:
           node-version: 20
           registry-url: https://registry.npmjs.org/
 
+      - run: npm install
       - run: npm run upload
-        env:
-          GOOGLE_APPLICATION_CREDENTIALS: "${{ secrets.GCP_SA_KEY }}"
