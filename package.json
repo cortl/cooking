@@ -21,7 +21,6 @@
     "url": "https://github.com/cortl/recipes/issues"
   },
   "files": [
-    "images",
     "index.js"
   ],
   "type": "module",
