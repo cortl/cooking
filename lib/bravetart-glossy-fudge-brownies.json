@@ -1,6 +1,6 @@
 {
   "createdDate": "11/24/2020",
-  "image": "glossy-fudge-brownies.jpg",
+  "image": "bravetart-glossy-fudge-brownies.jpg",
   "ingredients": [
     {
       "category": "All",
@@ -31,7 +31,7 @@
   ],
   "rating": 10,
   "servings": 24,
-  "slug": "bravetart-glossy-fudge-brownies-recipe",
+  "slug": "bravetart-glossy-fudge-brownies",
   "source": {
     "name": "Serious Eats",
     "url": "https://www.seriouseats.com/recipes/2018/02/bravetart-glossy-fudge-brownies.html"
