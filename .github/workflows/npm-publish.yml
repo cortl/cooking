@@ -50,6 +50,7 @@ jobs:
           path: "images"
           destination: "cortl-recipe-images"
           parent: false
+          headers: "Cache-Control:public, max-age=3600"
 
   upload-recipes:
     needs: build
@@ -69,3 +70,4 @@ jobs:
           path: "lib"
           destination: "cortl-recipes-json"
           parent: false
+          headers: "Cache-Control:public, max-age=3600"
