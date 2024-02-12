@@ -1,0 +1,63 @@
+{
+  "archived": false,
+  "createdDate": "02/10/2024",
+  "image": "creamy-polenta.jpg",
+  "ingredients": [
+    {
+      "category": "Polenta",
+      "items": [
+        "4 cups chicken broth",
+        "1 cup uncooked polenta",
+        "4 Tbsp salted butter",
+        "1/4 cup grated Parmesan"
+      ]
+    }
+  ],
+  "instructions": [
+    "Add the chicken broth to a pot and bring it to a boil over medium-high heat.",
+    "Once the broth is boiling, whisk in the polenta. Turn the heat down to medium-low and let the polenta simmer, stirring often, for about five minutes or until it has thickened.",
+    "Turn the heat off and add the butter and Parmesan. Stir the butter and Parmesan into the polenta until fully melted. Taste the polenta and adjust the salt or butter as desired. Serve immediately."
+  ],
+  "notes": [
+    "Cornmeal can be used in place of polenta, but the texture will be slightly different."
+  ],
+  "rating": 7,
+  "related": ["chicken-cacciatore"],
+  "servings": 4,
+  "slug": "creamy-polenta",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/creamy-polenta/"
+  },
+  "tags": ["Vegetarian", "Quick", "Appetizer", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Creamy Polenta"
+}

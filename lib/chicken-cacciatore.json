@@ -1,0 +1,80 @@
+{
+  "archived": false,
+  "createdDate": "02/10/2024",
+  "image": "chicken-cacciatore.jpg",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "6 bone-in skin-on chicken thighs",
+        "1 tsp salt",
+        "1/4 tsp freshly cracked black pepper",
+        "1/4 cup all-purpose flour"
+      ]
+    },
+    {
+      "category": "Stew",
+      "items": [
+        "3 Tbsp olive oil, divided",
+        "1/2 onion, chopped",
+        "4 cloves garlic, minced",
+        "8 oz. baby bella mushrooms, sliced",
+        "1 red bell pepper, sliced",
+        "1/2 cup red wine",
+        "1 28oz. can crushed tomatoes",
+        "1 1/2 Tbsp capers",
+        "Fresh basil or parsley (to garnish)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Place the chicken thighs in a bowl. Toss with the salt, pepper, and flour until fully coated.",
+    "Heat 2 tablespoons of olive oil in a large skillet over medium heat. Once heated, add in the chicken thighs, cooking on both sides until browned. Then, transfer to a plate.",
+    "Add in 1 tablespoon of olive oil, the onion, and a sprinkle of salt. Cook for a few minutes until softened.",
+    "Add in the garlic, mushrooms, and red bell pepper. Sprinkle with more salt and cook for 3-4 minutes until the mushrooms are tender.",
+    "Pour in the red wine and scrape up the brown bits from the bottom of the pan.",
+    "Add in the crushed tomatoes and capers.",
+    "Return the chicken thighs to the pan, bring the mixture to a simmer, and cover the pan, cooking for 25-30 minutes until the chicken is tender. Uncover the pan, and cook for another 5 minutes.",
+    "Garnish with chopped fresh basil or parsley."
+  ],
+  "notes": ["6 thighs is about 2.5 lbs"],
+  "rating": 7,
+  "related": ["creamy-polenta"],
+  "servings": 6,
+  "slug": "chicken-cacciatore",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/chicken-cacciatore/"
+  },
+  "tags": ["Poultry", "Dinner", "Braising & Stewing"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Chicken Cacciatore"
+}
