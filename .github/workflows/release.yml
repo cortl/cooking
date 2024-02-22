@@ -44,20 +44,21 @@ jobs:
       - id: "checkout"
         uses: actions/checkout@v4
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+
       - id: "auth"
         uses: "google-github-actions/auth@v2"
         with:
           credentials_json: "${{ secrets.GCP_SA_KEY }}"
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version-file: ".nvmrc"
       - run: npm run build
 
       - id: "upload-bundle"
         uses: "google-github-actions/upload-cloud-storage@v2"
         with:
-          path: "/index.json"
+          path: "index.json"
           destination: "cortl-recipes-json"
           parent: false
           headers: |
