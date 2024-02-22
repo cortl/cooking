@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version-file: ".nvmrc"
-      - run: npm install
+      - run: npm ci
       - run: npm run verify
 
   upload-images:
@@ -53,6 +53,7 @@ jobs:
         with:
           credentials_json: "${{ secrets.GCP_SA_KEY }}"
 
+      - run: npm ci
       - run: npm run build
 
       - id: "upload-individual-files"
