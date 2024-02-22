@@ -3,3 +3,4 @@ credentials.json
 .DS_Store
 index.js
 index.json
+dist/*

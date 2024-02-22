@@ -55,19 +55,10 @@ jobs:
 
       - run: npm run build
 
-      - id: "upload-bundle"
+      - id: "upload-individual-files"
         uses: "google-github-actions/upload-cloud-storage@v2"
         with:
-          path: "index.json"
-          destination: "cortl-recipes-json"
-          parent: false
-          headers: |
-            cache-control: "public, max-age=3600"
-
-      - id: "upload-invidiual-files"
-        uses: "google-github-actions/upload-cloud-storage@v2"
-        with:
-          path: "lib"
+          path: "dist"
           destination: "cortl-recipes-json"
           parent: false
           headers: |
