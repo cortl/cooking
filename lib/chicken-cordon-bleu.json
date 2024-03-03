@@ -1,0 +1,87 @@
+{
+  "archived": false,
+  "createdDate": "02/25/2024",
+  "image": "chicken-cordon-bleu.webp",
+  "ingredients": [
+    {
+      "category": "Chicken",
+      "items": [
+        "4 large boneless skinless chicken breasts",
+        "4 slices ham",
+        "4 slices Swiss cheese",
+        "1 1/2 cup Panko breadcrumbs",
+        "1/2 tsp Italian seasoning",
+        "1/2 tsp onion powder",
+        "1/2 tsp garlic powder",
+        "1 tsp salt",
+        "1/4 tsp Freshly cracked black pepper",
+        "1/2 cup butter, melted"
+      ]
+    },
+    {
+      "category": "Sauce",
+      "items": [
+        "1/4 cup butter",
+        "2 Tbsp all-purpose flour",
+        "3/4 cup milk",
+        "1/2 Tbsp Dijon mustard",
+        "1 tsp Worcestershire",
+        "1/2 tsp salt"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F.",
+    "Butterfly each chicken breast by slicing horizontally through the middle of the breast, taking care to not cut all the way through. Open the chicken breast up like a book.",
+    "Lay the breast flat between 2 pieces of plastic wrap. Use a meat mallet or rolling pin to pound the chicken breasts into a thin, even layer.",
+    "Sprinkle the chicken breasts with salt and pepper. Place a slice of ham and slice of Swiss cheese on each chicken breast.",
+    "Gently roll up the chicken breast.",
+    "In a shallow bowl, combine the breadcrumbs, Italian seasoning, onion powder, garlic, powder, salt, and pepper. Set up a breading station with 2 shallow bowls; one of melted butter and one for the breading.",
+    "Dip the chicken rolls in the melted butter, and roll in the breadcrumbs until completely coated. Transfer to a parchment linked baking sheet.",
+    "Bake the chicken for 35-40 minutes or until it reaches an internal temperature of 165°F.",
+    "To make the sauce, melt the butter in a saucepan over medium heat. Stir in the flour. Then, slowly pour in the milk while whisking to incorporate.",
+    "Add in the Dijon mustard and Worcestershire sauce. Season with salt. Spoon the sauce over the chicken."
+  ],
+  "notes": [
+    "Serve with green beans and choice of starch (mashed potatoes/bread)."
+  ],
+  "rating": 8,
+  "related": [],
+  "servings": 4,
+  "slug": "chicken-cordon-bleu",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/chicken-cordon-bleu/"
+  },
+  "tags": ["Poultry", "Dinner", "Roasting"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Chicken Cordon Bleu"
+}
