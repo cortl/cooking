@@ -7,19 +7,26 @@ const FORBIDDEN_TITLE_WORDS = ["bravetart", "best", "recipe", "delicious"].map(
 
 const Joi = joi
   .extend({
-    type: "file",
+    type: "image",
     validate: (value) => {
       if (value === "") {
         return { value, errors: [new Error(`image field was empty`)] };
       }
+      if (!value.includes(".webp")) {
+        return {
+          value,
+          errors: [new Error(`${value} is not a webp file`)],
+        };
+      }
+
       const exists = fs.existsSync(`images/${value}`);
 
       return exists
         ? { value, errors: [] }
         : {
-            value,
-            errors: [new Error(`${value} does note exist`)],
-          };
+          value,
+          errors: [new Error(`${value} does note exist`)],
+        };
     },
   })
   .extend({
@@ -61,9 +68,9 @@ const Joi = joi
       return exists
         ? { value, errors: [] }
         : {
-            value,
-            errors: [new Error(`${value} does not exist.`)],
-          };
+          value,
+          errors: [new Error(`${value} does not exist.`)],
+        };
     },
   });
 

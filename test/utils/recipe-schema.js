@@ -89,7 +89,7 @@ const schema = Joi.object({
     })
     .min(1)
     .required(),
-  image: Joi.file(),
+  image: Joi.image(),
   related: Joi.array().items(Joi.slug()),
 });
 
