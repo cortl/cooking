@@ -24,9 +24,9 @@ const Joi = joi
       return exists
         ? { value, errors: [] }
         : {
-          value,
-          errors: [new Error(`${value} does note exist`)],
-        };
+            value,
+            errors: [new Error(`${value} does note exist`)],
+          };
     },
   })
   .extend({
@@ -68,9 +68,9 @@ const Joi = joi
       return exists
         ? { value, errors: [] }
         : {
-          value,
-          errors: [new Error(`${value} does not exist.`)],
-        };
+            value,
+            errors: [new Error(`${value} does not exist.`)],
+          };
     },
   });
 
