@@ -1,6 +1,6 @@
 {
   "createdDate": "11/30/2019",
-  "image": "how-to-make-pickled-red-onions-in-15-minutes.webp",
+  "image": "pickled-red-onions.webp",
   "ingredients": [
     {
       "category": "All",
@@ -20,10 +20,11 @@
     "Once boiling, pour the vinegar over the sliced onion and garlic*. Press the onion down so all the pieces are submerged, then let the mixture cool to room temperature.",
     "Once cool, use the onions immediately or transfer the onions and all the brine to a lidded non-reactive container (glass, ceramic, or plastic) for storage in the refrigerator. The onions can be stored in the refrigerator for 3-4 weeks."
   ],
-  "notes": ["Added jalapenos, really good on top of nachos"],
+  "notes": ["Added a couple of jalepenos to the mix for a little heat."],
   "rating": 7,
+  "related": ["spicy-baked-black-bean-nachos"],
   "servings": 0,
-  "slug": "how-to-make-pickled-red-onions-in-15-minutes",
+  "slug": "pickled-red-onions",
   "source": {
     "url": "https://www.budgetbytes.com/pickled-red-onions/",
     "name": "Budgetbytes"
