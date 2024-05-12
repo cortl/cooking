@@ -1,0 +1,111 @@
+{
+  "archived": false,
+  "createdDate": "05/06/2024",
+  "image": "santa-fe-salad.webp",
+  "ingredients": [
+    {
+      "category": "Dressing",
+      "items": [
+        "1 avocado",
+        "1/2 cup sour cream",
+        "1 clove garlic, minced",
+        "1/4 tsp salt",
+        "2 tbsp lime juice",
+        "1/4 bunch fresh cilantro",
+        "1/4 cup water"
+      ]
+    },
+    {
+      "category": "Salad",
+      "items": [
+        "2 heads romaine lettuce, chopped into bite-size pieces",
+        "1 green bell pepper, diced",
+        "5 radishes, sliced thin",
+        "1 cup frozen corn, thawed and rinsed",
+        "1 15oz. can black beans, rinsed and drained",
+        "1/4 cup shredded cheddar cheese",
+        "1/2 cup pico de gallo",
+        "1 cup crushed tortilla chips"
+      ]
+    },
+    {
+      "category": "Chicken",
+      "items": [
+        "2 boneless, skinless chicken breasts",
+        "2 Tbsp olive oil, divided",
+        "1 Tbsp chili powder",
+        "2 tsp paprika",
+        "1/2 tsp cayenne pepper",
+        "1 tsp ground cumin",
+        "1 tsp garlic powder",
+        "1 tsp onion powder",
+        "1 tsp salt",
+        "1 tsp freshly ground black pepper"
+      ]
+    },
+    {
+      "category": "Optional Toppings",
+      "items": [
+        "Jalapeno",
+        "Radish",
+        "Cilantro",
+        "Pickled red onions",
+        "Lime juice",
+        "Sour Cream",
+        "Green Onion"
+      ]
+    }
+  ],
+  "instructions": [
+    "Add the avocado, sour cream, minced garlic, salt, lime juice, and cilantro to a food processor or blender. Puré until smooth. Cover and set aside in the refrigerator.",
+    "Chop romaine lettuce into bite-sized pieces and transfer to a large salad bowl.",
+    "Dice bell peppers, slice radishes, thaw frozen corn, and rinse and strain canned black beans. Add this and 1/2 cup of pico de gallo to the large salad bowl on top of chopped romaine lettuce. Cover and keep in the refrigerator while you prepare the chicken.",
+    "Place the chicken breasts inside a heavy duty food storage bag and flatten with a rolling pin or a tenderizing mallet until the breasts are consistently about 3/4 inch thick. Start in the middle at the thickest part of each breast for more even cooking. This step helps the chicken cook more evenly.",
+    "Prepare the Santa Fe Chicken seasoning blend by combining chili, paprika, cayenne, cumin, garlic powder, onion powder, salt, and black pepper.",
+    "Rub chicken breasts with 1 Tbsp olive oil and divide the seasoning blend between the them, making sure to thoroughly coat the entire surface of each chicken breast with seasoning.",
+    "In a large skillet, add 1 Tbsp olive oil over medium-high heat. When the oil is glistening and hot, add the chicken breasts. Cook your chicken for a total of 10-12 minutes, flipping halfway. While the chicken cooks, do not wiggle or disturb it except for flipping. Remove the chicken from the heat when it reaches an internal temperature of 160°F. Allow chicken to rest on a cutting board for 5-10 minutes before slicing into strips. After resting, the chicken should reach an internal temperature of 165°F. ",
+    "Fan out the sliced chicken on top of the salad and drizzle creamy avocado dressing over the top. Toss and serve!"
+  ],
+  "notes": [
+    "A lot of seasoning on the chicken, but remember served cold usually"
+  ],
+  "rating": 8,
+  "related": ["pickled-red-onions"],
+  "servings": 4,
+  "slug": "santa-fe-salad",
+  "source": {
+    "name": "BudgetBytes",
+    "url": "https://www.budgetbytes.com/santa-fe-salad/"
+  },
+  "tags": ["Poultry", "Salad", "Dinner", "Stovetop", "No Cook"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Santa-Fe Salad"
+}

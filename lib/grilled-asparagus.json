@@ -19,7 +19,11 @@
   ],
   "notes": [],
   "rating": 8,
-  "related": ["perfectly-grilled-steaks", "tarragon-and-lemon-aioli"],
+  "related": [
+    "perfectly-grilled-steaks",
+    "tarragon-and-lemon-aioli",
+    "steak-kabobs"
+  ],
   "servings": 4,
   "slug": "grilled-asparagus",
   "source": {

@@ -4,7 +4,7 @@
     {
       "category": "All",
       "items": [
-        "2 Sirloin steak",
+        "2 Sirloin steaks",
         "1 Onion",
         "3 Red/Green bell peppers",
         "16oz Cherry tomatoes",
@@ -24,6 +24,7 @@
     "If using wood skewers, soak for 20 minutes in water prior to cooking."
   ],
   "rating": 9,
+  "related": ["grilled-asparagus"],
   "servings": 4,
   "slug": "steak-kabobs",
   "source": {
@@ -38,6 +39,15 @@
         {
           "measurement": 10,
           "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Marinate",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
         }
       ]
     },
