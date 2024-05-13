@@ -1,0 +1,65 @@
+{
+  "archived": false,
+  "createdDate": "05/13/2024",
+  "image": "classic-coleslaw.webp",
+  "ingredients": [
+    {
+      "category": "Slaw Mix",
+      "items": [
+        "1 large head green cabbage, about 3 1/2 pounds, finely shredded on a mandoline or by hand (see notes)",
+        "1 large red onion, finely sliced on a mandoline or by hand",
+        "1 large carrot, peeled and grated on the large holes of a box grater (see notes)",
+        "1/4 cup roughly chopped fresh parsley leaves",
+        "1 cup white sugar",
+        "1/2 cup kosher salt"
+      ]
+    },
+    {
+      "category": "Dressing",
+      "items": [
+        "3/4 cup mayonnaise",
+        "1/4 cup apple cider vinegar",
+        "2 tablespoons Dijon mustard",
+        "1 tablespoon freshly ground black pepper",
+        "3 tablespoons sugar"
+      ]
+    }
+  ],
+  "instructions": [
+    "For the Slaw Mix: Combine cabbage, onion, carrot, and parsley in a large bowl, leaving plenty of room to toss (you may have to use 2 large bowls if your bowls are not large enough). Sprinkle with sugar and salt and toss to combine. Let rest 5 minutes, then transfer to a large colander and rinse thoroughly under cold running water.",
+    "Transfer rinsed mixture to a salad spinner and spin dry. Alternatively, transfer to a large rimmed baking sheet lined with a triple layer of paper towels or a clean kitchen towel and blot mixture dry with more paper towels. Return to large bowl and set aside.",
+    "For the Dressing: Combine mayonnaise, vinegar, mustard, black pepper, and sugar in a medium bowl and whisk until homogenous.",
+    "Pour dressing over cabbage mixture and toss to coat. Taste and adjust seasoning with more salt, pepper, sugar, and/or vinegar if desired."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["real-barbecued-pulled-pork"],
+  "servings": 12,
+  "slug": "classic-coleslaw",
+  "source": {
+    "name": "J. Kenji López-Alt",
+    "url": "https://www.seriouseats.com/creamy-cole-slaw"
+  },
+  "tags": ["Vegetarian", "Salad", "No Cook"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Classic Coleslaw"
+}

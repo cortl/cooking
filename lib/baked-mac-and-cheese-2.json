@@ -1,0 +1,71 @@
+{
+  "archived": false,
+  "createdDate": "05/13/2024",
+  "image": "baked-mac-and-cheese-2.webp",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 lb pasta of your choice",
+        "1/2 cup butter",
+        "1/2 cup flour",
+        "4 cups milk",
+        "6 cups freshly shredded sharp or white Cheddar",
+        "1/2 tablespoon Kosher or sea salt",
+        "1/2 tablespoon pepper",
+        "2 tablespoon butter",
+        "1/2 cup panko bread crumbs"
+      ]
+    }
+  ],
+  "instructions": [
+    "Boil pasta in salted water according to package directions.",
+    "Melt butter in large saucepan over medium heat. Sprinkle in flour and whisk and cook 2-3 minutes. Add in salt and pepper.",
+    "Slowly pour in 4 cups of milk whisking until smooth and heating to a low boil until thickened. Do not stop whisking and cooking until thick. Remove from heat.",
+    "Grease a 9x13\" baking dish and add the hot pasta to the dish. Over the top sprinkle 6 cups of freshly shredded cheese.",
+    "Pour the thickened cream sauce over the hot pasta and cheese and let it sit until the cheese melts. Stir everything together.",
+    "Melt 2 tablespoons of butter over medium heat. Add in panko bread crumbs, stirring constantly 3-5 minutes or until golden brown.",
+    "Sprinkle the breadcrumbs over the mac and cheese.",
+    "Bake in a preheated 325 degree oven 12-15 minutes."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": 12,
+  "slug": "baked-mac-and-cheese-2",
+  "source": {
+    "name": "That Which Nourishes",
+    "url": "https://thatwhichnourishes.com/the-mac-and-cheese/"
+  },
+  "tags": ["Vegetarian", "Pasta", "Baking", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Baked Mac and Cheese"
+}
