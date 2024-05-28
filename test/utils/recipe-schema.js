@@ -36,6 +36,7 @@ const TAGS = [
   "Topping",
   "Thanksgiving",
   "Christmas",
+  "Camping",
   "Super Bowl",
   "Baking",
   "Roasting",
