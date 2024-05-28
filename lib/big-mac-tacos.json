@@ -1,0 +1,82 @@
+{
+  "archived": false,
+  "createdDate": "05/26/2024",
+  "image": "big-mac-tacos.webp",
+  "ingredients": [
+    {
+      "category": "Big Mac Sauce",
+      "items": [
+        "1/4 cup mayo",
+        "2 tbsp ketchup",
+        "1 tbsp sweet relish",
+        "1 tsp yellow mustard",
+        "1/2 tsp white vinegar",
+        "1/2 tsp sugar",
+        "1/4 tsp paprika",
+        "1/4 tsp garlic powder",
+        "1/4 tsp onion powder"
+      ]
+    },
+    {
+      "category": "Tacos",
+      "items": [
+        "1 lb ground beef lean or extra lean preferred",
+        "12 flour tortillas street/mini size preferred",
+        "1 tbsp neutral oil",
+        "12 slices American cheese",
+        "2 cups lettuce shredded, iceberg preferred",
+        "12 slices pickles",
+        "1/4 onion chopped",
+        "toasted sesame seeds optional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Mix together the mayo, ketchup, relish, mustard, vinegar, sugar, paprika, garlic powder, and onion powder in a small bowl. Cover and place in the fridge to let the flavors meld. The longer the sauce melds, the tastier, but you can use it right away after the tacos are ready.",
+    "Make the smash tacos by dividing the beef into 12 equal portions that are ball shaped. You can eyeball it or use a scale to divide it into 1.3 ounce portions. Lay out a tortilla and place a portion of beef on top.",
+    "Use clean or gloved hands to press the meat onto the tortilla, flattening it out to the edges. Alternatively, you can use the bottom of a glass that’s lightly moistened with water or a burger press to press the meat flat. Lightly season with salt and pepper. Repeat with the remaining tortillas.",
+    "Heat a large skillet over medium high heat and add a touch of oil, swirling to spread it out. Add as many tacos as you can, without crowding too much, beef side down. Cook without moving for 2-3 minutes or until the beef gets a good golden brown crust. When the patties are ready, flip them over and lower the heat to medium low.",
+    "While the beef is cooking, remove the slices of American cheese from the wrappers. Top the cooked patties with a slice of cheese each, then cover with a lid and cook for another 1-2 minutes, or until the cheese melts and the tortillas are gold and crisp. Remove from the pan and keep warm in a low oven or top immediately and enjoy.",
+    "To finish the Big Mac tacos, add pickles, Big Mac sauce, shredded lettuce, diced onions, and an optional sprinkle toasted sesame seeds. Enjoy immediately!"
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": 12,
+  "slug": "big-mac-tacos",
+  "source": {
+    "name": "I Am A Food Blog",
+    "url": "https://iamafoodblog.com/big-mac-tacos/"
+  },
+  "tags": ["Beef", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Big Mac Tacos"
+}
