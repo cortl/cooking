@@ -36,6 +36,7 @@
   ],
   "notes": [],
   "rating": 7,
+  "related": ["potatoes-au-gratin"],
   "servings": 10,
   "slug": "classic-homemade-meatloaf",
   "source": {
@@ -65,6 +66,10 @@
     {
       "label": "Total",
       "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
         {
           "measurement": 5,
           "label": "minutes"
