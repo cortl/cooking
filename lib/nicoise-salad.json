@@ -1,0 +1,84 @@
+{
+  "archived": false,
+  "createdDate": "06/16/2024",
+  "image": "nicoise-salad.webp",
+  "ingredients": [
+    {
+      "category": "Potatoes",
+      "items": [
+        "1/2 Tbsp olive oil",
+        "1/2 tsp garlic powder",
+        "1/2 tsp onion powder",
+        "1/2 tsp dried dill",
+        "1/2 lb. baby potatoes, quartered"
+      ]
+    },
+    {
+      "category": "Salad",
+      "items": [
+        "salad dressing*",
+        "1 cup green beans, stems removed",
+        "4 hard-boiled eggs, halved",
+        "2 heads romaine lettuce, chopped",
+        "1 cup grape tomatoes, halved",
+        "1/2 red onion, julienned",
+        "7 radishes, halved or sliced",
+        "1 cucumber, peeled and chopped",
+        "1/4 cup olives, strained",
+        "2 5oz. cans chunk light tuna",
+        "1 pinch salt and pepper, to taste"
+      ]
+    }
+  ],
+  "instructions": [
+    "Choose your favorite salad dressing. (see related)",
+    "Combine olive oil, garlic powder, onion powder and dried dill in a small bowl. Whisk to combine.",
+    "Quarter the baby potatoes and toss them in the olive oil spice blend.",
+    "Air fry quartered potatoes at 400°F for 15 minutes, shaking halfway through (OR roast the potatoes at 400°F until golden and tender, about 30 minutes.)",
+    "Bring 4 cups of water to a rolling boil in a medium pot or large saucepan.",
+    "Remove any stems from green beens. Blanch the green beans by tossing them into the boiling water and then turning off the heat. Allow them to sit in the hot water for a very brief period of time, about 3 minutes, until they are bright green. Quickly, transfer them to an ice bath to stop them from cooking any further. Set aside.",
+    "Hard boil, peel, and halve the eggs. Chop the romaine lettuce, halve the grape tomatoes, julienne the onion, halve or quarter radishes, peel and chop cucumber, and strain olives.",
+    "Strain the canned tuna and break it apart with a fork.",
+    "Toss all ingredients together and lightly dress your salad. Finish with a crank of freshly ground pepper and sea salt."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["honey-mustard-sauce", "tahini-dressing"],
+  "servings": 4,
+  "slug": "nicoise-salad",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/nicoise-salad/"
+  },
+  "tags": ["Fish", "Salad", "Dinner", "Stovetop", "Roasting"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "title": "Niçoise Salad"
+}

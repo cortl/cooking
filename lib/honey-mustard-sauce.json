@@ -1,0 +1,57 @@
+{
+  "archived": false,
+  "createdDate": "06/16/2024",
+  "image": "honey-mustard-sauce.webp",
+  "ingredients": [
+    {
+      "category": "Sauce",
+      "items": [
+        "1/2 cup mayonnaise",
+        "1 Tbsp Dijon mustard",
+        "1 Tbsp yellow mustard",
+        "3 Tbsp honey",
+        "1 tsp apple cider vinegar",
+        "1/8 tsp garlic powder",
+        "1/8 tsp paprika",
+        "1/8 tsp salt",
+        "freshly cracked pepper (about 5 cranks of a pepper mill)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine all the ingredients in a bowl and stir until smooth. Use immediately or refrigerate until ready to use."
+  ],
+  "notes": [
+    "This sauce is great on sandwiches, wraps, salads, or as a dipping sauce for chicken tenders."
+  ],
+  "rating": 8,
+  "related": ["nicoise-salad"],
+  "servings": 5,
+  "slug": "honey-mustard-sauce",
+  "source": {
+    "name": "Budgetbytes",
+    "url": "https://www.budgetbytes.com/honey-mustard-sauce/"
+  },
+  "tags": ["Vegetarian", "No Cook", "Topping"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Honey Mustard Sauce"
+}
