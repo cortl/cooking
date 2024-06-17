@@ -1,0 +1,87 @@
+{
+  "archived": false,
+  "createdDate": "06/15/2023",
+  "image": "vietnamese-style-pickled-vegetables.webp",
+  "ingredients": [
+    {
+      "category": "Vegetables",
+      "items": [
+        "1/2 cup Jalapeño, sliced thin*",
+        "1 cup Daikon, Julienne Sliced",
+        "1 cup English Cucumber, Julienne Sliced",
+        "1 cup Carrot, Julienne Sliced",
+        "1 cup Red Onion, thinly sliced"
+      ]
+    },
+    {
+      "category": "Pickling Brine",
+      "items": [
+        "1/4 cup Sugar",
+        "3/4 cup Water",
+        "1 1/4 cup Rice Wine Vinegar",
+        "1 teaspoon Kosher Salt"
+      ]
+    }
+  ],
+  "instructions": [
+    "First, prepare all of the vegetables by thinly slicing them. For the daikon, cucumber, and carrot it works best to use a julienne peeler to peel long thin strips. For the red onion and jalapeno, use a sharp knife to slice thin strips of each.",
+    "Then, add the prepared vegetables to a jar. It can be a jar large enough to fit all of the vegetables or they can be divided between two jars if necessary. Make sure that the vegetables are packed tightly.",
+    "Combine the sugar, water, rice vinegar, and kosher salt in a small saucepan. Taste when the sugar and salt have dissolved, before the mixture boils and is too hot to the touch (take care not to burn your mouth). Add additional salt or sugar if desired.",
+    "Heat the mixture to boiling over medium high heat. Then, remove from heat.",
+    "Pour the pickling brine over the vegetables.",
+    "Cool the mixture to room temperature, then seal the jar with the lid and transfer to the refrigerator. Chill for at least 2 hours before serving to ensure the best flavor."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": ["thai-style-grilled-chicken"],
+  "servings": 8,
+  "slug": "vietnamese-style-pickled-vegetables",
+  "source": {
+    "name": "Good Life Eats",
+    "url": "https://www.goodlifeeats.com/how-to-make-pickled-vegetables/"
+  },
+  "tags": ["Vegan", "Vegetarian", "Quick", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        },
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Vietnamese-Style Pickled Vegetables"
+}

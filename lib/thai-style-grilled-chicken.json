@@ -28,7 +28,10 @@
   ],
   "notes": [],
   "rating": 8,
-  "related": ["thai-style-sweet-chile-dipping-sauce"],
+  "related": [
+    "thai-style-sweet-chile-dipping-sauce",
+    "vietnamese-style-pickled-vegetables"
+  ],
   "servings": 4,
   "slug": "thai-style-grilled-chicken",
   "source": {
