@@ -1,0 +1,55 @@
+{
+  "archived": false,
+  "createdDate": "06/06/2024",
+  "image": "tahini-dressing.webp",
+  "ingredients": [
+    {
+      "category": "Dressing",
+      "items": [
+        "1/4 cup smooth tahini",
+        "3 tablespoons water, plus more if needed",
+        "2 tablespoons fresh lemon juice",
+        "2 tablespoons extra-virgin olive oil",
+        "1 tablespoon maple syrup",
+        "1 teaspoon toasted sesame oil",
+        "1 small garlic clove, grated",
+        "1/4 teaspoon kosher salt"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the tahini, water, lemon juice, olive oil, maple syrup, sesame oil, garlic, and salt until smooth.",
+    "If the dressing is too thick, add more water, ½ tablespoon at a time, until it’s a drizzleable consistency."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": 4,
+  "slug": "tahini-dressing",
+  "source": {
+    "name": "Love and Lemons",
+    "url": "https://www.loveandlemons.com/tahini-dressing/"
+  },
+  "tags": ["Vegan", "Topping", "No Cook"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Tahini Dressing"
+}
