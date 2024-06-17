@@ -1,0 +1,86 @@
+{
+  "archived": false,
+  "createdDate": "06/15/2024",
+  "image": "thai-style-grilled-chicken.webp",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "6 cloves garlic",
+        "12 sprigs cilantro, including thick stalks",
+        "3 tablespoons (45g) palm or light brown sugar",
+        "2 teaspoons (10g) ground white pepper",
+        "1 teaspoon (5g) ground coriander",
+        "2 tablespoons (30ml) fish sauce",
+        "2 teaspoons (10ml) dark soy sauce",
+        "2 (3-inch) segments lemongrass (optional)",
+        "1 whole chicken, spine removed, split in half along the breastbone",
+        "1 recipe Thai-style sweet chile dipping sauce"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine garlic, cilantro, sugar, white pepper, coriander, fish sauce, dark soy sauce, and lemongrass (if using) in the bowl of a food processor. Process until a rough paste is formed. Set aside.",
+    "Place chicken halves flat on a cutting board. Insert 2 metal skewers into each chicken half, running parallel through legs and breasts. Transfer chicken to a baking dish that just fits them. Rub on all surfaces with marinade. Cover, transfer to refrigerator, and allow to marinate for at least 2 hours and up to overnight.",
+    "When ready to cook, light 1 chimney full of charcoal. When all charcoal is lit and covered with gray ash, pour out and spread coals evenly over half of coal grate. Alternatively, set half the burners of a gas grill to high heat. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes. Clean and oil grilling grate.",
+    "Place chicken, skin side up, on cooler side of grill, with legs facing toward hotter side. Cover grill, with vents on lid open and aligned over chicken. Open bottom vents of grill. Cook until an instant-read thermometer inserted into thickest part of breast registers 140°F (60°C), about 45 minutes. Carefully flip chicken and place, skin side down, on hotter side of grill, with breasts pointed toward cooler side. Cover and cook until skin is crisp and an instant-read thermometer inserted into thickest part of breast registers 145 to 150°F (63 to 66°C), about 3 minutes longer. (Be careful, as the skin is very prone to burning.) If chicken threatens to burn before temperature is achieved, carefully slide to cooler side of grill, cover, and continue to cook until done. Do not leave lid off for longer than it takes to check temperature, or chicken will burn.",
+    "Transfer chicken to a cutting board and allow to rest for 5 minutes. Carve and serve with chile dipping sauce."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["thai-style-sweet-chile-dipping-sauce"],
+  "servings": 4,
+  "slug": "thai-style-grilled-chicken",
+  "source": {
+    "name": "J. Kenji López-Alt",
+    "url": "https://www.seriouseats.com/thai-style-grilled-chicken-recipe"
+  },
+  "tags": ["Poultry", "Dinner", "Grilling"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Marinate",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "hours"
+        },
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Thai-Style Grilled Chicken (Gai Yang)"
+}

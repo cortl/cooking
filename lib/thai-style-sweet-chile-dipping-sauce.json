@@ -1,0 +1,52 @@
+{
+  "archived": false,
+  "createdDate": "06/15/2024",
+  "image": "thai-style-sweet-chile-dipping-sauce.webp",
+  "ingredients": [
+    {
+      "category": "Sauce",
+      "items": [
+        "10 to 12 red Thai bird chiles, finely minced",
+        "4 cloves garlic, finely minced (about 4 teaspoons)",
+        "1/4 cup Asian fish sauce",
+        "1/2 cup palm or light brown sugar",
+        "3 tablespoons distilled white vinegar",
+        "2 tablespoons fresh lime juice"
+      ]
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a small sealable container. Shake well, set aside, and allow sugar to dissolve, shaking every 10 minutes or so. When sugar is fully dissolved, store in refrigerator until ready to use. Sauce will keep in the refrigerator for up to 3 weeks."
+  ],
+  "notes": [],
+  "rating": 9,
+  "related": ["thai-style-grilled-chicken"],
+  "servings": 8,
+  "slug": "thai-style-sweet-chile-dipping-sauce",
+  "source": {
+    "name": "J. Kenji López-Alt",
+    "url": "https://www.seriouseats.com/thai-style-grilled-chicken-recipe"
+  },
+  "tags": ["Vegan", "Vegetarian", "Topping", "No Cook"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Thai-Style Sweet Chili Dipping Sauce"
+}
