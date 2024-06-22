@@ -1,0 +1,62 @@
+{
+  "archived": false,
+  "createdDate": "06/21/2024",
+  "image": "garlic-fried-rice.webp",
+  "ingredients": [
+    {
+      "category": "Fried Rice",
+      "items": [
+        "1/4 cup plus 1 tablespoon (75ml) canola oil or other neutral oil",
+        "8 garlic cloves, crushed and sliced thinly",
+        "4 cups cooked white rice (24 ounces; 700g), preferably long-grain, but any variety will do"
+      ]
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat oil over medium heat until shimmering. Add garlic and cook, stirring constantly, until garlic softens, becomes very aromatic, and turns lightly golden, 30 seconds to 1 minute. Strain oil through a fine-mesh strainer directly into a wok; reserve cooked garlic and set aside.",
+    "Heat wok over high heat until oil is shimmering. Add rice, breaking up larger clumps with a spatula and tossing to coat with garlic-flavored oil. Cook, stirring and tossing frequently, until no clumps of rice remain and rice is warmed through, about 4 minutes. Add reserved garlic to rice and toss to combine. Serve immediately."
+  ],
+  "notes": [],
+  "rating": 7,
+  "related": [
+    "grilled-chicken-teriyaki",
+    "grilled-bok-choy-with-sweet-soy-glaze"
+  ],
+  "servings": 4,
+  "slug": "garlic-fried-rice",
+  "source": {
+    "name": "Sho Spaeth",
+    "url": "https://www.seriouseats.com/garlic-fried-rice-recipe"
+  },
+  "tags": ["Vegan", "Vegetarian", "Quick", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Garlic Fried Rice"
+}
