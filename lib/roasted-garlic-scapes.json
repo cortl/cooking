@@ -1,0 +1,64 @@
+{
+  "archived": false,
+  "createdDate": "06/23/2024",
+  "ingredients": [
+    {
+      "category": "Vegetables",
+      "items": [
+        "Garlic scapes",
+        "1 Tbsp olive oil",
+        "Kosher salt",
+        "Black pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 475f",
+    "Cut bottom and flimsy ends off garlic scapes",
+    "Toss with olive oil, salt, and pepper",
+    "Roast for 10 minutes, flip, roast for 5 more minutes"
+  ],
+  "notes": [
+    "Roast other vegetables at the same time, like asparagus, potatoes, or carrots",
+    "I first tried 20 minutes, but that was far too long. 15 minutes will work better"
+  ],
+  "rating": 6,
+  "related": ["risotto"],
+  "servings": 1,
+  "slug": "roasted-garlic-scapes",
+  "source": {
+    "name": "Me",
+    "url": "https://recipes.cortlan.dev"
+  },
+  "tags": ["Vegan", "Vegetarian", "Roasting"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Roasted Garlic Scapes"
+}

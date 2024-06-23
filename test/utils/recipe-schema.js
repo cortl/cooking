@@ -49,6 +49,7 @@ const TAGS = [
   "Pressure Cooker",
   "Seasoning Blend",
   "Grilling",
+  "WIP",
 ];
 
 const schema = Joi.object({
