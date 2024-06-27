@@ -4,3 +4,4 @@ credentials.json
 index.js
 index.json
 dist/*
+recipe_db/*
