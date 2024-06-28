@@ -7,10 +7,8 @@
     "verify": "prettier --check . && npm run test",
     "test": "node --test test",
     "format": "prettier --write .",
-    "build": "node src/readme.js && node src/build.js",
-    "upload": "node src/update-firestore.js",
     "tag": "npm version patch -m \"v%s\" && git push --follow-tags origin HEAD",
-    "build-sql": "rm -rf sql/* && node src/build-sql.js"
+    "build": "rm -rf sql/* && node src/build-sql.js"
   },
   "repository": {
     "type": "git",
