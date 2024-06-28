@@ -1,5 +1,0 @@
-{
-  "setupFilesAfterEnv": ["<rootDir>/test/setup.js"],
-  "testMatch": ["<rootDir>/test/**/*.spec.js"],
-  "verbose": true
-}

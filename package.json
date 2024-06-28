@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "verify": "prettier --check . && npm run test",
-    "test": "jest",
+    "test": "node --test test",
     "format": "prettier --write .",
     "build": "node src/readme.js && node src/build.js",
     "upload": "node src/update-firestore.js",
@@ -28,7 +28,6 @@
   "homepage": "https://github.com/cortl/recipes#readme",
   "devDependencies": {
     "@google-cloud/firestore": "^7.3.0",
-    "jest": "^29.7.0",
     "joi": "^17.12.1",
     "nodemon": "^3.0.3",
     "prettier": "3.2.4",

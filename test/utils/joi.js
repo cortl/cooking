@@ -1,5 +1,5 @@
-const joi = require("joi");
-const fs = require("fs");
+import joi from "joi";
+import fs from "fs";
 
 const FORBIDDEN_TITLE_WORDS = ["bravetart", "best", "recipe", "delicious"].map(
   (word) => word.toUpperCase(),
@@ -74,4 +74,4 @@ const Joi = joi
     },
   });
 
-module.exports = Joi;
+export { Joi };

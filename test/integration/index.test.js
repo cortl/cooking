@@ -1,21 +1,28 @@
-const { expect } = require("@jest/globals");
-const fs = require("fs");
+import fs from "fs";
+import { describe, test, before } from "node:test";
+import assert from "assert";
+
+import {
+  shouldBeARecipe,
+  shouldExistInFilesystem,
+  arrayContains,
+} from "../extensions.js";
 
 describe("Integration", () => {
   let files, recipes;
 
-  beforeEach(() => {
+  before(() => {
     files = fs.readdirSync("lib");
     recipes = files.map((file) => JSON.parse(fs.readFileSync(`lib/${file}`)));
   });
 
   test("README.md should exist", () => {
-    expect("README.md").shouldExistInFilesystem();
+    shouldExistInFilesystem("README.md");
   });
 
   test("scraped recipes should match schema", () => {
     recipes.forEach((recipe) => {
-      expect(recipe).toBeARecipe();
+      shouldBeARecipe(recipe);
     });
   });
 
@@ -27,7 +34,7 @@ describe("Integration", () => {
     const imageFiles = fs.readdirSync("images");
 
     imageFiles.forEach((file) => {
-      expect(recipesImages).toContain(file);
+      arrayContains(recipesImages, file);
     });
   });
 });

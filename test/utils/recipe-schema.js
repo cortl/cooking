@@ -1,5 +1,5 @@
-const Joi = require("./joi");
-const { TIME_MEASUREMENTS, TIME_LABELS, TAGS } = require("../../src/constants");
+import { Joi } from "./joi.js";
+import { TIME_LABELS, TAGS, TIME_MEASUREMENTS } from "../../src/constants.js";
 
 const schema = Joi.object({
   title: Joi.title().required(),
@@ -44,6 +44,4 @@ const schema = Joi.object({
   related: Joi.array().items(Joi.slug()),
 });
 
-module.exports = {
-  schema,
-};
+export { schema };
