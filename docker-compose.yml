@@ -1,6 +1,6 @@
 services:
     recipe_db:
-      image: postgres:14
+      build: .
       container_name: recipe_db
       restart: unless-stopped
       environment:
@@ -9,8 +9,6 @@ services:
         - POSTGRES_DB=recipes
       ports:
         - "5432:5432"
-      volumes:
-        - ./recipe_db:/var/lib/postgresql/data
       healthcheck:
         test: ["CMD-SHELL", "pg_isready -h localhost -U $$POSTGRES_USER"]
         interval: 2s

@@ -10,7 +10,7 @@
     "build": "node src/readme.js && node src/build.js",
     "upload": "node src/update-firestore.js",
     "tag": "npm version patch -m \"v%s\" && git push --follow-tags origin HEAD",
-    "migrate": "node src/create-tables.js"
+    "build-sql": "rm -rf sql/* && node src/build-sql.js"
   },
   "repository": {
     "type": "git",
