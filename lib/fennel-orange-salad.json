@@ -1,0 +1,66 @@
+{
+  "archived": false,
+  "createdDate": "06/27/2024",
+  "image": "fennel-orange-salad.webp",
+  "ingredients": [
+    {
+      "category": "Salad",
+      "items": [
+        "2 navel oranges, peeled and thinly sliced into rounds",
+        "1 grapefruit, peeled and sliced into round",
+        "1 small fennel, halved and thinly sliced",
+        "2 cups spring mix or salad greens of your choice",
+        "2 shallots, halved and thinly sliced"
+      ]
+    },
+    {
+      "category": "Dressing",
+      "items": [
+        "Extra Virgin Olive Oil",
+        "Juice of 1 lemon",
+        "2 garlic cloves, minced",
+        "1 teaspoon sumac",
+        "1 teaspoon dried oregano",
+        "Kosher salt and black pepper"
+      ]
+    }
+  ],
+  "instructions": [
+    "Assemble the salad. Add the spring mix (or other salad greens of your choice) to a large bowl. Add the chopped fennel and shallots. Lastly, add the navel orange and grapefruit.",
+    "Make the dressing. Combine 3 to 4 tablespoons of olive oil with the lemon juice, minced garlic, sumac, dried oregano, and some kosher salt and black pepper in a measuring jug and stir/whisk to combine.",
+    "Serve. Pour the dressing over the salad and gently toss to combine. Transfer to as serving bowl or platter to serve."
+  ],
+  "notes": [
+    "Slice all the ingredients a day ahead. Store the citrus in one airtight container, and the shallot and fennel in another. Keep refrigerated. You can also make the dressing a day ahead and refrigerate it in a tightly covered mason jar. When you’re ready to serve the salad, all that is left to do is quickly assemble and dress it."
+  ],
+  "rating": 9,
+  "related": ["lemon-and-thyme-grilled-chicken-breasts", "toasted-pita-chips"],
+  "servings": 4,
+  "slug": "fennel-orange-salad",
+  "source": {
+    "name": "The Mediterranean Dish",
+    "url": "https://www.themediterraneandish.com/fennel-orange-salad/"
+  },
+  "tags": ["Vegan", "Vegetarian", "Quick", "Salad", "No Cook"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Fennel Orange Salad"
+}

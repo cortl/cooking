@@ -1,0 +1,79 @@
+{
+  "archived": false,
+  "createdDate": "06/27/2024",
+  "image": "lemon-and-thyme-grilled-chicken-breasts.webp",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "4x (6-ounce) boneless, skinless chicken breasts",
+        "1 1/2 teaspoons kosher salt",
+        "1 teaspoon black pepper",
+        "2 tablespoons chopped thyme leaves",
+        "4 garlic cloves, crushed and peeled",
+        "2 lemons, as needed",
+        "2 tablespoons extra-virgin olive oil, more as needed",
+        "Torn basil or mint leaves, as needed"
+      ]
+    }
+  ],
+  "instructions": [
+    "Place chicken breasts between two sheets of parchment or plastic wrap. Using a mallet or rolling pin, pound each to an even thickness of ½ inch. Do not make them any thinner or they could dry out.",
+    "Place chicken in a large bowl and toss with salt, pepper, thyme, garlic and the zest and juice of 1 lemon. Mix in olive oil. Cover and refrigerate 1 to 2 hours. Remove chicken from fridge while you heat the grill.",
+    "Light the grill, building a hot fire, or heat your gas grill to high. Once grill is fully heated, brush breasts lightly with olive oil and place chicken on the grill. Cook until undersides are browned and chicken is about halfway cooked, 3 to 5 minutes. Flip breasts and grill until cooked through, 3 to 5 minutes more.",
+    "Transfer chicken to a platter. Drizzle with oil and garnish with additional lemon juice, olive oil and basil or mint leaves."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": ["fennel-orange-salad", "toasted-pita-chips"],
+  "servings": 4,
+  "slug": "lemon-and-thyme-grilled-chicken-breasts",
+  "source": {
+    "name": "Melissa Clark",
+    "url": "https://cooking.nytimes.com/recipes/1017485-lemon-and-thyme-grilled-chicken-breasts"
+  },
+  "tags": ["Poultry", "Dinner", "Grilling"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Marinate",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Lemon and Thyme Grilled Chicken Breasts"
+}

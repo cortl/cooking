@@ -1,0 +1,69 @@
+{
+  "archived": false,
+  "createdDate": "07/02/2024",
+  "image": "mountain-breakfast-skillet.webp",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "2 tablespoons oil, divided",
+        "1/2 pound Yukon gold potatoes, cut into 1/4”-1/2” cubes",
+        "1 green bell pepper, diced",
+        "1 yellow onion, diced",
+        "1/2 teaspoon sea salt",
+        "1/4 pound sausage, about 6 links",
+        "6 eggs",
+        "1 cup shredded cheddar cheese",
+        "Chopped green onions, ground black pepper, and hot sauce, to serve"
+      ]
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add 1 tablespoon of oil. Add the potatoes and cook, turning them occasionally, until they begin to brown, about 10-15 minutes.",
+    "Add another tablespoon of oil and the green bell pepper. Saute for 5 minutes until beginning to soften, then add the onion and salt. Saute for about 5 minutes, until the onion is soft and beginning to take on color. Add the sausage and cook until browned.",
+    "Thoroughly beat the eggs in a bowl. Once all the vegetables are soft and browned, lower the heat and push them to the sides of the pan. Add a bit of oil to the center of the pan, then add the eggs and the shredded cheese to the skillet. Use your spatula to scramble the eggs until they set. Then, fold the vegetables back into the mix.",
+    "Remove from the heat and top with sliced green onions, cracked pepper, and hot sauce (optional)."
+  ],
+  "notes": [
+    "Brown the sausage first, then remove before cooking potatoes. Otherwise the vegetables will overcook"
+  ],
+  "rating": 8,
+  "related": [],
+  "servings": 3,
+  "slug": "mountain-breakfast-skillet",
+  "source": {
+    "name": "Fresh Off the Grid",
+    "url": "https://www.freshoffthegrid.com/mountain-breakfast-skillet/"
+  },
+  "tags": ["Breakfast", "Camping", "Stovetop", "Pork"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Mountain Breakfast Skillet"
+}
