@@ -1,0 +1,62 @@
+{
+  "archived": false,
+  "createdDate": "06/26/2024",
+  "image": "braised-turnips-and-radishes.webp",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1 pound (total) turnips and radishes",
+        "salt",
+        "2 tablespoons butter or flavorful oil, like olive or peanut"
+      ]
+    }
+  ],
+  "instructions": [
+    "Peel vegetables, or not; quarter turnips if necessary to make them about same size as radishes. Put in saucepan with pinch of salt, butter or oil, and water to come up about halfway to their height. Cover and turn heat to medium-high.",
+    "Simmer until vegetables are just about tender, 10 to 20 minutes. Uncover and continue to cook until vegetables are shiny and glazed with their juices. Add more salt if necessary and serve hot."
+  ],
+  "notes": [
+    "I would use a little less water next time",
+    "Add some lemon juice or vinegar to brighten the flavor"
+  ],
+  "rating": 7,
+  "related": [],
+  "servings": 4,
+  "slug": "braised-turnips-and-radishes",
+  "source": {
+    "name": "Mark Bittman",
+    "url": "https://cooking.nytimes.com/recipes/1014365-braised-turnips-and-radishes"
+  },
+  "tags": ["Vegan", "Vegetarian", "Quick", "Braising & Stewing", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Braised Turnips and Radishes"
+}

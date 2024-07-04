@@ -1,0 +1,71 @@
+{
+  "archived": false,
+  "createdDate": "07/01/2024",
+  "image": "one-pot-beef-stroganoff.webp",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "1/2 pound strip steak",
+        "1 teaspoon salt",
+        "2 tablespoons oil",
+        "8 oz mushrooms, quartered",
+        "1 small brown onion, diced",
+        "2 cloves garlic, minced",
+        "1 1/2 cups broth",
+        "1 tablespoon worcestershire sauce",
+        "1 teaspoon thyme",
+        "1/4 lb wide egg noodles",
+        "1/2 cup full fat sour cream, divided"
+      ]
+    }
+  ],
+  "instructions": [
+    "Quarter the mushrooms, dice the onion, and mince the garlic.",
+    "Heat the oil in a heavy-bottomed 10” skillet until smoking hot. Season the strip steak with salt & pepper. Add the steak to the skillet and cook, until browned on both sides and cooked through. Remove from the skillet, tent with foil, and allow it to rest while preparing the vegetables and noodles.",
+    "Reduce heat to medium. Add the mushrooms and saute 5 minutes, stirring infrequently. Add the onions and continue to saute an additional 5 minutes. Add garlic and saute 1 minute.",
+    "Add the broth, Worcestershire sauce, and thyme. Use a wooden spoon or a spatula to scrape up any brown bits on the bottom of the skillet. Bring the liquid to a boil over high heat. Add the noodles and cook according to package instructions (this will depend on the noodles you buy - ours took 8 minutes), stirring occasionally to ensure the noodles cook evenly.",
+    "Once the noodles are tender, remove skillet from heat. Temper half the sour cream with some of the sauce by adding a few spoonfuls of broth to the sour cream and stirring - this will raise the temperature of the sour cream and help prevent it from curdling when added to the pan. Mix the tempered sour cream to the pan, stir, then add the rest of the sour cream and stir to combine.",
+    "Slice the cooked steak into bite-sized pieces, add to skillet, season to taste and serve!"
+  ],
+  "notes": ["If you wanted to make this easier, just use ground beef"],
+  "rating": 8,
+  "related": [],
+  "servings": 3,
+  "slug": "one-pot-beef-stroganoff",
+  "source": {
+    "name": "Fresh Off the Grid",
+    "url": "https://www.freshoffthegrid.com/one-pot-beef-stroganoff/"
+  },
+  "tags": ["Beef", "Dinner", "Camping", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "One Pot Beef Stroganoff"
+}
