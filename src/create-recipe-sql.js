@@ -53,6 +53,7 @@ const createRecipeSql = async (recipe) => {
             source_name: recipe.source.name,
             source_url: recipe.source.url,
             time: JSON.stringify(recipe.time),
+            tags: recipe.tags,
           })
           .toString(),
       ),
@@ -94,20 +95,6 @@ const createRecipeSql = async (recipe) => {
                 .insert({
                   recipe_slug: recipe.slug,
                   note: note,
-                })
-                .toString(),
-            );
-          }),
-        )
-      ).join(DELIMITER),
-      (
-        await Promise.all(
-          recipe.tags.map(async (tag) => {
-            return addDelimiterIfNecessary(
-              await pg("tags")
-                .insert({
-                  recipe_slug: recipe.slug,
-                  tag: tag,
                 })
                 .toString(),
             );

@@ -1,5 +1,4 @@
 import knex from "knex";
-import { TAGS } from "./constants.js";
 
 const buildTableSchemaSql = async () => {
   const pg = knex({
@@ -7,6 +6,7 @@ const buildTableSchemaSql = async () => {
   });
 
   const statements = await Promise.all([
+    await pg.raw("CREATE EXTENSION IF NOT EXISTS pg_trgm;").toString(),
     await pg.schema
       .createTable("images", (table) => {
         table.string("slug").primary();
@@ -31,6 +31,7 @@ const buildTableSchemaSql = async () => {
         table.string("source_name");
         table.string("source_url");
         table.jsonb("time");
+        table.specificType("tags", "TEXT[]");
       })
       .toString(),
 
@@ -72,25 +73,6 @@ const buildTableSchemaSql = async () => {
           .inTable("recipes")
           .onDelete("CASCADE");
         table.text("note");
-      })
-      .toString(),
-
-    await pg
-      .raw(
-        `CREATE TYPE "tag_enum" AS ENUM (${TAGS.map((tag) => `'${tag}'`).join(", ")});`,
-      )
-      .toString(),
-
-    await pg.schema
-      .createTable("tags", (table) => {
-        table
-          .string("recipe_slug")
-          .notNullable()
-          .references("slug")
-          .inTable("recipes")
-          .onDelete("CASCADE");
-        table.enum("tag", TAGS);
-        table.primary(["recipe_slug", "tag"]);
       })
       .toString(),
 

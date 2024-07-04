@@ -4,6 +4,10 @@ import { buildTableSchemaSql } from "./create-tables-sql.js";
 import { buildRecipesSqlStatements } from "./create-recipe-sql.js";
 
 (async () => {
+  if (!fs.existsSync("sql")) {
+    fs.mkdirSync("sql");
+  }
+
   const tableSchemaSql = await buildTableSchemaSql();
   const recipeSql = await buildRecipesSqlStatements();
 
