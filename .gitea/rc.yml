@@ -1,0 +1,50 @@
+name: Release Candidate
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  verify:
+    name: Verify
+    uses: ./.gitea/workflows/verify.yml
+    with:
+      node-version: "20"
+  build:
+    name: Build
+    uses: ./.gitea/workflows/build.yml
+    with:
+      node-version: "20"
+  publish:
+    runs-on: ubuntu-latest
+    name: Publish Container
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Login to DockerHub
+        uses: docker/login-action@v2
+        with:
+          registry: git.cortlan.dev
+          username: ${{ secrets.DOCKER_USER }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
+
+      - name: Get Meta
+        id: meta
+        run: |
+          echo REPO_NAME=$(echo ${GITHUB_REPOSITORY} | awk -F"/" '{print $2}') >> $GITHUB_OUTPUT
+          echo REPO_VERSION=$(git describe --tags --always | sed 's/^v//') >> $GITHUB_OUTPUT
+
+      - name: Extract version from package.json
+        id: extract_version
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Build Docker image
+        run: docker build -t git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:${{ steps.extract_version.outputs.VERSION }}-rc.${{ steps.meta.outputs.REPO_VERSION }} .
+
+      - name: Push Docker image (RC)
+        run: docker push git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:${{ steps.extract_version.outputs.VERSION }}-rc.${{ steps.meta.outputs.REPO_VERSION }}
