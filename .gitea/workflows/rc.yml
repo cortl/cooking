@@ -1,14 +1,20 @@
-name: Publish Full Release
+name: Release Candidate
 
 on:
   push:
-    tags:
-      - "*"
+    branches:
+      - main
+      - master
 
 jobs:
   verify:
     name: Verify
     uses: ./.gitea/workflows/verify.yml
+    with:
+      node-version: "20"
+  build:
+    name: Build
+    uses: ./.gitea/workflows/build.yml
     with:
       node-version: "20"
   publish:
@@ -38,10 +44,7 @@ jobs:
           echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Build Docker image
-        run: docker build -t git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:${{ steps.extract_version.outputs.VERSION }} -t git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:latest .
-
-      - name: Push Docker image (latest)
-        run: docker push git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:latest
+        run: docker build -t git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:${{ steps.extract_version.outputs.VERSION }}-rc.${{ steps.meta.outputs.REPO_VERSION }} .
 
       - name: Push Docker image (RC)
-        run: docker push git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:${{ steps.extract_version.outputs.VERSION }}
+        run: docker push git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:${{ steps.extract_version.outputs.VERSION }}-rc.${{ steps.meta.outputs.REPO_VERSION }}
