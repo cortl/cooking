@@ -11,17 +11,24 @@ jobs:
     uses: ./.gitea/workflows/verify.yml
     with:
       node-version: "20"
-  build:
-    name: Build
-    uses: ./.gitea/workflows/build.yml
-    with:
-      node-version: "20"
   publish:
     runs-on: ubuntu-latest
     name: Publish Container
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+
+      - name: npm install
+        run: |
+          NODE_ENV="development" npm ci
+
+      - name: Build SQL
+        run: |
+          npm run build
 
       - name: Login to DockerHub
         uses: docker/login-action@v2
