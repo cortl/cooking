@@ -5,7 +5,7 @@ on:
     branches:
       - main
       - master
-      - build-postgres-image
+
 jobs:
   verify:
     name: Verify
