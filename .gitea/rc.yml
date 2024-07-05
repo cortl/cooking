@@ -12,11 +12,6 @@ jobs:
     uses: ./.gitea/workflows/verify.yml
     with:
       node-version: "20"
-  build:
-    name: Build
-    uses: ./.gitea/workflows/build.yml
-    with:
-      node-version: "20"
   publish:
     runs-on: ubuntu-latest
     name: Publish Container
