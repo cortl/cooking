@@ -7,9 +7,9 @@ on:
         required: true
         type: string
 jobs:
-  verify-code:
+  build:
     runs-on: ubuntu-latest
-    name: Verify & Build
+    name: Build
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4

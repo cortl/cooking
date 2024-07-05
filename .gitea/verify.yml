@@ -9,7 +9,7 @@ on:
 jobs:
   verify-code:
     runs-on: ubuntu-latest
-    name: Verify & Build
+    name: Verify
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
