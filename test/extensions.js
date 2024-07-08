@@ -8,7 +8,7 @@ const shouldExistInFilesystem = (path) => {
 
   if (!result) {
     throw new assert.AssertionError({
-      message: `${path} does not exist`,
+      message: `${path} does not exist in filesystem`,
       actual: false,
       expected: true,
       operator: "existsSync",

@@ -69,7 +69,7 @@ const Joi = joi
         ? { value, errors: [] }
         : {
             value,
-            errors: [new Error(`${value} does not exist.`)],
+            errors: [new Error(`${value} slug does not exist.`)],
           };
     },
   });
