@@ -55,5 +55,12 @@ jobs:
       - name: Push Docker image (latest)
         run: docker push git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:latest
 
-      - name: Push Docker image (RC)
+      - name: Push Docker image (versioned)
         run: docker push git.cortlan.dev/cortlan/${{ steps.meta.outputs.REPO_NAME }}:${{ steps.extract_version.outputs.VERSION }}
+
+      - name: Trigger webhook to restart container
+        run: |
+          curl -X POST http://192.168.0.10:3001/deploy-container \
+            -H "Content-Type: application/json" \
+            -H "X-Hub-Signature: sha1=$(echo -n '{"containerName":"recipes_db"}' | openssl dgst -sha1 -hmac "${{ secrets.WEBHOOK_SECRET }}" | cut -d ' ' -f 2)" \
+            -d '{"containerName":"recipes_db"}'
