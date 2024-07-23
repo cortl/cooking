@@ -1,0 +1,60 @@
+{
+  "archived": false,
+  "createdDate": "01/01/2023",
+  "image": "pistachio-paste.webp",
+  "ingredients": [
+    {
+      "category": "All",
+      "items": ["1 cup (120g) raw shelled pistachios"]
+    }
+  ],
+  "instructions": [
+    "To remove brown skin, bring a pot of water to a boil. Add pistachios and remove from heat. Soak for 30 seonds or so and transfer into a bowl of ice water.",
+    "Drain the pistachios onto a clean kitchen towel. Rub it gently and peel off the brown skin",
+    "In a food processor, put cleaned pistachios and process for 2 minutes, until pastey.",
+    "Add up to ¼ cup of water and continue to process for another minute, or until nice and smooth.",
+    "Store in an airtight container in the fridge for up to 1 weeks, or freeze for up to 3 months."
+  ],
+  "notes": [
+    "Going to need a very powerful food processor to get the paste smooth."
+  ],
+  "rating": 7,
+  "related": ["nyt-ice-cream"],
+  "servings": 1,
+  "slug": "pistachio-paste",
+  "source": {
+    "name": "Sweet and Savory",
+    "url": "https://www.sweetandsavorybyshinee.com/homemade-pistachio-paste/"
+  },
+  "tags": ["Vegan", "Vegetarian", "Topping", "Dessert", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Pistachio Paste"
+}
