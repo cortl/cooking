@@ -1,0 +1,75 @@
+{
+  "archived": false,
+  "createdDate": "07/21/2024",
+  "image": "roasted-beet-salad-with-goat-cheese.webp",
+  "ingredients": [
+    {
+      "category": "Salad",
+      "items": [
+        "1 1/2 pounds (675g) beets, peels on, greens removed, scrubbed clean",
+        "1 tablespoon (15ml) vegetable oil",
+        "Kosher salt and freshly ground black pepper",
+        "1/4 cup (70g) toasted Marcona almonds, roughly chopped (see note)",
+        "1 tablespoon (15ml) honey",
+        "1 tablespoon (15ml) sherry vinegar",
+        "1 tablespoon finely minced shallot (about 1 small)",
+        "3 tablespoons (45ml) extra-virgin olive oil",
+        "1/2 cup pomegranate seeds",
+        "2 small white onions, finely sliced (about 1/2 cup)",
+        "4 ounces (110g) goat cheese",
+        "2 to 3 hard-boiled eggs, quartered",
+        "1/2 cup (1/2 ounce) leaves from the center of 1 head of celery"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F. Fold a 12- by 24-inch sheet of aluminum foil in half to form a square. Crimp two edges to form a pouch. Toss beets, vegetable oil, and salt and pepper to taste in a medium bowl until coated. Add to pouch and crimp remaining edge to seal. Place on a rimmed baking sheet and place in oven. Roast until beets are completely tender and a toothpick or cake tester inserted into beet through foil shows little to no resistance, about 1 1/2 hours. Remove from oven and allow to cool.",
+    "Combine almonds, honey, vinegar, and shallots in a medium bowl. Whisking constantly, slowly drizzle in olive oil. Season dressing to taste with salt and pepper.",
+    "When beets are cool enough to handle, peel by gently rubbing skin under cold running water. Cut beets into 1 1/2-inch chunks.",
+    "Toss beets, pomegranate, onion, and dressing together in a large bowl. Transfer to a plate. Garnish with goat cheese, boiled eggs, and celery leaves. Serve immediately."
+  ],
+  "notes": [],
+  "rating": 9,
+  "related": [],
+  "servings": 6,
+  "slug": "roasted-beet-salad-with-goat-cheese",
+  "source": {
+    "name": "J. Kenji Lopez-Alt",
+    "url": "https://www.seriouseats.com/roasted-beet-salad-goat-cheese-egg-pomegranate-almond-recipe"
+  },
+  "tags": ["Vegetarian", "Salad", "Roasting"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Roasted-Beet Salad With Goat Cheese, Eggs, Pomegranate, and Marcona Almond Vinaigrette"
+}
