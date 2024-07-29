@@ -1,71 +1,70 @@
 {
-    "title": "Cheese Sauce for Cheese Fries and Nachos",
-    "servings": 12,
-    "rating": 0,
-    "slug": "cheese-sauce-for-fries-and-nachos",
-    "source": {
-      "name": "J. Kenji Lopez-Alt",
-      "url": "https://www.seriouseats.com/cheese-sauce-for-cheese-fries-and-nachos"
+  "title": "Cheese Sauce for Cheese Fries and Nachos",
+  "servings": 12,
+  "rating": 8,
+  "slug": "cheese-sauce-for-fries-and-nachos",
+  "source": {
+    "name": "J. Kenji Lopez-Alt",
+    "url": "https://www.seriouseats.com/cheese-sauce-for-cheese-fries-and-nachos"
+  },
+  "instructions": [
+    "Add cheese and cornstarch to large bowl. Toss to combine. Transfer to medium saucepan.",
+    "Add 1 cup evaporated milk and hot sauce. Cook over low heat, stirring constantly with whisk until melted, bubbly, and thickened, about 5 minutes. Mixture will look thin and grainy at first but will thicken and come together after heating. Thin to desired consistency with additional evaporated milk. Serve immediately with fries, tortilla chips, burgers, or hot dogs."
+  ],
+  "notes": [
+    "This cheese sauce is gooey and tangy. For a spicier version, substitute half the cheddar cheese with pepper Jack and add 2-3 minced pickled jalapeños, or to taste.",
+    "To reheat the sauce, microwave it on high heat, stopping and stirring every 30 seconds, until it's fully melted."
+  ],
+  "ingredients": [
+    {
+      "category": "",
+      "items": [
+        "8 ounces extra-sharp cheddar cheese (or a mix of cheddar and pepper Jack; see notes), grated on large holes of a box grater",
+        "1 tablespoon cornstarch",
+        "One 12-ounce can evaporated milk, divided",
+        "2 teaspoons Franks Red Hot or other hot sauce"
+      ]
+    }
+  ],
+  "tags": [],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
     },
-    "instructions": [
-      "Add cheese and cornstarch to large bowl. Toss to combine. Transfer to medium saucepan.",
-      "Add 1 cup evaporated milk and hot sauce. Cook over low heat, stirring constantly with whisk until melted, bubbly, and thickened, about 5 minutes. Mixture will look thin and grainy at first but will thicken and come together after heating. Thin to desired consistency with additional evaporated milk. Serve immediately with fries, tortilla chips, burgers, or hot dogs."
-    ],
-    "notes": [
-      "This cheese sauce is gooey and tangy. For a spicier version, substitute half the cheddar cheese with pepper Jack and add 2-3 minced pickled jalapeños, or to taste.",
-      "To reheat the sauce, microwave it on high heat, stopping and stirring every 30 seconds, until it's fully melted."
-    ],
-    "ingredients": [
-      {
-        "category": "",
-        "items": [
-          "8 ounces extra-sharp cheddar cheese (or a mix of cheddar and pepper Jack; see notes), grated on large holes of a box grater",
-          "1 tablespoon cornstarch",
-          "One 12-ounce can evaporated milk, divided",
-          "2 teaspoons Franks Red Hot or other hot sauce"
-        ]
-      }
-    ],
-    "tags": [],
-    "time": [
-      {
-        "label": "Prep",
-        "units": [
-          {
-            "measurement": 5,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Cook",
-        "units": [
-          {
-            "measurement": 10,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Active",
-        "units": [
-          {
-            "measurement": 15,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Total",
-        "units": [
-          {
-            "measurement": 15,
-            "label": "minutes"
-          }
-        ]
-      }
-    ],
-    "image": "cheese-sauce-for-cheese-fries-and-nachos.webp",
-    "related": ["summer-nachos", "spicy-baked-black-bean-nachos"]
-  }
-  
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "cheese-sauce-for-cheese-fries-and-nachos.webp",
+  "related": ["summer-nachos", "spicy-baked-black-bean-nachos"]
+}

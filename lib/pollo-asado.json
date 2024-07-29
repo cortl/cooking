@@ -1,0 +1,63 @@
+{
+  "title": "Pollo Asado",
+  "servings": 5,
+  "rating": 7,
+  "slug": "pollo-asado",
+  "source": {
+    "name": "Giovanna Favilli",
+    "url": "https://www.bonappetit.com/recipe/pollo-asado"
+  },
+  "instructions": [
+    "Spatchcock 1 3½–4 lb. whole chicken by cutting along both sides of the backbone with kitchen shears or a sharp knife. Remove backbone (save for stock!) and turn chicken over on cutting board so it is resting breast side up. Press down on center of breast until you hear a crack (this will help the chicken lie flatter on the grill). Pat dry.",
+    "Purée 1 bunch culantro or cilantro, tough stems trimmed, 1 small onion, coarsely chopped, 2 garlic cloves, 2 chile congos or 1 habanero chile, stems removed, 1 cup naranja agria (sour orange juice), or ½ cup fresh orange juice plus ½ cup fresh lime juice, 2 Tbsp. plus 1½ tsp. achiote (annatto) paste, and 1 Tbsp. Diamond Crystal or 1¾ tsp. Morton kosher salt in a blender until smooth. Place chicken in a resealable bag or large bowl and pour marinade over; turn to coat. Seal bag (or cover bowl) and chill at least 4 hours and up to 1 day.",
+    "Prepare a grill for indirect medium-high heat (for a charcoal grill, bank coals on one side of grill); rub vegetable oil on grate. Remove chicken from marinade, letting any excess marinade drip back into bag or container. Season chicken lightly with salt. Grill chicken, skin side up, over direct heat until lightly charred, about 5 minutes. Turn over and grill until skin is lightly charred, about 5 minutes. Turn skin side up and move to cooler part of grill. Cover and grill until an instant-read thermometer inserted into the thickest part of thighs registers 165°, about 1 hour. (If the chicken has reached temperature but needs a bit more color, return to hotter part of grill and grill over direct heat until darker, checking every minute or so.) Transfer chicken to a cutting board and let rest 10 minutes before carving. Serve with lime wedges for squeezing over."
+  ],
+  "notes": [
+    "I made achiote paste, but next time try to buy it",
+    "Serve with tostones and gallo pinto"
+  ],
+  "ingredients": [
+    {
+      "category": "",
+      "items": [
+        "1 3½–4 lb. whole chicken",
+        "1 bunch culantro or cilantro, tough stems trimmed",
+        "1 small onion, coarsely chopped",
+        "2 garlic cloves",
+        "2 chile congos or 1 habanero chile, stems removed",
+        "1 cup naranja agria (sour orange juice), or ½ cup fresh orange juice plus ½ cup fresh lime juice",
+        "2 Tbsp. plus 1½ tsp. achiote (annatto) paste",
+        "1 Tbsp. Diamond Crystal or 1¾ tsp. Morton kosher salt, plus more",
+        "Vegetable oil (for grill)",
+        "Lime wedges (for serving)"
+      ]
+    }
+  ],
+  "tags": ["Poultry", "Dinner", "Grilling"],
+  "time": [
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Marinate",
+      "units": [
+        {
+          "measurement": 4,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "image": "pollo-asado.webp",
+  "related": ["elotes-grilled-mexican-street-corn", "frijoles-refritos"]
+}

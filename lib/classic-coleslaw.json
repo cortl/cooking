@@ -33,7 +33,10 @@
   ],
   "notes": [],
   "rating": 8,
-  "related": ["real-barbecued-pulled-pork", "grilled-blackened-fish-sandwiches"],
+  "related": [
+    "real-barbecued-pulled-pork",
+    "grilled-blackened-fish-sandwiches"
+  ],
   "servings": 12,
   "slug": "classic-coleslaw",
   "source": {

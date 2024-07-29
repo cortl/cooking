@@ -1,62 +1,61 @@
 {
-    "title": "Grilled Blackened Fish Sandwiches",
-    "servings": 4,
-    "rating": 0,
-    "slug": "grilled-blackened-fish-sandwiches",
-    "source": {
-      "name": "Serious Eats",
-      "url": "https://www.seriouseats.com/grilled-blackened-fish-grouper-mahimahi-sandwiches-recipe"
+  "title": "Grilled Blackened Fish Sandwiches",
+  "servings": 4,
+  "rating": 8,
+  "slug": "grilled-blackened-fish-sandwiches",
+  "source": {
+    "name": "Serious Eats",
+    "url": "https://www.seriouseats.com/grilled-blackened-fish-grouper-mahimahi-sandwiches-recipe"
+  },
+  "instructions": [
+    "Light 1 chimney full of charcoal (see note). When all charcoal is lit and covered with gray ash, pour out and arrange coals on one side of the charcoal grate to create a two-zone indirect fire. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes. Clean and oil grilling grate.",
+    "Meanwhile, in a small bowl, stir together paprika, oregano, thyme, onion powder, garlic powder, black pepper, and cayenne. Season fish fillets all over with salt, then rub each all over with spice rub.",
+    "Cook fish on hot side of grill until undersides of fillets are darkened and a thin slotted fish spatula can be slid under with little resistance, about 4 minutes. Flip fish and repeat on other side. Transfer to cooler side of grill and continue cooking until an instant-read thermometer inserted in the center registers 140°F (60°C), or until a cake tester can be inserted through center with no resistance. (The last trace of translucence in the center should just be disappearing when the fish is done.) Transfer fish to a platter to rest.",
+    "Toast buns on hot side of grill, then build sandwiches. Spread mayo (or tartar sauce or remoulade) on bottom and top buns; set fish fillets on bottom buns; top with lettuce and tomato (and bacon, if using); and close sandwiches. Serve right away."
+  ],
+  "notes": ["Server with kettle chips, coleslaw, and a pickle spear"],
+  "ingredients": [
+    {
+      "category": "",
+      "items": [
+        "2 teaspoons paprika",
+        "1/2 teaspoon dried oregano",
+        "1/2 teaspoon dried thyme",
+        "1/4 teaspoon onion powder",
+        "1/4 teaspoon garlic powder",
+        "1/4 teaspoon freshly ground black pepper",
+        "Large pinch cayenne pepper",
+        "4 (6-ounce; 170g) grouper, mahimahi, or other white fish fillets",
+        "Kosher salt",
+        "4 tender sandwich buns",
+        "Romaine or iceberg lettuce, for topping",
+        "Thinly sliced tomato, for topping",
+        "Mayonnaise, tartar sauce, or remoulade, for serving",
+        "8 crisply cooked bacon slices (optional)"
+      ]
+    }
+  ],
+  "tags": ["Fish", "Sandwich", "Grilling", "Dinner"],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
     },
-    "instructions": [
-      "Light 1 chimney full of charcoal (see note). When all charcoal is lit and covered with gray ash, pour out and arrange coals on one side of the charcoal grate to create a two-zone indirect fire. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes. Clean and oil grilling grate.",
-      "Meanwhile, in a small bowl, stir together paprika, oregano, thyme, onion powder, garlic powder, black pepper, and cayenne. Season fish fillets all over with salt, then rub each all over with spice rub.",
-      "Cook fish on hot side of grill until undersides of fillets are darkened and a thin slotted fish spatula can be slid under with little resistance, about 4 minutes. Flip fish and repeat on other side. Transfer to cooler side of grill and continue cooking until an instant-read thermometer inserted in the center registers 140°F (60°C), or until a cake tester can be inserted through center with no resistance. (The last trace of translucence in the center should just be disappearing when the fish is done.) Transfer fish to a platter to rest.",
-      "Toast buns on hot side of grill, then build sandwiches. Spread mayo (or tartar sauce or remoulade) on bottom and top buns; set fish fillets on bottom buns; top with lettuce and tomato (and bacon, if using); and close sandwiches. Serve right away."
-    ],
-    "notes": ["Server with kettle chips, coleslaw, and a pickle spear"],
-    "ingredients": [
-      {
-        "category": "",
-        "items": [
-          "2 teaspoons paprika",
-          "1/2 teaspoon dried oregano",
-          "1/2 teaspoon dried thyme",
-          "1/4 teaspoon onion powder",
-          "1/4 teaspoon garlic powder",
-          "1/4 teaspoon freshly ground black pepper",
-          "Large pinch cayenne pepper",
-          "4 (6-ounce; 170g) grouper, mahimahi, or other white fish fillets",
-          "Kosher salt",
-          "4 tender sandwich buns",
-          "Romaine or iceberg lettuce, for topping",
-          "Thinly sliced tomato, for topping",
-          "Mayonnaise, tartar sauce, or remoulade, for serving",
-          "8 crisply cooked bacon slices (optional)"
-        ]
-      }
-    ],
-    "tags": ["Fish", "Sandwich", "Grilling", "Dinner"],
-    "time": [
-      {
-        "label": "Active",
-        "units": [
-          {
-            "measurement": 25,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Total",
-        "units": [
-          {
-            "measurement": 45,
-            "label": "minutes"
-          }
-        ]
-      }
-    ],
-    "image": "grilled-blackened-fish-sandwiches.webp",
-    "related": ["classic-coleslaw"]
-  }
-  
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "grilled-blackened-fish-sandwiches.webp",
+  "related": ["classic-coleslaw"]
+}
