@@ -8,7 +8,8 @@
     "test": "node --import tsx --test test/**/*.test.ts",
     "format": "prettier --write .",
     "tag": "npm version patch -m \"v%s\" && git push --follow-tags origin HEAD",
-    "build": "rm -rf sql/* && node --import tsx src/build.ts"
+    "build": "rm -rf sql/* && node --import tsx src/build.ts",
+    "scrape": "node --import tsx --env-file=.env src/scrape.ts"
   },
   "repository": {
     "type": "git",
@@ -26,9 +27,13 @@
   "homepage": "https://github.com/cortl/recipes#readme",
   "devDependencies": {
     "@google-cloud/firestore": "^7.3.0",
+    "axios": "^1.7.3",
+    "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^3.6.0",
     "joi": "^17.12.1",
     "knex": "^3.1.0",
     "nodemon": "^3.0.3",
+    "openai": "^4.54.0",
     "pg": "^8.12.0",
     "prettier": "3.2.4",
     "prettier-plugin-sort-json": "3.1.0",
@@ -36,6 +41,7 @@
     "ts-node": "^10.9.2",
     "tsx": "^4.16.5",
     "typescript": "^5.5.4",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "zod-to-json-schema": "^3.23.2"
   }
 }
