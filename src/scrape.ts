@@ -103,7 +103,7 @@ const getMainContentForPage = async (url: string, $: Cheerio.CheerioAPI) => {
     first.source.url = url;
 
     console.log("\nJSON:");
-    console.log(first);
+    console.log(JSON.stringify(first, null, 2));
 
     console.log("\nImage:");
     const downloadedImage = `image${path.extname(first.image)}`;
