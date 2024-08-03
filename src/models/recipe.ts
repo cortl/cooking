@@ -76,7 +76,7 @@ const schema = z.object({
   archived: z.boolean().optional(),
   ingredients: z.array(
     z.object({
-      category: z.string().nullable().optional().default(""), // Allow empty strings
+      category: z.string().optional().default(""), // Allow empty strings
       items: z.array(z.string().nonempty()),
     }),
   ),

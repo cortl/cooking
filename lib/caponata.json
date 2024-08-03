@@ -24,7 +24,7 @@
   "archived": false,
   "ingredients": [
     {
-      "category": null,
+      "category": "all",
       "items": [
         "1 large eggplant (1 ¼ lb or so, cut into 1-inch cubes)",
         "Kosher salt",

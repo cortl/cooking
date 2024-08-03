@@ -17,7 +17,7 @@
   "archived": false,
   "ingredients": [
     {
-      "category": null,
+      "category": "all",
       "items": [
         "1 ounce dried mixed mushrooms such as oyster, porcini, or morel",
         "1 medium yellow onion, split in half",
