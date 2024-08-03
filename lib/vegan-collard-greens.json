@@ -1,0 +1,60 @@
+{
+  "title": "Vegan Southern-Style Collard Greens With Mushrooms",
+  "servings": 8,
+  "rating": 9,
+  "slug": "vegan-collard-greens",
+  "source": {
+    "name": "Serious Eats",
+    "url": "https://www.seriouseats.com/vegan-southern-style-collard-greens-mushrooms-recipe"
+  },
+  "createdDate": "08/02/2024",
+  "instructions": [
+    "In a large, heavy-bottomed pot or Dutch oven, heat 3 tablespoons (45ml) oil over medium-high heat until shimmering. Add cremini mushrooms and reserved rehydrated mushrooms (from stock) and cook, stirring, until lightly browned, about 8 minutes. Add onion and cook, scraping up any browned bits, until softened, about 3 minutes; lower heat if necessary to prevent scorching.",
+    "Stir in smoked paprika followed by stock. Bring to a simmer, then add collard greens, pushing down to submerge. Return to a simmer and cook, uncovered, until greens are very tender, about 30 minutes. Season with salt and pepper and add remaining 1/4 cup (60ml) olive oil.",
+    "Add vinegar to taste, if desired, then serve. (You can add vinegar to the pot, or let individual diners season their greens with it at the table.)"
+  ],
+  "notes": [],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": null,
+      "items": [
+        "1/4 cup plus 3 tablespoons (105ml) extra-virgin olive oil, divided",
+        "1 pound (450g) cremini mushrooms, stems trimmed and caps sliced",
+        "2 quarts (1.9L) hearty vegetable stock, rehydrated dried mushrooms reserved",
+        "1 medium yellow onion (about 8 ounces; 225g), sliced into 2-inch lengths",
+        "1 teaspoon (4g) smoked paprika",
+        "3 pounds (1.3kg) collard greens, woody stems trimmed and leaves cut into thick ribbons",
+        "Kosher salt and freshly ground black pepper",
+        "Apple cider vinegar, to taste (optional)"
+      ]
+    }
+  ],
+  "tags": ["Vegan", "Vegetarian", "Dinner"],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        }
+      ]
+    }
+  ],
+  "image": "vegan-collard-greens.webp",
+  "related": [
+    "vegetable-stock",
+    "buttermilk-fried-chicken",
+    "three-ingredient-stovetop-macaroni-and-cheese"
+  ]
+}

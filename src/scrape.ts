@@ -1,14 +1,20 @@
 import path from "node:path";
+import fs from "node:fs";
 
 import Axios from "axios";
 import OpenAI from "openai";
 import { format } from "date-fns/format";
 import * as Cheerio from "cheerio";
 
-import { EXTRACTION_PROMPT, TAGS_PROMPT } from "./scraper/prompt";
+import {
+  EXTRACTION_PROMPT,
+  RELATED_PROMPT,
+  TAGS_PROMPT,
+} from "./scraper/prompt";
 
 const hostToContentSelector: { [key: string]: string } = {
   "www.themediterraneandish.com": ".wprm-recipe-template-tmd-food",
+  "www.seriouseats.com": "#structured-project-content_1-0",
 };
 
 const url = process.argv[2];
@@ -55,7 +61,30 @@ const getTags = async (recipe: string) => {
   return json;
 };
 
-const getMainContentForPage = async (url: string, $: Cheerio.CheerioAPI) => {
+const getRelated = async (recipe: string) => {
+  const files = fs.readdirSync("lib");
+  const slugs = files.map((file) => {
+    const recipe = JSON.parse(fs.readFileSync(`lib/${file}`, "utf-8"));
+
+    return recipe.slug;
+  });
+
+  const chatCompletion = await client.chat.completions.create({
+    messages: [{ role: "system", content: RELATED_PROMPT(recipe, slugs) }],
+    model: "gpt-4o-mini",
+  });
+
+  const content = chatCompletion.choices[0].message.content ?? "";
+
+  const json = extractJsonFromCode(content);
+
+  return json;
+};
+
+const getMainContentForPage = async (
+  url: string,
+  $: Cheerio.CheerioAPI,
+): Promise<string> => {
   const hostname = new URL(url).hostname;
   const selector = hostToContentSelector[hostname];
 
@@ -64,8 +93,13 @@ const getMainContentForPage = async (url: string, $: Cheerio.CheerioAPI) => {
   }
 
   const content = $(selector);
+  const html = content.html();
 
-  return content.html();
+  if (!html) {
+    throw new Error("Could not find main content");
+  }
+
+  return html;
 };
 
 (async () => {
@@ -93,6 +127,10 @@ const getMainContentForPage = async (url: string, $: Cheerio.CheerioAPI) => {
     const tags = await getTags(JSON.stringify(first));
     console.log("\tDone");
 
+    console.log("GPT related");
+    const related = await getRelated(JSON.stringify(first));
+    console.log("\tDone");
+
     // set date
     first.createdDate = format(new Date(), "MM/dd/yyyy");
 
@@ -101,6 +139,9 @@ const getMainContentForPage = async (url: string, $: Cheerio.CheerioAPI) => {
 
     // set URL
     first.source.url = url;
+
+    // set related
+    first.related = related;
 
     console.log("\nImage:");
     const downloadedImage = `image${path.extname(first.image)}`;

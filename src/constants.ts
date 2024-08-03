@@ -9,6 +9,7 @@ const TIME_LABELS = [
   "Active",
   "Total",
   "Inactive",
+  "Brine",
 ];
 
 const TIME_MEASUREMENTS = ["day", "days", "hour", "hours", "minute", "minutes"];

@@ -23,4 +23,12 @@ Here is the JSON:
 ${recipe}
 `;
 
-export { EXTRACTION_PROMPT, TAGS_PROMPT };
+const RELATED_PROMPT = (recipe: string, existingRecipes: string[]) => `
+Given the recipe JSON, I need you to give me a list of related slugs that describe the recipe. Return them in a JSON array. Use only the slugs given:
+${existingRecipes.join(", ")}
+
+Here is the recipe JSON:
+${recipe}
+`;
+
+export { EXTRACTION_PROMPT, TAGS_PROMPT, RELATED_PROMPT };

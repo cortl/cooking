@@ -1,0 +1,110 @@
+{
+  "title": "Buttermilk-Brined Southern Fried Chicken",
+  "servings": 4,
+  "rating": 10,
+  "slug": "buttermilk-fried-chicken",
+  "source": {
+    "name": "Serious Eats",
+    "url": "https://www.seriouseats.com/the-food-lab-southern-fried-chicken-recipe"
+  },
+  "createdDate": "08/02/2024",
+  "instructions": [
+    "Combine the paprika, black pepper, garlic powder, oregano, and cayenne in a small bowl and mix thoroughly with a fork.",
+    "Whisk the buttermilk, egg, 1 tablespoon salt, and 2 tablespoons of the spice mixture in a large bowl. Add the chicken pieces and toss and turn to coat. Transfer the contents of the bowl to a gallon-sized zipper-lock freezer bag and refrigerate for at least 4 hours, and up to overnight, flipping the bag occasionally to redistribute the contents and coat the chicken evenly.",
+    "Whisk together the flour, cornstarch, baking powder, 2 teaspoons salt, and the remaining spice mixture in a large bowl. Add 3 tablespoons of the marinade from the zipper-lock bag and work it into the flour with your fingertips. Remove one piece of chicken from the bag, allowing excess buttermilk to drip off, drop the chicken into the flour mixture, and toss to coat. Continue adding chicken pieces to the flour mixture one at a time until they are all in the bowl. Toss the chicken until every piece is thoroughly coated, pressing with your hands to get the flour to adhere in a thick layer.",
+    "Adjust an oven rack to the middle position and preheat the oven to 350°F. Heat the shortening or oil to 425°F in a 12-inch straight-sided cast-iron chicken fryer or a large wok over medium-high heat. Adjust the heat as necessary to maintain the temperature, being careful not to let the fat get any hotter.",
+    "One piece at a time, transfer the coated chicken to a fine-mesh strainer and shake to remove excess flour. Transfer to a wire rack set on a rimmed baking sheet. Once all the chicken pieces are coated, place skin side down in the pan. The temperature should drop to 300°F; adjust the heat to maintain the temperature at 300°F for the duration of the cooking. Fry the chicken until it’s a deep golden brown on the first side, about 6 minutes; do not move the chicken or start checking for doneness until it has fried for at least 3 minutes, or you may knock off the coating. Carefully flip the chicken pieces with tongs and cook until the second side is golden brown, about 4 minutes longer.",
+    "Transfer chicken to a clean wire rack set in a rimmed baking sheet, season lightly with salt, and place in the oven. Bake until thickest part of breast pieces registers 150°F (65.5°C) on an instant-read thermometer, and thigh/drumstick pieces register 165°F (74°C), 5 to 10 minutes; remove chicken pieces as they reach their target temperature, and transfer to a second wire rack set in a rimmed baking sheet, or a paper towel-lined plate. Season with salt to taste. Serve immediately—or, for extra-crunchy fried chicken, proceed to step 7.",
+    "Place the plate of cooked chicken in the refrigerator for at least 1 hour, and up to overnight. When ready to serve, reheat the oil to 400°F. Add the chicken pieces and cook, flipping them once halfway through cooking, until completely crisp, about 5 minutes. Transfer to a wire rack set on a rimmed baking sheet to drain, then serve immediately."
+  ],
+  "notes": [],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": "Spice Mix",
+      "items": [
+        "2 tablespoons paprika",
+        "2 tablespoons freshly ground black pepper",
+        "2 teaspoons garlic powder",
+        "2 teaspoons dried oregano",
+        "1/2 teaspoon cayenne pepper"
+      ]
+    },
+    {
+      "category": "Buttermilk Brine",
+      "items": ["1 cup buttermilk", "1 large egg", "Kosher salt"]
+    },
+    {
+      "category": "Chicken",
+      "items": [
+        "1 whole chicken, about 4 pounds, cut into 10 pieces or 3 1/2 pounds bone-in, skin-on breasts, legs, drumsticks, and/or wings",
+        "1 1/2 cups all-purpose flour",
+        "1/2 cup cornstarch",
+        "1 teaspoon baking powder",
+        "4 cups vegetable shortening"
+      ]
+    }
+  ],
+  "tags": ["Poultry", "Frying", "Dinner"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Brine",
+      "units": [
+        {
+          "measurement": 4,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 6,
+          "label": "hours"
+        },
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "buttermilk-fried-chicken.webp",
+  "related": [
+    "classic-southern-style-potato-salad",
+    "three-ingredient-stovetop-macaroni-and-cheese",
+    "vegan-collard-greens"
+  ]
+}
