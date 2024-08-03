@@ -1,7 +1,7 @@
 import fs from "fs";
 import assert from "assert";
 
-import { schema } from "./utils/recipe-schema.js";
+import { schema } from "../src/models/recipe.ts";
 
 const shouldExistInFilesystem = (path) => {
   const result = fs.existsSync(path);
@@ -19,7 +19,7 @@ const shouldExistInFilesystem = (path) => {
 const shouldBeARecipe = (recipe) => {
   const { title } = recipe;
 
-  const { error } = schema.validate(recipe);
+  const { error } = schema.safeParse(recipe);
 
   if (error) {
     throw new assert.AssertionError({

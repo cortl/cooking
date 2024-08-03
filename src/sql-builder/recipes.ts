@@ -1,10 +1,11 @@
 import fs from "fs";
 import knex from "knex";
-import sharp from "sharp";
+
+import { ProcessedRecipe, processRecipe } from "./processors";
 
 const DELIMITER = "\n\n";
 
-const addDelimiterIfNecessary = (sql) => {
+const addDelimiterIfNecessary = (sql: string) => {
   return sql.endsWith(";") ? sql : `${sql};`;
 };
 
@@ -14,7 +15,7 @@ const addDelimiterIfNecessary = (sql) => {
  * @param {any} recipe
  * @returns {Promise<string>}
  */
-const createRecipeSql = async (recipe) => {
+const createRecipeSql = async (recipe: ProcessedRecipe) => {
   const pg = knex({
     client: "pg",
   });
@@ -129,47 +130,15 @@ const createRecipeSql = async (recipe) => {
   return statements;
 };
 
-const recipeProcessors = {
-  image: async (recipe) => {
-    const { image } = recipe;
-    if (!image) return;
-
-    const imageFile = fs.readFileSync(`images/${image}`);
-    const metadata = await sharp(imageFile).metadata();
-
-    if (!metadata.height) return;
-    if (!metadata.width) return;
-
-    return {
-      path: image,
-      height: metadata.height,
-      width: metadata.width,
-    };
-  },
-};
-
 const buildRecipesSqlStatements = async () => {
   const files = fs.readdirSync("lib");
 
   console.log("Processing recipes...");
   const recipes = await Promise.all(
     files.map(async (file) => {
-      const recipe = JSON.parse(fs.readFileSync(`lib/${file}`));
+      const recipe = JSON.parse(fs.readFileSync(`lib/${file}`, "utf-8"));
 
-      await Promise.all(
-        Object.keys(recipe).map(async (key) => {
-          if (recipeProcessors[key]) {
-            const processor = recipeProcessors[key];
-            const result = await processor(recipe);
-
-            if (result) {
-              recipe[key] = result;
-            }
-          }
-        }),
-      );
-
-      return recipe;
+      return processRecipe(recipe);
     }),
   );
 

@@ -1,6 +1,5 @@
 import fs from "fs";
 import { describe, test, before } from "node:test";
-import assert from "assert";
 
 import {
   shouldBeARecipe,
@@ -13,7 +12,9 @@ describe("Integration", () => {
 
   before(() => {
     files = fs.readdirSync("lib");
-    recipes = files.map((file) => JSON.parse(fs.readFileSync(`lib/${file}`)));
+    recipes = files.map((file) =>
+      JSON.parse(fs.readFileSync(`lib/${file}`, "utf-8")),
+    );
   });
 
   test("README.md should exist", () => {

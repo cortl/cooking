@@ -50,5 +50,4 @@ const TAGS = [
   "WIP",
 ];
 
-// TODO: this breaks the tests
 export { TAGS, TIME_LABELS, TIME_MEASUREMENTS };

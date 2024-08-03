@@ -43,7 +43,7 @@
       "units": [
         {
           "label": "minutes",
-          "measurement": "15"
+          "measurement": 15
         }
       ]
     },
@@ -52,7 +52,7 @@
       "units": [
         {
           "label": "minutes",
-          "measurement": "20"
+          "measurement": 20
         }
       ]
     },
@@ -61,7 +61,7 @@
       "units": [
         {
           "label": "minutes",
-          "measurement": "35"
+          "measurement": 35
         }
       ]
     }
