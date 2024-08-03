@@ -1,0 +1,73 @@
+{
+  "title": "Caponata",
+  "servings": 6,
+  "rating": 7,
+  "slug": "caponata",
+  "source": {
+    "name": "The Mediterranean Dish",
+    "url": "https://www.themediterraneandish.com/caponata-recipe/"
+  },
+  "createdDate": "08/01/2024",
+  "instructions": [
+    "Heat the oven to 400 degrees F.",
+    "Season the eggplant cubes with salt (if you have the time, set it aside in a colander to sweat out its bitterness for about 20 or 30 minutes, while you prepare the remaining ingredients. Pat dry with paper towel).",
+    "Place the seasoned eggplant cubes on a sheet pan, add a generous drizzle of extra virgin olive oil (about 3 tablespoons or so) and toss to coat. Roast the eggplant in the heated oven for 25 to 30 minutes or until browned.",
+    "Heat 2 tablespoons of extra virgin olive oil in a large skillet. Add the onions, bell pepper, and celery. Season with a pinch of kosher salt and black pepper. Cook for about 5 to 7 minutes, tossing regularly until softened.",
+    "Add the tomatoes, capers, olives, raisins, honey, bay leaf and crushed pepper flakes. Pour in the vinegar and white wine. Stir to combine. Simmer on medium-low heat for 10 minutes.",
+    "Stir in the roasted eggplant and cook for another 2 to 3 minutes in the sauce. Finish with fresh parsley and mint."
+  ],
+  "notes": [
+    "Salting the eggplant and allowing it to sit for a few minutes helps it “sweat out” any bitterness and improves its spongy texture. If you have the time, leave the salted eggplant in a colander for 20 minutes or so while you prepare the rest of the ingredients.",
+    "For best flavor: Let the caponata sit at room temperature for 1 hour before serving, or store in the fridge overnight and serve cold or at room temperature. I like to serve it with toasted Italian bread such as ciabatta.",
+    "If serving with toasted ciabatta: Slice the bread and brush each slice with a bit of extra virgin olive oil on both sides. Arrange on a sheet pan and toast in your heated oven for about 10 minutes until golden brown (I do this while the eggplant is roasting)."
+  ],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": null,
+      "items": [
+        "1 large eggplant (1 ¼ lb or so, cut into 1-inch cubes)",
+        "Kosher salt",
+        "Extra virgin olive oil",
+        "1 yellow onion (chopped)",
+        "1 red bell pepper (cored and chopped)",
+        "2 small celery stalks (thinly sliced)",
+        "Black pepper",
+        "1 cup crushed tomatoes",
+        "2 tbsp capers",
+        "¼ cup pitted green olives (roughly chopped)",
+        "¼ cup raisins",
+        "2 teaspoons honey (more to your liking)",
+        "1 bay leaf",
+        "¼ to ½ tsp crushed red pepper flakes",
+        "1/4 cup red wine vinegar",
+        "¼ cup dry white wine",
+        "2 tbsp chopped fresh parsley",
+        "2 tbsp chopped fresh mint"
+      ]
+    }
+  ],
+  "tags": ["Vegan", "Vegetarian", "Appetizer", "Salad"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "caponata.webp",
+  "related": ["roasted-fennel"]
+}

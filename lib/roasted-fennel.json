@@ -1,0 +1,70 @@
+{
+  "title": "Roasted Fennel with Parmigiano Cheese",
+  "servings": 6,
+  "rating": 7,
+  "slug": "roasted-fennel",
+  "source": {
+    "name": "The Mediterranean Dish",
+    "url": "https://www.themediterraneandish.com/roasted-fennel/"
+  },
+  "createdDate": "08/01/2024",
+  "instructions": [
+    "Preheat the oven and prepare the baking sheet: Preheat the oven to 400° F. Line a rimmed baking sheet with parchment.",
+    "Prepare the fennel: Trim the root end of the fennel bulb and cut the stems off. Slice each bulb in half from the stem side to the root. Then cut each half into 4 wedges.",
+    "Season the fennel: Place the fennel wedges in a bowl and add the olive oil, herbs, zest from one lemon, a generous pinch of salt, and freshly ground pepper. Toss gently with your hands to thoroughly coat the fennel.",
+    "Roast the fennel: Spread the fennel wedges out on the prepared baking sheet. Roast for 15 minutes, or until the wedges have started to turn golden. Sprinkle on the Parmigiano cheese, coating the wedges evenly, and roast for 10-15 minutes more, until the cheese is nicely browned, and the fennel is browned and caramelized in spots.",
+    "Serve and enjoy: Transfer the fennel to a serving platter. Sprinkle a few drops of good balsamic vinegar on top, if you like, and serve."
+  ],
+  "notes": [
+    "To further enhance the fennel flavor, sprinkle about 1/2 teaspoon ground fennel seed into the bowl when tossing the wedges with the other ingredients.",
+    "Roasted fennel is delicious on pizza. Top your favorite pizza dough with tomato sauce, mozzarella, and dollops of ricotta cheese. Scatter pieces of fennel on top and bake."
+  ],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": null,
+      "items": [
+        "3 fennel bulbs",
+        "4 tablespoons extra-virgin olive oil",
+        "2 tablespoons finely chopped fresh oregano, thyme, and fennel fronds",
+        "1 lemon, zested",
+        "1 teaspoon fine sea salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/3 to 1/2 cup freshly grated Parmigiano-Reggiano cheese",
+        "A few drops good quality balsamic vinegar, optional"
+      ]
+    }
+  ],
+  "tags": ["Vegetarian", "Quick", "Roasting", "WIP"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 40,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "roasted-fennel.webp",
+  "related": ["caponata"]
+}

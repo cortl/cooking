@@ -102,13 +102,15 @@ const getMainContentForPage = async (url: string, $: Cheerio.CheerioAPI) => {
     // set URL
     first.source.url = url;
 
-    console.log("\nJSON:");
-    console.log(JSON.stringify(first, null, 2));
-
     console.log("\nImage:");
     const downloadedImage = `image${path.extname(first.image)}`;
+    const finalImage = `${first.slug}.webp`;
     console.log(`curl ${first.image} > ${downloadedImage}`);
-    console.log(`magick ${downloadedImage} images/${first.slug}.webp`);
+    console.log(`magick ${downloadedImage} images/${finalImage}`);
+    first.image = finalImage;
+
+    console.log("\nJSON:");
+    console.log(JSON.stringify(first, null, 2));
   } catch (err: unknown) {
     console.error("Error scraping URL:", err);
   }
