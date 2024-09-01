@@ -1,0 +1,74 @@
+{
+  "title": "Beet and Citrus Salad With Pine Nut Vinaigrette",
+  "servings": 4,
+  "rating": 0,
+  "slug": "beet-and-citrus-salad-with-pinenut-vinaigrette",
+  "source": {
+    "name": "Serious Eats",
+    "url": "https://www.seriouseats.com/beet-and-citrus-salad-with-pinenut-vinaigrette-recipe"
+  },
+  "createdDate": "08/14/2024",
+  "instructions": [
+    "Adjust oven rack to middle position and preheat oven to 375°F (190°C). Fold two 12- by 18-inch squares of heavy-duty aluminum foil in half cross-wise. Crimp the left and right edges to form a tight seal (leave the top open). Toss beets with 1 tablespoon olive oil and season with salt and pepper. Divide evenly between both foil pouches. Add 2 sprigs rosemary or thyme to each pouch, then tightly crimp top of pouch to seal.",
+    "Place pouches on a rimmed baking sheet and place in oven. Cook until beets are completely tender and a cake tester or toothpick inserted into a beet through the foil pouch shows no resistance, about 1 hour. Open pouches and allow beets to cool for 30 minutes. Peel under cold running water (the skin should slip right off). Cut beets into rough 1 1/2-inch chunks.",
+    "Combine vinegar, agave nectar, half of pinenuts, and shallots in a medium bowl. Whisking constantly, slowly drizzle in remaining 4 tablespoons olive oil followed by walnut oil. Season dressing to taste with salt and pepper.",
+    "Toss beets with half of dressing in a large bowl, then transfer to a serving plate. Add grapefruit, orange, and arugula leaves to bowl along with 1 more tablespoon dressing. Toss and season to taste with salt and pepper. Transfer to serving plate with beets. Drizzle remaining dressing around beets, sprinkle with remaining pinenuts, top with orange zest, and serve."
+  ],
+  "notes": [
+    "I adjusted a lot on this my first time through (pinenuts -> walnuts), (sherry vinegar -> red wine vinegar). I'd try it proper next time."
+  ],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": "Salad",
+      "items": [
+        "2 pounds (900g) raw beets, greens and stems removed, scrubbed under cold running water",
+        "Kosher salt and freshly ground black pepper",
+        "4 sprigs rosemary or thyme",
+        "1 cup (1 ounce) loosely packed arugula leaves"
+      ]
+    },
+    {
+      "category": "Dressings",
+      "items": [
+        "5 tablespoons (75ml) extra-virgin olive oil, divided",
+        "2 tablespoons (30ml) sherry vinegar",
+        "1 tablespoon (15ml) agave nectar (or honey, for a non-vegan version)",
+        "1 tablespoon (15ml) walnut oil",
+        "1/4 cup (about 70g) toasted pine nuts, divided",
+        "1 small shallot, finely minced (about 1 tablespoon)",
+        "Orange zest, for garnish"
+      ]
+    },
+    {
+      "category": "Fruits",
+      "items": [
+        "1 grapefruit, cut into segments",
+        "1 orange, cut into segments"
+      ]
+    }
+  ],
+  "tags": ["Vegan", "Vegetarian", "Salad", "Dinner", "Roasting", "WIP"],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    }
+  ],
+  "image": "beet-and-citrus-salad-with-pinenut-vinaigrette.webp",
+  "related": []
+}
