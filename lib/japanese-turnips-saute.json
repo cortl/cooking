@@ -1,66 +1,62 @@
 {
-    "title": "Sautéed Japanese (Hakurei) Turnips With Greens",
-    "servings": 4,
-    "rating": 7,
-    "slug": "japanese-turnips-saute",
-    "source": {
-      "name": "Daniel Gritzer",
-      "url": "https://www.seriouseats.com/japanese-turnips-saute-easy-side-dish-recipe"
+  "title": "Sautéed Japanese (Hakurei) Turnips With Greens",
+  "servings": 4,
+  "rating": 7,
+  "slug": "japanese-turnips-saute",
+  "source": {
+    "name": "Daniel Gritzer",
+    "url": "https://www.seriouseats.com/japanese-turnips-saute-easy-side-dish-recipe"
+  },
+  "createdDate": "08/05/2024",
+  "instructions": [
+    "Bring a medium pot of salted water to a boil. Meanwhile, cut greens from turnip bulbs, leaving a small portion of stem (less than 1/2 inch) attached to each bulb. Wash leafy greens and turnips well of any sand. Peel turnips. (You can also leave the turnip skin on, as it's edible, in which case, just wash and scrub them extra well.) Slice each turnip pole to pole into 4 to 6 wedges of 1/2 inch thick each.",
+    "Add leafy greens to boiling water and cook just until tender, 1 to 2 minutes. Using tongs or a spider, transfer greens to cold water to chill, then drain, squeeze out excess water, and chop into small pieces.",
+    "Heat oil in a cast iron, carbon steel, or stainless steel skillet over high heat, just until the first wisps of smoke appear. Add turnip wedges, season with salt and pepper, and cook, stirring and tossing occasionally, until well browned in spots, about 3 minutes; lower heat if turnips threaten to burn.",
+    "Add chopped greens and toss to combine, cooking just until greens are warmed through, about 1 minute longer. Drizzle with fresh oil, season with salt and pepper, and serve."
+  ],
+  "notes": [],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": "",
+      "items": [
+        "Kosher salt",
+        "1 1/2 pounds (675g) Japanese (Hakurei) baby turnips, with green tops",
+        "3 tablespoons (45ml) extra-virgin olive oil, plus more for drizzling",
+        "Freshly ground black pepper"
+      ]
+    }
+  ],
+  "tags": ["Vegan", "Vegetarian", "Quick"],
+  "time": [
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
     },
-    "createdDate": "08/05/2024",
-    "instructions": [
-      "Bring a medium pot of salted water to a boil. Meanwhile, cut greens from turnip bulbs, leaving a small portion of stem (less than 1/2 inch) attached to each bulb. Wash leafy greens and turnips well of any sand. Peel turnips. (You can also leave the turnip skin on, as it's edible, in which case, just wash and scrub them extra well.) Slice each turnip pole to pole into 4 to 6 wedges of 1/2 inch thick each.",
-      "Add leafy greens to boiling water and cook just until tender, 1 to 2 minutes. Using tongs or a spider, transfer greens to cold water to chill, then drain, squeeze out excess water, and chop into small pieces.",
-      "Heat oil in a cast iron, carbon steel, or stainless steel skillet over high heat, just until the first wisps of smoke appear. Add turnip wedges, season with salt and pepper, and cook, stirring and tossing occasionally, until well browned in spots, about 3 minutes; lower heat if turnips threaten to burn.",
-      "Add chopped greens and toss to combine, cooking just until greens are warmed through, about 1 minute longer. Drizzle with fresh oil, season with salt and pepper, and serve."
-    ],
-    "notes": [],
-    "archived": false,
-    "ingredients": [
-      {
-        "category": "",
-        "items": [
-          "Kosher salt",
-          "1 1/2 pounds (675g) Japanese (Hakurei) baby turnips, with green tops",
-          "3 tablespoons (45ml) extra-virgin olive oil, plus more for drizzling",
-          "Freshly ground black pepper"
-        ]
-      }
-    ],
-    "tags": [
-      "Vegan",
-      "Vegetarian",
-      "Quick"
-    ],
-    "time": [
-      {
-        "label": "Active",
-        "units": [
-          {
-            "measurement": 25,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Cook",
-        "units": [
-          {
-            "measurement": 20,
-            "label": "minutes"
-          }
-        ]
-      },
-      {
-        "label": "Total",
-        "units": [
-          {
-            "measurement": 20,
-            "label": "minutes"
-          }
-        ]
-      }
-    ],
-    "image": "japanese-turnips-saute.webp",
-    "related": []
-  }
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "japanese-turnips-saute.webp",
+  "related": []
+}
