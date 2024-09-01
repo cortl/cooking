@@ -1,0 +1,68 @@
+{
+  "archived": false,
+  "createdDate": "08/14/2024",
+  "ingredients": [
+    {
+      "category": "Everything",
+      "items": [
+        "2 1/2 pounds (1.2kg) Yukon gold potatoes, cut into big chunks (cut in half if medium or small, in quarters if large)",
+        "Salt",
+        "1 bunch parsley, leaves picked and roughly chopped",
+        "2 lemons, divided",
+        "3 to 4 medium cloves garlic",
+        "2 teaspoons granulated garlic",
+        "2 teaspoons dried oregano",
+        "Freshly ground black pepper",
+        "1/2 cup extra-virgin olive oil, divided",
+        "4 to 6 bone-in, skin-on chicken thighs",
+        "4 to 6 bone-in, skin-on chicken drumsticks (about",
+        "21/2 pounds/1.2 kg chicken total)",
+        "As much arugula or other peppery greens as you'd like, to serve"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 475°F (245°C). Place the potatoes in a large saucepan and cover with room temperature water. Season generously with salt. Bring to a boil over high head and simmer until completely tender (a sharp knife or skewer should pierce the potato with no resistance), about 7 minutes after they come to a boil. Drain.",
+    "While the potatoes come to a boil, combine the parsley and the juice of 1 lemon in a small bowl. Mince or press the garlic and immediately add it to the bowl with the lemon and parsley and stir to combine (this will prevent the garlic from becoming overly pungent). Add the granulated garlic, oregano, 1 teaspoon of kosher salt (or a 1/2 teaspoon of table salt), the black pepper, and half the olive oil and stir to combine. Transfer half of the mixture to a large bowl and reserve the other half.",
+    "Add an extra teaspoon of kosher salt (or 1/2 teaspoon of table salt) to the large bowl. Add the chicken and drained par-boiled potatoes to the large bowl and toss to coat in the marinade.",
+    "Transfer to a parchment-lined rimmed baking sheet and arrange so that the chicken pieces are skin-side up and everything fits in a single layer with as much space as you can get in between the pieces. Cut the remaining lemon in half and nestle it into the pan, cut-sides-up.",
+    "Roast the chicken and potatoes until starting to brown and crisp, about 30 minutes. Flip the potatoes, rotate the pan, and continue roasting until very crisp all over, another 20 to 30 minutes. Remove from the oven. Using tongs, squeeze the roasted lemon pieces over the chicken and potatoes, then transfer the chicken and potatoes to a clean large bowl.",
+    "Add the reserved marinade and the remaining olive oil to the chicken and potatoes and toss to combine. Serve the chicken and potatoes on top of a bed of greens. Serve. The lemony marinade and drippings should dress the greens as you eat."
+  ],
+  "notes": [],
+  "rating": 8,
+  "related": [],
+  "servings": 4,
+  "slug": "roast-chicken-legs-and-potatoes",
+  "source": {
+    "name": "J. Kenji Lopez-Alt",
+    "url": "https://www.youtube.com/watch?v=3b4cyBEvUPE"
+  },
+  "tags": ["Poultry", "Dinner", "Roasting"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hours"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "title": "Roast Chicken Legs and Potatoes"
+}
