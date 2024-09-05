@@ -1,0 +1,69 @@
+{
+  "title": "Bacon for a Crowd",
+  "servings": 6,
+  "rating": 8,
+  "slug": "bacon-for-a-crowd",
+  "source": {
+    "name": "Serious Eats",
+    "url": "https://www.seriouseats.com/baked-bacon-for-a-crowd-recipe"
+  },
+  "createdDate": "09/01/2024",
+  "instructions": [
+    "Adjust oven rack to center position and preheat oven to 425°F (220°C). (If doubling recipe, adjust 2 racks to upper- and lower-middle positions; see notes.)",
+    "For Crisp, Wavy Bacon: Line a 13- by 18-inch rimmed baking sheet with aluminum foil. Arrange bacon strips on pan, overlapping as little as possible. Bake bacon for 10 minutes. Rotate pan and continue baking until bacon is as browned as you like it, 5 to 10 minutes longer for thin-cut or 10 to 15 minutes longer for thick-cut. Remove bacon from oven, transfer to a paper towel–lined plate to drain, and serve.",
+    "For Chewy-Crisp Bacon: Tear off a 13- by 30-inch piece of aluminum foil and crimp it, accordion-style, into 1-inch sections. Stretch out foil and place it on a 13- by 18-inch rimmed baking sheet, folding up edges to catch drips. Arrange bacon strips on foil, overlapping as little as possible. Bake bacon for 10 minutes. Rotate pan and continue baking until bacon is as browned as you like it, 5 to 10 minutes longer for thin-cut or 10 to 15 minutes longer for thick-cut. Remove bacon from oven, transfer to a paper towel–lined plate to drain, and serve.",
+    "For Crisp, Flat Bacon for Sandwiches and Burgers: Line a 13- by 18-inch rimmed baking sheet with aluminum foil and top with a sheet of parchment paper. Arrange bacon strips on tray, overlapping as little as possible. Top with a second sheet of parchment paper; place a second baking sheet on top. Bake bacon until it's as crisp as you like it, 25 to 30 minutes for thin-cut, or 30 to 35 minutes for thick-cut. Remove trays from oven, carefully remove top tray using tongs and an oven mitt, transfer bacon to a paper towel–lined plate to drain, and serve."
+  ],
+  "notes": [
+    "To double the batch, use two trays on two oven racks, rotating top to bottom and back to front halfway through cooking. The cooking time may need to be extended by five to eight minutes if you're cooking two trays.",
+    "If your oven has a convection setting, use it, reducing the total cooking time by a few minutes."
+  ],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": "Meat",
+      "items": ["12 slices bacon"]
+    }
+  ],
+  "tags": ["Pork", "Roasting", "Dinner"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 25,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "bacon-for-a-crowd.webp",
+  "related": []
+}
