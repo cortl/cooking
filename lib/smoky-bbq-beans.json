@@ -1,0 +1,92 @@
+{
+  "title": "Smoky Barbecue Beans",
+  "servings": 10,
+  "rating": 7,
+  "slug": "smoky-bbq-beans",
+  "source": {
+    "name": "J. Kenji Lopez Alt",
+    "url": "https://www.seriouseats.com/smoky-barbecue-bbq-beans-recipe"
+  },
+  "createdDate": "09/01/2024",
+  "instructions": [
+    "To Cook on the Stovetop: Place beans in a large bowl and cover with water by at least 2 inches. Add 1 tablespoon salt, stir to dissolve, and let beans stand on the countertop overnight.",
+    "The next day, drain beans and set aside. Heat vegetable oil in a large Dutch oven over medium-high heat until shimmering. Add onion and celery and cook, stirring, until softened, about 4 minutes. Add garlic and cook, stirring, until fragrant, about 30 seconds. Add cumin, paprika, black pepper, dried chiles, oregano, and chopped meat. Cook, stirring, until fragrant, about 30 seconds. Add beans, bay leaves, and 8 cups (2L) water. Bring to a boil, reduce to a bare simmer, and cook, stirring occasionally, until beans are completely tender and liquid is reduced to a rich consistency, about 3 hours. Stir in sugar to dissolve, stir in vinegar, season to taste with salt and pepper, discard bay leaves, and serve.",
+    "To Cook in a Pressure Cooker: Heat vegetable oil in a pressure cooker on medium-high heat until shimmering (if using an electric pressure cooker, set it to 'sauté' and allow to preheat). Add onion and celery and cook, stirring, until softened, about 4 minutes. Add garlic and cook, stirring, until fragrant, about 30 seconds. Add cumin, paprika, black pepper, dried chiles, oregano, and chopped meat. Cook, stirring, until fragrant, about 30 seconds. Add beans, bay leaves, and 6 cups (1.5L) water. Place lid on cooker and cook at high pressure for 45 minutes. Remove from heat and release pressure in short bursts. Remove lid and simmer until beans are completely tender and liquid is reduced to a rich consistency, about 15 to 30 minutes. Stir in sugar to dissolve, stir in vinegar, season to taste with salt and pepper, discard bay leaves, and serve."
+  ],
+  "notes": [
+    "Don't forget the salt 😅 + might try more acv next time",
+    "These beans are tastiest with leftover smoked brisket, beef chuck, pork, or turkey. If you don't have leftover smoked meat, you can omit it, or replace it with 6 ounces of chopped, cooked bacon or 8 ounces of your favorite smoked sausage, cooked and chopped."
+  ],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": "",
+      "items": [
+        "1 pound (450g) dried pinto beans, picked over",
+        "Kosher salt",
+        "2 tablespoons (30ml) vegetable oil or lard",
+        "1 large onion (about 8 ounces; 225g), finely diced",
+        "2 stalks celery (about 4 ounces; 115g), finely diced",
+        "4 medium cloves garlic, minced (about 4 teaspoons)",
+        "1 tablespoon (12g) ground cumin",
+        "1 tablespoon (12g) paprika",
+        "1 tablespoons (20g) coarsely ground black pepper, plus more to taste",
+        "2 whole dried New Mexico, guajillo, California, or pasilla chiles, stems and seeds removed, finely chopped",
+        "2 teaspoons (5g) dried oregano",
+        "8 to 12 ounces (225 to 340g) leftover smoked beef, pork, or turkey, chopped",
+        "2 bay leaves",
+        "1/4 cup (2 1/4 ounces) brown sugar",
+        "2 tablespoons (30ml) apple cider vinegar"
+      ]
+    }
+  ],
+  "tags": ["Pork", "Meal Prep", "Pressure Cooker", "Stovetop"],
+  "time": [
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 3,
+          "label": "hours"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 12,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "hours"
+        },
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "smoky-bbq-beans.webp",
+  "related": ["real-barbecued-pulled-pork", "texas-style-smoked-beef-brisket"]
+}

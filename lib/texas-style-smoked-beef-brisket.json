@@ -1,0 +1,79 @@
+{
+  "title": "Texas Style Smoked Beef Brisket",
+  "servings": 18,
+  "rating": 0,
+  "slug": "texas-style-smoked-beef-brisket",
+  "source": {
+    "name": "Hey Grill, Hey",
+    "url": "https://heygrillhey.com/texas-style-smoked-beef-brisket/"
+  },
+  "createdDate": "09/01/2024",
+  "instructions": [
+    "Store your brisket in the refrigerator until you are ready to start trimming. Cold briskets are much easier to work with. Flip your brisket over so the point end is underneath. Remove any silver skin or excess fat from the flat muscle. Trim down the large crescent moon shaped fat section until it is a smooth transition between the point and the flat. Trim and excessive or loose meat and fat from the point. Square the edges and ends of the flat. Flip the brisket over and trim the top fat cap to about 1/4 of an inch thickness across the surface of the brisket.",
+    "In a mixing bowl or empty spice container, mix the salt, pepper, and garlic. Share over the brisket to evenly distribute the spices on all sides.",
+    "Preheat your smoker to 225 degrees F using indirect heat and hardwood smoke. Place the brisket on the smoker with the point end facing your main heat source. This is a thicker part of the brisket and it can handle the additional heat. Close the lid and smoke until an internal thermometer reads 165 degrees F (usually takes around 8 hours).",
+    "On a large work surface, roll out a big piece of butcher paper (or foil) and center your brisket in the middle. Wrap the brisket by folding edge over edge, creating a leak proof seal all the way around. Return the wrapped brisket to the smoker, seam side down so the weight from the brisket crimps the edges of the paper wrap down tight.",
+    "Close the lid on the smoker and, maintaining 225 degrees F, continue cooking until the internal temperature of the brisket reaches 202 degrees F in the thickest part of the meat (takes anywhere from 5-8 hours).",
+    "Remove the brisket to a large cutting board and allow to rest for 1 hour before slicing. Slice both the point and the flat against the grain with a sharp knife and serve immediately."
+  ],
+  "notes": [
+    "This turned out like shit on a 7lb brisket (hard as a rock). I'd attempt this again with a fattier brisket to see if that helps. I wrapped it at 165 and cooked to 205."
+  ],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": "",
+      "items": [
+        "1 12-14 pound whole packer brisket",
+        "2 Tablespoons coarse Kosher salt",
+        "2 Tablespoons coarse ground black pepper",
+        "2 Tablespoons garlic powder (optional)"
+      ]
+    }
+  ],
+  "tags": ["Beef", "Dinner", "Slow Cooker", "Grilling", "WIP"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Inactive",
+      "units": [
+        {
+          "measurement": 2,
+          "label": "hours"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 17,
+          "label": "hours"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "texas-style-smoked-beef-brisket.webp",
+  "related": ["smoky-bbq-beans"]
+}
