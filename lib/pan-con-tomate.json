@@ -1,0 +1,71 @@
+{
+  "title": "Pan con Tomate",
+  "servings": 7,
+  "rating": 8,
+  "slug": "pan-con-tomate",
+  "source": {
+    "name": "J. Kenji Lopez-Alt",
+    "url": "https://www.seriouseats.com/pan-con-tomate-tomato-bread-spanish-recipe"
+  },
+  "createdDate": "09/01/2024",
+  "instructions": [
+    "Split tomatoes in half horizontally. Place a box grater into a large bowl. Rub cut faces of tomatoes over the large holes of a box grater, using the flattened palm of your hand to move the tomatoes back and forth. The flesh should be grated off, while the skin remains intact in your hand. Discard skin and season tomato pulp with kosher salt to taste.",
+    "Adjust oven rack to 4 inches below broiler and preheat broiler to high. Place bread, cut side up, on a cutting board and brush with some of the olive oil. Season with kosher salt. Place bread, oiled side up, on a rack set in a tray or directly on the broiler rack and broil until crisp and starting to char around the edges, 2 to 3 minutes. Remove bread from oven and rub with the split garlic cloves.",
+    "Spoon tomato mixture over bread. Drizzle with remaining extra-virgin olive oil and season with flaky sea salt. Serve immediately."
+  ],
+  "notes": ["Optionally top with an anchovy filet"],
+  "archived": false,
+  "ingredients": [
+    {
+      "items": [
+        "1 loaf ciabatta, split in half horizontally lengthwise, cut crosswise into 1 1/2-inch slices",
+        "2 large ripe beefsteak tomatoes",
+        "Kosher salt",
+        "Extra-virgin olive oil, divided",
+        "2 medium cloves garlic, split in half",
+        "Flaky sea salt, such as Maldon or fleur de sel"
+      ]
+    }
+  ],
+  "tags": ["Vegetarian", "Appetizer", "Quick"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 5,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 7,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "pan-con-tomate.webp",
+  "related": []
+}
