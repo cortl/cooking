@@ -127,10 +127,6 @@ const getMainContentForPage = async (
     const tags = await getTags(JSON.stringify(first));
     console.log("\tDone");
 
-    console.log("GPT related");
-    const related = await getRelated(JSON.stringify(first));
-    console.log("\tDone");
-
     // set date
     first.createdDate = format(new Date(), "MM/dd/yyyy");
 
@@ -140,8 +136,16 @@ const getMainContentForPage = async (
     // set URL
     first.source.url = url;
 
-    // set related
-    first.related = related;
+    try {
+      console.log("GPT related");
+      const related = await getRelated(JSON.stringify(first));
+
+      // set related
+      first.related = related;
+      console.log("\tDone");
+    } catch (err) {
+      console.error("Error getting related recipes:", err);
+    }
 
     console.log("\nImage:");
     const downloadedImage = `image${path.extname(first.image)}`;
