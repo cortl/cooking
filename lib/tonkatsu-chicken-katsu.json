@@ -1,0 +1,102 @@
+{
+  "title": "Tonkatsu or Chicken Katsu (Japanese Breaded Pork or Chicken Cutlets)",
+  "servings": 4,
+  "rating": 8,
+  "slug": "tonkatsu-chicken-katsu",
+  "source": {
+    "name": "J. Kenji Lopez-Alt",
+    "url": "https://www.seriouseats.com/tonkatsu-chicken-pork-katsu-japanese-breaded-cutlets-recipe"
+  },
+  "createdDate": "10/02/2024",
+  "instructions": [
+    "If Using Chicken Breasts: Cut each breast half into 2 cutlets. Place them, one at a time, in a heavy-duty zipper-lock bag and pound gently to 1/4-inch thickness using a meat pounder or the bottom of a heavy 8-inch skillet. Season generously with salt and pepper. For best results, let them rest in the refrigerator for at least 4 hours and up to overnight after seasoning.",
+    "If Using Thighs or Pork Cutlets: Place thighs or cutlets, one at a time, in a heavy-duty zipper-lock bag and pound gently to 1/4-inch thickness using a meat pounder or the bottom of a heavy 8-inch skillet. Season generously with salt and pepper.",
+    "Fill 3 wide, shallow bowls or high-rimmed plates with flour, beaten eggs, and panko, respectively.",
+    "Working with one thigh or cutlet at a time, dredge in flour with your first hand, shaking off excess. Transfer to egg dish, then turn thigh or cutlet with your second hand to coat both sides. Lift and allow excess egg to drain off, then transfer to bread crumb mixture. With your first hand, scoop bread crumbs on top of thigh or cutlet, then gently press, turning to ensure a good layer of crumbs on both sides. Transfer thigh or cutlet to a clean plate and repeat with remaining meat.",
+    "Fill a large cast iron or stainless steel skillet with 1/3 inch oil. Heat over high heat until shimmering and just shy of smoking, about 350°F (175°C) on an instant-read thermometer.",
+    "Using tongs or your fingers, gently lower cutlets into hot fat, laying them down away from you to prevent hot fat from splashing toward you. (Work in batches if necessary.)",
+    "Fry, gently swirling pan and rotating cutlets for even browning, and adjusting heat as necessary for a steady, vigorous bubble (around 300 to 325°F; 150 to 160°C), until bottom side is set, about 1 1/2 minutes.",
+    "Flip cutlets and fry until other side is set, about 1 1/2 minutes longer. Continue cooking, swirling frequently and flipping occasionally, until well browned on both sides, about 3 minutes longer.",
+    "Transfer to paper towels to drain and season with salt right away. Repeat with remaining cutlets.",
+    "Slice katsu into thin strips and serve immediately with shredded cabbage, lemon wedges, white rice, Japanese pickles (if desired), and tonkatsu sauce."
+  ],
+  "notes": [],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": "Meat",
+      "items": [
+        "2 boneless, skinless chicken breast halves, about 8 ounces (225g) each; or",
+        "4 boneless, skinless chicken thighs, 4 to 5 ounces (110 to 140g) each; or",
+        "4 boneless pork sirloin cutlets, 4 to 5 ounces (110 to 140g) each"
+      ]
+    },
+    {
+      "category": "Seasoning",
+      "items": ["Kosher salt and freshly ground black pepper"]
+    },
+    {
+      "category": "Breading",
+      "items": [
+        "1 cup all-purpose flour (about 5 ounces; 140g)",
+        "3 large eggs, thoroughly beaten",
+        "1 1/2 cups Japanese-style panko bread crumbs (about 5 ounces; 140g)"
+      ]
+    },
+    {
+      "category": "Frying",
+      "items": ["Vegetable, canola, or peanut oil, for frying"]
+    },
+    {
+      "category": "Sides",
+      "items": [
+        "Cooked short-grain white rice",
+        "Japanese-style pickles (sunomono), optional",
+        "Homemade or store-bought tonkatsu sauce",
+        "Finely shredded green cabbage",
+        "Lemon wedges"
+      ]
+    }
+  ],
+  "tags": ["Poultry", "Pork", "Quick", "Dinner", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 15,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Active",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 20,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 35,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "tonkatsu-chicken-katsu.webp",
+  "related": ["japanese-katsu-curry"]
+}
