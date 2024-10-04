@@ -1,0 +1,90 @@
+{
+  "title": "Roasted Tomatillo Salsa Verde",
+  "servings": 6,
+  "rating": 5,
+  "slug": "roasted-tomatillo-salsa-verde",
+  "source": {
+    "name": "The Flavor Bender",
+    "url": "https://www.theflavorbender.com/roasted-tomatillo-salsa-verde-recipe/"
+  },
+  "createdDate": "09/29/2024",
+  "instructions": [
+    "Remove the husks from the tomatillos and wash them in warm water to remove the sticky residue. Also wash the poblano and jalapeno peppers.",
+    "Place the tomatillos and peppers on a napkin and pat dry. Peel and cut the onion into quarters.",
+    "Preheat the oven to 450°F (232°C). Line a baking sheet with non-stick foil and brush it with some oil.",
+    "Place the tomatillos, poblano peppers, jalapenos, and onion on the lined baking sheet. Drizzle some oil on top and a generous sprinkling of salt and toss to mix and coat evenly.",
+    "Wrap oil-coated garlic cloves in a small piece of foil and place it on the baking sheet as well.",
+    "Roast the tomatillos in the oven for about 20 – 25 minutes, flipping them once half way through.",
+    "Remove the baking sheet from the oven and let it cool. Remove the stems from the poblano and jalapeno peppers (de-seed the jalapeno peppers if you prefer a mild salsa verde).",
+    "Place the roasted tomatillos, poblano, jalapeno, garlic, onion, cumin, cilantro, sugar and juice of ½ lime in a food processor.",
+    "Pulse until everything is evenly chopped. Taste and add more lime juice if needed, and season with salt.",
+    "Pour the salsa into an air-tight container or glass jar and store in the fridge until needed."
+  ],
+  "notes": [
+    "Make sure to get any leaked tomatillo juices, mine was quite dry",
+    "Store in the fridge for about 10 days.",
+    "Freeze the salsa verde and keep it frozen for up to 3 months.",
+    "Canned salsa can be stored in a cool, dark place for up to 12 months. Once opened, it must be consumed within 10 days and be refrigerated."
+  ],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": "Vegetables",
+      "items": [
+        "455 g tomatillos (1 lb, about 8–9 medium-sized tomatillos)",
+        "3 poblanos",
+        "2 jalapenos",
+        "1 medium red onion, cut into quarters/wedges or thick slices",
+        "Vegetable oil",
+        "4 garlic cloves",
+        "1/4 tsp ground cumin",
+        "Handful of cilantro leaves and stems",
+        "1 lime (may not need the whole lime)",
+        "1/2 tsp sugar",
+        "Salt to taste",
+        "2 tbsp white vinegar (only if you're canning the recipe)"
+      ]
+    }
+  ],
+  "tags": [
+    "Vegan",
+    "Vegetarian",
+    "Appetizer",
+    "Roasting"
+  ],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 45,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Total",
+      "units": [
+        {
+          "measurement": 1,
+          "label": "hour"
+        },
+        {
+          "measurement": 30,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "roasted-tomatillo-salsa-verde.webp",
+  "related": []
+}
