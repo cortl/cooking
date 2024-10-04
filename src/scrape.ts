@@ -11,11 +11,7 @@ import {
   RELATED_PROMPT,
   TAGS_PROMPT,
 } from "./scraper/prompt";
-
-const hostToContentSelector: { [key: string]: string } = {
-  "www.themediterraneandish.com": ".wprm-recipe-template-tmd-food",
-  "www.seriouseats.com": "#structured-project-content_1-0",
-};
+import { getRecipeFromHTML } from "./ai";
 
 const url = process.argv[2];
 
@@ -81,82 +77,108 @@ const getRelated = async (recipe: string) => {
   return json;
 };
 
+type MainContent = {
+  ogMetadata: Record<string, string>;
+  body: string;
+};
+
 const getMainContentForPage = async (
-  url: string,
   $: Cheerio.CheerioAPI,
-): Promise<string> => {
-  const hostname = new URL(url).hostname;
-  const selector = hostToContentSelector[hostname];
+): Promise<MainContent> => {
+  // Extract Open Graph metadata
+  const ogMetadata: Record<string, string> = {};
+  $('meta[property^="og:"]').each((_, element) => {
+    const property = $(element).attr("property");
+    const content = $(element).attr("content");
 
-  if (!selector) {
-    return $.html();
+    if (property && content) {
+      ogMetadata[property] = content;
+    }
+  });
+
+  // Remove unnecessary tags
+  $("body").find("script, style, iframe, nav, footer").remove();
+
+  // Extract text content from specified elements
+  const elementsToExtract = ["h1", "h2", "h3", "h4", "p", "li"];
+  let bodyText = "";
+
+  elementsToExtract.forEach((selector) => {
+    $(selector).each((_, element) => {
+      bodyText += $(element).text().trim() + " ";
+    });
+  });
+
+  if (!bodyText) {
+    throw new Error("No text content found in the specified elements");
   }
 
-  const content = $(selector);
-  const html = content.html();
-
-  if (!html) {
-    throw new Error("Could not find main content");
-  }
-
-  return html;
+  return { ogMetadata, body: bodyText };
 };
 
 (async () => {
-  try {
-    if (!url) {
-      console.log("pass a url as an argument!");
+  // try {
+  if (!url) {
+    console.log("pass a url as an argument!");
 
-      return;
-    }
-
-    console.log("Scraping URL:", url);
-    const page = await Axios.get(url);
-    console.log("\tDone");
-
-    console.log("Shrinking HTML");
-    const $ = Cheerio.load(page.data);
-    const content = await getMainContentForPage(url, $);
-    console.log("\tDone");
-
-    console.log("Having GPT make a first pass");
-    const first = await getFirstRecipeJson(content);
-    console.log("\tDone");
-
-    console.log("GPT tagging");
-    const tags = await getTags(JSON.stringify(first));
-    console.log("\tDone");
-
-    // set date
-    first.createdDate = format(new Date(), "MM/dd/yyyy");
-
-    // set tags
-    first.tags = tags;
-
-    // set URL
-    first.source.url = url;
-
-    try {
-      console.log("GPT related");
-      const related = await getRelated(JSON.stringify(first));
-
-      // set related
-      first.related = related;
-      console.log("\tDone");
-    } catch (err) {
-      console.error("Error getting related recipes:", err);
-    }
-
-    console.log("\nImage:");
-    const downloadedImage = `image${path.extname(first.image)}`;
-    const finalImage = `${first.slug}.webp`;
-    console.log(`curl ${first.image} > ${downloadedImage}`);
-    console.log(`magick ${downloadedImage} images/${finalImage}`);
-    first.image = finalImage;
-
-    console.log("\nJSON:");
-    console.log(JSON.stringify(first, null, 2));
-  } catch (err: unknown) {
-    console.error("Error scraping URL:", err);
+    return;
   }
+
+  console.log("Scraping URL:", url);
+  const page = await Axios.get(url);
+  console.log("\tDone");
+
+  console.log("Extracting page data");
+  const $ = Cheerio.load(page.data);
+
+  console.log("Shrinking HTML");
+  const data = await getMainContentForPage($);
+  console.log("\tDone");
+
+  console.log("Having GPT make a first pass");
+  const response = await getRecipeFromHTML(data);
+  console.log("\tDone");
+
+  const extraction = await getFirstRecipeJson(response);
+
+  console.log(JSON.stringify(extraction, null, 2));
+
+  //   console.log("GPT tagging");
+  //   const tags = await getTags(JSON.stringify(first));
+  //   console.log("\tDone");
+
+  //   // set date
+  // first.createdDate = format(new Date(), "MM/dd/yyyy");
+
+  //   // set tags
+  //   first.tags = tags;
+
+  //   // set URL
+  //   first.source.url = url;
+
+  //   try {
+  //     console.log("GPT related");
+  //     const related = await getRelated(JSON.stringify(first));
+
+  //     // set related
+  //     first.related = related;
+  //     console.log("\tDone");
+  //   } catch (err) {
+  //     console.error("Error getting related recipes:", err);
+  //   }
+
+  //   console.log("\nImage:");
+  //   const downloadedImage = `image${path.extname(first.image)}`;
+  //   const finalImage = `${first.slug}.webp`;
+  //   console.log(`curl ${first.image} > ${downloadedImage}`);
+  //   console.log(`magick ${downloadedImage} images/${finalImage}`);
+  //   first.image = finalImage;
+
+  //   console.log("\nJSON:");
+  //   console.log(JSON.stringify(first, null, 2));
+  // } catch (err: unknown) {
+  //   console.error("Error scraping URL:", err);
+  // }
 })();
+
+export type { MainContent };
