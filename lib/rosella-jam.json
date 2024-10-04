@@ -1,0 +1,59 @@
+{
+  "title": "Rosella Jam",
+  "servings": 2,
+  "rating": 6,
+  "slug": "rosella-jam",
+  "source": {
+    "name": "Whole Natural Kitchen",
+    "url": "https://wholenaturalkitchen.com/rosella-jam-small-batch/"
+  },
+  "createdDate": "09/22/2024",
+  "instructions": [
+    "Prepare Rosellas: Remove the calyxes (red leaves) from the seed pods, then wash and drain them separately. Slightly break open the seed pods and add them to a small saucepan.",
+    "Cooking Seed Pods: Pour filtered water into the saucepan until the pods are just covered, ensuring they're submerged. Bring to a boil and cook, covered, for 20 minutes or until the pods are soft.",
+    "Extracting Pectin: Strain and keep the liquid, discarding the seedpods into the compost.",
+    "Cooking Calyxes: Pour the reserved liquid back into your small saucepan and add the washed calyxes. If the calyxes are not submerged, add a touch more filtered water. Boil down for another 20 minutes, allowing the mixture to thicken.",
+    "Jam Formation: Remove from heat and measure the volume of cooked pulp. Return this to the saucepan and add the same volume of sugar along with a squeeze of lemon juice.",
+    "Final Cooking: Bring to a boil and cook for 10-20 minutes or until the jam has thickened.",
+    "Storage: Transfer the jam to a clean jar and store it in the fridge."
+  ],
+  "notes": [
+    "The amount of fruit determines the quantities; adjust sugar volume according to the pulp yield.",
+    "Seedpods contain natural pectin which helps the jam to set."
+  ],
+  "archived": false,
+  "ingredients": [
+    {
+      "category": "All",
+      "items": [
+        "Ripe rosella fruit",
+        "Raw sugar",
+        "Filtered water",
+        "Lemon juice, just a squeeze"
+      ]
+    }
+  ],
+  "tags": ["Vegan", "Vegetarian", "Topping", "Stovetop"],
+  "time": [
+    {
+      "label": "Prep",
+      "units": [
+        {
+          "measurement": 10,
+          "label": "minutes"
+        }
+      ]
+    },
+    {
+      "label": "Cook",
+      "units": [
+        {
+          "measurement": 60,
+          "label": "minutes"
+        }
+      ]
+    }
+  ],
+  "image": "rosella-jam.webp",
+  "related": []
+}
